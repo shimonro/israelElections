@@ -1,0 +1,7 @@
+body 
+{
+    background-image: url("./data/Emblem.png");
+    background-repeat: no-repeat;
+    background-position : 100px 50px;
+    opacity: 0.95;
+}

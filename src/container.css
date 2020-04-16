@@ -1,0 +1,10 @@
+.mainElement
+{
+    background-color: cyan;
+    opacity: 0.99;
+    border-style: solid;
+}
+.mainElement td
+{
+    border: 1px solid black;
+}
