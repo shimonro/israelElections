@@ -1,1 +1,1 @@
-this we b page runs live at https://israel-elections-history.web.app/
+this web page runs live at https://israel-elections-history.web.app/
