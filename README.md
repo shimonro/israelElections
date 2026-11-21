@@ -23,4 +23,4 @@ Sources: [Knesset election results](https://main.knesset.gov.il/mk/elections/Pag
 
 ## Hosting
 
-The site deploys on Vercel from `main` (`vercel.json` sets the security headers, including a strict Content Security Policy). `firebase.json` still works for the original Firebase site, and `public/service-worker.js` removes the service worker that the old version registered there.
+Live at https://israel-elections.vercel.app. Vercel deploys every push to `master`; `vercel.json` sets the security headers, including a strict Content Security Policy.
