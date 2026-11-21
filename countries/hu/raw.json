@@ -1,0 +1,451 @@
+{
+ "results": {
+  "1990": {
+   "wiki": "1990 Hungarian parliamentary election",
+   "date": "25 March 1990 (first round)8 April 1990 (second round)",
+   "seats": 386,
+   "majority": 194,
+   "after": "Antall Government",
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Hungarian Democratic Forum",
+     "link": "Hungarian Democratic Forum",
+     "seats": 164
+    },
+    {
+     "name": "Alliance of Free Democrats",
+     "link": "Alliance of Free Democrats",
+     "seats": 92
+    },
+    {
+     "name": "Independent Smallholders' Party",
+     "link": "Independent Smallholders, Agrarian Workers and Civic Party",
+     "seats": 44
+    },
+    {
+     "name": "Hungarian Socialist Party",
+     "link": "Hungarian Socialist Party",
+     "seats": 33
+    },
+    {
+     "name": "Fidesz",
+     "link": "Fidesz",
+     "seats": 21
+    },
+    {
+     "name": "Christian Democratic People's Party",
+     "link": "Christian Democratic People's Party (Hungary)",
+     "seats": 21
+    },
+    {
+     "name": "Agrarian Alliance",
+     "link": "Agrarian Alliance",
+     "seats": 1
+    },
+    {
+     "name": "SZDSZ–Fidesz",
+     "link": "SZDSZ–Fidesz",
+     "seats": 2
+    },
+    {
+     "name": "ASZ–SZFV",
+     "link": "ASZ–SZFV",
+     "seats": 1
+    },
+    {
+     "name": "KDNP–Fidesz–SZDSZ",
+     "link": "KDNP–Fidesz–SZDSZ",
+     "seats": 1
+    },
+    {
+     "name": "Independents",
+     "link": "Independents",
+     "seats": 6
+    }
+   ]
+  },
+  "1994": {
+   "wiki": "1994 Hungarian parliamentary election",
+   "date": "8 May 1994 (first round)29 May 1994 (second round)",
+   "seats": 386,
+   "majority": 194,
+   "after": "Horn Government",
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Hungarian Socialist Party",
+     "link": "Hungarian Socialist Party",
+     "seats": 209
+    },
+    {
+     "name": "Alliance of Free Democrats",
+     "link": "Alliance of Free Democrats",
+     "seats": 69
+    },
+    {
+     "name": "Hungarian Democratic Forum",
+     "link": "Hungarian Democratic Forum",
+     "seats": 38
+    },
+    {
+     "name": "Independent Smallholders' Party",
+     "link": "Independent Smallholders, Agrarian Workers and Civic Party",
+     "seats": 26
+    },
+    {
+     "name": "Christian Democratic People's Party",
+     "link": "Christian Democratic People's Party (Hungary)",
+     "seats": 22
+    },
+    {
+     "name": "Fidesz",
+     "link": "Fidesz",
+     "seats": 20
+    },
+    {
+     "name": "Agrarian Alliance",
+     "link": "Agrarian Alliance",
+     "seats": 1
+    },
+    {
+     "name": "VP–ASZ–SZDSZ–Fidesz",
+     "link": "VP–ASZ–SZDSZ–Fidesz",
+     "seats": 1
+    }
+   ]
+  },
+  "1998": {
+   "wiki": "1998 Hungarian parliamentary election",
+   "date": "10 May 1998 (first round)24 May 1998 (second round)",
+   "seats": 386,
+   "majority": 194,
+   "after": "First Orbán Government",
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Hungarian Socialist Party",
+     "link": "Hungarian Socialist Party",
+     "seats": 134
+    },
+    {
+     "name": "Fidesz",
+     "link": "Fidesz",
+     "seats": 148
+    },
+    {
+     "name": "Independent Smallholders' Party",
+     "link": "Independent Smallholders, Agrarian Workers and Civic Party",
+     "seats": 48
+    },
+    {
+     "name": "Alliance of Free Democrats",
+     "link": "Alliance of Free Democrats",
+     "seats": 24
+    },
+    {
+     "name": "Hungarian Justice and Life Party",
+     "link": "Hungarian Justice and Life Party",
+     "seats": 14
+    },
+    {
+     "name": "Hungarian Democratic Forum",
+     "link": "Hungarian Democratic Forum",
+     "seats": 17
+    },
+    {
+     "name": "Independents",
+     "link": "Independents",
+     "seats": 1
+    }
+   ]
+  },
+  "2002": {
+   "wiki": "2002 Hungarian parliamentary election",
+   "date": "7 April 2002 (first round)21 April 2002 (second round)",
+   "seats": 386,
+   "majority": 0,
+   "after": "Medgyessy Government",
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Hungarian Socialist Party",
+     "link": "Hungarian Socialist Party",
+     "seats": 178
+    },
+    {
+     "name": "Fidesz–Hungarian Democratic Forum",
+     "link": "Fidesz–Hungarian Democratic Forum",
+     "seats": 188
+    },
+    {
+     "name": "Alliance of Free Democrats",
+     "link": "Alliance of Free Democrats",
+     "seats": 19
+    },
+    {
+     "name": "Alliance of Free Democrats–Hungarian Socialist Party",
+     "link": "Alliance of Free Democrats–Hungarian Socialist Party",
+     "seats": 1
+    }
+   ]
+  },
+  "2006": {
+   "wiki": "2006 Hungarian parliamentary election",
+   "date": "9 April 2006 (first round)23 April 2006 (second round)",
+   "seats": 386,
+   "majority": 0,
+   "after": "Second Gyurcsány Government",
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Hungarian Socialist Party",
+     "link": "Hungarian Socialist Party",
+     "seats": 186
+    },
+    {
+     "name": "Fidesz–KDNP",
+     "link": "Fidesz–KDNP",
+     "seats": 164
+    },
+    {
+     "name": "Alliance of Free Democrats",
+     "link": "Alliance of Free Democrats",
+     "seats": 18
+    },
+    {
+     "name": "Hungarian Democratic Forum",
+     "link": "Hungarian Democratic Forum",
+     "seats": 11
+    },
+    {
+     "name": "Hungarian Socialist Party–Alliance of Free Democrats",
+     "link": "Hungarian Socialist Party–Alliance of Free Democrats",
+     "seats": 6
+    },
+    {
+     "name": "Association for Somogy",
+     "link": "Association for Somogy",
+     "seats": 1
+    }
+   ]
+  },
+  "2010": {
+   "wiki": "2010 Hungarian parliamentary election",
+   "date": "11 April 2010 (first round)25 April 2010 (second round)",
+   "seats": 386,
+   "majority": 194,
+   "after": "Second Orbán Government",
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Fidesz–KDNP",
+     "link": "Fidesz–KDNP",
+     "seats": 262
+    },
+    {
+     "name": "Hungarian Socialist Party",
+     "link": "Hungarian Socialist Party",
+     "seats": 59
+    },
+    {
+     "name": "Jobbik",
+     "link": "Jobbik",
+     "seats": 47
+    },
+    {
+     "name": "Politics Can Be Different",
+     "link": "LMP – Hungary's Green Party",
+     "seats": 16
+    },
+    {
+     "name": "Fidesz–KDNP–Entrepreneurs' Party",
+     "link": "Fidesz–KDNP–Entrepreneurs' Party",
+     "seats": 1
+    },
+    {
+     "name": "Independents",
+     "link": "Independents",
+     "seats": 1
+    }
+   ]
+  },
+  "2014": {
+   "wiki": "2014 Hungarian parliamentary election",
+   "date": "",
+   "seats": 199,
+   "majority": 100,
+   "after": "Third Orbán Government",
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Fidesz–KDNP",
+     "link": "Fidesz–KDNP",
+     "seats": 133
+    },
+    {
+     "name": "Unity",
+     "link": "Unity",
+     "seats": 38
+    },
+    {
+     "name": "Jobbik",
+     "link": "Jobbik",
+     "seats": 23
+    },
+    {
+     "name": "Politics Can Be Different",
+     "link": "Politics Can Be Different",
+     "seats": 5
+    }
+   ]
+  },
+  "2018": {
+   "wiki": "2018 Hungarian parliamentary election",
+   "date": "8 April 2018",
+   "seats": 199,
+   "majority": 100,
+   "after": "Fourth Orbán Government",
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Fidesz–KDNP",
+     "link": "Fidesz–KDNP",
+     "seats": 133
+    },
+    {
+     "name": "Jobbik",
+     "link": "Jobbik",
+     "seats": 26
+    },
+    {
+     "name": "Hungarian Socialist Party–Dialogue for Hungary",
+     "link": "Hungarian Socialist Party–Dialogue for Hungary",
+     "seats": 20
+    },
+    {
+     "name": "Politics Can Be Different",
+     "link": "LMP – Hungary's Green Party",
+     "seats": 8
+    },
+    {
+     "name": "Democratic Coalition",
+     "link": "Democratic Coalition (Hungary)",
+     "seats": 9
+    },
+    {
+     "name": "Together",
+     "link": "Together (Hungary)",
+     "seats": 1
+    },
+    {
+     "name": "National Self-Government of Germans",
+     "link": "National Self-Government of Germans in Hungary",
+     "seats": 1
+    },
+    {
+     "name": "Independents",
+     "link": "Independents",
+     "seats": 1
+    }
+   ]
+  },
+  "2022": {
+   "wiki": "2022 Hungarian parliamentary election",
+   "date": "3 April 2022",
+   "seats": 199,
+   "majority": 100,
+   "after": "Fifth Orbán Government",
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Fidesz–KDNP",
+     "link": "Fidesz–KDNP",
+     "seats": 135
+    },
+    {
+     "name": "United for Hungary",
+     "link": "United for Hungary",
+     "seats": 57
+    },
+    {
+     "name": "Our Homeland Movement",
+     "link": "Our Homeland Movement",
+     "seats": 6
+    },
+    {
+     "name": "National Self-Government of Germans",
+     "link": "National Self-Government of Germans in Hungary",
+     "seats": 1
+    }
+   ]
+  },
+  "2026": {
+   "wiki": "2026 Hungarian parliamentary election",
+   "date": "12 April 2026",
+   "seats": 199,
+   "majority": 100,
+   "after": "Magyar Government",
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Tisza Party",
+     "link": "Tisza Party",
+     "seats": 141
+    },
+    {
+     "name": "Fidesz–KDNP",
+     "link": "Fidesz–KDNP",
+     "seats": 52
+    },
+    {
+     "name": "Our Homeland Movement",
+     "link": "Our Homeland Movement",
+     "seats": 6
+    }
+   ]
+  }
+ },
+ "credits": {
+  "antall": {
+   "file": "József_Antall_(cropped).jpg",
+   "author": "Antall-család archívum [Antall family's archives] (Péter Antall)",
+   "license": "CC BY-SA 3.0"
+  },
+  "boross": {
+   "file": "Boross_Péter_2020_(cropped).png",
+   "author": "M5",
+   "license": "CC BY 3.0"
+  },
+  "horn": {
+   "file": "Gyula_Horn_(2007).jpg",
+   "author": "א (Aleph)",
+   "license": "CC BY-SA 2.5"
+  },
+  "orban": {
+   "file": "Viktor_Orban_2025_(cropped).jpg",
+   "author": "The White House",
+   "license": "Public domain"
+  },
+  "medgyessy": {
+   "file": "Péter_Medgyessy_2024_(cropped).jpg",
+   "author": "Alain ROLLAND/© European Union 2024 - Source : EP",
+   "license": "European Parliament"
+  },
+  "gyurcsany": {
+   "file": "Ferenc_Gyurcsany_2012.jpg",
+   "author": "© European Union 2004 - EP",
+   "license": "European Parliament"
+  },
+  "bajnai": {
+   "file": "Bajnai_Jerusalem.jpg",
+   "author": "Tzipi_Livni_and_Gordon_Bajnai.jpg: Itzike derivative work: Qorilla (talk)",
+   "license": "CC BY-SA 3.0"
+  },
+  "magyar": {
+   "file": "Péter_Magyar_at_EC,_May_2026.jpg",
+   "author": "Xavier Lejeune / European Commission",
+   "license": "CC BY 4.0"
+  }
+ }
+}

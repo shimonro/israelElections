@@ -1,0 +1,96 @@
+// Interface text. A language without an entry here falls back to English, while
+// country data (party, PM and bloc names) still shows in that language.
+const en = {
+  langName: 'English',
+  siteTitle: 'Elections through time',
+  siteIntro: 'Watch parliaments reshape, election by election. Pick a country.',
+  title: (chamber: string) => `${chamber} elections`,
+  subtitle: (from: number, to: number) => `Every government, ${from}–${to}`,
+  play: 'Play',
+  pause: 'Pause',
+  speed: 'Speed',
+  music: 'Music',
+  government: 'Government',
+  noGovernment: 'None formed',
+  pm: 'Prime Minister',
+  seats: 'Seats by party',
+  blocs: 'Seats by bloc',
+  seatsWord: 'seats',
+  timeline: 'Timeline',
+  start: 'Start with music',
+  silent: 'Start without music',
+  intro: (from: number, to: number, seats: number) =>
+    `Watch ${to - from} years of elections reshape the ${seats} seats of parliament.`,
+  nowPlaying: 'Now playing',
+  close: 'Stop music',
+  keys: 'Space: play/pause · ← →: step',
+  sources: 'Sources',
+  photos: 'Photos',
+  allCountries: 'All countries',
+  latest: (year: number) => `Latest: ${year}`,
+}
+
+type Strings = typeof en
+
+const he: Strings = {
+  langName: 'עברית',
+  siteTitle: 'בחירות לאורך השנים',
+  siteIntro: 'צפו בפרלמנטים משתנים, בחירות אחר בחירות. בחרו מדינה.',
+  title: (chamber) => `הבחירות ל${chamber.replace(/^ה/, '')}`,
+  subtitle: (from, to) => `כל הממשלות, ${from}–${to}`,
+  play: 'הפעל',
+  pause: 'עצור',
+  speed: 'מהירות',
+  music: 'מוזיקה',
+  government: 'ממשלה',
+  noGovernment: 'לא הוקמה',
+  pm: 'ראש הממשלה',
+  seats: 'מושבים לפי מפלגה',
+  blocs: 'מושבים לפי גוש',
+  seatsWord: 'מושבים',
+  timeline: 'ציר זמן',
+  start: 'התחל עם מוזיקה',
+  silent: 'התחל בלי מוזיקה',
+  intro: (from, to, seats) => `${to - from} שנים של בחירות ב-${seats} המושבים של הפרלמנט.`,
+  nowPlaying: 'מתנגן עכשיו',
+  close: 'עצור מוזיקה',
+  keys: 'רווח: הפעל/עצור · ← →: צעד',
+  sources: 'מקורות',
+  photos: 'תמונות',
+  allCountries: 'כל המדינות',
+  latest: (year) => `אחרונות: ${year}`,
+}
+
+const hu: Strings = {
+  langName: 'Magyar',
+  siteTitle: 'Választások az időben',
+  siteIntro: 'Nézd meg, hogyan alakulnak át a parlamentek választásról választásra. Válassz országot.',
+  title: (chamber) => `${chamber}i választások`,
+  subtitle: (from, to) => `Minden kormány, ${from}–${to}`,
+  play: 'Lejátszás',
+  pause: 'Szünet',
+  speed: 'Sebesség',
+  music: 'Zene',
+  government: 'Kormány',
+  noGovernment: 'Nem alakult',
+  pm: 'Miniszterelnök',
+  seats: 'Mandátumok pártonként',
+  blocs: 'Mandátumok tömbönként',
+  seatsWord: 'mandátum',
+  timeline: 'Idővonal',
+  start: 'Indítás zenével',
+  silent: 'Indítás zene nélkül',
+  intro: (from, to, seats) => `${to - from} év választásai a parlament ${seats} mandátumában.`,
+  nowPlaying: 'Most szól',
+  close: 'Zene leállítása',
+  keys: 'Szóköz: lejátszás/szünet · ← →: léptetés',
+  sources: 'Források',
+  photos: 'Fotók',
+  allCountries: 'Összes ország',
+  latest: (year) => `Legutóbbi: ${year}`,
+}
+
+const strings: Record<string, Strings> = { en, he, hu }
+
+export const ui = (lang: string) => strings[lang] ?? en
+export const languageName = (lang: string) => strings[lang]?.langName ?? lang

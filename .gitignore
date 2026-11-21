@@ -4,3 +4,4 @@ build
 .vercel
 .amp/in
 .amp/portals
+*.tsbuildinfo

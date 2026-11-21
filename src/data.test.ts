@@ -1,25 +1,40 @@
-import { existsSync } from 'node:fs'
-import { expect, test } from 'vitest'
-import { TOTAL_SEATS, blocs, pms, termSlug, terms } from './data'
+import { existsSync, readdirSync, readFileSync } from 'node:fs'
+import { describe, expect, test } from 'vitest'
+import { metaOf } from '../scripts/lib/meta.mjs'
+import type { Country } from './data'
 
-test('every term seats exactly 120 members in known blocs', () => {
-  for (const t of terms) {
-    expect(t.results.reduce((a, p) => a + p.seats, 0), termSlug(t)).toBe(TOTAL_SEATS)
-    for (const p of t.results) expect(blocs[p.bloc], `${termSlug(t)} ${p.en}`).toBeDefined()
-  }
+const codes = readdirSync('src/countries')
+const read = (code: string, file: string) => JSON.parse(readFileSync(`src/countries/${code}/${file}`, 'utf8'))
+
+test('every country folder has data', () => {
+  expect(codes).toEqual(expect.arrayContaining(['hu', 'il']))
 })
 
-test('terms are chronological with unique deep links', () => {
-  for (let i = 1; i < terms.length; i++) {
-    expect(terms[i].year).toBeGreaterThanOrEqual(terms[i - 1].year)
-    expect(terms[i].knesset).toBeGreaterThanOrEqual(terms[i - 1].knesset)
-  }
-  expect(new Set(terms.map(termSlug)).size).toBe(terms.length)
-})
+describe.each(codes)('%s', (code) => {
+  const data: Country = read(code, 'data.json')
+  const blocs = new Set(data.blocs.map((b) => b.key))
 
-test('every prime minister has a photo', () => {
-  for (const t of terms) {
-    expect(pms[t.pm], termSlug(t)).toBeDefined()
-    expect(existsSync(`public${pms[t.pm].photo}`), pms[t.pm].photo).toBe(true)
-  }
+  test('every term seats its whole chamber in known blocs', () => {
+    for (const t of data.terms) {
+      expect(t.results.reduce((a, p) => a + p.seats, 0), `${t.year}`).toBe(t.seats)
+      for (const p of t.results) expect(blocs.has(p.bloc), `${t.year} ${p.id} bloc ${p.bloc}`).toBe(true)
+      expect(new Set(t.results.map((p) => p.id)).size, `${t.year} duplicate party`).toBe(t.results.length)
+    }
+  })
+
+  test('terms are in chronological order', () => {
+    const years = data.terms.map((t) => t.year)
+    expect(years).toEqual([...years].sort((a, b) => a - b))
+  })
+
+  test('every prime minister has a photo', () => {
+    for (const t of data.terms) {
+      expect(data.pms[t.pm], `${t.year} ${t.pm}`).toBeDefined()
+      expect(existsSync(`public${data.pms[t.pm].photo}`), data.pms[t.pm].photo).toBe(true)
+    }
+  })
+
+  test('meta.json is up to date (run scripts/write-meta.mjs)', () => {
+    expect(read(code, 'meta.json')).toEqual(metaOf(data))
+  })
 })

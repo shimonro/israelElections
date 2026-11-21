@@ -35,5 +35,11 @@
         }
       ]
     }
+  ],
+  "rewrites": [
+    {
+      "source": "/((?!assets/|countries/).*)",
+      "destination": "/index.html"
+    }
   ]
 }

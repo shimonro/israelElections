@@ -1,0 +1,1156 @@
+{
+ "meta": {
+  "code": "hu",
+  "slug": "hungary",
+  "name": {
+   "en": "Hungary",
+   "hu": "Magyarország"
+  },
+  "languages": [
+   "en",
+   "hu"
+  ],
+  "emblem": "/countries/hu/emblem.png",
+  "years": [
+   1990,
+   2026
+  ]
+ },
+ "chamber": {
+  "en": "National Assembly",
+  "hu": "Országgyűlés"
+ },
+ "termLabel": {
+  "en": "Term",
+  "hu": "Ciklus"
+ },
+ "blocs": [
+  {
+   "key": "left",
+   "name": {
+    "en": "Left",
+    "hu": "Baloldal"
+   },
+   "hue": 0
+  },
+  {
+   "key": "liberal",
+   "name": {
+    "en": "Liberal",
+    "hu": "Liberális"
+   },
+   "hue": 205
+  },
+  {
+   "key": "green",
+   "name": {
+    "en": "Green",
+    "hu": "Zöld"
+   },
+   "hue": 110
+  },
+  {
+   "key": "centre-right",
+   "name": {
+    "en": "Centre-right",
+    "hu": "Jobbközép"
+   },
+   "hue": 175
+  },
+  {
+   "key": "right",
+   "name": {
+    "en": "Right",
+    "hu": "Jobboldal"
+   },
+   "hue": 28
+  },
+  {
+   "key": "far-right",
+   "name": {
+    "en": "Far right",
+    "hu": "Szélsőjobb"
+   },
+   "hue": 265
+  },
+  {
+   "key": "other",
+   "name": {
+    "en": "Other",
+    "hu": "Egyéb"
+   },
+   "color": "#94a3b8"
+  }
+ ],
+ "pms": {
+  "antall": {
+   "name": {
+    "en": "József Antall",
+    "hu": "Antall József"
+   },
+   "photo": "/countries/hu/pm/antall.jpg"
+  },
+  "boross": {
+   "name": {
+    "en": "Péter Boross",
+    "hu": "Boross Péter"
+   },
+   "photo": "/countries/hu/pm/boross.png"
+  },
+  "horn": {
+   "name": {
+    "en": "Gyula Horn",
+    "hu": "Horn Gyula"
+   },
+   "photo": "/countries/hu/pm/horn.jpg"
+  },
+  "orban": {
+   "name": {
+    "en": "Viktor Orbán",
+    "hu": "Orbán Viktor"
+   },
+   "photo": "/countries/hu/pm/orban.jpg"
+  },
+  "medgyessy": {
+   "name": {
+    "en": "Péter Medgyessy",
+    "hu": "Medgyessy Péter"
+   },
+   "photo": "/countries/hu/pm/medgyessy.jpg"
+  },
+  "gyurcsany": {
+   "name": {
+    "en": "Ferenc Gyurcsány",
+    "hu": "Gyurcsány Ferenc"
+   },
+   "photo": "/countries/hu/pm/gyurcsany.jpg"
+  },
+  "bajnai": {
+   "name": {
+    "en": "Gordon Bajnai",
+    "hu": "Bajnai Gordon"
+   },
+   "photo": "/countries/hu/pm/bajnai.jpg"
+  },
+  "magyar": {
+   "name": {
+    "en": "Péter Magyar",
+    "hu": "Magyar Péter"
+   },
+   "photo": "/countries/hu/pm/magyar.jpg"
+  }
+ },
+ "terms": [
+  {
+   "term": "1990–1994",
+   "government": {
+    "en": "Antall",
+    "hu": "Antall"
+   },
+   "year": 1990,
+   "pm": "antall",
+   "note": {
+    "en": "First freely elected government after the fall of communism",
+    "hu": "A rendszerváltás utáni első szabadon választott kormány"
+   },
+   "seats": 386,
+   "results": [
+    {
+     "id": "mdf",
+     "name": {
+      "en": "MDF (Democratic Forum)",
+      "hu": "MDF"
+     },
+     "seats": 164,
+     "bloc": "centre-right",
+     "color": "#009A68"
+    },
+    {
+     "id": "szdsz",
+     "name": {
+      "en": "SZDSZ (Free Democrats)",
+      "hu": "SZDSZ"
+     },
+     "seats": 92,
+     "bloc": "liberal",
+     "color": "#1CA8E6"
+    },
+    {
+     "id": "fkgp",
+     "name": {
+      "en": "FKGP (Smallholders)",
+      "hu": "FKGP"
+     },
+     "seats": 44,
+     "bloc": "centre-right",
+     "color": "#808000"
+    },
+    {
+     "id": "mszp",
+     "name": {
+      "en": "MSZP (Socialists)",
+      "hu": "MSZP"
+     },
+     "seats": 33,
+     "bloc": "left",
+     "color": "#CC0000"
+    },
+    {
+     "id": "fidesz",
+     "name": {
+      "en": "Fidesz",
+      "hu": "Fidesz"
+     },
+     "seats": 21,
+     "bloc": "liberal",
+     "color": "#FF6A00"
+    },
+    {
+     "id": "kdnp",
+     "name": {
+      "en": "KDNP (Christian Democrats)",
+      "hu": "KDNP"
+     },
+     "seats": 21,
+     "bloc": "centre-right",
+     "color": "#938862"
+    },
+    {
+     "id": "independents",
+     "name": {
+      "en": "Independents",
+      "hu": "Függetlenek"
+     },
+     "seats": 6,
+     "bloc": "other",
+     "color": "#DCDCDC"
+    },
+    {
+     "id": "szdsz-fidesz",
+     "name": {
+      "en": "SZDSZ–Fidesz (joint)",
+      "hu": "SZDSZ–Fidesz (közös)"
+     },
+     "seats": 2,
+     "bloc": "liberal"
+    },
+    {
+     "id": "asz",
+     "name": {
+      "en": "Agrarian Alliance",
+      "hu": "Agrárszövetség"
+     },
+     "seats": 1,
+     "bloc": "other",
+     "color": "#EDED00"
+    },
+    {
+     "id": "asz-szfv",
+     "name": {
+      "en": "ASZ–SZFV (joint)",
+      "hu": "ASZ–SZFV (közös)"
+     },
+     "seats": 1,
+     "bloc": "other"
+    },
+    {
+     "id": "kdnp-fidesz-szdsz",
+     "name": {
+      "en": "KDNP–Fidesz–SZDSZ (joint)",
+      "hu": "KDNP–Fidesz–SZDSZ (közös)"
+     },
+     "seats": 1,
+     "bloc": "liberal"
+    }
+   ]
+  },
+  {
+   "term": "1990–1994",
+   "government": {
+    "en": "Boross",
+    "hu": "Boross"
+   },
+   "year": 1993,
+   "pm": "boross",
+   "note": {
+    "en": "Took over after József Antall died in office",
+    "hu": "Antall József halála után vette át a kormányt"
+   },
+   "seats": 386,
+   "results": [
+    {
+     "id": "mdf",
+     "name": {
+      "en": "MDF (Democratic Forum)",
+      "hu": "MDF"
+     },
+     "seats": 164,
+     "bloc": "centre-right",
+     "color": "#009A68"
+    },
+    {
+     "id": "szdsz",
+     "name": {
+      "en": "SZDSZ (Free Democrats)",
+      "hu": "SZDSZ"
+     },
+     "seats": 92,
+     "bloc": "liberal",
+     "color": "#1CA8E6"
+    },
+    {
+     "id": "fkgp",
+     "name": {
+      "en": "FKGP (Smallholders)",
+      "hu": "FKGP"
+     },
+     "seats": 44,
+     "bloc": "centre-right",
+     "color": "#808000"
+    },
+    {
+     "id": "mszp",
+     "name": {
+      "en": "MSZP (Socialists)",
+      "hu": "MSZP"
+     },
+     "seats": 33,
+     "bloc": "left",
+     "color": "#CC0000"
+    },
+    {
+     "id": "fidesz",
+     "name": {
+      "en": "Fidesz",
+      "hu": "Fidesz"
+     },
+     "seats": 21,
+     "bloc": "liberal",
+     "color": "#FF6A00"
+    },
+    {
+     "id": "kdnp",
+     "name": {
+      "en": "KDNP (Christian Democrats)",
+      "hu": "KDNP"
+     },
+     "seats": 21,
+     "bloc": "centre-right",
+     "color": "#938862"
+    },
+    {
+     "id": "independents",
+     "name": {
+      "en": "Independents",
+      "hu": "Függetlenek"
+     },
+     "seats": 6,
+     "bloc": "other",
+     "color": "#DCDCDC"
+    },
+    {
+     "id": "szdsz-fidesz",
+     "name": {
+      "en": "SZDSZ–Fidesz (joint)",
+      "hu": "SZDSZ–Fidesz (közös)"
+     },
+     "seats": 2,
+     "bloc": "liberal"
+    },
+    {
+     "id": "asz",
+     "name": {
+      "en": "Agrarian Alliance",
+      "hu": "Agrárszövetség"
+     },
+     "seats": 1,
+     "bloc": "other",
+     "color": "#EDED00"
+    },
+    {
+     "id": "asz-szfv",
+     "name": {
+      "en": "ASZ–SZFV (joint)",
+      "hu": "ASZ–SZFV (közös)"
+     },
+     "seats": 1,
+     "bloc": "other"
+    },
+    {
+     "id": "kdnp-fidesz-szdsz",
+     "name": {
+      "en": "KDNP–Fidesz–SZDSZ (joint)",
+      "hu": "KDNP–Fidesz–SZDSZ (közös)"
+     },
+     "seats": 1,
+     "bloc": "liberal"
+    }
+   ]
+  },
+  {
+   "term": "1994–1998",
+   "government": {
+    "en": "Horn",
+    "hu": "Horn"
+   },
+   "year": 1994,
+   "pm": "horn",
+   "note": {
+    "en": "MSZP wins an absolute majority but governs with SZDSZ",
+    "hu": "Az MSZP abszolút többséget szerez, de az SZDSZ-szel kormányoz"
+   },
+   "seats": 386,
+   "results": [
+    {
+     "id": "mszp",
+     "name": {
+      "en": "MSZP (Socialists)",
+      "hu": "MSZP"
+     },
+     "seats": 209,
+     "bloc": "left",
+     "color": "#CC0000"
+    },
+    {
+     "id": "szdsz",
+     "name": {
+      "en": "SZDSZ (Free Democrats)",
+      "hu": "SZDSZ"
+     },
+     "seats": 69,
+     "bloc": "liberal",
+     "color": "#1CA8E6"
+    },
+    {
+     "id": "mdf",
+     "name": {
+      "en": "MDF (Democratic Forum)",
+      "hu": "MDF"
+     },
+     "seats": 38,
+     "bloc": "centre-right",
+     "color": "#009A68"
+    },
+    {
+     "id": "fkgp",
+     "name": {
+      "en": "FKGP (Smallholders)",
+      "hu": "FKGP"
+     },
+     "seats": 26,
+     "bloc": "centre-right",
+     "color": "#808000"
+    },
+    {
+     "id": "kdnp",
+     "name": {
+      "en": "KDNP (Christian Democrats)",
+      "hu": "KDNP"
+     },
+     "seats": 22,
+     "bloc": "centre-right",
+     "color": "#938862"
+    },
+    {
+     "id": "fidesz",
+     "name": {
+      "en": "Fidesz",
+      "hu": "Fidesz"
+     },
+     "seats": 20,
+     "bloc": "liberal",
+     "color": "#FF6A00"
+    },
+    {
+     "id": "asz",
+     "name": {
+      "en": "Agrarian Alliance",
+      "hu": "Agrárszövetség"
+     },
+     "seats": 1,
+     "bloc": "other",
+     "color": "#EDED00"
+    },
+    {
+     "id": "vp-asz-szdsz-fidesz",
+     "name": {
+      "en": "VP–ASZ–SZDSZ–Fidesz (joint)",
+      "hu": "VP–ASZ–SZDSZ–Fidesz (közös)"
+     },
+     "seats": 1,
+     "bloc": "liberal"
+    }
+   ]
+  },
+  {
+   "term": "1998–2002",
+   "government": {
+    "en": "Orbán I",
+    "hu": "I. Orbán"
+   },
+   "year": 1998,
+   "pm": "orban",
+   "seats": 386,
+   "results": [
+    {
+     "id": "fidesz",
+     "name": {
+      "en": "Fidesz",
+      "hu": "Fidesz"
+     },
+     "seats": 148,
+     "bloc": "right",
+     "color": "#FF6A00"
+    },
+    {
+     "id": "mszp",
+     "name": {
+      "en": "MSZP (Socialists)",
+      "hu": "MSZP"
+     },
+     "seats": 134,
+     "bloc": "left",
+     "color": "#CC0000"
+    },
+    {
+     "id": "fkgp",
+     "name": {
+      "en": "FKGP (Smallholders)",
+      "hu": "FKGP"
+     },
+     "seats": 48,
+     "bloc": "centre-right",
+     "color": "#808000"
+    },
+    {
+     "id": "szdsz",
+     "name": {
+      "en": "SZDSZ (Free Democrats)",
+      "hu": "SZDSZ"
+     },
+     "seats": 24,
+     "bloc": "liberal",
+     "color": "#1CA8E6"
+    },
+    {
+     "id": "mdf",
+     "name": {
+      "en": "MDF (Democratic Forum)",
+      "hu": "MDF"
+     },
+     "seats": 17,
+     "bloc": "centre-right",
+     "color": "#009A68"
+    },
+    {
+     "id": "miep",
+     "name": {
+      "en": "MIÉP (Justice and Life)",
+      "hu": "MIÉP"
+     },
+     "seats": 14,
+     "bloc": "far-right",
+     "color": "#CC9900"
+    },
+    {
+     "id": "independents",
+     "name": {
+      "en": "Independents",
+      "hu": "Függetlenek"
+     },
+     "seats": 1,
+     "bloc": "other",
+     "color": "#DCDCDC"
+    }
+   ]
+  },
+  {
+   "term": "2002–2006",
+   "government": {
+    "en": "Medgyessy",
+    "hu": "Medgyessy"
+   },
+   "year": 2002,
+   "pm": "medgyessy",
+   "seats": 386,
+   "results": [
+    {
+     "id": "fidesz-mdf",
+     "name": {
+      "en": "Fidesz–MDF",
+      "hu": "Fidesz–MDF"
+     },
+     "seats": 188,
+     "bloc": "right",
+     "color": "#FF6A00"
+    },
+    {
+     "id": "mszp",
+     "name": {
+      "en": "MSZP (Socialists)",
+      "hu": "MSZP"
+     },
+     "seats": 178,
+     "bloc": "left",
+     "color": "#CC0000"
+    },
+    {
+     "id": "szdsz",
+     "name": {
+      "en": "SZDSZ (Free Democrats)",
+      "hu": "SZDSZ"
+     },
+     "seats": 19,
+     "bloc": "liberal",
+     "color": "#1CA8E6"
+    },
+    {
+     "id": "szdsz-mszp",
+     "name": {
+      "en": "SZDSZ–MSZP (joint)",
+      "hu": "SZDSZ–MSZP (közös)"
+     },
+     "seats": 1,
+     "bloc": "liberal"
+    }
+   ]
+  },
+  {
+   "term": "2002–2006",
+   "government": {
+    "en": "Gyurcsány I",
+    "hu": "I. Gyurcsány"
+   },
+   "year": 2004,
+   "pm": "gyurcsany",
+   "note": {
+    "en": "Replaced Péter Medgyessy after a coalition crisis",
+    "hu": "Medgyessy Péter lemondása után"
+   },
+   "seats": 386,
+   "results": [
+    {
+     "id": "fidesz-mdf",
+     "name": {
+      "en": "Fidesz–MDF",
+      "hu": "Fidesz–MDF"
+     },
+     "seats": 188,
+     "bloc": "right",
+     "color": "#FF6A00"
+    },
+    {
+     "id": "mszp",
+     "name": {
+      "en": "MSZP (Socialists)",
+      "hu": "MSZP"
+     },
+     "seats": 178,
+     "bloc": "left",
+     "color": "#CC0000"
+    },
+    {
+     "id": "szdsz",
+     "name": {
+      "en": "SZDSZ (Free Democrats)",
+      "hu": "SZDSZ"
+     },
+     "seats": 19,
+     "bloc": "liberal",
+     "color": "#1CA8E6"
+    },
+    {
+     "id": "szdsz-mszp",
+     "name": {
+      "en": "SZDSZ–MSZP (joint)",
+      "hu": "SZDSZ–MSZP (közös)"
+     },
+     "seats": 1,
+     "bloc": "liberal"
+    }
+   ]
+  },
+  {
+   "term": "2006–2010",
+   "government": {
+    "en": "Gyurcsány II",
+    "hu": "II. Gyurcsány"
+   },
+   "year": 2006,
+   "pm": "gyurcsany",
+   "note": {
+    "en": "First government re-elected since 1990",
+    "hu": "1990 óta az első újraválasztott kormány"
+   },
+   "seats": 386,
+   "results": [
+    {
+     "id": "mszp",
+     "name": {
+      "en": "MSZP (Socialists)",
+      "hu": "MSZP"
+     },
+     "seats": 186,
+     "bloc": "left",
+     "color": "#CC0000"
+    },
+    {
+     "id": "fidesz-kdnp",
+     "name": {
+      "en": "Fidesz–KDNP",
+      "hu": "Fidesz–KDNP"
+     },
+     "seats": 164,
+     "bloc": "right",
+     "color": "#FF6A00"
+    },
+    {
+     "id": "szdsz",
+     "name": {
+      "en": "SZDSZ (Free Democrats)",
+      "hu": "SZDSZ"
+     },
+     "seats": 18,
+     "bloc": "liberal",
+     "color": "#1CA8E6"
+    },
+    {
+     "id": "mdf",
+     "name": {
+      "en": "MDF (Democratic Forum)",
+      "hu": "MDF"
+     },
+     "seats": 11,
+     "bloc": "centre-right",
+     "color": "#009A68"
+    },
+    {
+     "id": "mszp-szdsz",
+     "name": {
+      "en": "MSZP–SZDSZ (joint)",
+      "hu": "MSZP–SZDSZ (közös)"
+     },
+     "seats": 6,
+     "bloc": "left"
+    },
+    {
+     "id": "somogy",
+     "name": {
+      "en": "Association for Somogy",
+      "hu": "Somogyért Egyesület"
+     },
+     "seats": 1,
+     "bloc": "other",
+     "color": "#404040"
+    }
+   ]
+  },
+  {
+   "term": "2006–2010",
+   "government": {
+    "en": "Bajnai",
+    "hu": "Bajnai"
+   },
+   "year": 2009,
+   "pm": "bajnai",
+   "note": {
+    "en": "Crisis government after Gyurcsány resigned",
+    "hu": "Gyurcsány lemondása utáni válságkezelő kormány"
+   },
+   "seats": 386,
+   "results": [
+    {
+     "id": "mszp",
+     "name": {
+      "en": "MSZP (Socialists)",
+      "hu": "MSZP"
+     },
+     "seats": 186,
+     "bloc": "left",
+     "color": "#CC0000"
+    },
+    {
+     "id": "fidesz-kdnp",
+     "name": {
+      "en": "Fidesz–KDNP",
+      "hu": "Fidesz–KDNP"
+     },
+     "seats": 164,
+     "bloc": "right",
+     "color": "#FF6A00"
+    },
+    {
+     "id": "szdsz",
+     "name": {
+      "en": "SZDSZ (Free Democrats)",
+      "hu": "SZDSZ"
+     },
+     "seats": 18,
+     "bloc": "liberal",
+     "color": "#1CA8E6"
+    },
+    {
+     "id": "mdf",
+     "name": {
+      "en": "MDF (Democratic Forum)",
+      "hu": "MDF"
+     },
+     "seats": 11,
+     "bloc": "centre-right",
+     "color": "#009A68"
+    },
+    {
+     "id": "mszp-szdsz",
+     "name": {
+      "en": "MSZP–SZDSZ (joint)",
+      "hu": "MSZP–SZDSZ (közös)"
+     },
+     "seats": 6,
+     "bloc": "left"
+    },
+    {
+     "id": "somogy",
+     "name": {
+      "en": "Association for Somogy",
+      "hu": "Somogyért Egyesület"
+     },
+     "seats": 1,
+     "bloc": "other",
+     "color": "#404040"
+    }
+   ]
+  },
+  {
+   "term": "2010–2014",
+   "government": {
+    "en": "Orbán II",
+    "hu": "II. Orbán"
+   },
+   "year": 2010,
+   "pm": "orban",
+   "note": {
+    "en": "Fidesz–KDNP wins a two-thirds majority",
+    "hu": "A Fidesz–KDNP kétharmados többséget szerez"
+   },
+   "seats": 386,
+   "results": [
+    {
+     "id": "fidesz-kdnp",
+     "name": {
+      "en": "Fidesz–KDNP",
+      "hu": "Fidesz–KDNP"
+     },
+     "seats": 263,
+     "bloc": "right",
+     "color": "#FF6A00"
+    },
+    {
+     "id": "mszp",
+     "name": {
+      "en": "MSZP (Socialists)",
+      "hu": "MSZP"
+     },
+     "seats": 59,
+     "bloc": "left",
+     "color": "#CC0000"
+    },
+    {
+     "id": "jobbik",
+     "name": {
+      "en": "Jobbik",
+      "hu": "Jobbik"
+     },
+     "seats": 47,
+     "bloc": "far-right",
+     "color": "#008371"
+    },
+    {
+     "id": "lmp",
+     "name": {
+      "en": "LMP (Greens)",
+      "hu": "LMP"
+     },
+     "seats": 16,
+     "bloc": "green",
+     "color": "#54B586"
+    },
+    {
+     "id": "independents",
+     "name": {
+      "en": "Independents",
+      "hu": "Függetlenek"
+     },
+     "seats": 1,
+     "bloc": "other",
+     "color": "#DCDCDC"
+    }
+   ]
+  },
+  {
+   "term": "2014–2018",
+   "government": {
+    "en": "Orbán III",
+    "hu": "III. Orbán"
+   },
+   "year": 2014,
+   "pm": "orban",
+   "note": {
+    "en": "The National Assembly shrinks from 386 to 199 seats",
+    "hu": "Az Országgyűlés 386-ról 199 fősre csökken"
+   },
+   "seats": 199,
+   "results": [
+    {
+     "id": "fidesz-kdnp",
+     "name": {
+      "en": "Fidesz–KDNP",
+      "hu": "Fidesz–KDNP"
+     },
+     "seats": 133,
+     "bloc": "right",
+     "color": "#FF6A00"
+    },
+    {
+     "id": "unity",
+     "name": {
+      "en": "Unity (MSZP-led alliance)",
+      "hu": "Összefogás"
+     },
+     "seats": 38,
+     "bloc": "left",
+     "color": "#E4002B"
+    },
+    {
+     "id": "jobbik",
+     "name": {
+      "en": "Jobbik",
+      "hu": "Jobbik"
+     },
+     "seats": 23,
+     "bloc": "far-right",
+     "color": "#008371"
+    },
+    {
+     "id": "lmp",
+     "name": {
+      "en": "LMP (Greens)",
+      "hu": "LMP"
+     },
+     "seats": 5,
+     "bloc": "green",
+     "color": "#7CC242"
+    }
+   ]
+  },
+  {
+   "term": "2018–2022",
+   "government": {
+    "en": "Orbán IV",
+    "hu": "IV. Orbán"
+   },
+   "year": 2018,
+   "pm": "orban",
+   "seats": 199,
+   "results": [
+    {
+     "id": "fidesz-kdnp",
+     "name": {
+      "en": "Fidesz–KDNP",
+      "hu": "Fidesz–KDNP"
+     },
+     "seats": 133,
+     "bloc": "right",
+     "color": "#FF6A00"
+    },
+    {
+     "id": "jobbik",
+     "name": {
+      "en": "Jobbik",
+      "hu": "Jobbik"
+     },
+     "seats": 26,
+     "bloc": "far-right",
+     "color": "#008371"
+    },
+    {
+     "id": "mszp-p",
+     "name": {
+      "en": "MSZP–Párbeszéd",
+      "hu": "MSZP–Párbeszéd"
+     },
+     "seats": 20,
+     "bloc": "left",
+     "color": "#CC0000"
+    },
+    {
+     "id": "dk",
+     "name": {
+      "en": "DK (Democratic Coalition)",
+      "hu": "DK"
+     },
+     "seats": 9,
+     "bloc": "left",
+     "color": "#2A61A4"
+    },
+    {
+     "id": "lmp",
+     "name": {
+      "en": "LMP (Greens)",
+      "hu": "LMP"
+     },
+     "seats": 8,
+     "bloc": "green",
+     "color": "#54B586"
+    },
+    {
+     "id": "egyutt",
+     "name": {
+      "en": "Együtt (Together)",
+      "hu": "Együtt"
+     },
+     "seats": 1,
+     "bloc": "left",
+     "color": "#FED500"
+    },
+    {
+     "id": "germans",
+     "name": {
+      "en": "German minority",
+      "hu": "Német nemzetiség"
+     },
+     "seats": 1,
+     "bloc": "other",
+     "color": "#0047AB"
+    },
+    {
+     "id": "independents",
+     "name": {
+      "en": "Independents",
+      "hu": "Függetlenek"
+     },
+     "seats": 1,
+     "bloc": "other",
+     "color": "#DCDCDC"
+    }
+   ]
+  },
+  {
+   "term": "2022–2026",
+   "government": {
+    "en": "Orbán V",
+    "hu": "V. Orbán"
+   },
+   "year": 2022,
+   "pm": "orban",
+   "seats": 199,
+   "results": [
+    {
+     "id": "fidesz-kdnp",
+     "name": {
+      "en": "Fidesz–KDNP",
+      "hu": "Fidesz–KDNP"
+     },
+     "seats": 135,
+     "bloc": "right",
+     "color": "#FF6A00"
+    },
+    {
+     "id": "em",
+     "name": {
+      "en": "United for Hungary",
+      "hu": "Egységben Magyarországért"
+     },
+     "seats": 57,
+     "bloc": "left",
+     "color": "#4CB5A2"
+    },
+    {
+     "id": "mi-hazank",
+     "name": {
+      "en": "Mi Hazánk (Our Homeland)",
+      "hu": "Mi Hazánk"
+     },
+     "seats": 6,
+     "bloc": "far-right",
+     "color": "#688D1B"
+    },
+    {
+     "id": "germans",
+     "name": {
+      "en": "German minority",
+      "hu": "Német nemzetiség"
+     },
+     "seats": 1,
+     "bloc": "other",
+     "color": "#0047AB"
+    }
+   ]
+  },
+  {
+   "term": "2026–",
+   "government": {
+    "en": "Magyar",
+    "hu": "Magyar"
+   },
+   "year": 2026,
+   "pm": "magyar",
+   "note": {
+    "en": "Tisza wins a two-thirds majority, ending 16 years of Fidesz rule. Péter Magyar was sworn in on 9 May 2026",
+    "hu": "A Tisza kétharmados győzelme 16 év Fidesz-kormányzás után. Magyar Pétert 2026. május 9-én választották miniszterelnökké"
+   },
+   "seats": 199,
+   "results": [
+    {
+     "id": "tisza",
+     "name": {
+      "en": "Tisza",
+      "hu": "Tisza"
+     },
+     "seats": 141,
+     "bloc": "centre-right",
+     "color": "#88E8FF"
+    },
+    {
+     "id": "fidesz-kdnp",
+     "name": {
+      "en": "Fidesz–KDNP",
+      "hu": "Fidesz–KDNP"
+     },
+     "seats": 52,
+     "bloc": "right",
+     "color": "#FF6A00"
+    },
+    {
+     "id": "mi-hazank",
+     "name": {
+      "en": "Mi Hazánk (Our Homeland)",
+      "hu": "Mi Hazánk"
+     },
+     "seats": 6,
+     "bloc": "far-right",
+     "color": "#688D1B"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "label": "Wikipedia: Elections in Hungary",
+   "url": "https://en.wikipedia.org/wiki/Elections_in_Hungary"
+  },
+  {
+   "label": "National Election Office",
+   "url": "https://vtr.valasztas.hu/ogy2026"
+  }
+ ],
+ "credits": [
+  "József Antall: Antall-család archívum [Antall family's archives] (Péter Antall), CC BY-SA 3.0, via Wikimedia Commons",
+  "Péter Boross: M5, CC BY 3.0, via Wikimedia Commons",
+  "Gyula Horn: א (Aleph), CC BY-SA 2.5, via Wikimedia Commons",
+  "Viktor Orbán: The White House, Public domain, via Wikimedia Commons",
+  "Péter Medgyessy: Alain ROLLAND/© European Union 2024 - Source : EP, European Parliament, via Wikimedia Commons",
+  "Ferenc Gyurcsány: © European Union 2004 - EP, European Parliament, via Wikimedia Commons",
+  "Gordon Bajnai: Tzipi_Livni_and_Gordon_Bajnai.jpg: Itzike derivative work: Qorilla (talk), CC BY-SA 3.0, via Wikimedia Commons",
+  "Péter Magyar: Xavier Lejeune / European Commission, CC BY 4.0, via Wikimedia Commons"
+ ]
+}

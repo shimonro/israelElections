@@ -1,0 +1,616 @@
+{
+  "code": "hu",
+  "slug": "hungary",
+  "name": {
+    "en": "Hungary",
+    "hu": "Magyarország"
+  },
+  "languages": [
+    "en",
+    "hu"
+  ],
+  "chamber": {
+    "en": "National Assembly",
+    "hu": "Országgyűlés"
+  },
+  "termLabel": {
+    "en": "Term",
+    "hu": "Ciklus"
+  },
+  "emblem": {
+    "wiki": "Coat of arms of Hungary"
+  },
+  "blocs": [
+    {
+      "key": "left",
+      "name": {
+        "en": "Left",
+        "hu": "Baloldal"
+      },
+      "hue": 0
+    },
+    {
+      "key": "liberal",
+      "name": {
+        "en": "Liberal",
+        "hu": "Liberális"
+      },
+      "hue": 205
+    },
+    {
+      "key": "green",
+      "name": {
+        "en": "Green",
+        "hu": "Zöld"
+      },
+      "hue": 110
+    },
+    {
+      "key": "centre-right",
+      "name": {
+        "en": "Centre-right",
+        "hu": "Jobbközép"
+      },
+      "hue": 175
+    },
+    {
+      "key": "right",
+      "name": {
+        "en": "Right",
+        "hu": "Jobboldal"
+      },
+      "hue": 28
+    },
+    {
+      "key": "far-right",
+      "name": {
+        "en": "Far right",
+        "hu": "Szélsőjobb"
+      },
+      "hue": 265
+    },
+    {
+      "key": "other",
+      "name": {
+        "en": "Other",
+        "hu": "Egyéb"
+      },
+      "color": "#94a3b8"
+    }
+  ],
+  "pms": {
+    "antall": {
+      "wiki": "József Antall",
+      "name": {
+        "en": "József Antall",
+        "hu": "Antall József"
+      }
+    },
+    "boross": {
+      "wiki": "Péter Boross",
+      "name": {
+        "en": "Péter Boross",
+        "hu": "Boross Péter"
+      }
+    },
+    "horn": {
+      "wiki": "Gyula Horn",
+      "name": {
+        "en": "Gyula Horn",
+        "hu": "Horn Gyula"
+      }
+    },
+    "orban": {
+      "wiki": "Viktor Orbán",
+      "name": {
+        "en": "Viktor Orbán",
+        "hu": "Orbán Viktor"
+      }
+    },
+    "medgyessy": {
+      "wiki": "Péter Medgyessy",
+      "name": {
+        "en": "Péter Medgyessy",
+        "hu": "Medgyessy Péter"
+      }
+    },
+    "gyurcsany": {
+      "wiki": "Ferenc Gyurcsány",
+      "name": {
+        "en": "Ferenc Gyurcsány",
+        "hu": "Gyurcsány Ferenc"
+      }
+    },
+    "bajnai": {
+      "wiki": "Gordon Bajnai",
+      "name": {
+        "en": "Gordon Bajnai",
+        "hu": "Bajnai Gordon"
+      }
+    },
+    "magyar": {
+      "wiki": "Péter Magyar",
+      "name": {
+        "en": "Péter Magyar",
+        "hu": "Magyar Péter"
+      }
+    }
+  },
+  "sources": [
+    {
+      "label": "Wikipedia: Elections in Hungary",
+      "url": "https://en.wikipedia.org/wiki/Elections_in_Hungary"
+    },
+    {
+      "label": "National Election Office",
+      "url": "https://vtr.valasztas.hu/ogy2026"
+    }
+  ],
+  "elections": [
+    {
+      "year": 1990,
+      "wiki": "1990 Hungarian parliamentary election"
+    },
+    {
+      "year": 1994,
+      "wiki": "1994 Hungarian parliamentary election"
+    },
+    {
+      "year": 1998,
+      "wiki": "1998 Hungarian parliamentary election"
+    },
+    {
+      "year": 2002,
+      "wiki": "2002 Hungarian parliamentary election"
+    },
+    {
+      "year": 2006,
+      "wiki": "2006 Hungarian parliamentary election"
+    },
+    {
+      "year": 2010,
+      "wiki": "2010 Hungarian parliamentary election"
+    },
+    {
+      "year": 2014,
+      "wiki": "2014 Hungarian parliamentary election"
+    },
+    {
+      "year": 2018,
+      "wiki": "2018 Hungarian parliamentary election"
+    },
+    {
+      "year": 2022,
+      "wiki": "2022 Hungarian parliamentary election"
+    },
+    {
+      "year": 2026,
+      "wiki": "2026 Hungarian parliamentary election"
+    }
+  ],
+  "governments": [
+    {
+      "year": 1990,
+      "election": 1990,
+      "pm": "antall",
+      "label": {
+        "en": "Antall",
+        "hu": "Antall"
+      },
+      "note": {
+        "en": "First freely elected government after the fall of communism",
+        "hu": "A rendszerváltás utáni első szabadon választott kormány"
+      }
+    },
+    {
+      "year": 1993,
+      "election": 1990,
+      "pm": "boross",
+      "label": {
+        "en": "Boross",
+        "hu": "Boross"
+      },
+      "note": {
+        "en": "Took over after József Antall died in office",
+        "hu": "Antall József halála után vette át a kormányt"
+      }
+    },
+    {
+      "year": 1994,
+      "election": 1994,
+      "pm": "horn",
+      "label": {
+        "en": "Horn",
+        "hu": "Horn"
+      },
+      "note": {
+        "en": "MSZP wins an absolute majority but governs with SZDSZ",
+        "hu": "Az MSZP abszolút többséget szerez, de az SZDSZ-szel kormányoz"
+      }
+    },
+    {
+      "year": 1998,
+      "election": 1998,
+      "pm": "orban",
+      "label": {
+        "en": "Orbán I",
+        "hu": "I. Orbán"
+      }
+    },
+    {
+      "year": 2002,
+      "election": 2002,
+      "pm": "medgyessy",
+      "label": {
+        "en": "Medgyessy",
+        "hu": "Medgyessy"
+      }
+    },
+    {
+      "year": 2004,
+      "election": 2002,
+      "pm": "gyurcsany",
+      "label": {
+        "en": "Gyurcsány I",
+        "hu": "I. Gyurcsány"
+      },
+      "note": {
+        "en": "Replaced Péter Medgyessy after a coalition crisis",
+        "hu": "Medgyessy Péter lemondása után"
+      }
+    },
+    {
+      "year": 2006,
+      "election": 2006,
+      "pm": "gyurcsany",
+      "label": {
+        "en": "Gyurcsány II",
+        "hu": "II. Gyurcsány"
+      },
+      "note": {
+        "en": "First government re-elected since 1990",
+        "hu": "1990 óta az első újraválasztott kormány"
+      }
+    },
+    {
+      "year": 2009,
+      "election": 2006,
+      "pm": "bajnai",
+      "label": {
+        "en": "Bajnai",
+        "hu": "Bajnai"
+      },
+      "note": {
+        "en": "Crisis government after Gyurcsány resigned",
+        "hu": "Gyurcsány lemondása utáni válságkezelő kormány"
+      }
+    },
+    {
+      "year": 2010,
+      "election": 2010,
+      "pm": "orban",
+      "label": {
+        "en": "Orbán II",
+        "hu": "II. Orbán"
+      },
+      "note": {
+        "en": "Fidesz–KDNP wins a two-thirds majority",
+        "hu": "A Fidesz–KDNP kétharmados többséget szerez"
+      }
+    },
+    {
+      "year": 2014,
+      "election": 2014,
+      "pm": "orban",
+      "label": {
+        "en": "Orbán III",
+        "hu": "III. Orbán"
+      },
+      "note": {
+        "en": "The National Assembly shrinks from 386 to 199 seats",
+        "hu": "Az Országgyűlés 386-ról 199 fősre csökken"
+      }
+    },
+    {
+      "year": 2018,
+      "election": 2018,
+      "pm": "orban",
+      "label": {
+        "en": "Orbán IV",
+        "hu": "IV. Orbán"
+      }
+    },
+    {
+      "year": 2022,
+      "election": 2022,
+      "pm": "orban",
+      "label": {
+        "en": "Orbán V",
+        "hu": "V. Orbán"
+      }
+    },
+    {
+      "year": 2026,
+      "election": 2026,
+      "pm": "magyar",
+      "label": {
+        "en": "Magyar",
+        "hu": "Magyar"
+      },
+      "note": {
+        "en": "Tisza wins a two-thirds majority, ending 16 years of Fidesz rule. Péter Magyar was sworn in on 9 May 2026",
+        "hu": "A Tisza kétharmados győzelme 16 év Fidesz-kormányzás után. Magyar Pétert 2026. május 9-én választották miniszterelnökké"
+      }
+    }
+  ],
+  "parties": {
+    "Hungarian Democratic Forum": {
+      "key": "mdf",
+      "name": {
+        "en": "MDF (Democratic Forum)",
+        "hu": "MDF"
+      },
+      "bloc": "centre-right",
+      "color": "#009A68"
+    },
+    "Alliance of Free Democrats": {
+      "key": "szdsz",
+      "name": {
+        "en": "SZDSZ (Free Democrats)",
+        "hu": "SZDSZ"
+      },
+      "bloc": "liberal",
+      "color": "#1CA8E6"
+    },
+    "Independent Smallholders, Agrarian Workers and Civic Party": {
+      "key": "fkgp",
+      "name": {
+        "en": "FKGP (Smallholders)",
+        "hu": "FKGP"
+      },
+      "bloc": "centre-right",
+      "color": "#808000"
+    },
+    "Hungarian Socialist Party": {
+      "key": "mszp",
+      "name": {
+        "en": "MSZP (Socialists)",
+        "hu": "MSZP"
+      },
+      "bloc": "left",
+      "color": "#CC0000"
+    },
+    "Fidesz": {
+      "key": "fidesz",
+      "name": {
+        "en": "Fidesz",
+        "hu": "Fidesz"
+      },
+      "bloc": "right",
+      "color": "#FF6A00",
+      "blocByYear": {
+        "1990": "liberal",
+        "1994": "liberal"
+      }
+    },
+    "Christian Democratic People's Party (Hungary)": {
+      "key": "kdnp",
+      "name": {
+        "en": "KDNP (Christian Democrats)",
+        "hu": "KDNP"
+      },
+      "bloc": "centre-right",
+      "color": "#938862"
+    },
+    "Agrarian Alliance": {
+      "key": "asz",
+      "name": {
+        "en": "Agrarian Alliance",
+        "hu": "Agrárszövetség"
+      },
+      "bloc": "other",
+      "color": "#EDED00"
+    },
+    "SZDSZ–Fidesz": {
+      "key": "szdsz-fidesz",
+      "name": {
+        "en": "SZDSZ–Fidesz (joint)",
+        "hu": "SZDSZ–Fidesz (közös)"
+      },
+      "bloc": "liberal"
+    },
+    "ASZ–SZFV": {
+      "key": "asz-szfv",
+      "name": {
+        "en": "ASZ–SZFV (joint)",
+        "hu": "ASZ–SZFV (közös)"
+      },
+      "bloc": "other"
+    },
+    "KDNP–Fidesz–SZDSZ": {
+      "key": "kdnp-fidesz-szdsz",
+      "name": {
+        "en": "KDNP–Fidesz–SZDSZ (joint)",
+        "hu": "KDNP–Fidesz–SZDSZ (közös)"
+      },
+      "bloc": "liberal"
+    },
+    "Independents": {
+      "key": "independents",
+      "name": {
+        "en": "Independents",
+        "hu": "Függetlenek"
+      },
+      "bloc": "other",
+      "color": "#DCDCDC"
+    },
+    "VP–ASZ–SZDSZ–Fidesz": {
+      "key": "vp-asz-szdsz-fidesz",
+      "name": {
+        "en": "VP–ASZ–SZDSZ–Fidesz (joint)",
+        "hu": "VP–ASZ–SZDSZ–Fidesz (közös)"
+      },
+      "bloc": "liberal"
+    },
+    "Hungarian Justice and Life Party": {
+      "key": "miep",
+      "name": {
+        "en": "MIÉP (Justice and Life)",
+        "hu": "MIÉP"
+      },
+      "bloc": "far-right",
+      "color": "#CC9900"
+    },
+    "Fidesz–Hungarian Democratic Forum": {
+      "key": "fidesz-mdf",
+      "name": {
+        "en": "Fidesz–MDF",
+        "hu": "Fidesz–MDF"
+      },
+      "bloc": "right",
+      "color": "#FF6A00"
+    },
+    "Alliance of Free Democrats–Hungarian Socialist Party": {
+      "key": "szdsz-mszp",
+      "name": {
+        "en": "SZDSZ–MSZP (joint)",
+        "hu": "SZDSZ–MSZP (közös)"
+      },
+      "bloc": "liberal"
+    },
+    "Fidesz–KDNP": {
+      "key": "fidesz-kdnp",
+      "name": {
+        "en": "Fidesz–KDNP",
+        "hu": "Fidesz–KDNP"
+      },
+      "bloc": "right",
+      "color": "#FF6A00"
+    },
+    "Hungarian Socialist Party–Alliance of Free Democrats": {
+      "key": "mszp-szdsz",
+      "name": {
+        "en": "MSZP–SZDSZ (joint)",
+        "hu": "MSZP–SZDSZ (közös)"
+      },
+      "bloc": "left"
+    },
+    "Association for Somogy": {
+      "key": "somogy",
+      "name": {
+        "en": "Association for Somogy",
+        "hu": "Somogyért Egyesület"
+      },
+      "bloc": "other",
+      "color": "#404040"
+    },
+    "Jobbik": {
+      "key": "jobbik",
+      "name": {
+        "en": "Jobbik",
+        "hu": "Jobbik"
+      },
+      "bloc": "far-right",
+      "color": "#008371"
+    },
+    "LMP – Hungary's Green Party": {
+      "key": "lmp",
+      "name": {
+        "en": "LMP (Greens)",
+        "hu": "LMP"
+      },
+      "bloc": "green",
+      "color": "#54B586"
+    },
+    "Fidesz–KDNP–Entrepreneurs' Party": {
+      "key": "fidesz-kdnp",
+      "name": {
+        "en": "Fidesz–KDNP",
+        "hu": "Fidesz–KDNP"
+      },
+      "bloc": "right",
+      "color": "#FF6A00"
+    },
+    "Unity": {
+      "key": "unity",
+      "name": {
+        "en": "Unity (MSZP-led alliance)",
+        "hu": "Összefogás"
+      },
+      "bloc": "left",
+      "color": "#E4002B"
+    },
+    "Politics Can Be Different": {
+      "key": "lmp",
+      "name": {
+        "en": "LMP (Greens)",
+        "hu": "LMP"
+      },
+      "bloc": "green",
+      "color": "#7CC242"
+    },
+    "Hungarian Socialist Party–Dialogue for Hungary": {
+      "key": "mszp-p",
+      "name": {
+        "en": "MSZP–Párbeszéd",
+        "hu": "MSZP–Párbeszéd"
+      },
+      "bloc": "left",
+      "color": "#CC0000"
+    },
+    "Democratic Coalition (Hungary)": {
+      "key": "dk",
+      "name": {
+        "en": "DK (Democratic Coalition)",
+        "hu": "DK"
+      },
+      "bloc": "left",
+      "color": "#2A61A4"
+    },
+    "Together (Hungary)": {
+      "key": "egyutt",
+      "name": {
+        "en": "Együtt (Together)",
+        "hu": "Együtt"
+      },
+      "bloc": "left",
+      "color": "#FED500"
+    },
+    "National Self-Government of Germans in Hungary": {
+      "key": "germans",
+      "name": {
+        "en": "German minority",
+        "hu": "Német nemzetiség"
+      },
+      "bloc": "other",
+      "color": "#0047AB"
+    },
+    "United for Hungary": {
+      "key": "em",
+      "name": {
+        "en": "United for Hungary",
+        "hu": "Egységben Magyarországért"
+      },
+      "bloc": "left",
+      "color": "#4CB5A2"
+    },
+    "Our Homeland Movement": {
+      "key": "mi-hazank",
+      "name": {
+        "en": "Mi Hazánk (Our Homeland)",
+        "hu": "Mi Hazánk"
+      },
+      "bloc": "far-right",
+      "color": "#688D1B"
+    },
+    "Tisza Party": {
+      "key": "tisza",
+      "name": {
+        "en": "Tisza",
+        "hu": "Tisza"
+      },
+      "bloc": "centre-right",
+      "color": "#88E8FF"
+    }
+  }
+}

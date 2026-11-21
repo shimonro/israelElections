@@ -1,0 +1,5167 @@
+{
+ "meta": {
+  "code": "il",
+  "slug": "israel",
+  "name": {
+   "en": "Israel",
+   "he": "ישראל"
+  },
+  "languages": [
+   "en",
+   "he"
+  ],
+  "emblem": "/countries/il/emblem.png",
+  "years": [
+   1949,
+   2026
+  ]
+ },
+ "chamber": {
+  "en": "Knesset",
+  "he": "הכנסת"
+ },
+ "termLabel": {
+  "en": "Knesset",
+  "he": "כנסת"
+ },
+ "blocs": [
+  {
+   "key": "arab",
+   "name": {
+    "en": "Arab",
+    "he": "ערבית"
+   },
+   "hue": 140
+  },
+  {
+   "key": "left",
+   "name": {
+    "en": "Left",
+    "he": "שמאל"
+   },
+   "hue": 0
+  },
+  {
+   "key": "centre",
+   "name": {
+    "en": "Centre",
+    "he": "מרכז"
+   },
+   "hue": 185
+  },
+  {
+   "key": "sectorial",
+   "name": {
+    "en": "Sectorial",
+    "he": "סקטוריאלית"
+   },
+   "hue": 275
+  },
+  {
+   "key": "religious",
+   "name": {
+    "en": "Religious",
+    "he": "דתיים"
+   },
+   "hue": 38
+  },
+  {
+   "key": "right",
+   "name": {
+    "en": "Right",
+    "he": "ימין"
+   },
+   "hue": 224
+  }
+ ],
+ "pms": {
+  "ben-gurion": {
+   "name": {
+    "en": "David Ben-Gurion",
+    "he": "דוד בן-גוריון"
+   },
+   "photo": "/countries/il/pm/ben-gurion.jpg"
+  },
+  "sharett": {
+   "name": {
+    "en": "Moshe Sharett",
+    "he": "משה שרת"
+   },
+   "photo": "/countries/il/pm/sharett.jpg"
+  },
+  "eshkol": {
+   "name": {
+    "en": "Levi Eshkol",
+    "he": "לוי אשכול"
+   },
+   "photo": "/countries/il/pm/eshkol.jpg"
+  },
+  "meir": {
+   "name": {
+    "en": "Golda Meir",
+    "he": "גולדה מאיר"
+   },
+   "photo": "/countries/il/pm/meir.gif"
+  },
+  "rabin": {
+   "name": {
+    "en": "Yitzhak Rabin",
+    "he": "יצחק רבין"
+   },
+   "photo": "/countries/il/pm/rabin.gif"
+  },
+  "begin": {
+   "name": {
+    "en": "Menachem Begin",
+    "he": "מנחם בגין"
+   },
+   "photo": "/countries/il/pm/begin.jpg"
+  },
+  "shamir": {
+   "name": {
+    "en": "Yitzhak Shamir",
+    "he": "יצחק שמיר"
+   },
+   "photo": "/countries/il/pm/shamir.jpg"
+  },
+  "peres": {
+   "name": {
+    "en": "Shimon Peres",
+    "he": "שמעון פרס"
+   },
+   "photo": "/countries/il/pm/peres.jpg"
+  },
+  "netanyahu": {
+   "name": {
+    "en": "Benjamin Netanyahu",
+    "he": "בנימין נתניהו"
+   },
+   "photo": "/countries/il/pm/netanyahu.jpg"
+  },
+  "barak": {
+   "name": {
+    "en": "Ehud Barak",
+    "he": "אהוד ברק"
+   },
+   "photo": "/countries/il/pm/barak.jpg"
+  },
+  "sharon": {
+   "name": {
+    "en": "Ariel Sharon",
+    "he": "אריאל שרון"
+   },
+   "photo": "/countries/il/pm/sharon.jpg"
+  },
+  "olmert": {
+   "name": {
+    "en": "Ehud Olmert",
+    "he": "אהוד אולמרט"
+   },
+   "photo": "/countries/il/pm/olmert.jpg"
+  },
+  "bennett": {
+   "name": {
+    "en": "Naftali Bennett",
+    "he": "נפתלי בנט"
+   },
+   "photo": "/countries/il/pm/bennett.jpg"
+  },
+  "lapid": {
+   "name": {
+    "en": "Yair Lapid",
+    "he": "יאיר לפיד"
+   },
+   "photo": "/countries/il/pm/lapid.jpg"
+  }
+ },
+ "terms": [
+  {
+   "term": 1,
+   "government": 1,
+   "year": 1949,
+   "pm": "ben-gurion",
+   "seats": 120,
+   "results": [
+    {
+     "id": 78,
+     "name": {
+      "en": "Mapai",
+      "he": "מפא\"י"
+     },
+     "seats": 46,
+     "bloc": "left"
+    },
+    {
+     "id": 77,
+     "name": {
+      "en": "Mapam",
+      "he": "מפ\"ם"
+     },
+     "seats": 19,
+     "bloc": "left"
+    },
+    {
+     "id": 53,
+     "name": {
+      "en": "Hazit Datit Meuhedet",
+      "he": "חזית דתית מאוחדת"
+     },
+     "seats": 16,
+     "bloc": "religious"
+    },
+    {
+     "id": 112,
+     "name": {
+      "en": "Tnuat Haheyrut",
+      "he": "תנועת החרות"
+     },
+     "seats": 14,
+     "bloc": "right"
+    },
+    {
+     "id": 38,
+     "name": {
+      "en": "Hatsiyonim Haklaliyim",
+      "he": "הציונים הכלליים"
+     },
+     "seats": 7,
+     "bloc": "right"
+    },
+    {
+     "id": 30,
+     "name": {
+      "en": "Hamiflaga Hprogresivit",
+      "he": "המפלגה הפרוגרסיבית"
+     },
+     "seats": 5,
+     "bloc": "centre"
+    },
+    {
+     "id": 88,
+     "name": {
+      "en": "Sfaradim Veedot Hamizrah",
+      "he": "ספרדים ועדות המזרח"
+     },
+     "seats": 4,
+     "bloc": "sectorial"
+    },
+    {
+     "id": 83,
+     "name": {
+      "en": "Maki",
+      "he": "מק\"י"
+     },
+     "seats": 4,
+     "bloc": "left"
+    },
+    {
+     "id": 39,
+     "name": {
+      "en": "Hareshima Hademokratit",
+      "he": "הרשימה הדמוקרטית של נצרת"
+     },
+     "seats": 2,
+     "bloc": "arab"
+    },
+    {
+     "id": 80,
+     "name": {
+      "en": "Mifleget Halohamim",
+      "he": "מפלגת הלוחמים"
+     },
+     "seats": 1,
+     "bloc": "right"
+    },
+    {
+     "id": 48,
+     "name": {
+      "en": "Vitso",
+      "he": "ויצו"
+     },
+     "seats": 1,
+     "bloc": "sectorial"
+    },
+    {
+     "id": 43,
+     "name": {
+      "en": "Hitahdut Hateimanim",
+      "he": "התאחדות התימנים"
+     },
+     "seats": 1,
+     "bloc": "sectorial"
+    }
+   ]
+  },
+  {
+   "term": 1,
+   "government": 2,
+   "year": 1950,
+   "pm": "ben-gurion",
+   "seats": 120,
+   "results": [
+    {
+     "id": 78,
+     "name": {
+      "en": "Mapai",
+      "he": "מפא\"י"
+     },
+     "seats": 46,
+     "bloc": "left"
+    },
+    {
+     "id": 77,
+     "name": {
+      "en": "Mapam",
+      "he": "מפ\"ם"
+     },
+     "seats": 19,
+     "bloc": "left"
+    },
+    {
+     "id": 53,
+     "name": {
+      "en": "Hazit Datit Meuhedet",
+      "he": "חזית דתית מאוחדת"
+     },
+     "seats": 16,
+     "bloc": "religious"
+    },
+    {
+     "id": 112,
+     "name": {
+      "en": "Tnuat Haheyrut",
+      "he": "תנועת החרות"
+     },
+     "seats": 14,
+     "bloc": "right"
+    },
+    {
+     "id": 38,
+     "name": {
+      "en": "Hatsiyonim Haklaliyim",
+      "he": "הציונים הכלליים"
+     },
+     "seats": 7,
+     "bloc": "right"
+    },
+    {
+     "id": 30,
+     "name": {
+      "en": "Hamiflaga Hprogresivit",
+      "he": "המפלגה הפרוגרסיבית"
+     },
+     "seats": 5,
+     "bloc": "centre"
+    },
+    {
+     "id": 88,
+     "name": {
+      "en": "Sfaradim Veedot Hamizrah",
+      "he": "ספרדים ועדות המזרח"
+     },
+     "seats": 4,
+     "bloc": "sectorial"
+    },
+    {
+     "id": 83,
+     "name": {
+      "en": "Maki",
+      "he": "מק\"י"
+     },
+     "seats": 4,
+     "bloc": "left"
+    },
+    {
+     "id": 39,
+     "name": {
+      "en": "Hareshima Hademokratit",
+      "he": "הרשימה הדמוקרטית של נצרת"
+     },
+     "seats": 2,
+     "bloc": "arab"
+    },
+    {
+     "id": 80,
+     "name": {
+      "en": "Mifleget Halohamim",
+      "he": "מפלגת הלוחמים"
+     },
+     "seats": 1,
+     "bloc": "right"
+    },
+    {
+     "id": 48,
+     "name": {
+      "en": "Vitso",
+      "he": "ויצו"
+     },
+     "seats": 1,
+     "bloc": "sectorial"
+    },
+    {
+     "id": 43,
+     "name": {
+      "en": "Hitahdut Hateimanim",
+      "he": "התאחדות התימנים"
+     },
+     "seats": 1,
+     "bloc": "sectorial"
+    }
+   ]
+  },
+  {
+   "term": 2,
+   "government": 3,
+   "year": 1951,
+   "pm": "ben-gurion",
+   "seats": 120,
+   "results": [
+    {
+     "id": 78,
+     "name": {
+      "en": "Mapai",
+      "he": "מפא\"י"
+     },
+     "seats": 45,
+     "bloc": "left"
+    },
+    {
+     "id": 38,
+     "name": {
+      "en": "Hatsiyonim Haklaliyim",
+      "he": "הציונים הכלליים"
+     },
+     "seats": 20,
+     "bloc": "right"
+    },
+    {
+     "id": 77,
+     "name": {
+      "en": "Mapam",
+      "he": "מפ\"ם"
+     },
+     "seats": 15,
+     "bloc": "left"
+    },
+    {
+     "id": 37,
+     "name": {
+      "en": "Hapoel Hamizrahi",
+      "he": "הפועל המזרחי"
+     },
+     "seats": 8,
+     "bloc": "religious"
+    },
+    {
+     "id": 56,
+     "name": {
+      "en": "Herut",
+      "he": "חרות"
+     },
+     "seats": 8,
+     "bloc": "right"
+    },
+    {
+     "id": 83,
+     "name": {
+      "en": "Maki",
+      "he": "מק\"י"
+     },
+     "seats": 5,
+     "bloc": "left"
+    },
+    {
+     "id": 30,
+     "name": {
+      "en": "Hamiflaga Hprogresivit",
+      "he": "המפלגה הפרוגרסיבית"
+     },
+     "seats": 4,
+     "bloc": "centre"
+    },
+    {
+     "id": 104,
+     "name": {
+      "en": "Reshima Demokratit laraviyey",
+      "he": "רשימה דמוקרטית לערביי ישראל"
+     },
+     "seats": 3,
+     "bloc": "arab"
+    },
+    {
+     "id": 0,
+     "name": {
+      "en": "Agudat Yisrael",
+      "he": "אגודת ישראל"
+     },
+     "seats": 3,
+     "bloc": "religious"
+    },
+    {
+     "id": 90,
+     "name": {
+      "en": "Poaley Agudat Yisrael",
+      "he": "פועלי אגודת ישראל"
+     },
+     "seats": 2,
+     "bloc": "religious"
+    },
+    {
+     "id": 23,
+     "name": {
+      "en": "Hamizrahi",
+      "he": "המזרחי"
+     },
+     "seats": 2,
+     "bloc": "religious"
+    },
+    {
+     "id": 88,
+     "name": {
+      "en": "Sfaradim Veedot Hamizrah",
+      "he": "ספרדים ועדות המזרח"
+     },
+     "seats": 2,
+     "bloc": "sectorial"
+    },
+    {
+     "id": 94,
+     "name": {
+      "en": "Kadima VeAvoda",
+      "he": "קידמה ועבודה"
+     },
+     "seats": 1,
+     "bloc": "arab"
+    },
+    {
+     "id": 55,
+     "name": {
+      "en": "Haklaut VePituah",
+      "he": "חקלאות ופיתוח"
+     },
+     "seats": 1,
+     "bloc": "arab"
+    },
+    {
+     "id": 43,
+     "name": {
+      "en": "Hitahdut Hateimanim",
+      "he": "התאחדות התימנים"
+     },
+     "seats": 1,
+     "bloc": "sectorial"
+    }
+   ]
+  },
+  {
+   "term": 2,
+   "government": 4,
+   "year": 1952,
+   "pm": "ben-gurion",
+   "seats": 120,
+   "results": [
+    {
+     "id": 78,
+     "name": {
+      "en": "Mapai",
+      "he": "מפא\"י"
+     },
+     "seats": 45,
+     "bloc": "left"
+    },
+    {
+     "id": 38,
+     "name": {
+      "en": "Hatsiyonim Haklaliyim",
+      "he": "הציונים הכלליים"
+     },
+     "seats": 23,
+     "bloc": "right"
+    },
+    {
+     "id": 77,
+     "name": {
+      "en": "Mapam",
+      "he": "מפ\"ם"
+     },
+     "seats": 12,
+     "bloc": "left"
+    },
+    {
+     "id": 37,
+     "name": {
+      "en": "Hapoel Hamizrahi",
+      "he": "הפועל המזרחי"
+     },
+     "seats": 8,
+     "bloc": "religious"
+    },
+    {
+     "id": 56,
+     "name": {
+      "en": "Herut",
+      "he": "חרות"
+     },
+     "seats": 8,
+     "bloc": "right"
+    },
+    {
+     "id": 83,
+     "name": {
+      "en": "Maki",
+      "he": "מק\"י"
+     },
+     "seats": 5,
+     "bloc": "left"
+    },
+    {
+     "id": 30,
+     "name": {
+      "en": "Hamiflaga Hprogresivit",
+      "he": "המפלגה הפרוגרסיבית"
+     },
+     "seats": 4,
+     "bloc": "centre"
+    },
+    {
+     "id": 104,
+     "name": {
+      "en": "Reshima Demokratit laraviyey",
+      "he": "רשימה דמוקרטית לערביי ישראל"
+     },
+     "seats": 3,
+     "bloc": "arab"
+    },
+    {
+     "id": 0,
+     "name": {
+      "en": "Agudat Yisrael",
+      "he": "אגודת ישראל"
+     },
+     "seats": 3,
+     "bloc": "religious"
+    },
+    {
+     "id": 87,
+     "name": {
+      "en": "Siat Smol",
+      "he": "סיעת שמאל"
+     },
+     "seats": 3,
+     "bloc": "left"
+    },
+    {
+     "id": 90,
+     "name": {
+      "en": "Poaley Agudat Yisrael",
+      "he": "פועלי אגודת ישראל"
+     },
+     "seats": 2,
+     "bloc": "religious"
+    },
+    {
+     "id": 23,
+     "name": {
+      "en": "Hamizrahi",
+      "he": "המזרחי"
+     },
+     "seats": 2,
+     "bloc": "religious"
+    },
+    {
+     "id": 94,
+     "name": {
+      "en": "Kadima VeAvoda",
+      "he": "קידמה ועבודה"
+     },
+     "seats": 1,
+     "bloc": "arab"
+    },
+    {
+     "id": 55,
+     "name": {
+      "en": "Haklaut VePituah",
+      "he": "חקלאות ופיתוח"
+     },
+     "seats": 1,
+     "bloc": "arab"
+    }
+   ]
+  },
+  {
+   "term": 2,
+   "government": 5,
+   "year": 1954,
+   "pm": "sharett",
+   "seats": 120,
+   "results": [
+    {
+     "id": 78,
+     "name": {
+      "en": "Mapai",
+      "he": "מפא\"י"
+     },
+     "seats": 47,
+     "bloc": "left"
+    },
+    {
+     "id": 38,
+     "name": {
+      "en": "Hatsiyonim Haklaliyim",
+      "he": "הציונים הכלליים"
+     },
+     "seats": 23,
+     "bloc": "right"
+    },
+    {
+     "id": 77,
+     "name": {
+      "en": "Mapam",
+      "he": "מפ\"ם"
+     },
+     "seats": 10,
+     "bloc": "left"
+    },
+    {
+     "id": 37,
+     "name": {
+      "en": "Hapoel Hamizrahi",
+      "he": "הפועל המזרחי"
+     },
+     "seats": 8,
+     "bloc": "religious"
+    },
+    {
+     "id": 56,
+     "name": {
+      "en": "Herut",
+      "he": "חרות"
+     },
+     "seats": 8,
+     "bloc": "right"
+    },
+    {
+     "id": 83,
+     "name": {
+      "en": "Maki",
+      "he": "מק\"י"
+     },
+     "seats": 5,
+     "bloc": "left"
+    },
+    {
+     "id": 30,
+     "name": {
+      "en": "Hamiflaga Hprogresivit",
+      "he": "המפלגה הפרוגרסיבית"
+     },
+     "seats": 4,
+     "bloc": "centre"
+    },
+    {
+     "id": 104,
+     "name": {
+      "en": "Reshima Demokratit laraviyey",
+      "he": "רשימה דמוקרטית לערביי ישראל"
+     },
+     "seats": 3,
+     "bloc": "arab"
+    },
+    {
+     "id": 0,
+     "name": {
+      "en": "Agudat Yisrael",
+      "he": "אגודת ישראל"
+     },
+     "seats": 3,
+     "bloc": "religious"
+    },
+    {
+     "id": 87,
+     "name": {
+      "en": "Siat Smol",
+      "he": "סיעת שמאל"
+     },
+     "seats": 3,
+     "bloc": "left"
+    },
+    {
+     "id": 90,
+     "name": {
+      "en": "Poaley Agudat Yisrael",
+      "he": "פועלי אגודת ישראל"
+     },
+     "seats": 2,
+     "bloc": "religious"
+    },
+    {
+     "id": 23,
+     "name": {
+      "en": "Hamizrahi",
+      "he": "המזרחי"
+     },
+     "seats": 2,
+     "bloc": "religious"
+    },
+    {
+     "id": 94,
+     "name": {
+      "en": "Kadima VeAvoda",
+      "he": "קידמה ועבודה"
+     },
+     "seats": 1,
+     "bloc": "arab"
+    },
+    {
+     "id": 55,
+     "name": {
+      "en": "Haklaut VePituah",
+      "he": "חקלאות ופיתוח"
+     },
+     "seats": 1,
+     "bloc": "arab"
+    }
+   ]
+  },
+  {
+   "term": 2,
+   "government": 6,
+   "year": 1955,
+   "pm": "sharett",
+   "seats": 120,
+   "results": [
+    {
+     "id": 78,
+     "name": {
+      "en": "Mapai",
+      "he": "מפא\"י"
+     },
+     "seats": 47,
+     "bloc": "left"
+    },
+    {
+     "id": 38,
+     "name": {
+      "en": "Hatsiyonim Haklaliyim",
+      "he": "הציונים הכלליים"
+     },
+     "seats": 22,
+     "bloc": "right"
+    },
+    {
+     "id": 37,
+     "name": {
+      "en": "Hapoel Hamizrahi",
+      "he": "הפועל המזרחי"
+     },
+     "seats": 8,
+     "bloc": "religious"
+    },
+    {
+     "id": 56,
+     "name": {
+      "en": "Herut",
+      "he": "חרות"
+     },
+     "seats": 8,
+     "bloc": "right"
+    },
+    {
+     "id": 77,
+     "name": {
+      "en": "Mapam",
+      "he": "מפ\"ם"
+     },
+     "seats": 7,
+     "bloc": "left"
+    },
+    {
+     "id": 83,
+     "name": {
+      "en": "Maki",
+      "he": "מק\"י"
+     },
+     "seats": 7,
+     "bloc": "left"
+    },
+    {
+     "id": 3,
+     "name": {
+      "en": "Achdut Haavoda - Poaley",
+      "he": "אחדות העבודה-פועלי ציון"
+     },
+     "seats": 4,
+     "bloc": "left"
+    },
+    {
+     "id": 30,
+     "name": {
+      "en": "Hamiflaga Hprogresivit",
+      "he": "המפלגה הפרוגרסיבית"
+     },
+     "seats": 4,
+     "bloc": "centre"
+    },
+    {
+     "id": 104,
+     "name": {
+      "en": "Reshima Demokratit laraviyey",
+      "he": "רשימה דמוקרטית לערביי ישראל"
+     },
+     "seats": 3,
+     "bloc": "arab"
+    },
+    {
+     "id": 0,
+     "name": {
+      "en": "Agudat Yisrael",
+      "he": "אגודת ישראל"
+     },
+     "seats": 3,
+     "bloc": "religious"
+    },
+    {
+     "id": 90,
+     "name": {
+      "en": "Poaley Agudat Yisrael",
+      "he": "פועלי אגודת ישראל"
+     },
+     "seats": 2,
+     "bloc": "religious"
+    },
+    {
+     "id": 23,
+     "name": {
+      "en": "Hamizrahi",
+      "he": "המזרחי"
+     },
+     "seats": 2,
+     "bloc": "religious"
+    },
+    {
+     "id": 94,
+     "name": {
+      "en": "Kadima VeAvoda",
+      "he": "קידמה ועבודה"
+     },
+     "seats": 1,
+     "bloc": "arab"
+    },
+    {
+     "id": 55,
+     "name": {
+      "en": "Haklaut VePituah",
+      "he": "חקלאות ופיתוח"
+     },
+     "seats": 1,
+     "bloc": "arab"
+    },
+    {
+     "id": 43,
+     "name": {
+      "en": "Hitahdut Hateimanim",
+      "he": "התאחדות התימנים"
+     },
+     "seats": 1,
+     "bloc": "sectorial"
+    }
+   ]
+  },
+  {
+   "term": 3,
+   "government": 7,
+   "year": 1955,
+   "pm": "ben-gurion",
+   "seats": 120,
+   "results": [
+    {
+     "id": 78,
+     "name": {
+      "en": "Mapai",
+      "he": "מפא\"י"
+     },
+     "seats": 40,
+     "bloc": "left"
+    },
+    {
+     "id": 56,
+     "name": {
+      "en": "Herut",
+      "he": "חרות"
+     },
+     "seats": 15,
+     "bloc": "right"
+    },
+    {
+     "id": 38,
+     "name": {
+      "en": "Hatsiyonim Haklaliyim",
+      "he": "הציונים הכלליים"
+     },
+     "seats": 13,
+     "bloc": "right"
+    },
+    {
+     "id": 52,
+     "name": {
+      "en": "Hazit Datit Leumit",
+      "he": "חזית דתית לאומית"
+     },
+     "seats": 11,
+     "bloc": "religious"
+    },
+    {
+     "id": 3,
+     "name": {
+      "en": "Achdut Haavoda - Poaley",
+      "he": "אחדות העבודה-פועלי ציון"
+     },
+     "seats": 10,
+     "bloc": "left"
+    },
+    {
+     "id": 77,
+     "name": {
+      "en": "Mapam",
+      "he": "מפ\"ם"
+     },
+     "seats": 9,
+     "bloc": "left"
+    },
+    {
+     "id": 54,
+     "name": {
+      "en": "Hazit Datit Toratit",
+      "he": "חזית דתית תורתית"
+     },
+     "seats": 6,
+     "bloc": "religious"
+    },
+    {
+     "id": 83,
+     "name": {
+      "en": "Maki",
+      "he": "מק\"י"
+     },
+     "seats": 6,
+     "bloc": "left"
+    },
+    {
+     "id": 30,
+     "name": {
+      "en": "Hamiflaga Hprogresivit",
+      "he": "המפלגה הפרוגרסיבית"
+     },
+     "seats": 5,
+     "bloc": "centre"
+    },
+    {
+     "id": 104,
+     "name": {
+      "en": "Reshima Demokratit laraviyey",
+      "he": "רשימה דמוקרטית לערביי ישראל"
+     },
+     "seats": 2,
+     "bloc": "arab"
+    },
+    {
+     "id": 94,
+     "name": {
+      "en": "Kadima VeAvoda",
+      "he": "קידמה ועבודה"
+     },
+     "seats": 2,
+     "bloc": "arab"
+    },
+    {
+     "id": 55,
+     "name": {
+      "en": "Haklaut VePituah",
+      "he": "חקלאות ופיתוח"
+     },
+     "seats": 1,
+     "bloc": "arab"
+    }
+   ]
+  },
+  {
+   "term": 3,
+   "government": 8,
+   "year": 1958,
+   "pm": "ben-gurion",
+   "seats": 120,
+   "results": [
+    {
+     "id": 78,
+     "name": {
+      "en": "Mapai",
+      "he": "מפא\"י"
+     },
+     "seats": 40,
+     "bloc": "left"
+    },
+    {
+     "id": 56,
+     "name": {
+      "en": "Herut",
+      "he": "חרות"
+     },
+     "seats": 15,
+     "bloc": "right"
+    },
+    {
+     "id": 38,
+     "name": {
+      "en": "Hatsiyonim Haklaliyim",
+      "he": "הציונים הכלליים"
+     },
+     "seats": 13,
+     "bloc": "right"
+    },
+    {
+     "id": 79,
+     "name": {
+      "en": "Mafdal",
+      "he": "מפד\"ל"
+     },
+     "seats": 11,
+     "bloc": "religious"
+    },
+    {
+     "id": 3,
+     "name": {
+      "en": "Achdut Haavoda - Poaley",
+      "he": "אחדות העבודה-פועלי ציון"
+     },
+     "seats": 10,
+     "bloc": "left"
+    },
+    {
+     "id": 77,
+     "name": {
+      "en": "Mapam",
+      "he": "מפ\"ם"
+     },
+     "seats": 9,
+     "bloc": "left"
+    },
+    {
+     "id": 1,
+     "name": {
+      "en": "Agudat Yisrael - Poaley",
+      "he": "אגודת ישראל-פועלי אגודת ישראל"
+     },
+     "seats": 6,
+     "bloc": "religious"
+    },
+    {
+     "id": 83,
+     "name": {
+      "en": "Maki",
+      "he": "מק\"י"
+     },
+     "seats": 6,
+     "bloc": "left"
+    },
+    {
+     "id": 30,
+     "name": {
+      "en": "Hamiflaga Hprogresivit",
+      "he": "המפלגה הפרוגרסיבית"
+     },
+     "seats": 5,
+     "bloc": "centre"
+    },
+    {
+     "id": 104,
+     "name": {
+      "en": "Reshima Demokratit laraviyey",
+      "he": "רשימה דמוקרטית לערביי ישראל"
+     },
+     "seats": 2,
+     "bloc": "arab"
+    },
+    {
+     "id": 94,
+     "name": {
+      "en": "Kadima VeAvoda",
+      "he": "קידמה ועבודה"
+     },
+     "seats": 2,
+     "bloc": "arab"
+    },
+    {
+     "id": 55,
+     "name": {
+      "en": "Haklaut VePituah",
+      "he": "חקלאות ופיתוח"
+     },
+     "seats": 1,
+     "bloc": "arab"
+    }
+   ]
+  },
+  {
+   "term": 4,
+   "government": 9,
+   "year": 1959,
+   "pm": "ben-gurion",
+   "seats": 120,
+   "results": [
+    {
+     "id": 78,
+     "name": {
+      "en": "Mapai",
+      "he": "מפא\"י"
+     },
+     "seats": 47,
+     "bloc": "left"
+    },
+    {
+     "id": 56,
+     "name": {
+      "en": "Herut",
+      "he": "חרות"
+     },
+     "seats": 17,
+     "bloc": "right"
+    },
+    {
+     "id": 79,
+     "name": {
+      "en": "Mafdal",
+      "he": "מפד\"ל"
+     },
+     "seats": 12,
+     "bloc": "religious"
+    },
+    {
+     "id": 77,
+     "name": {
+      "en": "Mapam",
+      "he": "מפ\"ם"
+     },
+     "seats": 9,
+     "bloc": "left"
+    },
+    {
+     "id": 38,
+     "name": {
+      "en": "Hatsiyonim Haklaliyim",
+      "he": "הציונים הכלליים"
+     },
+     "seats": 8,
+     "bloc": "right"
+    },
+    {
+     "id": 3,
+     "name": {
+      "en": "Achdut Haavoda - Poaley",
+      "he": "אחדות העבודה-פועלי ציון"
+     },
+     "seats": 7,
+     "bloc": "left"
+    },
+    {
+     "id": 54,
+     "name": {
+      "en": "Hazit Datit Toratit",
+      "he": "חזית דתית תורתית"
+     },
+     "seats": 6,
+     "bloc": "religious"
+    },
+    {
+     "id": 30,
+     "name": {
+      "en": "Hamiflaga Hprogresivit",
+      "he": "המפלגה הפרוגרסיבית"
+     },
+     "seats": 6,
+     "bloc": "centre"
+    },
+    {
+     "id": 83,
+     "name": {
+      "en": "Maki",
+      "he": "מק\"י"
+     },
+     "seats": 3,
+     "bloc": "left"
+    },
+    {
+     "id": 95,
+     "name": {
+      "en": "Kidma Vepituah",
+      "he": "קידמה ופיתוח"
+     },
+     "seats": 2,
+     "bloc": "arab"
+    },
+    {
+     "id": 108,
+     "name": {
+      "en": "Shituf Veahva",
+      "he": "שיתוף ואחווה"
+     },
+     "seats": 2,
+     "bloc": "arab"
+    },
+    {
+     "id": 55,
+     "name": {
+      "en": "Haklaut VePituah",
+      "he": "חקלאות ופיתוח"
+     },
+     "seats": 1,
+     "bloc": "arab"
+    }
+   ]
+  },
+  {
+   "term": 5,
+   "government": 10,
+   "year": 1961,
+   "pm": "ben-gurion",
+   "seats": 120,
+   "results": [
+    {
+     "id": 78,
+     "name": {
+      "en": "Mapai",
+      "he": "מפא\"י"
+     },
+     "seats": 42,
+     "bloc": "left"
+    },
+    {
+     "id": 56,
+     "name": {
+      "en": "Herut",
+      "he": "חרות"
+     },
+     "seats": 17,
+     "bloc": "right"
+    },
+    {
+     "id": 29,
+     "name": {
+      "en": "Hamiflaga Haliberalit",
+      "he": "המפלגה הליברלית"
+     },
+     "seats": 17,
+     "bloc": "right"
+    },
+    {
+     "id": 79,
+     "name": {
+      "en": "Mafdal",
+      "he": "מפד\"ל"
+     },
+     "seats": 12,
+     "bloc": "religious"
+    },
+    {
+     "id": 77,
+     "name": {
+      "en": "Mapam",
+      "he": "מפ\"ם"
+     },
+     "seats": 9,
+     "bloc": "left"
+    },
+    {
+     "id": 3,
+     "name": {
+      "en": "Achdut Haavoda - Poaley",
+      "he": "אחדות העבודה-פועלי ציון"
+     },
+     "seats": 8,
+     "bloc": "left"
+    },
+    {
+     "id": 83,
+     "name": {
+      "en": "Maki",
+      "he": "מק\"י"
+     },
+     "seats": 5,
+     "bloc": "left"
+    },
+    {
+     "id": 0,
+     "name": {
+      "en": "Agudat Yisrael",
+      "he": "אגודת ישראל"
+     },
+     "seats": 4,
+     "bloc": "religious"
+    },
+    {
+     "id": 90,
+     "name": {
+      "en": "Poaley Agudat Yisrael",
+      "he": "פועלי אגודת ישראל"
+     },
+     "seats": 2,
+     "bloc": "religious"
+    },
+    {
+     "id": 108,
+     "name": {
+      "en": "Shituf Veahva",
+      "he": "שיתוף ואחווה"
+     },
+     "seats": 2,
+     "bloc": "arab"
+    },
+    {
+     "id": 95,
+     "name": {
+      "en": "Kidma Vepituah",
+      "he": "קידמה ופיתוח"
+     },
+     "seats": 2,
+     "bloc": "arab"
+    }
+   ]
+  },
+  {
+   "term": 5,
+   "government": 11,
+   "year": 1963,
+   "pm": "eshkol",
+   "seats": 120,
+   "results": [
+    {
+     "id": 78,
+     "name": {
+      "en": "Mapai",
+      "he": "מפא\"י"
+     },
+     "seats": 42,
+     "bloc": "left"
+    },
+    {
+     "id": 56,
+     "name": {
+      "en": "Herut",
+      "he": "חרות"
+     },
+     "seats": 17,
+     "bloc": "right"
+    },
+    {
+     "id": 29,
+     "name": {
+      "en": "Hamiflaga Haliberalit",
+      "he": "המפלגה הליברלית"
+     },
+     "seats": 17,
+     "bloc": "right"
+    },
+    {
+     "id": 79,
+     "name": {
+      "en": "Mafdal",
+      "he": "מפד\"ל"
+     },
+     "seats": 12,
+     "bloc": "religious"
+    },
+    {
+     "id": 77,
+     "name": {
+      "en": "Mapam",
+      "he": "מפ\"ם"
+     },
+     "seats": 9,
+     "bloc": "left"
+    },
+    {
+     "id": 3,
+     "name": {
+      "en": "Achdut Haavoda - Poaley",
+      "he": "אחדות העבודה-פועלי ציון"
+     },
+     "seats": 8,
+     "bloc": "left"
+    },
+    {
+     "id": 83,
+     "name": {
+      "en": "Maki",
+      "he": "מק\"י"
+     },
+     "seats": 5,
+     "bloc": "left"
+    },
+    {
+     "id": 0,
+     "name": {
+      "en": "Agudat Yisrael",
+      "he": "אגודת ישראל"
+     },
+     "seats": 4,
+     "bloc": "religious"
+    },
+    {
+     "id": 90,
+     "name": {
+      "en": "Poaley Agudat Yisrael",
+      "he": "פועלי אגודת ישראל"
+     },
+     "seats": 2,
+     "bloc": "religious"
+    },
+    {
+     "id": 108,
+     "name": {
+      "en": "Shituf Veahva",
+      "he": "שיתוף ואחווה"
+     },
+     "seats": 2,
+     "bloc": "arab"
+    },
+    {
+     "id": 95,
+     "name": {
+      "en": "Kidma Vepituah",
+      "he": "קידמה ופיתוח"
+     },
+     "seats": 2,
+     "bloc": "arab"
+    }
+   ]
+  },
+  {
+   "term": 5,
+   "government": 12,
+   "year": 1964,
+   "pm": "eshkol",
+   "seats": 120,
+   "results": [
+    {
+     "id": 78,
+     "name": {
+      "en": "Mapai",
+      "he": "מפא\"י"
+     },
+     "seats": 41,
+     "bloc": "left"
+    },
+    {
+     "id": 56,
+     "name": {
+      "en": "Herut",
+      "he": "חרות"
+     },
+     "seats": 17,
+     "bloc": "right"
+    },
+    {
+     "id": 29,
+     "name": {
+      "en": "Hamiflaga Haliberalit",
+      "he": "המפלגה הליברלית"
+     },
+     "seats": 17,
+     "bloc": "right"
+    },
+    {
+     "id": 79,
+     "name": {
+      "en": "Mafdal",
+      "he": "מפד\"ל"
+     },
+     "seats": 12,
+     "bloc": "religious"
+    },
+    {
+     "id": 77,
+     "name": {
+      "en": "Mapam",
+      "he": "מפ\"ם"
+     },
+     "seats": 9,
+     "bloc": "left"
+    },
+    {
+     "id": 3,
+     "name": {
+      "en": "Achdut Haavoda - Poaley",
+      "he": "אחדות העבודה-פועלי ציון"
+     },
+     "seats": 8,
+     "bloc": "left"
+    },
+    {
+     "id": 83,
+     "name": {
+      "en": "Maki",
+      "he": "מק\"י"
+     },
+     "seats": 5,
+     "bloc": "left"
+    },
+    {
+     "id": 0,
+     "name": {
+      "en": "Agudat Yisrael",
+      "he": "אגודת ישראל"
+     },
+     "seats": 4,
+     "bloc": "religious"
+    },
+    {
+     "id": 90,
+     "name": {
+      "en": "Poaley Agudat Yisrael",
+      "he": "פועלי אגודת ישראל"
+     },
+     "seats": 2,
+     "bloc": "religious"
+    },
+    {
+     "id": 108,
+     "name": {
+      "en": "Shituf Veahva",
+      "he": "שיתוף ואחווה"
+     },
+     "seats": 2,
+     "bloc": "arab"
+    },
+    {
+     "id": 95,
+     "name": {
+      "en": "Kidma Vepituah",
+      "he": "קידמה ופיתוח"
+     },
+     "seats": 2,
+     "bloc": "arab"
+    },
+    {
+     "id": 86,
+     "name": {
+      "en": "Siat Yahid",
+      "he": "סיעת יחיד"
+     },
+     "seats": 1,
+     "bloc": "left"
+    }
+   ]
+  },
+  {
+   "term": 6,
+   "government": 13,
+   "year": 1966,
+   "pm": "eshkol",
+   "seats": 120,
+   "results": [
+    {
+     "id": 26,
+     "name": {
+      "en": "Hamaarah",
+      "he": "המערך"
+     },
+     "seats": 45,
+     "bloc": "left"
+    },
+    {
+     "id": 7,
+     "name": {
+      "en": "Gahal",
+      "he": "גח\"ל"
+     },
+     "seats": 26,
+     "bloc": "right"
+    },
+    {
+     "id": 79,
+     "name": {
+      "en": "Mafdal",
+      "he": "מפד\"ל"
+     },
+     "seats": 11,
+     "bloc": "religious"
+    },
+    {
+     "id": 100,
+     "name": {
+      "en": "Rafi",
+      "he": "רפ\"י"
+     },
+     "seats": 10,
+     "bloc": "left"
+    },
+    {
+     "id": 77,
+     "name": {
+      "en": "Mapam",
+      "he": "מפ\"ם"
+     },
+     "seats": 8,
+     "bloc": "left"
+    },
+    {
+     "id": 69,
+     "name": {
+      "en": "Liberim Atsmaiyim",
+      "he": "ליברלים עצמאיים"
+     },
+     "seats": 5,
+     "bloc": "right"
+    },
+    {
+     "id": 0,
+     "name": {
+      "en": "Agudat Yisrael",
+      "he": "אגודת ישראל"
+     },
+     "seats": 4,
+     "bloc": "religious"
+    },
+    {
+     "id": 103,
+     "name": {
+      "en": "Rakah",
+      "he": "רק\"ח"
+     },
+     "seats": 3,
+     "bloc": "left"
+    },
+    {
+     "id": 90,
+     "name": {
+      "en": "Poaley Agudat Yisrael",
+      "he": "פועלי אגודת ישראל"
+     },
+     "seats": 2,
+     "bloc": "religious"
+    },
+    {
+     "id": 95,
+     "name": {
+      "en": "Kidma Vepituah",
+      "he": "קידמה ופיתוח"
+     },
+     "seats": 2,
+     "bloc": "arab"
+    },
+    {
+     "id": 108,
+     "name": {
+      "en": "Shituf Veahva",
+      "he": "שיתוף ואחווה"
+     },
+     "seats": 2,
+     "bloc": "arab"
+    },
+    {
+     "id": 36,
+     "name": {
+      "en": "Haolam Haze - Koah",
+      "he": "העולם הזה - כח חדש"
+     },
+     "seats": 1,
+     "bloc": "left"
+    },
+    {
+     "id": 83,
+     "name": {
+      "en": "Maki",
+      "he": "מק\"י"
+     },
+     "seats": 1,
+     "bloc": "left"
+    }
+   ]
+  },
+  {
+   "term": 6,
+   "government": 14,
+   "year": 1969,
+   "pm": "meir",
+   "seats": 120,
+   "results": [
+    {
+     "id": 26,
+     "name": {
+      "en": "Hamaarah",
+      "he": "המערך"
+     },
+     "seats": 63,
+     "bloc": "left"
+    },
+    {
+     "id": 7,
+     "name": {
+      "en": "Gahal",
+      "he": "גח\"ל"
+     },
+     "seats": 22,
+     "bloc": "right"
+    },
+    {
+     "id": 79,
+     "name": {
+      "en": "Mafdal",
+      "he": "מפד\"ל"
+     },
+     "seats": 11,
+     "bloc": "religious"
+    },
+    {
+     "id": 32,
+     "name": {
+      "en": "Hamerkaz Hahofshi",
+      "he": "המרכז החופשי"
+     },
+     "seats": 4,
+     "bloc": "left"
+    },
+    {
+     "id": 69,
+     "name": {
+      "en": "Liberim Atsmaiyim",
+      "he": "ליברלים עצמאיים"
+     },
+     "seats": 4,
+     "bloc": "right"
+    },
+    {
+     "id": 0,
+     "name": {
+      "en": "Agudat Yisrael",
+      "he": "אגודת ישראל"
+     },
+     "seats": 4,
+     "bloc": "religious"
+    },
+    {
+     "id": 103,
+     "name": {
+      "en": "Rakah",
+      "he": "רק\"ח"
+     },
+     "seats": 3,
+     "bloc": "left"
+    },
+    {
+     "id": 90,
+     "name": {
+      "en": "Poaley Agudat Yisrael",
+      "he": "פועלי אגודת ישראל"
+     },
+     "seats": 2,
+     "bloc": "religious"
+    },
+    {
+     "id": 95,
+     "name": {
+      "en": "Kidma Vepituah",
+      "he": "קידמה ופיתוח"
+     },
+     "seats": 1,
+     "bloc": "arab"
+    },
+    {
+     "id": 108,
+     "name": {
+      "en": "Shituf Veahva",
+      "he": "שיתוף ואחווה"
+     },
+     "seats": 1,
+     "bloc": "arab"
+    },
+    {
+     "id": 12,
+     "name": {
+      "en": "David Ben Gurion",
+      "he": "דוד בן גוריון"
+     },
+     "seats": 1,
+     "bloc": "left"
+    },
+    {
+     "id": 36,
+     "name": {
+      "en": "Haolam Haze - Koah",
+      "he": "העולם הזה - כח חדש"
+     },
+     "seats": 1,
+     "bloc": "left"
+    },
+    {
+     "id": 85,
+     "name": {
+      "en": "Sia Druzit Yisraelit",
+      "he": "סיעה דרוזית ישראלית"
+     },
+     "seats": 1,
+     "bloc": "sectorial"
+    },
+    {
+     "id": 4,
+     "name": {
+      "en": "Achva Yehudit Aravit",
+      "he": "אחווה יהודית ערבית"
+     },
+     "seats": 1,
+     "bloc": "arab"
+    },
+    {
+     "id": 83,
+     "name": {
+      "en": "Maki",
+      "he": "מק\"י"
+     },
+     "seats": 1,
+     "bloc": "left"
+    }
+   ]
+  },
+  {
+   "term": 7,
+   "government": 15,
+   "year": 1969,
+   "pm": "meir",
+   "seats": 120,
+   "results": [
+    {
+     "id": 26,
+     "name": {
+      "en": "Hamaarah",
+      "he": "המערך"
+     },
+     "seats": 56,
+     "bloc": "left"
+    },
+    {
+     "id": 7,
+     "name": {
+      "en": "Gahal",
+      "he": "גח\"ל"
+     },
+     "seats": 26,
+     "bloc": "right"
+    },
+    {
+     "id": 79,
+     "name": {
+      "en": "Mafdal",
+      "he": "מפד\"ל"
+     },
+     "seats": 12,
+     "bloc": "religious"
+    },
+    {
+     "id": 69,
+     "name": {
+      "en": "Liberim Atsmaiyim",
+      "he": "ליברלים עצמאיים"
+     },
+     "seats": 4,
+     "bloc": "right"
+    },
+    {
+     "id": 0,
+     "name": {
+      "en": "Agudat Yisrael",
+      "he": "אגודת ישראל"
+     },
+     "seats": 4,
+     "bloc": "religious"
+    },
+    {
+     "id": 40,
+     "name": {
+      "en": "Hareshima Hamamlahtit",
+      "he": "הרשימה הממלכתית"
+     },
+     "seats": 4,
+     "bloc": "left"
+    },
+    {
+     "id": 103,
+     "name": {
+      "en": "Rakah",
+      "he": "רק\"ח"
+     },
+     "seats": 3,
+     "bloc": "left"
+    },
+    {
+     "id": 95,
+     "name": {
+      "en": "Kidma Vepituah",
+      "he": "קידמה ופיתוח"
+     },
+     "seats": 2,
+     "bloc": "arab"
+    },
+    {
+     "id": 108,
+     "name": {
+      "en": "Shituf Veahva",
+      "he": "שיתוף ואחווה"
+     },
+     "seats": 2,
+     "bloc": "arab"
+    },
+    {
+     "id": 90,
+     "name": {
+      "en": "Poaley Agudat Yisrael",
+      "he": "פועלי אגודת ישראל"
+     },
+     "seats": 2,
+     "bloc": "religious"
+    },
+    {
+     "id": 36,
+     "name": {
+      "en": "Haolam Haze - Koah",
+      "he": "העולם הזה - כח חדש"
+     },
+     "seats": 2,
+     "bloc": "left"
+    },
+    {
+     "id": 32,
+     "name": {
+      "en": "Hamerkaz Hahofshi",
+      "he": "המרכז החופשי"
+     },
+     "seats": 2,
+     "bloc": "right"
+    },
+    {
+     "id": 83,
+     "name": {
+      "en": "Maki",
+      "he": "מק\"י"
+     },
+     "seats": 1,
+     "bloc": "left"
+    }
+   ]
+  },
+  {
+   "term": 8,
+   "government": 16,
+   "year": 1974,
+   "pm": "meir",
+   "seats": 120,
+   "results": [
+    {
+     "id": 26,
+     "name": {
+      "en": "Hamaarah",
+      "he": "המערך"
+     },
+     "seats": 51,
+     "bloc": "left"
+    },
+    {
+     "id": 20,
+     "name": {
+      "en": "Halikud",
+      "he": "הליכוד"
+     },
+     "seats": 39,
+     "bloc": "right"
+    },
+    {
+     "id": 79,
+     "name": {
+      "en": "Mafdal",
+      "he": "מפד\"ל"
+     },
+     "seats": 10,
+     "bloc": "religious"
+    },
+    {
+     "id": 54,
+     "name": {
+      "en": "Hazit Datit Toratit",
+      "he": "חזית דתית תורתית"
+     },
+     "seats": 5,
+     "bloc": "religious"
+    },
+    {
+     "id": 69,
+     "name": {
+      "en": "Liberim Atsmaiyim",
+      "he": "ליברלים עצמאיים"
+     },
+     "seats": 4,
+     "bloc": "right"
+    },
+    {
+     "id": 103,
+     "name": {
+      "en": "Rakah",
+      "he": "רק\"ח"
+     },
+     "seats": 4,
+     "bloc": "left"
+    },
+    {
+     "id": 102,
+     "name": {
+      "en": "Rats",
+      "he": "רצ"
+     },
+     "seats": 3,
+     "bloc": "left"
+    },
+    {
+     "id": 95,
+     "name": {
+      "en": "Kidma Vepituah",
+      "he": "קידמה ופיתוח"
+     },
+     "seats": 2,
+     "bloc": "arab"
+    },
+    {
+     "id": 105,
+     "name": {
+      "en": "Reshima Aravit lebeduim",
+      "he": "רשמה ערבית לבדואים וכפריים"
+     },
+     "seats": 1,
+     "bloc": "arab"
+    },
+    {
+     "id": 73,
+     "name": {
+      "en": "Moked",
+      "he": "מוקד"
+     },
+     "seats": 1,
+     "bloc": "left"
+    }
+   ]
+  },
+  {
+   "term": 8,
+   "government": 17,
+   "year": 1974,
+   "pm": "rabin",
+   "seats": 120,
+   "results": [
+    {
+     "id": 26,
+     "name": {
+      "en": "Hamaarah",
+      "he": "המערך"
+     },
+     "seats": 54,
+     "bloc": "left"
+    },
+    {
+     "id": 20,
+     "name": {
+      "en": "Halikud",
+      "he": "הליכוד"
+     },
+     "seats": 39,
+     "bloc": "right"
+    },
+    {
+     "id": 79,
+     "name": {
+      "en": "Mafdal",
+      "he": "מפד\"ל"
+     },
+     "seats": 10,
+     "bloc": "religious"
+    },
+    {
+     "id": 54,
+     "name": {
+      "en": "Hazit Datit Toratit",
+      "he": "חזית דתית תורתית"
+     },
+     "seats": 5,
+     "bloc": "religious"
+    },
+    {
+     "id": 69,
+     "name": {
+      "en": "Liberim Atsmaiyim",
+      "he": "ליברלים עצמאיים"
+     },
+     "seats": 4,
+     "bloc": "right"
+    },
+    {
+     "id": 103,
+     "name": {
+      "en": "Rakah",
+      "he": "רק\"ח"
+     },
+     "seats": 4,
+     "bloc": "left"
+    },
+    {
+     "id": 102,
+     "name": {
+      "en": "Rats",
+      "he": "רצ"
+     },
+     "seats": 3,
+     "bloc": "left"
+    },
+    {
+     "id": 73,
+     "name": {
+      "en": "Moked",
+      "he": "מוקד"
+     },
+     "seats": 1,
+     "bloc": "left"
+    }
+   ]
+  },
+  {
+   "term": 9,
+   "government": 18,
+   "year": 1977,
+   "pm": "begin",
+   "seats": 120,
+   "results": [
+    {
+     "id": 20,
+     "name": {
+      "en": "Halikud",
+      "he": "הליכוד"
+     },
+     "seats": 43,
+     "bloc": "right"
+    },
+    {
+     "id": 26,
+     "name": {
+      "en": "Hamaarah",
+      "he": "המערך"
+     },
+     "seats": 32,
+     "bloc": "left"
+    },
+    {
+     "id": 10,
+     "name": {
+      "en": "Dash",
+      "he": "ד\"ש"
+     },
+     "seats": 15,
+     "bloc": "left"
+    },
+    {
+     "id": 79,
+     "name": {
+      "en": "Mafdal",
+      "he": "מפד\"ל"
+     },
+     "seats": 12,
+     "bloc": "religious"
+    },
+    {
+     "id": 49,
+     "name": {
+      "en": "Hadash",
+      "he": "חד\"ש"
+     },
+     "seats": 5,
+     "bloc": "left"
+    },
+    {
+     "id": 0,
+     "name": {
+      "en": "Agudat Yisrael",
+      "he": "אגודת ישראל"
+     },
+     "seats": 4,
+     "bloc": "religious"
+    },
+    {
+     "id": 109,
+     "name": {
+      "en": "Shlomtsion",
+      "he": "שלומציון"
+     },
+     "seats": 2,
+     "bloc": "right"
+    },
+    {
+     "id": 76,
+     "name": {
+      "en": "Mahane Sheli",
+      "he": "מחנה של\"י"
+     },
+     "seats": 2,
+     "bloc": "left"
+    },
+    {
+     "id": 91,
+     "name": {
+      "en": "Plato Sharon",
+      "he": "פלאטו שרון"
+     },
+     "seats": 1,
+     "bloc": "sectorial"
+    },
+    {
+     "id": 96,
+     "name": {
+      "en": "Raam",
+      "he": "רע\"ם"
+     },
+     "seats": 1,
+     "bloc": "arab"
+    },
+    {
+     "id": 90,
+     "name": {
+      "en": "Poaley Agudat Yisrael",
+      "he": "פועלי אגודת ישראל"
+     },
+     "seats": 1,
+     "bloc": "religious"
+    },
+    {
+     "id": 102,
+     "name": {
+      "en": "Rats",
+      "he": "רצ"
+     },
+     "seats": 1,
+     "bloc": "left"
+    },
+    {
+     "id": 69,
+     "name": {
+      "en": "Liberim Atsmaiyim",
+      "he": "ליברלים עצמאיים"
+     },
+     "seats": 1,
+     "bloc": "right"
+    }
+   ]
+  },
+  {
+   "term": 10,
+   "government": 19,
+   "year": 1981,
+   "pm": "begin",
+   "seats": 120,
+   "results": [
+    {
+     "id": 20,
+     "name": {
+      "en": "Halikud",
+      "he": "הליכוד"
+     },
+     "seats": 48,
+     "bloc": "right"
+    },
+    {
+     "id": 26,
+     "name": {
+      "en": "Hamaarah",
+      "he": "המערך"
+     },
+     "seats": 47,
+     "bloc": "left"
+    },
+    {
+     "id": 79,
+     "name": {
+      "en": "Mafdal",
+      "he": "מפד\"ל"
+     },
+     "seats": 6,
+     "bloc": "religious"
+    },
+    {
+     "id": 0,
+     "name": {
+      "en": "Agudat Yisrael",
+      "he": "אגודת ישראל"
+     },
+     "seats": 4,
+     "bloc": "religious"
+    },
+    {
+     "id": 49,
+     "name": {
+      "en": "Hadash",
+      "he": "חד\"ש"
+     },
+     "seats": 4,
+     "bloc": "left"
+    },
+    {
+     "id": 110,
+     "name": {
+      "en": "Tami",
+      "he": "תמ\"י"
+     },
+     "seats": 3,
+     "bloc": "religious"
+    },
+    {
+     "id": 45,
+     "name": {
+      "en": "Hathiya",
+      "he": "התחייה"
+     },
+     "seats": 3,
+     "bloc": "right"
+    },
+    {
+     "id": 111,
+     "name": {
+      "en": "Tnua Lhidhadshut",
+      "he": "תנועה להתחדשות ממלכית"
+     },
+     "seats": 2,
+     "bloc": "left"
+    },
+    {
+     "id": 107,
+     "name": {
+      "en": "Shinuy",
+      "he": "שינוי"
+     },
+     "seats": 2,
+     "bloc": "left"
+    },
+    {
+     "id": 102,
+     "name": {
+      "en": "Rats",
+      "he": "רצ"
+     },
+     "seats": 1,
+     "bloc": "left"
+    }
+   ]
+  },
+  {
+   "term": 10,
+   "government": 20,
+   "year": 1983,
+   "pm": "shamir",
+   "seats": 120,
+   "results": [
+    {
+     "id": 26,
+     "name": {
+      "en": "Hamaarah",
+      "he": "המערך"
+     },
+     "seats": 50,
+     "bloc": "left"
+    },
+    {
+     "id": 20,
+     "name": {
+      "en": "Halikud",
+      "he": "הליכוד"
+     },
+     "seats": 46,
+     "bloc": "right"
+    },
+    {
+     "id": 79,
+     "name": {
+      "en": "Mafdal",
+      "he": "מפד\"ל"
+     },
+     "seats": 5,
+     "bloc": "religious"
+    },
+    {
+     "id": 0,
+     "name": {
+      "en": "Agudat Yisrael",
+      "he": "אגודת ישראל"
+     },
+     "seats": 4,
+     "bloc": "religious"
+    },
+    {
+     "id": 49,
+     "name": {
+      "en": "Hadash",
+      "he": "חד\"ש"
+     },
+     "seats": 4,
+     "bloc": "left"
+    },
+    {
+     "id": 110,
+     "name": {
+      "en": "Tami",
+      "he": "תמ\"י"
+     },
+     "seats": 3,
+     "bloc": "religious"
+    },
+    {
+     "id": 45,
+     "name": {
+      "en": "Hathiya",
+      "he": "התחייה"
+     },
+     "seats": 3,
+     "bloc": "right"
+    },
+    {
+     "id": 107,
+     "name": {
+      "en": "Shinuy",
+      "he": "שינוי"
+     },
+     "seats": 2,
+     "bloc": "left"
+    },
+    {
+     "id": 47,
+     "name": {
+      "en": "Hanua Lhithadshut",
+      "he": "התנועה להתחדשות ציונית חברתית"
+     },
+     "seats": 1,
+     "bloc": "left"
+    },
+    {
+     "id": 101,
+     "name": {
+      "en": "Rafi - Hareshima",
+      "he": "רפ\"י - הרשימה הממלכתית"
+     },
+     "seats": 1,
+     "bloc": "centre"
+    },
+    {
+     "id": 82,
+     "name": {
+      "en": "Matsad",
+      "he": "מצ\"ד"
+     },
+     "seats": 1,
+     "bloc": "religious"
+    }
+   ]
+  },
+  {
+   "term": 11,
+   "government": 21,
+   "year": 1984,
+   "pm": "peres",
+   "seats": 120,
+   "results": [
+    {
+     "id": 26,
+     "name": {
+      "en": "Hamaarah",
+      "he": "המערך"
+     },
+     "seats": 44,
+     "bloc": "left"
+    },
+    {
+     "id": 20,
+     "name": {
+      "en": "Halikud",
+      "he": "הליכוד"
+     },
+     "seats": 41,
+     "bloc": "right"
+    },
+    {
+     "id": 44,
+     "name": {
+      "en": "Hathiya - Tsomet",
+      "he": "התחיה-צומת"
+     },
+     "seats": 5,
+     "bloc": "right"
+    },
+    {
+     "id": 27,
+     "name": {
+      "en": "Hamafdal",
+      "he": "המפד\"ל"
+     },
+     "seats": 4,
+     "bloc": "religious"
+    },
+    {
+     "id": 106,
+     "name": {
+      "en": "Shas",
+      "he": "ש\"ס"
+     },
+     "seats": 4,
+     "bloc": "religious"
+    },
+    {
+     "id": 49,
+     "name": {
+      "en": "Hadash",
+      "he": "חד\"ש"
+     },
+     "seats": 4,
+     "bloc": "left"
+    },
+    {
+     "id": 107,
+     "name": {
+      "en": "Shinuy",
+      "he": "שינוי"
+     },
+     "seats": 3,
+     "bloc": "left"
+    },
+    {
+     "id": 58,
+     "name": {
+      "en": "Yahad",
+      "he": "יחד"
+     },
+     "seats": 3,
+     "bloc": "left"
+    },
+    {
+     "id": 102,
+     "name": {
+      "en": "Rats",
+      "he": "רצ"
+     },
+     "seats": 3,
+     "bloc": "left"
+    },
+    {
+     "id": 0,
+     "name": {
+      "en": "Agudat Yisrael",
+      "he": "אגודת ישראל"
+     },
+     "seats": 2,
+     "bloc": "religious"
+    },
+    {
+     "id": 74,
+     "name": {
+      "en": "Morasha",
+      "he": "מורשה"
+     },
+     "seats": 2,
+     "bloc": "religious"
+    },
+    {
+     "id": 42,
+     "name": {
+      "en": "Hreshima Hamitkatemet",
+      "he": "הרשימה המתקדמת לשלום"
+     },
+     "seats": 2,
+     "bloc": "arab"
+    },
+    {
+     "id": 2,
+     "name": {
+      "en": "Omets",
+      "he": "אומץ"
+     },
+     "seats": 1,
+     "bloc": "right"
+    },
+    {
+     "id": 110,
+     "name": {
+      "en": "Tami",
+      "he": "תמ\"י"
+     },
+     "seats": 1,
+     "bloc": "religious"
+    },
+    {
+     "id": 66,
+     "name": {
+      "en": "Nah",
+      "he": "כ\"ך"
+     },
+     "seats": 1,
+     "bloc": "right"
+    }
+   ]
+  },
+  {
+   "term": 11,
+   "government": 22,
+   "year": 1986,
+   "pm": "shamir",
+   "seats": 120,
+   "results": [
+    {
+     "id": 20,
+     "name": {
+      "en": "Halikud",
+      "he": "הליכוד"
+     },
+     "seats": 41,
+     "bloc": "right"
+    },
+    {
+     "id": 26,
+     "name": {
+      "en": "Hamaarah",
+      "he": "המערך"
+     },
+     "seats": 40,
+     "bloc": "left"
+    },
+    {
+     "id": 77,
+     "name": {
+      "en": "Mapam",
+      "he": "מפ\"ם"
+     },
+     "seats": 6,
+     "bloc": "left"
+    },
+    {
+     "id": 27,
+     "name": {
+      "en": "Hamafdal",
+      "he": "המפד\"ל"
+     },
+     "seats": 5,
+     "bloc": "religious"
+    },
+    {
+     "id": 44,
+     "name": {
+      "en": "Hathiya - Tsomet",
+      "he": "התחיה-צומת"
+     },
+     "seats": 5,
+     "bloc": "right"
+    },
+    {
+     "id": 106,
+     "name": {
+      "en": "Shas",
+      "he": "ש\"ס"
+     },
+     "seats": 4,
+     "bloc": "religious"
+    },
+    {
+     "id": 49,
+     "name": {
+      "en": "Hadash",
+      "he": "חד\"ש"
+     },
+     "seats": 4,
+     "bloc": "left"
+    },
+    {
+     "id": 102,
+     "name": {
+      "en": "Rats",
+      "he": "רצ"
+     },
+     "seats": 4,
+     "bloc": "left"
+    },
+    {
+     "id": 107,
+     "name": {
+      "en": "Shinuy",
+      "he": "שינוי"
+     },
+     "seats": 3,
+     "bloc": "left"
+    },
+    {
+     "id": 0,
+     "name": {
+      "en": "Agudat Yisrael",
+      "he": "אגודת ישראל"
+     },
+     "seats": 2,
+     "bloc": "religious"
+    },
+    {
+     "id": 42,
+     "name": {
+      "en": "Hreshima Hamitkatemet",
+      "he": "הרשימה המתקדמת לשלום"
+     },
+     "seats": 2,
+     "bloc": "arab"
+    },
+    {
+     "id": 75,
+     "name": {
+      "en": "Morasha - Pai",
+      "he": "מורשה-פא\"י"
+     },
+     "seats": 1,
+     "bloc": "religious"
+    },
+    {
+     "id": 2,
+     "name": {
+      "en": "Omets",
+      "he": "אומץ"
+     },
+     "seats": 1,
+     "bloc": "right"
+    },
+    {
+     "id": 110,
+     "name": {
+      "en": "Tami",
+      "he": "תמ\"י"
+     },
+     "seats": 1,
+     "bloc": "religious"
+    },
+    {
+     "id": 66,
+     "name": {
+      "en": "Nah",
+      "he": "כ\"ך"
+     },
+     "seats": 1,
+     "bloc": "right"
+    },
+    {
+     "id": 58,
+     "name": {
+      "en": "Yahad",
+      "he": "יחד"
+     },
+     "seats": 0,
+     "bloc": "left"
+    }
+   ]
+  },
+  {
+   "term": 12,
+   "government": 23,
+   "year": 1988,
+   "pm": "shamir",
+   "seats": 120,
+   "results": [
+    {
+     "id": 20,
+     "name": {
+      "en": "Halikud",
+      "he": "הליכוד"
+     },
+     "seats": 40,
+     "bloc": "right"
+    },
+    {
+     "id": 26,
+     "name": {
+      "en": "Hamaarah",
+      "he": "המערך"
+     },
+     "seats": 39,
+     "bloc": "left"
+    },
+    {
+     "id": 106,
+     "name": {
+      "en": "Shas",
+      "he": "ש\"ס"
+     },
+     "seats": 6,
+     "bloc": "religious"
+    },
+    {
+     "id": 0,
+     "name": {
+      "en": "Agudat Yisrael",
+      "he": "אגודת ישראל"
+     },
+     "seats": 5,
+     "bloc": "religious"
+    },
+    {
+     "id": 79,
+     "name": {
+      "en": "Mafdal",
+      "he": "מפד\"ל"
+     },
+     "seats": 5,
+     "bloc": "religious"
+    },
+    {
+     "id": 102,
+     "name": {
+      "en": "Rats",
+      "he": "רצ"
+     },
+     "seats": 5,
+     "bloc": "left"
+    },
+    {
+     "id": 49,
+     "name": {
+      "en": "Hadash",
+      "he": "חד\"ש"
+     },
+     "seats": 4,
+     "bloc": "left"
+    },
+    {
+     "id": 45,
+     "name": {
+      "en": "Hathiya",
+      "he": "התחייה"
+     },
+     "seats": 3,
+     "bloc": "right"
+    },
+    {
+     "id": 77,
+     "name": {
+      "en": "Mapam",
+      "he": "מפ\"ם"
+     },
+     "seats": 3,
+     "bloc": "left"
+    },
+    {
+     "id": 11,
+     "name": {
+      "en": "Degel Hatora",
+      "he": "דגל התורה"
+     },
+     "seats": 2,
+     "bloc": "religious"
+    },
+    {
+     "id": 92,
+     "name": {
+      "en": "Tsomet",
+      "he": "צומת"
+     },
+     "seats": 2,
+     "bloc": "right"
+    },
+    {
+     "id": 72,
+     "name": {
+      "en": "Moledet",
+      "he": "מולדת"
+     },
+     "seats": 2,
+     "bloc": "right"
+    },
+    {
+     "id": 107,
+     "name": {
+      "en": "Shinuy",
+      "he": "שינוי"
+     },
+     "seats": 2,
+     "bloc": "left"
+    },
+    {
+     "id": 42,
+     "name": {
+      "en": "Hreshima Hamitkatemet",
+      "he": "הרשימה המתקדמת לשלום"
+     },
+     "seats": 1,
+     "bloc": "arab"
+    },
+    {
+     "id": 70,
+     "name": {
+      "en": "Mada",
+      "he": "מד\"ע"
+     },
+     "seats": 1,
+     "bloc": "arab"
+    }
+   ]
+  },
+  {
+   "term": 12,
+   "government": 24,
+   "year": 1990,
+   "pm": "shamir",
+   "seats": 120,
+   "results": [
+    {
+     "id": 26,
+     "name": {
+      "en": "Hamaarah",
+      "he": "המערך"
+     },
+     "seats": 39,
+     "bloc": "left"
+    },
+    {
+     "id": 20,
+     "name": {
+      "en": "Halikud",
+      "he": "הליכוד"
+     },
+     "seats": 35,
+     "bloc": "right"
+    },
+    {
+     "id": 106,
+     "name": {
+      "en": "Shas",
+      "he": "ש\"ס"
+     },
+     "seats": 6,
+     "bloc": "religious"
+    },
+    {
+     "id": 31,
+     "name": {
+      "en": "Hamiflaga Lekidum",
+      "he": "המפלגה לקידום הרעיון הציוני"
+     },
+     "seats": 5,
+     "bloc": "right"
+    },
+    {
+     "id": 0,
+     "name": {
+      "en": "Agudat Yisrael",
+      "he": "אגודת ישראל"
+     },
+     "seats": 5,
+     "bloc": "religious"
+    },
+    {
+     "id": 79,
+     "name": {
+      "en": "Mafdal",
+      "he": "מפד\"ל"
+     },
+     "seats": 5,
+     "bloc": "religious"
+    },
+    {
+     "id": 102,
+     "name": {
+      "en": "Rats",
+      "he": "רצ"
+     },
+     "seats": 5,
+     "bloc": "left"
+    },
+    {
+     "id": 49,
+     "name": {
+      "en": "Hadash",
+      "he": "חד\"ש"
+     },
+     "seats": 4,
+     "bloc": "left"
+    },
+    {
+     "id": 45,
+     "name": {
+      "en": "Hathiya",
+      "he": "התחייה"
+     },
+     "seats": 3,
+     "bloc": "right"
+    },
+    {
+     "id": 77,
+     "name": {
+      "en": "Mapam",
+      "he": "מפ\"ם"
+     },
+     "seats": 3,
+     "bloc": "left"
+    },
+    {
+     "id": 11,
+     "name": {
+      "en": "Degel Hatora",
+      "he": "דגל התורה"
+     },
+     "seats": 2,
+     "bloc": "religious"
+    },
+    {
+     "id": 92,
+     "name": {
+      "en": "Tsomet",
+      "he": "צומת"
+     },
+     "seats": 2,
+     "bloc": "right"
+    },
+    {
+     "id": 72,
+     "name": {
+      "en": "Moledet",
+      "he": "מולדת"
+     },
+     "seats": 2,
+     "bloc": "right"
+    },
+    {
+     "id": 107,
+     "name": {
+      "en": "Shinuy",
+      "he": "שינוי"
+     },
+     "seats": 2,
+     "bloc": "left"
+    },
+    {
+     "id": 42,
+     "name": {
+      "en": "Hreshima Hamitkatemet",
+      "he": "הרשימה המתקדמת לשלום"
+     },
+     "seats": 1,
+     "bloc": "arab"
+    },
+    {
+     "id": 70,
+     "name": {
+      "en": "Mada",
+      "he": "מד\"ע"
+     },
+     "seats": 1,
+     "bloc": "arab"
+    }
+   ]
+  },
+  {
+   "term": 13,
+   "government": 25,
+   "year": 1992,
+   "pm": "rabin",
+   "seats": 120,
+   "results": [
+    {
+     "id": 33,
+     "name": {
+      "en": "Haavoda",
+      "he": "העבודה"
+     },
+     "seats": 44,
+     "bloc": "left"
+    },
+    {
+     "id": 20,
+     "name": {
+      "en": "Halikud",
+      "he": "הליכוד"
+     },
+     "seats": 32,
+     "bloc": "right"
+    },
+    {
+     "id": 84,
+     "name": {
+      "en": "Merets",
+      "he": "מרצ"
+     },
+     "seats": 12,
+     "bloc": "left"
+    },
+    {
+     "id": 92,
+     "name": {
+      "en": "Tsomet",
+      "he": "צומת"
+     },
+     "seats": 8,
+     "bloc": "right"
+    },
+    {
+     "id": 106,
+     "name": {
+      "en": "Shas",
+      "he": "ש\"ס"
+     },
+     "seats": 6,
+     "bloc": "religious"
+    },
+    {
+     "id": 79,
+     "name": {
+      "en": "Mafdal",
+      "he": "מפד\"ל"
+     },
+     "seats": 6,
+     "bloc": "religious"
+    },
+    {
+     "id": 57,
+     "name": {
+      "en": "Yahadut Hatora",
+      "he": "יהדות התורה"
+     },
+     "seats": 4,
+     "bloc": "religious"
+    },
+    {
+     "id": 49,
+     "name": {
+      "en": "Hadash",
+      "he": "חד\"ש"
+     },
+     "seats": 3,
+     "bloc": "arab"
+    },
+    {
+     "id": 72,
+     "name": {
+      "en": "Moledet",
+      "he": "מולדת"
+     },
+     "seats": 3,
+     "bloc": "right"
+    },
+    {
+     "id": 70,
+     "name": {
+      "en": "Mada",
+      "he": "מד\"ע"
+     },
+     "seats": 2,
+     "bloc": "arab"
+    }
+   ]
+  },
+  {
+   "term": 13,
+   "government": 26,
+   "year": 1995,
+   "pm": "peres",
+   "seats": 120,
+   "results": [
+    {
+     "id": 33,
+     "name": {
+      "en": "Haavoda",
+      "he": "העבודה"
+     },
+     "seats": 44,
+     "bloc": "left"
+    },
+    {
+     "id": 20,
+     "name": {
+      "en": "Halikud",
+      "he": "הליכוד"
+     },
+     "seats": 32,
+     "bloc": "right"
+    },
+    {
+     "id": 84,
+     "name": {
+      "en": "Merets",
+      "he": "מרצ"
+     },
+     "seats": 12,
+     "bloc": "left"
+    },
+    {
+     "id": 106,
+     "name": {
+      "en": "Shas",
+      "he": "ש\"ס"
+     },
+     "seats": 6,
+     "bloc": "religious"
+    },
+    {
+     "id": 79,
+     "name": {
+      "en": "Mafdal",
+      "he": "מפד\"ל"
+     },
+     "seats": 6,
+     "bloc": "religious"
+    },
+    {
+     "id": 92,
+     "name": {
+      "en": "Tsomet",
+      "he": "צומת"
+     },
+     "seats": 5,
+     "bloc": "right"
+    },
+    {
+     "id": 57,
+     "name": {
+      "en": "Yahadut Hatora",
+      "he": "יהדות התורה"
+     },
+     "seats": 4,
+     "bloc": "religious"
+    },
+    {
+     "id": 61,
+     "name": {
+      "en": "Yiud",
+      "he": "יעוד"
+     },
+     "seats": 3,
+     "bloc": "right"
+    },
+    {
+     "id": 49,
+     "name": {
+      "en": "Hadash",
+      "he": "חד\"ש"
+     },
+     "seats": 3,
+     "bloc": "arab"
+    },
+    {
+     "id": 72,
+     "name": {
+      "en": "Moledet",
+      "he": "מולדת"
+     },
+     "seats": 2,
+     "bloc": "right"
+    },
+    {
+     "id": 70,
+     "name": {
+      "en": "Mada",
+      "he": "מד\"ע"
+     },
+     "seats": 2,
+     "bloc": "arab"
+    },
+    {
+     "id": 59,
+     "name": {
+      "en": "Yamin Yisrael",
+      "he": "ימין ישראל"
+     },
+     "seats": 1,
+     "bloc": "right"
+    }
+   ]
+  },
+  {
+   "term": 14,
+   "government": 27,
+   "year": 1996,
+   "pm": "netanyahu",
+   "seats": 120,
+   "results": [
+    {
+     "id": 33,
+     "name": {
+      "en": "Haavoda",
+      "he": "העבודה"
+     },
+     "seats": 34,
+     "bloc": "left"
+    },
+    {
+     "id": 21,
+     "name": {
+      "en": "Halikud - Gesher - Tsomet",
+      "he": "הליכוד-גשר-צומת"
+     },
+     "seats": 32,
+     "bloc": "right"
+    },
+    {
+     "id": 106,
+     "name": {
+      "en": "Shas",
+      "he": "ש\"ס"
+     },
+     "seats": 10,
+     "bloc": "religious"
+    },
+    {
+     "id": 27,
+     "name": {
+      "en": "Hamafdal",
+      "he": "המפד\"ל"
+     },
+     "seats": 9,
+     "bloc": "religious"
+    },
+    {
+     "id": 84,
+     "name": {
+      "en": "Merets",
+      "he": "מרצ"
+     },
+     "seats": 9,
+     "bloc": "left"
+    },
+    {
+     "id": 65,
+     "name": {
+      "en": "Yisrael Bealya",
+      "he": "ישראל בעלייה"
+     },
+     "seats": 7,
+     "bloc": "sectorial"
+    },
+    {
+     "id": 50,
+     "name": {
+      "en": "Hadash - Balad",
+      "he": "חד\"ש-בל\"ד"
+     },
+     "seats": 5,
+     "bloc": "arab"
+    },
+    {
+     "id": 57,
+     "name": {
+      "en": "Yahadut Hatora",
+      "he": "יהדות התורה"
+     },
+     "seats": 4,
+     "bloc": "religious"
+    },
+    {
+     "id": 19,
+     "name": {
+      "en": "Hadereh Hshlishit",
+      "he": "הדרך השלישית"
+     },
+     "seats": 4,
+     "bloc": "centre"
+    },
+    {
+     "id": 71,
+     "name": {
+      "en": "Mada - Raam",
+      "he": "מד\"ע-רע\"ם"
+     },
+     "seats": 4,
+     "bloc": "arab"
+    },
+    {
+     "id": 72,
+     "name": {
+      "en": "Moledet",
+      "he": "מולדת"
+     },
+     "seats": 2,
+     "bloc": "right"
+    }
+   ]
+  },
+  {
+   "term": 15,
+   "government": 28,
+   "year": 1999,
+   "pm": "barak",
+   "seats": 120,
+   "results": [
+    {
+     "id": 63,
+     "name": {
+      "en": "Yisrael Ahat",
+      "he": "ישראל אחת"
+     },
+     "seats": 26,
+     "bloc": "left"
+    },
+    {
+     "id": 20,
+     "name": {
+      "en": "Halikud",
+      "he": "הליכוד"
+     },
+     "seats": 19,
+     "bloc": "right"
+    },
+    {
+     "id": 106,
+     "name": {
+      "en": "Shas",
+      "he": "ש\"ס"
+     },
+     "seats": 17,
+     "bloc": "religious"
+    },
+    {
+     "id": 84,
+     "name": {
+      "en": "Merets",
+      "he": "מרצ"
+     },
+     "seats": 10,
+     "bloc": "left"
+    },
+    {
+     "id": 65,
+     "name": {
+      "en": "Yisrael Bealya",
+      "he": "ישראל בעלייה"
+     },
+     "seats": 6,
+     "bloc": "sectorial"
+    },
+    {
+     "id": 81,
+     "name": {
+      "en": "Mifleget Hamerkaz",
+      "he": "מפלגת המרכז"
+     },
+     "seats": 6,
+     "bloc": "centre"
+    },
+    {
+     "id": 107,
+     "name": {
+      "en": "Shinuy",
+      "he": "שינוי"
+     },
+     "seats": 6,
+     "bloc": "centre"
+    },
+    {
+     "id": 79,
+     "name": {
+      "en": "Mafdal",
+      "he": "מפד\"ל"
+     },
+     "seats": 5,
+     "bloc": "religious"
+    },
+    {
+     "id": 57,
+     "name": {
+      "en": "Yahadut Hatora",
+      "he": "יהדות התורה"
+     },
+     "seats": 5,
+     "bloc": "religious"
+    },
+    {
+     "id": 96,
+     "name": {
+      "en": "Raam",
+      "he": "רע\"ם"
+     },
+     "seats": 5,
+     "bloc": "arab"
+    },
+    {
+     "id": 13,
+     "name": {
+      "en": "Haihud Haleumi",
+      "he": "האיחוד הלאומי"
+     },
+     "seats": 4,
+     "bloc": "right"
+    },
+    {
+     "id": 64,
+     "name": {
+      "en": "Yisrael Beitenu",
+      "he": "ישראל ביתנו"
+     },
+     "seats": 4,
+     "bloc": "right"
+    },
+    {
+     "id": 49,
+     "name": {
+      "en": "Hadash",
+      "he": "חד\"ש"
+     },
+     "seats": 3,
+     "bloc": "arab"
+    },
+    {
+     "id": 89,
+     "name": {
+      "en": "Am Ehad",
+      "he": "עם אחד"
+     },
+     "seats": 2,
+     "bloc": "left"
+    },
+    {
+     "id": 6,
+     "name": {
+      "en": "Balad",
+      "he": "בל\"ד"
+     },
+     "seats": 2,
+     "bloc": "arab"
+    }
+   ]
+  },
+  {
+   "term": 15,
+   "government": 29,
+   "year": 2001,
+   "pm": "sharon",
+   "seats": 120,
+   "results": [
+    {
+     "id": 63,
+     "name": {
+      "en": "Yisrael Ahat",
+      "he": "ישראל אחת"
+     },
+     "seats": 23,
+     "bloc": "left"
+    },
+    {
+     "id": 20,
+     "name": {
+      "en": "Halikud",
+      "he": "הליכוד"
+     },
+     "seats": 19,
+     "bloc": "right"
+    },
+    {
+     "id": 106,
+     "name": {
+      "en": "Shas",
+      "he": "ש\"ס"
+     },
+     "seats": 17,
+     "bloc": "religious"
+    },
+    {
+     "id": 84,
+     "name": {
+      "en": "Merets",
+      "he": "מרצ"
+     },
+     "seats": 10,
+     "bloc": "left"
+    },
+    {
+     "id": 14,
+     "name": {
+      "en": "Haihud Haleumi - Yisrael",
+      "he": "האיחוד הלאומי-ישראל ביתנו"
+     },
+     "seats": 7,
+     "bloc": "right"
+    },
+    {
+     "id": 107,
+     "name": {
+      "en": "Shinuy",
+      "he": "שינוי"
+     },
+     "seats": 6,
+     "bloc": "centre"
+    },
+    {
+     "id": 79,
+     "name": {
+      "en": "Mafdal",
+      "he": "מפד\"ל"
+     },
+     "seats": 5,
+     "bloc": "religious"
+    },
+    {
+     "id": 57,
+     "name": {
+      "en": "Yahadut Hatora",
+      "he": "יהדות התורה"
+     },
+     "seats": 5,
+     "bloc": "religious"
+    },
+    {
+     "id": 65,
+     "name": {
+      "en": "Yisrael Bealya",
+      "he": "ישראל בעלייה"
+     },
+     "seats": 4,
+     "bloc": "sectorial"
+    },
+    {
+     "id": 81,
+     "name": {
+      "en": "Mifleget Hamerkaz",
+      "he": "מפלגת המרכז"
+     },
+     "seats": 3,
+     "bloc": "centre"
+    },
+    {
+     "id": 18,
+     "name": {
+      "en": "Hadereh Hahadasha",
+      "he": "הדרך החדשה"
+     },
+     "seats": 3,
+     "bloc": "centre"
+    },
+    {
+     "id": 96,
+     "name": {
+      "en": "Raam",
+      "he": "רע\"ם"
+     },
+     "seats": 3,
+     "bloc": "arab"
+    },
+    {
+     "id": 9,
+     "name": {
+      "en": "Gesher",
+      "he": "גשר"
+     },
+     "seats": 3,
+     "bloc": "right"
+    },
+    {
+     "id": 49,
+     "name": {
+      "en": "Hadash",
+      "he": "חד\"ש"
+     },
+     "seats": 3,
+     "bloc": "arab"
+    },
+    {
+     "id": 16,
+     "name": {
+      "en": "Habhira Hademokratit",
+      "he": "הבחירה הדמוקרטית"
+     },
+     "seats": 2,
+     "bloc": "sectorial"
+    },
+    {
+     "id": 28,
+     "name": {
+      "en": "Hamiflaga Haleumit",
+      "he": "המפלגה הלאומית הערבית"
+     },
+     "seats": 2,
+     "bloc": "arab"
+    },
+    {
+     "id": 89,
+     "name": {
+      "en": "Am Ehad",
+      "he": "עם אחד"
+     },
+     "seats": 2,
+     "bloc": "left"
+    },
+    {
+     "id": 113,
+     "name": {
+      "en": "Taal",
+      "he": "תע\"ל"
+     },
+     "seats": 1,
+     "bloc": "arab"
+    },
+    {
+     "id": 56,
+     "name": {
+      "en": "Herut",
+      "he": "חרות"
+     },
+     "seats": 1,
+     "bloc": "right"
+    },
+    {
+     "id": 6,
+     "name": {
+      "en": "Balad",
+      "he": "בל\"ד"
+     },
+     "seats": 1,
+     "bloc": "arab"
+    }
+   ]
+  },
+  {
+   "term": 16,
+   "government": 30,
+   "year": 2003,
+   "pm": "sharon",
+   "seats": 120,
+   "results": [
+    {
+     "id": 20,
+     "name": {
+      "en": "Halikud",
+      "he": "הליכוד"
+     },
+     "seats": 38,
+     "bloc": "right"
+    },
+    {
+     "id": 35,
+     "name": {
+      "en": "Haavoda - Meimad",
+      "he": "העבודה-מימד"
+     },
+     "seats": 19,
+     "bloc": "left"
+    },
+    {
+     "id": 107,
+     "name": {
+      "en": "Shinuy",
+      "he": "שינוי"
+     },
+     "seats": 15,
+     "bloc": "centre"
+    },
+    {
+     "id": 106,
+     "name": {
+      "en": "Shas",
+      "he": "ש\"ס"
+     },
+     "seats": 11,
+     "bloc": "religious"
+    },
+    {
+     "id": 13,
+     "name": {
+      "en": "Haihud Haleumi",
+      "he": "האיחוד הלאומי"
+     },
+     "seats": 7,
+     "bloc": "right"
+    },
+    {
+     "id": 27,
+     "name": {
+      "en": "Hamafdal",
+      "he": "המפד\"ל"
+     },
+     "seats": 6,
+     "bloc": "religious"
+    },
+    {
+     "id": 84,
+     "name": {
+      "en": "Merets",
+      "he": "מרצ"
+     },
+     "seats": 6,
+     "bloc": "left"
+    },
+    {
+     "id": 57,
+     "name": {
+      "en": "Yahadut Hatora",
+      "he": "יהדות התורה"
+     },
+     "seats": 5,
+     "bloc": "religious"
+    },
+    {
+     "id": 51,
+     "name": {
+      "en": "Hadash - Taal",
+      "he": "חד\"ש-תע\"ל"
+     },
+     "seats": 3,
+     "bloc": "arab"
+    },
+    {
+     "id": 89,
+     "name": {
+      "en": "Am Ehad",
+      "he": "עם אחד"
+     },
+     "seats": 3,
+     "bloc": "left"
+    },
+    {
+     "id": 6,
+     "name": {
+      "en": "Balad",
+      "he": "בל\"ד"
+     },
+     "seats": 3,
+     "bloc": "arab"
+    },
+    {
+     "id": 65,
+     "name": {
+      "en": "Yisrael Bealya",
+      "he": "ישראל בעלייה"
+     },
+     "seats": 2,
+     "bloc": "sectorial"
+    },
+    {
+     "id": 96,
+     "name": {
+      "en": "Raam",
+      "he": "רע\"ם"
+     },
+     "seats": 2,
+     "bloc": "arab"
+    }
+   ]
+  },
+  {
+   "term": 17,
+   "government": 31,
+   "year": 2006,
+   "pm": "olmert",
+   "seats": 120,
+   "results": [
+    {
+     "id": 93,
+     "name": {
+      "en": "Kadima",
+      "he": "קדימה"
+     },
+     "seats": 29,
+     "bloc": "centre"
+    },
+    {
+     "id": 35,
+     "name": {
+      "en": "Haavoda - Meimad",
+      "he": "העבודה-מימד"
+     },
+     "seats": 19,
+     "bloc": "left"
+    },
+    {
+     "id": 106,
+     "name": {
+      "en": "Shas",
+      "he": "ש\"ס"
+     },
+     "seats": 12,
+     "bloc": "religious"
+    },
+    {
+     "id": 20,
+     "name": {
+      "en": "Halikud",
+      "he": "הליכוד"
+     },
+     "seats": 12,
+     "bloc": "right"
+    },
+    {
+     "id": 64,
+     "name": {
+      "en": "Yisrael Beitenu",
+      "he": "ישראל ביתנו"
+     },
+     "seats": 11,
+     "bloc": "sectorial"
+    },
+    {
+     "id": 15,
+     "name": {
+      "en": "Haihud Haleumi - Mafdal",
+      "he": "האיחוד הלאומי-מפד\"ל"
+     },
+     "seats": 9,
+     "bloc": "religious"
+    },
+    {
+     "id": 8,
+     "name": {
+      "en": "Gil",
+      "he": "גיל"
+     },
+     "seats": 7,
+     "bloc": "sectorial"
+    },
+    {
+     "id": 57,
+     "name": {
+      "en": "Yahadut Hatora",
+      "he": "יהדות התורה"
+     },
+     "seats": 6,
+     "bloc": "religious"
+    },
+    {
+     "id": 84,
+     "name": {
+      "en": "Merets",
+      "he": "מרצ"
+     },
+     "seats": 5,
+     "bloc": "left"
+    },
+    {
+     "id": 97,
+     "name": {
+      "en": "Raam - Taal",
+      "he": "רע\"ם-תע\"ל"
+     },
+     "seats": 4,
+     "bloc": "arab"
+    },
+    {
+     "id": 49,
+     "name": {
+      "en": "Hadash",
+      "he": "חד\"ש"
+     },
+     "seats": 3,
+     "bloc": "arab"
+    },
+    {
+     "id": 6,
+     "name": {
+      "en": "Balad",
+      "he": "בל\"ד"
+     },
+     "seats": 3,
+     "bloc": "arab"
+    }
+   ]
+  },
+  {
+   "term": 18,
+   "government": 32,
+   "year": 2009,
+   "pm": "netanyahu",
+   "seats": 120,
+   "results": [
+    {
+     "id": 93,
+     "name": {
+      "en": "Kadima",
+      "he": "קדימה"
+     },
+     "seats": 28,
+     "bloc": "centre"
+    },
+    {
+     "id": 20,
+     "name": {
+      "en": "Halikud",
+      "he": "הליכוד"
+     },
+     "seats": 27,
+     "bloc": "right"
+    },
+    {
+     "id": 64,
+     "name": {
+      "en": "Yisrael Beitenu",
+      "he": "ישראל ביתנו"
+     },
+     "seats": 15,
+     "bloc": "sectorial"
+    },
+    {
+     "id": 33,
+     "name": {
+      "en": "Haavoda",
+      "he": "העבודה"
+     },
+     "seats": 13,
+     "bloc": "left"
+    },
+    {
+     "id": 106,
+     "name": {
+      "en": "Shas",
+      "he": "ש\"ס"
+     },
+     "seats": 11,
+     "bloc": "religious"
+    },
+    {
+     "id": 57,
+     "name": {
+      "en": "Yahadut Hatora",
+      "he": "יהדות התורה"
+     },
+     "seats": 5,
+     "bloc": "religious"
+    },
+    {
+     "id": 97,
+     "name": {
+      "en": "Raam - Taal",
+      "he": "רע\"ם-תע\"ל"
+     },
+     "seats": 4,
+     "bloc": "arab"
+    },
+    {
+     "id": 13,
+     "name": {
+      "en": "Haihud Haleumi",
+      "he": "האיחוד הלאומי"
+     },
+     "seats": 4,
+     "bloc": "right"
+    },
+    {
+     "id": 49,
+     "name": {
+      "en": "Hadash",
+      "he": "חד\"ש"
+     },
+     "seats": 4,
+     "bloc": "arab"
+    },
+    {
+     "id": 17,
+     "name": {
+      "en": "Habait Hayehudi",
+      "he": "הבית היהודי"
+     },
+     "seats": 3,
+     "bloc": "religious"
+    },
+    {
+     "id": 84,
+     "name": {
+      "en": "Merets",
+      "he": "מרצ"
+     },
+     "seats": 3,
+     "bloc": "left"
+    },
+    {
+     "id": 6,
+     "name": {
+      "en": "Balad",
+      "he": "בל\"ד"
+     },
+     "seats": 3,
+     "bloc": "arab"
+    }
+   ]
+  },
+  {
+   "term": 19,
+   "government": 33,
+   "year": 2013,
+   "pm": "netanyahu",
+   "seats": 120,
+   "results": [
+    {
+     "id": 22,
+     "name": {
+      "en": "Halikud - Yisrael Beitenu",
+      "he": "הליכוד-ישראל ביתנו"
+     },
+     "seats": 31,
+     "bloc": "right"
+    },
+    {
+     "id": 62,
+     "name": {
+      "en": "Yesh Atid",
+      "he": "יש עתיד"
+     },
+     "seats": 19,
+     "bloc": "centre"
+    },
+    {
+     "id": 33,
+     "name": {
+      "en": "Haavoda",
+      "he": "העבודה"
+     },
+     "seats": 15,
+     "bloc": "left"
+    },
+    {
+     "id": 17,
+     "name": {
+      "en": "Habait Hayehudi",
+      "he": "הבית היהודי"
+     },
+     "seats": 12,
+     "bloc": "religious"
+    },
+    {
+     "id": 106,
+     "name": {
+      "en": "Shas",
+      "he": "ש\"ס"
+     },
+     "seats": 11,
+     "bloc": "religious"
+    },
+    {
+     "id": 57,
+     "name": {
+      "en": "Yahadut Hatora",
+      "he": "יהדות התורה"
+     },
+     "seats": 7,
+     "bloc": "religious"
+    },
+    {
+     "id": 46,
+     "name": {
+      "en": "Hatnua",
+      "he": "התנועה"
+     },
+     "seats": 6,
+     "bloc": "centre"
+    },
+    {
+     "id": 84,
+     "name": {
+      "en": "Merets",
+      "he": "מרצ"
+     },
+     "seats": 6,
+     "bloc": "left"
+    },
+    {
+     "id": 98,
+     "name": {
+      "en": "Raam - Taal - Mada",
+      "he": "רע\"ם-תע\"ל-מד\"ע"
+     },
+     "seats": 4,
+     "bloc": "arab"
+    },
+    {
+     "id": 49,
+     "name": {
+      "en": "Hadash",
+      "he": "חד\"ש"
+     },
+     "seats": 4,
+     "bloc": "arab"
+    },
+    {
+     "id": 6,
+     "name": {
+      "en": "Balad",
+      "he": "בל\"ד"
+     },
+     "seats": 3,
+     "bloc": "arab"
+    },
+    {
+     "id": 93,
+     "name": {
+      "en": "Kadima",
+      "he": "קדימה"
+     },
+     "seats": 2,
+     "bloc": "centre"
+    }
+   ]
+  },
+  {
+   "term": 20,
+   "government": 34,
+   "year": 2015,
+   "pm": "netanyahu",
+   "seats": 120,
+   "results": [
+    {
+     "id": 20,
+     "name": {
+      "en": "Halikud",
+      "he": "הליכוד"
+     },
+     "seats": 30,
+     "bloc": "right"
+    },
+    {
+     "id": 25,
+     "name": {
+      "en": "Hamahane Hatsioni",
+      "he": "המחנה הציוני"
+     },
+     "seats": 24,
+     "bloc": "left"
+    },
+    {
+     "id": 41,
+     "name": {
+      "en": "Hareshima Hameshutefet",
+      "he": "הרשימה המשותפת"
+     },
+     "seats": 13,
+     "bloc": "arab"
+    },
+    {
+     "id": 62,
+     "name": {
+      "en": "Yesh Atid",
+      "he": "יש עתיד"
+     },
+     "seats": 11,
+     "bloc": "centre"
+    },
+    {
+     "id": 67,
+     "name": {
+      "en": "Kulanu",
+      "he": "כולנו"
+     },
+     "seats": 10,
+     "bloc": "centre"
+    },
+    {
+     "id": 17,
+     "name": {
+      "en": "Habait Hayehudi",
+      "he": "הבית היהודי"
+     },
+     "seats": 8,
+     "bloc": "religious"
+    },
+    {
+     "id": 106,
+     "name": {
+      "en": "Shas",
+      "he": "ש\"ס"
+     },
+     "seats": 7,
+     "bloc": "religious"
+    },
+    {
+     "id": 64,
+     "name": {
+      "en": "Yisrael Beitenu",
+      "he": "ישראל ביתנו"
+     },
+     "seats": 6,
+     "bloc": "sectorial"
+    },
+    {
+     "id": 57,
+     "name": {
+      "en": "Yahadut Hatora",
+      "he": "יהדות התורה"
+     },
+     "seats": 6,
+     "bloc": "religious"
+    },
+    {
+     "id": 84,
+     "name": {
+      "en": "Merets",
+      "he": "מרצ"
+     },
+     "seats": 5,
+     "bloc": "left"
+    }
+   ]
+  },
+  {
+   "term": 21,
+   "government": null,
+   "year": 2019,
+   "pm": "netanyahu",
+   "note": {
+    "en": "No government was formed; Netanyahu stayed on as caretaker PM",
+    "he": "לא הוקמה ממשלה; נתניהו המשיך כראש ממשלת מעבר"
+   },
+   "seats": 120,
+   "results": [
+    {
+     "id": 20,
+     "name": {
+      "en": "Halikud",
+      "he": "הליכוד"
+     },
+     "seats": 35,
+     "bloc": "right"
+    },
+    {
+     "id": 68,
+     "name": {
+      "en": "Kahol Lavan",
+      "he": "כחול לבן"
+     },
+     "seats": 35,
+     "bloc": "centre"
+    },
+    {
+     "id": 106,
+     "name": {
+      "en": "Shas",
+      "he": "ש\"ס"
+     },
+     "seats": 8,
+     "bloc": "religious"
+    },
+    {
+     "id": 57,
+     "name": {
+      "en": "Yahadut Hatora",
+      "he": "יהדות התורה"
+     },
+     "seats": 8,
+     "bloc": "religious"
+    },
+    {
+     "id": 33,
+     "name": {
+      "en": "Haavoda",
+      "he": "העבודה"
+     },
+     "seats": 6,
+     "bloc": "left"
+    },
+    {
+     "id": 51,
+     "name": {
+      "en": "Hadash - Taal",
+      "he": "חד\"ש-תע\"ל"
+     },
+     "seats": 6,
+     "bloc": "arab"
+    },
+    {
+     "id": 64,
+     "name": {
+      "en": "Yisrael Beitenu",
+      "he": "ישראל ביתנו"
+     },
+     "seats": 5,
+     "bloc": "sectorial"
+    },
+    {
+     "id": 5,
+     "name": {
+      "en": "Ichud Miflagot Hayamin",
+      "he": "איחוד מפלגות הימין"
+     },
+     "seats": 5,
+     "bloc": "religious"
+    },
+    {
+     "id": 67,
+     "name": {
+      "en": "Kulanu",
+      "he": "כולנו"
+     },
+     "seats": 4,
+     "bloc": "centre"
+    },
+    {
+     "id": 84,
+     "name": {
+      "en": "Merets",
+      "he": "מרצ"
+     },
+     "seats": 4,
+     "bloc": "left"
+    },
+    {
+     "id": 99,
+     "name": {
+      "en": "Raam - Balad",
+      "he": "רע\"ם בל\"ד"
+     },
+     "seats": 4,
+     "bloc": "arab"
+    }
+   ]
+  },
+  {
+   "term": 22,
+   "government": null,
+   "year": 2019,
+   "pm": "netanyahu",
+   "note": {
+    "en": "No government was formed; Netanyahu stayed on as caretaker PM",
+    "he": "לא הוקמה ממשלה; נתניהו המשיך כראש ממשלת מעבר"
+   },
+   "seats": 120,
+   "results": [
+    {
+     "id": 68,
+     "name": {
+      "en": "Kahol Lavan",
+      "he": "כחול לבן"
+     },
+     "seats": 33,
+     "bloc": "centre"
+    },
+    {
+     "id": 20,
+     "name": {
+      "en": "Halikud",
+      "he": "הליכוד"
+     },
+     "seats": 32,
+     "bloc": "right"
+    },
+    {
+     "id": 41,
+     "name": {
+      "en": "Hareshima Hameshutefet",
+      "he": "הרשימה המשותפת"
+     },
+     "seats": 13,
+     "bloc": "arab"
+    },
+    {
+     "id": 106,
+     "name": {
+      "en": "Shas",
+      "he": "ש\"ס"
+     },
+     "seats": 9,
+     "bloc": "religious"
+    },
+    {
+     "id": 64,
+     "name": {
+      "en": "Yisrael Beitenu",
+      "he": "ישראל ביתנו"
+     },
+     "seats": 8,
+     "bloc": "sectorial"
+    },
+    {
+     "id": 57,
+     "name": {
+      "en": "Yahadut Hatora",
+      "he": "יהדות התורה"
+     },
+     "seats": 7,
+     "bloc": "religious"
+    },
+    {
+     "id": 60,
+     "name": {
+      "en": "Yamina",
+      "he": "ימינה"
+     },
+     "seats": 7,
+     "bloc": "religious"
+    },
+    {
+     "id": 34,
+     "name": {
+      "en": "Haavoda - Gesher",
+      "he": "העבודה-גשר"
+     },
+     "seats": 6,
+     "bloc": "left"
+    },
+    {
+     "id": 24,
+     "name": {
+      "en": "Hamahane Hademokrati",
+      "he": "המחנה הדמוקרטי"
+     },
+     "seats": 5,
+     "bloc": "left"
+    }
+   ]
+  },
+  {
+   "term": 23,
+   "government": 35,
+   "year": 2020,
+   "pm": "netanyahu",
+   "note": {
+    "en": "Unity government with a rotation agreement with Benny Gantz",
+    "he": "ממשלת אחדות עם הסכם רוטציה עם בני גנץ"
+   },
+   "seats": 120,
+   "results": [
+    {
+     "id": 20,
+     "name": {
+      "en": "Halikud",
+      "he": "הליכוד"
+     },
+     "seats": 36,
+     "bloc": "right"
+    },
+    {
+     "id": 68,
+     "name": {
+      "en": "Kahol Lavan",
+      "he": "כחול לבן"
+     },
+     "seats": 33,
+     "bloc": "centre"
+    },
+    {
+     "id": 41,
+     "name": {
+      "en": "Hareshima Hameshutefet",
+      "he": "הרשימה המשותפת"
+     },
+     "seats": 15,
+     "bloc": "arab"
+    },
+    {
+     "id": 106,
+     "name": {
+      "en": "Shas",
+      "he": "ש\"ס"
+     },
+     "seats": 9,
+     "bloc": "religious"
+    },
+    {
+     "id": 57,
+     "name": {
+      "en": "Yahadut Hatora",
+      "he": "יהדות התורה"
+     },
+     "seats": 7,
+     "bloc": "religious"
+    },
+    {
+     "id": 114,
+     "name": {
+      "en": "Haavoda – Gesher – Merets",
+      "he": "העבודה-גשר-מרצ"
+     },
+     "seats": 7,
+     "bloc": "left"
+    },
+    {
+     "id": 64,
+     "name": {
+      "en": "Yisrael Beitenu",
+      "he": "ישראל ביתנו"
+     },
+     "seats": 7,
+     "bloc": "sectorial"
+    },
+    {
+     "id": 115,
+     "name": {
+      "en": "Yamina – Bayit yehidi – Ichud leumi",
+      "he": "ימינה–הבית היהודי–האיחוד הלאומי"
+     },
+     "seats": 6,
+     "bloc": "religious"
+    }
+   ]
+  },
+  {
+   "term": 24,
+   "government": 36,
+   "year": 2021,
+   "pm": "bennett",
+   "note": {
+    "en": "Change coalition with a Bennett–Lapid rotation",
+    "he": "ממשלת השינוי עם רוטציה בנט–לפיד"
+   },
+   "seats": 120,
+   "results": [
+    {
+     "id": 20,
+     "name": {
+      "en": "Halikud",
+      "he": "הליכוד"
+     },
+     "seats": 30,
+     "bloc": "right"
+    },
+    {
+     "id": 62,
+     "name": {
+      "en": "Yesh Atid",
+      "he": "יש עתיד"
+     },
+     "seats": 17,
+     "bloc": "centre"
+    },
+    {
+     "id": 106,
+     "name": {
+      "en": "Shas",
+      "he": "ש\"ס"
+     },
+     "seats": 9,
+     "bloc": "religious"
+    },
+    {
+     "id": 68,
+     "name": {
+      "en": "Kahol Lavan",
+      "he": "כחול לבן"
+     },
+     "seats": 8,
+     "bloc": "centre"
+    },
+    {
+     "id": 60,
+     "name": {
+      "en": "Yamina",
+      "he": "ימינה"
+     },
+     "seats": 7,
+     "bloc": "religious"
+    },
+    {
+     "id": 33,
+     "name": {
+      "en": "Haavoda",
+      "he": "העבודה"
+     },
+     "seats": 7,
+     "bloc": "left"
+    },
+    {
+     "id": 57,
+     "name": {
+      "en": "Yahadut Hatora",
+      "he": "יהדות התורה"
+     },
+     "seats": 7,
+     "bloc": "religious"
+    },
+    {
+     "id": 64,
+     "name": {
+      "en": "Yisrael Beitenu",
+      "he": "ישראל ביתנו"
+     },
+     "seats": 7,
+     "bloc": "sectorial"
+    },
+    {
+     "id": 116,
+     "name": {
+      "en": "Hatsionut Hadatit",
+      "he": "הציונות הדתית"
+     },
+     "seats": 6,
+     "bloc": "religious"
+    },
+    {
+     "id": 41,
+     "name": {
+      "en": "Hareshima Hameshutefet",
+      "he": "הרשימה המשותפת"
+     },
+     "seats": 6,
+     "bloc": "arab"
+    },
+    {
+     "id": 117,
+     "name": {
+      "en": "Tikva Hadasha",
+      "he": "תקווה חדשה"
+     },
+     "seats": 6,
+     "bloc": "right"
+    },
+    {
+     "id": 84,
+     "name": {
+      "en": "Merets",
+      "he": "מרצ"
+     },
+     "seats": 6,
+     "bloc": "left"
+    },
+    {
+     "id": 96,
+     "name": {
+      "en": "Raam",
+      "he": "רע\"ם"
+     },
+     "seats": 4,
+     "bloc": "arab"
+    }
+   ]
+  },
+  {
+   "term": 24,
+   "government": 36,
+   "year": 2022,
+   "pm": "lapid",
+   "note": {
+    "en": "Lapid took over under the rotation agreement (1 July 2022)",
+    "he": "לפיד נכנס לתפקיד לפי הסכם הרוטציה (1 ביולי 2022)"
+   },
+   "seats": 120,
+   "results": [
+    {
+     "id": 20,
+     "name": {
+      "en": "Halikud",
+      "he": "הליכוד"
+     },
+     "seats": 30,
+     "bloc": "right"
+    },
+    {
+     "id": 62,
+     "name": {
+      "en": "Yesh Atid",
+      "he": "יש עתיד"
+     },
+     "seats": 17,
+     "bloc": "centre"
+    },
+    {
+     "id": 106,
+     "name": {
+      "en": "Shas",
+      "he": "ש\"ס"
+     },
+     "seats": 9,
+     "bloc": "religious"
+    },
+    {
+     "id": 68,
+     "name": {
+      "en": "Kahol Lavan",
+      "he": "כחול לבן"
+     },
+     "seats": 8,
+     "bloc": "centre"
+    },
+    {
+     "id": 60,
+     "name": {
+      "en": "Yamina",
+      "he": "ימינה"
+     },
+     "seats": 7,
+     "bloc": "religious"
+    },
+    {
+     "id": 33,
+     "name": {
+      "en": "Haavoda",
+      "he": "העבודה"
+     },
+     "seats": 7,
+     "bloc": "left"
+    },
+    {
+     "id": 57,
+     "name": {
+      "en": "Yahadut Hatora",
+      "he": "יהדות התורה"
+     },
+     "seats": 7,
+     "bloc": "religious"
+    },
+    {
+     "id": 64,
+     "name": {
+      "en": "Yisrael Beitenu",
+      "he": "ישראל ביתנו"
+     },
+     "seats": 7,
+     "bloc": "sectorial"
+    },
+    {
+     "id": 116,
+     "name": {
+      "en": "Hatsionut Hadatit",
+      "he": "הציונות הדתית"
+     },
+     "seats": 6,
+     "bloc": "religious"
+    },
+    {
+     "id": 41,
+     "name": {
+      "en": "Hareshima Hameshutefet",
+      "he": "הרשימה המשותפת"
+     },
+     "seats": 6,
+     "bloc": "arab"
+    },
+    {
+     "id": 117,
+     "name": {
+      "en": "Tikva Hadasha",
+      "he": "תקווה חדשה"
+     },
+     "seats": 6,
+     "bloc": "right"
+    },
+    {
+     "id": 84,
+     "name": {
+      "en": "Merets",
+      "he": "מרצ"
+     },
+     "seats": 6,
+     "bloc": "left"
+    },
+    {
+     "id": 96,
+     "name": {
+      "en": "Raam",
+      "he": "רע\"ם"
+     },
+     "seats": 4,
+     "bloc": "arab"
+    }
+   ]
+  },
+  {
+   "term": 25,
+   "government": 37,
+   "year": 2022,
+   "pm": "netanyahu",
+   "seats": 120,
+   "results": [
+    {
+     "id": 20,
+     "name": {
+      "en": "Halikud",
+      "he": "הליכוד"
+     },
+     "seats": 32,
+     "bloc": "right"
+    },
+    {
+     "id": 62,
+     "name": {
+      "en": "Yesh Atid",
+      "he": "יש עתיד"
+     },
+     "seats": 24,
+     "bloc": "centre"
+    },
+    {
+     "id": 116,
+     "name": {
+      "en": "Hatsionut Hadatit – Otsma Yehudit – Noam",
+      "he": "הציונות הדתית–עוצמה יהודית–נעם"
+     },
+     "seats": 14,
+     "bloc": "religious"
+    },
+    {
+     "id": 118,
+     "name": {
+      "en": "Hamahane Hamamlahti",
+      "he": "המחנה הממלכתי"
+     },
+     "seats": 12,
+     "bloc": "centre"
+    },
+    {
+     "id": 106,
+     "name": {
+      "en": "Shas",
+      "he": "ש\"ס"
+     },
+     "seats": 11,
+     "bloc": "religious"
+    },
+    {
+     "id": 57,
+     "name": {
+      "en": "Yahadut Hatora",
+      "he": "יהדות התורה"
+     },
+     "seats": 7,
+     "bloc": "religious"
+    },
+    {
+     "id": 64,
+     "name": {
+      "en": "Yisrael Beitenu",
+      "he": "ישראל ביתנו"
+     },
+     "seats": 6,
+     "bloc": "sectorial"
+    },
+    {
+     "id": 96,
+     "name": {
+      "en": "Raam",
+      "he": "רע\"ם"
+     },
+     "seats": 5,
+     "bloc": "arab"
+    },
+    {
+     "id": 51,
+     "name": {
+      "en": "Hadash - Taal",
+      "he": "חד\"ש-תע\"ל"
+     },
+     "seats": 5,
+     "bloc": "arab"
+    },
+    {
+     "id": 33,
+     "name": {
+      "en": "Haavoda",
+      "he": "העבודה"
+     },
+     "seats": 4,
+     "bloc": "left"
+    }
+   ]
+  },
+  {
+   "term": 26,
+   "government": null,
+   "year": 2026,
+   "pm": "netanyahu",
+   "note": {
+    "en": "Election of 27 Oct 2026. Government not yet formed; President Herzog tasked Gadi Eisenkot on 8 Nov 2026. Netanyahu is caretaker PM",
+    "he": "בחירות 27 באוקטובר 2026. הממשלה טרם הוקמה; הנשיא הרצוג הטיל על גדי איזנקוט את הרכבתה ב-8 בנובמבר 2026. נתניהו ראש ממשלת מעבר"
+   },
+   "seats": 120,
+   "results": [
+    {
+     "id": 20,
+     "name": {
+      "en": "Halikud",
+      "he": "הליכוד"
+     },
+     "seats": 27,
+     "bloc": "right"
+    },
+    {
+     "id": 119,
+     "name": {
+      "en": "Yashar!",
+      "he": "ישר!"
+     },
+     "seats": 21,
+     "bloc": "centre"
+    },
+    {
+     "id": 120,
+     "name": {
+      "en": "Beyahad",
+      "he": "ביחד"
+     },
+     "seats": 12,
+     "bloc": "centre"
+    },
+    {
+     "id": 41,
+     "name": {
+      "en": "Hareshima Hameshutefet",
+      "he": "הרשימה המשותפת"
+     },
+     "seats": 11,
+     "bloc": "arab"
+    },
+    {
+     "id": 121,
+     "name": {
+      "en": "Hademokratim",
+      "he": "הדמוקרטים"
+     },
+     "seats": 8,
+     "bloc": "left"
+    },
+    {
+     "id": 96,
+     "name": {
+      "en": "Raam",
+      "he": "רע\"ם"
+     },
+     "seats": 8,
+     "bloc": "arab"
+    },
+    {
+     "id": 64,
+     "name": {
+      "en": "Yisrael Beitenu",
+      "he": "ישראל ביתנו"
+     },
+     "seats": 7,
+     "bloc": "sectorial"
+    },
+    {
+     "id": 122,
+     "name": {
+      "en": "Otsma Yehudit",
+      "he": "עוצמה יהודית"
+     },
+     "seats": 7,
+     "bloc": "religious"
+    },
+    {
+     "id": 57,
+     "name": {
+      "en": "Yahadut Hatora",
+      "he": "יהדות התורה"
+     },
+     "seats": 7,
+     "bloc": "religious"
+    },
+    {
+     "id": 106,
+     "name": {
+      "en": "Shas",
+      "he": "ש\"ס"
+     },
+     "seats": 6,
+     "bloc": "religious"
+    },
+    {
+     "id": 116,
+     "name": {
+      "en": "Hatsionut Hadatit – Zehut",
+      "he": "הציונות הדתית–זהות"
+     },
+     "seats": 6,
+     "bloc": "religious"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "label": "Knesset",
+   "url": "https://main.knesset.gov.il/mk/elections/Pages/default.aspx"
+  },
+  {
+   "label": "Central Elections Committee (26th Knesset)",
+   "url": "https://votes26.bechirot.gov.il/"
+  }
+ ],
+ "credits": [
+  "Naftali Bennett: Avi Ohayon / GPO, CC BY-SA 3.0, via Wikimedia Commons",
+  "Yair Lapid: Avi Ohayon / GPO, CC BY-SA 3.0, via Wikimedia Commons"
+ ]
+}

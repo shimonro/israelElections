@@ -10,7 +10,10 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "preview": "vite preview",
-    "test": "vitest run"
+    "test": "vitest run",
+    "country:fetch": "node scripts/fetch-country.mjs",
+    "country:build": "node scripts/build-country.mjs",
+    "country:meta": "node scripts/write-meta.mjs"
   },
   "dependencies": {
     "react": "^19.3.1",

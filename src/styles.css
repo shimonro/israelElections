@@ -25,7 +25,7 @@ body {
 
 button, select, input { font: inherit; color: inherit; }
 
-button, select {
+button, select, a.button {
   background: rgb(255 255 255 / 0.08);
   border: 1px solid var(--border);
   border-radius: 10px;
@@ -33,7 +33,7 @@ button, select {
   cursor: pointer;
   transition: background 0.2s, border-color 0.2s;
 }
-button:hover, select:hover { background: rgb(255 255 255 / 0.15); }
+button:hover, select:hover, a.button:hover { background: rgb(255 255 255 / 0.15); }
 button[aria-pressed='true'] { border-color: var(--accent); }
 button:focus-visible, select:focus-visible, input:focus-visible, a:focus-visible {
   outline: 2px solid var(--accent);
@@ -44,6 +44,7 @@ button.primary:hover { background: #5b90ff; }
 select option { background: var(--bg); }
 
 a { color: #8fb0ff; }
+a.button { color: var(--text); text-decoration: none; }
 
 .app { max-width: 1200px; margin: 0 auto; padding: 20px; }
 
@@ -182,6 +183,8 @@ a { color: #8fb0ff; }
 .ticks button.on { color: var(--text); font-weight: 700; }
 .hint { margin: 8px 0 0; font-size: 0.78rem; color: var(--muted); text-align: center; }
 
+footer details { margin-top: 8px; }
+footer summary { cursor: pointer; }
 footer { margin: 24px 0 90px; font-size: 0.8rem; color: var(--muted); text-align: center; line-height: 1.6; }
 
 .player {
@@ -231,6 +234,31 @@ footer { margin: 24px 0 90px; font-size: 0.8rem; color: var(--muted); text-align
 .intro-card .song { color: #c9d5ee; font-style: italic; }
 button.big { padding: 12px 22px; font-size: 1.05rem; margin-top: 8px; }
 button.link { background: none; border: 0; color: var(--muted); text-decoration: underline; }
+
+/* Landing page */
+.country-grid {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 20px;
+}
+.card.country {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  height: 100%;
+  color: var(--text);
+  text-decoration: none;
+  transition: transform 0.2s, border-color 0.2s, background 0.2s;
+}
+.card.country:hover { transform: translateY(-3px); border-color: var(--accent); background: rgb(255 255 255 / 0.08); }
+.country-head { display: flex; gap: 14px; align-items: center; }
+.country-head h2 { margin: 0; font-size: 1.5rem; text-transform: none; letter-spacing: 0; color: var(--text); }
+.country-head p { margin: 2px 0 0; color: var(--muted); }
+.country .hemicycle { max-height: 200px; }
+.country-cta { margin-top: auto; color: #8fb0ff; font-weight: 600; }
 
 @keyframes fade { from { opacity: 0; } }
 

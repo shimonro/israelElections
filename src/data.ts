@@ -1,64 +1,101 @@
-import raw from './data/elections.json'
-
-export type Lang = 'en' | 'he'
-export type Text = Record<Lang, string>
+/** Text in several languages, keyed by language code ("en", "he", "hu"...). */
+export type Text = Record<string, string>
 
 export interface Party {
-  id: number
-  en: string
-  he: string
+  id: string | number
+  name: Text
   seats: number
-  bloc: number
+  bloc: string
+  /** Party color; parties without one get a shade of their bloc's hue. */
+  color?: string
 }
 
 export interface Term {
-  knesset: number
-  /** null when no government was formed after the election (yet). */
-  government: number | null
+  /** Parliament number (such as Knesset 26) or span (such as "2022–2026"). */
+  term: number | string
+  /** Government number or name; null when none was formed after the election. */
+  government: number | string | Text | null
   year: number
   pm: string
   note?: Text
+  seats: number
   results: Party[]
 }
 
-export interface PrimeMinister extends Text {
-  photo: string
+export interface Bloc {
+  key: string
+  name?: Text
+  hue?: number
+  color?: string
 }
 
-export const pms: Record<string, PrimeMinister> = raw.pms
-export const terms: Term[] = raw.terms
-
-export const TOTAL_SEATS = 120
-export const MAJORITY = 61
-
-export const blocs: { name: Text; hue: number }[] = [
-  { name: { en: 'Centre', he: 'מרכז' }, hue: 185 },
-  { name: { en: 'Religious', he: 'דתיים' }, hue: 38 },
-  { name: { en: 'Right', he: 'ימין' }, hue: 224 },
-  { name: { en: 'Sectorial', he: 'סקטוריאלית' }, hue: 275 },
-  { name: { en: 'Arab', he: 'ערבית' }, hue: 140 },
-  { name: { en: 'Left', he: 'שמאל' }, hue: 0 },
-]
-
-/** Blocs ordered across the political spectrum, as seated in the hemicycle. */
-export const blocOrder = [4, 5, 0, 3, 1, 2]
-
-export const blocColor = (bloc: number) => `hsl(${blocs[bloc].hue} 70% 52%)`
-
-/** A party keeps one shade of its bloc's hue in every Knesset. */
-export function partyColor(p: Party) {
-  const h = (p.id * 2654435761) >>> 0
-  const light = 38 + (h % 29)
-  const sat = 58 + ((h >>> 8) % 28)
-  return `hsl(${blocs[p.bloc].hue + ((h >>> 16) % 17) - 8} ${sat}% ${light}%)`
+export interface CountryMeta {
+  code: string
+  slug: string
+  name: Text
+  languages: string[]
+  emblem: string | null
+  years: [number, number]
+  chamber: Text
+  blocs: Bloc[]
+  latest: { year: number; seats: number; results: Party[] }
 }
 
-export function bySpectrum(results: Party[]) {
-  return [...results].sort(
-    (a, b) => blocOrder.indexOf(a.bloc) - blocOrder.indexOf(b.bloc) || b.seats - a.seats,
-  )
+export interface Country {
+  meta: Omit<CountryMeta, 'years' | 'chamber' | 'blocs' | 'latest'>
+  chamber: Text
+  termLabel: Text
+  /** Ordered across the political spectrum, as seated in the hemicycle. */
+  blocs: Bloc[]
+  pms: Record<string, { name: Text; photo: string }>
+  terms: Term[]
+  sources: { label: string; url: string }[]
+  credits: string[]
 }
 
-/** Stable, readable hash for deep links, such as "1969-k6-g14" or "2026-k26". */
-export const termSlug = (t: Term) =>
-  `${t.year}-k${t.knesset}${t.government ? `-g${t.government}` : ''}`
+// Every folder in src/countries is a country: meta.json loads up front, data.json on demand.
+const metaFiles = import.meta.glob<CountryMeta>('./countries/*/meta.json', { eager: true, import: 'default' })
+const dataFiles = import.meta.glob<Country>('./countries/*/data.json', { import: 'default' })
+
+export const countries = Object.values(metaFiles).sort((a, b) => a.name.en.localeCompare(b.name.en))
+
+export const loadCountry = (code: string) => dataFiles[`./countries/${code}/data.json`]()
+
+export const RTL = new Set(['he', 'ar', 'fa', 'ur', 'yi'])
+
+export const tr = (text: Text | undefined, lang: string) => (text ? (text[lang] ?? text.en ?? Object.values(text)[0]) : '')
+
+export const majorityOf = (seats: number) => Math.floor(seats / 2) + 1
+
+export function blocColor(blocs: Bloc[], key: string) {
+  const b = blocs.find((x) => x.key === key)
+  return b?.color ?? `hsl(${b?.hue ?? 0} 70% 52%)`
+}
+
+/** A party keeps one color in every term: its own, or a stable shade of its bloc's hue. */
+export function partyColor(blocs: Bloc[], p: Party) {
+  if (p.color) return p.color
+  const b = blocs.find((x) => x.key === p.bloc)
+  if (b?.color && b.hue === undefined) return b.color
+  let h = typeof p.id === 'number' ? (p.id * 2654435761) >>> 0 : 0
+  if (typeof p.id === 'string') {
+    for (const c of p.id) h = Math.imul(h ^ c.charCodeAt(0), 2654435761) >>> 0
+    h = Math.imul(h ^ (h >>> 15), 2246822519) >>> 0
+  }
+  return `hsl(${(b?.hue ?? 0) + ((h >>> 16) % 17) - 8} ${58 + ((h >>> 8) % 28)}% ${38 + (h % 29)}%)`
+}
+
+export function bySpectrum(blocs: Bloc[], results: Party[]) {
+  const order = blocs.map((b) => b.key)
+  return [...results].sort((a, b) => order.indexOf(a.bloc) - order.indexOf(b.bloc) || b.seats - a.seats)
+}
+
+/** Deep link for a term: its year, plus a counter when a year has several terms ("1969", "1969-2"). */
+export function termSlugs(terms: Term[]) {
+  const count = new Map<number, number>()
+  return terms.map((t) => {
+    const n = (count.get(t.year) ?? 0) + 1
+    count.set(t.year, n)
+    return n === 1 ? String(t.year) : `${t.year}-${n}`
+  })
+}
