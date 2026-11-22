@@ -92,6 +92,19 @@ a.button { color: var(--text); text-decoration: none; }
   border: 1px solid var(--border);
   animation: fade 0.6s ease;
 }
+.pm .initials {
+  display: grid;
+  place-items: center;
+  flex: none;
+  width: 96px;
+  height: 120px;
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  background: var(--card);
+  color: var(--muted);
+  font-size: 2rem;
+  font-weight: 700;
+}
 .pm figcaption { display: flex; flex-direction: column; gap: 2px; }
 .pm small { color: var(--muted); }
 .pm strong { font-size: 1.2rem; }
@@ -167,9 +180,44 @@ a.button { color: var(--text); text-decoration: none; }
 .race-bar { height: 22px; border-radius: 6px; transition: width var(--phase) ease, background var(--phase) ease; min-width: 4px; animation: grow var(--phase) ease; }
 .race-seats { font-variant-numeric: tabular-nums; min-width: 2ch; }
 
-.timeline { margin-top: 20px; padding-bottom: 12px; }
-.timeline input { width: 100%; accent-color: var(--accent); }
-.ticks { position: relative; height: 22px; margin: 2px 8px 0; }
+.timeline { margin-top: 20px; padding-bottom: 12px; position: relative; }
+.timeline input {
+  -webkit-appearance: none;
+  appearance: none;
+  display: block;
+  width: 100%;
+  height: 16px;
+  margin: 0;
+  background: transparent;
+  position: relative;
+  z-index: 1;
+}
+.timeline input::-webkit-slider-runnable-track { height: 6px; border-radius: 3px; background: rgb(255 255 255 / 0.15); }
+.timeline input::-moz-range-track { height: 6px; border-radius: 3px; background: rgb(255 255 255 / 0.15); }
+.timeline input::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 16px;
+  height: 16px;
+  margin-top: -5px;
+  border-radius: 50%;
+  background: var(--accent);
+  border: 2px solid #fff;
+}
+.timeline input::-moz-range-thumb { width: 12px; height: 12px; border-radius: 50%; background: var(--accent); border: 2px solid #fff; }
+/* One marker per election, sitting on the track. */
+.markers { position: absolute; inset-inline: 20px; top: 20px; height: 16px; pointer-events: none; z-index: 2; }
+.markers span {
+  position: absolute;
+  top: 3px;
+  width: 2px;
+  height: 10px;
+  translate: -50% 0;
+  border-radius: 1px;
+  background: rgb(255 255 255 / 0.55);
+}
+[dir='rtl'] .markers span { translate: 50% 0; }
+.markers span.past { background: var(--accent); }
+.ticks { position: relative; height: 22px; margin: 4px 0 0; }
 .ticks button {
   position: absolute;
   transform: translateX(-50%);
@@ -178,7 +226,6 @@ a.button { color: var(--text); text-decoration: none; }
   background: none;
   font-size: 0.68rem;
   color: var(--muted);
-  writing-mode: horizontal-tb;
 }
 [dir='rtl'] .ticks button { transform: translateX(50%); }
 .ticks button.on { color: var(--text); font-weight: 700; }
@@ -236,6 +283,42 @@ footer { margin: 24px 0 90px; font-size: 0.8rem; color: var(--muted); text-align
 button.big { padding: 12px 22px; font-size: 1.05rem; margin-top: 8px; }
 button.link { background: none; border: 0; color: var(--muted); text-decoration: underline; }
 
+/* History chart */
+.history { margin-top: 20px; }
+.history-head { display: flex; flex-wrap: wrap; gap: 10px 16px; align-items: center; margin-bottom: 12px; }
+.history-head h2 { margin: 0; margin-inline-end: auto; }
+.segmented { display: inline-flex; border: 1px solid var(--border); border-radius: 10px; overflow: hidden; }
+.segmented button { border: 0; border-radius: 0; padding: 6px 12px; background: transparent; font-size: 0.85rem; }
+.segmented button[aria-pressed='true'] { background: var(--accent); }
+.history-plot { position: relative; cursor: crosshair; touch-action: pan-y; }
+.history-plot svg { display: block; }
+.history-plot .grid { stroke: rgb(255 255 255 / 0.08); }
+.history-plot .grid.half { stroke: rgb(255 255 255 / 0.35); stroke-dasharray: 4 4; }
+.history-plot .axis { fill: var(--muted); font-size: 11px; }
+.history-plot .area, .history-plot .line { transition: opacity 0.2s; }
+.history-plot .line { stroke-width: 2.5; stroke-linejoin: round; }
+.history-plot .cursor { stroke: rgb(255 255 255 / 0.7); stroke-width: 1; }
+.history-plot .current { fill: rgb(255 255 255 / 0.12); stroke: #fff; stroke-width: 1; stroke-opacity: 0.6; }
+.history-tip {
+  position: absolute;
+  top: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-width: 170px;
+  padding: 8px 10px;
+  background: rgb(11 21 48 / 0.95);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  font-size: 0.8rem;
+  pointer-events: none;
+  z-index: 3;
+}
+.history-tip span { display: flex; align-items: center; gap: 6px; }
+.history-tip b { margin-inline-start: auto; font-variant-numeric: tabular-nums; }
+.history-tip i, .history-legend i { display: inline-block; width: 10px; height: 10px; border-radius: 3px; flex: none; }
+.history-legend li { cursor: default; }
+
 /* Tap to pause, on touch screens */
 .tap-flash {
   position: fixed;
@@ -289,7 +372,6 @@ button.link { background: none; border: 0; color: var(--muted); text-decoration:
   .grid { grid-template-columns: 1fr; }
   .year { font-size: 3.4rem; }
   .race li { grid-template-columns: minmax(90px, 40%) 1fr; }
-  .ticks button:nth-child(even) { display: none; }
   .player iframe { width: 120px; height: 68px; }
 }
 

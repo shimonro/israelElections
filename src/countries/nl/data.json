@@ -1,0 +1,3836 @@
+{
+ "meta": {
+  "code": "nl",
+  "slug": "netherlands",
+  "name": {
+   "en": "Netherlands",
+   "nl": "Nederland"
+  },
+  "languages": [
+   "en",
+   "nl"
+  ],
+  "emblem": "/countries/nl/emblem.png"
+ },
+ "chamber": {
+  "en": "House of Representatives",
+  "nl": "Tweede Kamer der Staten-Generaal"
+ },
+ "termLabel": {
+  "en": "Term"
+ },
+ "leaderTitle": {
+  "en": "Prime Minister",
+  "nl": "Minister-president"
+ },
+ "blocs": [
+  {
+   "key": "far-left",
+   "name": {
+    "en": "Far-left"
+   },
+   "hue": 340,
+   "color": "#9f1239"
+  },
+  {
+   "key": "left",
+   "name": {
+    "en": "Left",
+    "nl": "links"
+   },
+   "hue": 0,
+   "color": "#dc2626"
+  },
+  {
+   "key": "centre-left",
+   "name": {
+    "en": "Centre-left",
+    "nl": "centrumlinks"
+   },
+   "hue": 12,
+   "color": "#f87171"
+  },
+  {
+   "key": "centre",
+   "name": {
+    "en": "Centre",
+    "nl": "centrumpolitiek"
+   },
+   "hue": 48,
+   "color": "#eab308"
+  },
+  {
+   "key": "centre-right",
+   "name": {
+    "en": "Centre-right",
+    "nl": "centrumrechts"
+   },
+   "hue": 200,
+   "color": "#38bdf8"
+  },
+  {
+   "key": "right",
+   "name": {
+    "en": "Right",
+    "nl": "rechts"
+   },
+   "hue": 222,
+   "color": "#2563eb"
+  },
+  {
+   "key": "far-right",
+   "name": {
+    "en": "Far-right",
+    "nl": "extreemrechts"
+   },
+   "hue": 262,
+   "color": "#7c3aed"
+  }
+ ],
+ "pms": {
+  "louis-beel": {
+   "name": {
+    "en": "Louis Beel",
+    "nl": "Louis Beel"
+   },
+   "photo": "/countries/nl/pm/louis-beel.jpg"
+  },
+  "willem-drees": {
+   "name": {
+    "en": "Willem Drees",
+    "nl": "Willem Drees"
+   },
+   "photo": "/countries/nl/pm/willem-drees.jpg"
+  },
+  "jan-eduard-de-quay": {
+   "name": {
+    "en": "Jan Eduard de Quay",
+    "nl": "Jan de Quay"
+   },
+   "photo": "/countries/nl/pm/jan-eduard-de-quay.jpg"
+  },
+  "victor-marijnen": {
+   "name": {
+    "en": "Victor Marijnen",
+    "nl": "Victor Marijnen"
+   },
+   "photo": "/countries/nl/pm/victor-marijnen.jpg"
+  },
+  "jo-cals": {
+   "name": {
+    "en": "Jo Cals",
+    "nl": "Jo Cals"
+   },
+   "photo": "/countries/nl/pm/jo-cals.jpg"
+  },
+  "jelle-zijlstra": {
+   "name": {
+    "en": "Jelle Zijlstra",
+    "nl": "Jelle Zijlstra"
+   },
+   "photo": "/countries/nl/pm/jelle-zijlstra.jpg"
+  },
+  "piet-de-jong": {
+   "name": {
+    "en": "Piet de Jong",
+    "nl": "Piet de Jong"
+   },
+   "photo": "/countries/nl/pm/piet-de-jong.jpg"
+  },
+  "barend-biesheuvel": {
+   "name": {
+    "en": "Barend Biesheuvel",
+    "nl": "Barend Biesheuvel"
+   },
+   "photo": "/countries/nl/pm/barend-biesheuvel.jpg"
+  },
+  "joop-den-uyl": {
+   "name": {
+    "en": "Joop den Uyl",
+    "nl": "Joop den Uyl"
+   },
+   "photo": "/countries/nl/pm/joop-den-uyl.jpg"
+  },
+  "dries-van-agt": {
+   "name": {
+    "en": "Dries van Agt",
+    "nl": "Dries van Agt"
+   },
+   "photo": "/countries/nl/pm/dries-van-agt.jpg"
+  },
+  "ruud-lubbers": {
+   "name": {
+    "en": "Ruud Lubbers",
+    "nl": "Ruud Lubbers"
+   },
+   "photo": "/countries/nl/pm/ruud-lubbers.jpg"
+  },
+  "wim-kok": {
+   "name": {
+    "en": "Wim Kok",
+    "nl": "Wim Kok"
+   },
+   "photo": "/countries/nl/pm/wim-kok.jpg"
+  },
+  "jan-peter-balkenende": {
+   "name": {
+    "en": "Jan Peter Balkenende",
+    "nl": "Jan Peter Balkenende"
+   },
+   "photo": "/countries/nl/pm/jan-peter-balkenende.jpg"
+  },
+  "mark-rutte": {
+   "name": {
+    "en": "Mark Rutte",
+    "nl": "Mark Rutte"
+   },
+   "photo": "/countries/nl/pm/mark-rutte.jpg"
+  },
+  "dick-schoof": {
+   "name": {
+    "en": "Dick Schoof",
+    "nl": "Dick Schoof"
+   },
+   "photo": "/countries/nl/pm/dick-schoof.jpg"
+  },
+  "rob-jetten": {
+   "name": {
+    "en": "Rob Jetten",
+    "nl": "Rob Jetten"
+   },
+   "photo": "/countries/nl/pm/rob-jetten.jpg"
+  }
+ },
+ "terms": [
+  {
+   "term": "1946–1948",
+   "year": 1946,
+   "pm": "louis-beel",
+   "seats": 100,
+   "results": [
+    {
+     "id": "catholic-people-s-party",
+     "name": {
+      "en": "Catholic People's Party",
+      "nl": "Katholieke Volkspartij"
+     },
+     "seats": 32,
+     "bloc": "centre-right",
+     "color": "#F0CB47"
+    },
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nl": "Partij van de Arbeid"
+     },
+     "seats": 29,
+     "bloc": "centre-left",
+     "color": "#DF111A"
+    },
+    {
+     "id": "anti-revolutionary-party",
+     "name": {
+      "en": "Anti-Revolutionary Party",
+      "nl": "Anti-Revolutionaire Partij"
+     },
+     "seats": 13,
+     "bloc": "centre-right",
+     "color": "#008F90"
+    },
+    {
+     "id": "communist-party-of-the-netherlands",
+     "name": {
+      "en": "Communist Party of the Netherlands",
+      "nl": "Communistische Partij van Nederland"
+     },
+     "seats": 10,
+     "bloc": "far-left",
+     "color": "#BB5555"
+    },
+    {
+     "id": "christian-historical-union",
+     "name": {
+      "en": "Christian Historical Union",
+      "nl": "Christelijk-Historische Unie"
+     },
+     "seats": 8,
+     "bloc": "centre-right",
+     "color": "#006F70"
+    },
+    {
+     "id": "freedom-party",
+     "name": {
+      "en": "Freedom Party",
+      "nl": "Partij van de Vrijheid"
+     },
+     "seats": 6,
+     "bloc": "centre-right",
+     "color": "#2D4A6A"
+    },
+    {
+     "id": "reformed-political-party",
+     "name": {
+      "en": "Reformed Political Party",
+      "nl": "Staatkundig Gereformeerde Partij"
+     },
+     "seats": 2,
+     "bloc": "right",
+     "color": "#EA5B0B"
+    }
+   ]
+  },
+  {
+   "term": "1948–1952",
+   "year": 1948,
+   "pm": "willem-drees",
+   "seats": 100,
+   "results": [
+    {
+     "id": "catholic-people-s-party",
+     "name": {
+      "en": "Catholic People's Party",
+      "nl": "Katholieke Volkspartij"
+     },
+     "seats": 32,
+     "bloc": "centre-right",
+     "color": "#F0CB47"
+    },
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nl": "Partij van de Arbeid"
+     },
+     "seats": 27,
+     "bloc": "centre-left",
+     "color": "#DF111A"
+    },
+    {
+     "id": "anti-revolutionary-party",
+     "name": {
+      "en": "Anti-Revolutionary Party",
+      "nl": "Anti-Revolutionaire Partij"
+     },
+     "seats": 13,
+     "bloc": "centre-right",
+     "color": "#008F90"
+    },
+    {
+     "id": "christian-historical-union",
+     "name": {
+      "en": "Christian Historical Union",
+      "nl": "Christelijk-Historische Unie"
+     },
+     "seats": 9,
+     "bloc": "centre-right",
+     "color": "#006F70"
+    },
+    {
+     "id": "people-s-party-for-freedom-and-democracy",
+     "name": {
+      "en": "People's Party for Freedom and Democracy",
+      "nl": "Volkspartij voor Vrijheid en Democratie"
+     },
+     "seats": 8,
+     "bloc": "centre-right",
+     "color": "#0A2CCA"
+    },
+    {
+     "id": "communist-party-of-the-netherlands",
+     "name": {
+      "en": "Communist Party of the Netherlands",
+      "nl": "Communistische Partij van Nederland"
+     },
+     "seats": 8,
+     "bloc": "far-left",
+     "color": "#BB5555"
+    },
+    {
+     "id": "reformed-political-party",
+     "name": {
+      "en": "Reformed Political Party",
+      "nl": "Staatkundig Gereformeerde Partij"
+     },
+     "seats": 2,
+     "bloc": "right",
+     "color": "#EA5B0B"
+    },
+    {
+     "id": "catholic-national-party",
+     "name": {
+      "en": "Catholic National Party",
+      "nl": "Katholiek Nationale Partij"
+     },
+     "seats": 1,
+     "bloc": "right",
+     "color": "#47B26B"
+    }
+   ]
+  },
+  {
+   "term": "1952–1956",
+   "year": 1952,
+   "pm": "willem-drees",
+   "seats": 100,
+   "results": [
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nl": "Partij van de Arbeid"
+     },
+     "seats": 30,
+     "bloc": "centre-left",
+     "color": "#DF111A"
+    },
+    {
+     "id": "catholic-people-s-party",
+     "name": {
+      "en": "Catholic People's Party",
+      "nl": "Katholieke Volkspartij"
+     },
+     "seats": 30,
+     "bloc": "centre-right",
+     "color": "#F0CB47"
+    },
+    {
+     "id": "anti-revolutionary-party",
+     "name": {
+      "en": "Anti-Revolutionary Party",
+      "nl": "Anti-Revolutionaire Partij"
+     },
+     "seats": 12,
+     "bloc": "centre-right",
+     "color": "#008F90"
+    },
+    {
+     "id": "christian-historical-union",
+     "name": {
+      "en": "Christian Historical Union",
+      "nl": "Christelijk-Historische Unie"
+     },
+     "seats": 9,
+     "bloc": "centre-right",
+     "color": "#006F70"
+    },
+    {
+     "id": "people-s-party-for-freedom-and-democracy",
+     "name": {
+      "en": "People's Party for Freedom and Democracy",
+      "nl": "Volkspartij voor Vrijheid en Democratie"
+     },
+     "seats": 9,
+     "bloc": "centre-right",
+     "color": "#0A2CCA"
+    },
+    {
+     "id": "communist-party-of-the-netherlands",
+     "name": {
+      "en": "Communist Party of the Netherlands",
+      "nl": "Communistische Partij van Nederland"
+     },
+     "seats": 6,
+     "bloc": "far-left",
+     "color": "#BB5555"
+    },
+    {
+     "id": "catholic-national-party",
+     "name": {
+      "en": "Catholic National Party",
+      "nl": "Katholiek Nationale Partij"
+     },
+     "seats": 2,
+     "bloc": "right",
+     "color": "#47B26B"
+    },
+    {
+     "id": "reformed-political-party",
+     "name": {
+      "en": "Reformed Political Party",
+      "nl": "Staatkundig Gereformeerde Partij"
+     },
+     "seats": 2,
+     "bloc": "right",
+     "color": "#EA5B0B"
+    }
+   ]
+  },
+  {
+   "term": "1956–1959",
+   "year": 1956,
+   "pm": "willem-drees",
+   "seats": 100,
+   "results": [
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nl": "Partij van de Arbeid"
+     },
+     "seats": 34,
+     "bloc": "centre-left",
+     "color": "#DF111A"
+    },
+    {
+     "id": "catholic-people-s-party",
+     "name": {
+      "en": "Catholic People's Party",
+      "nl": "Katholieke Volkspartij"
+     },
+     "seats": 33,
+     "bloc": "centre-right",
+     "color": "#F0CB47"
+    },
+    {
+     "id": "anti-revolutionary-party",
+     "name": {
+      "en": "Anti-Revolutionary Party",
+      "nl": "Anti-Revolutionaire Partij"
+     },
+     "seats": 10,
+     "bloc": "centre-right",
+     "color": "#008F90"
+    },
+    {
+     "id": "people-s-party-for-freedom-and-democracy",
+     "name": {
+      "en": "People's Party for Freedom and Democracy",
+      "nl": "Volkspartij voor Vrijheid en Democratie"
+     },
+     "seats": 9,
+     "bloc": "centre-right",
+     "color": "#0A2CCA"
+    },
+    {
+     "id": "christian-historical-union",
+     "name": {
+      "en": "Christian Historical Union",
+      "nl": "Christelijk-Historische Unie"
+     },
+     "seats": 8,
+     "bloc": "centre-right",
+     "color": "#006F70"
+    },
+    {
+     "id": "communist-party-of-the-netherlands",
+     "name": {
+      "en": "Communist Party of the Netherlands",
+      "nl": "Communistische Partij van Nederland"
+     },
+     "seats": 4,
+     "bloc": "far-left",
+     "color": "#BB5555"
+    },
+    {
+     "id": "reformed-political-party",
+     "name": {
+      "en": "Reformed Political Party",
+      "nl": "Staatkundig Gereformeerde Partij"
+     },
+     "seats": 2,
+     "bloc": "right",
+     "color": "#EA5B0B"
+    }
+   ]
+  },
+  {
+   "term": "1956–1959",
+   "year": 1958,
+   "pm": "louis-beel",
+   "seats": 100,
+   "results": [
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nl": "Partij van de Arbeid"
+     },
+     "seats": 34,
+     "bloc": "centre-left",
+     "color": "#DF111A"
+    },
+    {
+     "id": "catholic-people-s-party",
+     "name": {
+      "en": "Catholic People's Party",
+      "nl": "Katholieke Volkspartij"
+     },
+     "seats": 33,
+     "bloc": "centre-right",
+     "color": "#F0CB47"
+    },
+    {
+     "id": "anti-revolutionary-party",
+     "name": {
+      "en": "Anti-Revolutionary Party",
+      "nl": "Anti-Revolutionaire Partij"
+     },
+     "seats": 10,
+     "bloc": "centre-right",
+     "color": "#008F90"
+    },
+    {
+     "id": "people-s-party-for-freedom-and-democracy",
+     "name": {
+      "en": "People's Party for Freedom and Democracy",
+      "nl": "Volkspartij voor Vrijheid en Democratie"
+     },
+     "seats": 9,
+     "bloc": "centre-right",
+     "color": "#0A2CCA"
+    },
+    {
+     "id": "christian-historical-union",
+     "name": {
+      "en": "Christian Historical Union",
+      "nl": "Christelijk-Historische Unie"
+     },
+     "seats": 8,
+     "bloc": "centre-right",
+     "color": "#006F70"
+    },
+    {
+     "id": "communist-party-of-the-netherlands",
+     "name": {
+      "en": "Communist Party of the Netherlands",
+      "nl": "Communistische Partij van Nederland"
+     },
+     "seats": 4,
+     "bloc": "far-left",
+     "color": "#BB5555"
+    },
+    {
+     "id": "reformed-political-party",
+     "name": {
+      "en": "Reformed Political Party",
+      "nl": "Staatkundig Gereformeerde Partij"
+     },
+     "seats": 2,
+     "bloc": "right",
+     "color": "#EA5B0B"
+    }
+   ]
+  },
+  {
+   "term": "1959–1963",
+   "year": 1959,
+   "pm": "jan-eduard-de-quay",
+   "seats": 150,
+   "results": [
+    {
+     "id": "catholic-people-s-party",
+     "name": {
+      "en": "Catholic People's Party",
+      "nl": "Katholieke Volkspartij"
+     },
+     "seats": 49,
+     "bloc": "centre-right",
+     "color": "#F0CB47"
+    },
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nl": "Partij van de Arbeid"
+     },
+     "seats": 48,
+     "bloc": "centre-left",
+     "color": "#DF111A"
+    },
+    {
+     "id": "people-s-party-for-freedom-and-democracy",
+     "name": {
+      "en": "People's Party for Freedom and Democracy",
+      "nl": "Volkspartij voor Vrijheid en Democratie"
+     },
+     "seats": 19,
+     "bloc": "centre-right",
+     "color": "#0A2CCA"
+    },
+    {
+     "id": "anti-revolutionary-party",
+     "name": {
+      "en": "Anti-Revolutionary Party",
+      "nl": "Anti-Revolutionaire Partij"
+     },
+     "seats": 14,
+     "bloc": "centre-right",
+     "color": "#008F90"
+    },
+    {
+     "id": "christian-historical-union",
+     "name": {
+      "en": "Christian Historical Union",
+      "nl": "Christelijk-Historische Unie"
+     },
+     "seats": 12,
+     "bloc": "centre-right",
+     "color": "#006F70"
+    },
+    {
+     "id": "communist-party-of-the-netherlands",
+     "name": {
+      "en": "Communist Party of the Netherlands",
+      "nl": "Communistische Partij van Nederland"
+     },
+     "seats": 3,
+     "bloc": "far-left",
+     "color": "#BB5555"
+    },
+    {
+     "id": "reformed-political-party",
+     "name": {
+      "en": "Reformed Political Party",
+      "nl": "Staatkundig Gereformeerde Partij"
+     },
+     "seats": 3,
+     "bloc": "right",
+     "color": "#EA5B0B"
+    },
+    {
+     "id": "pacifist-socialist-party",
+     "name": {
+      "en": "Pacifist Socialist Party",
+      "nl": "Pacifistisch Socialistische Partij"
+     },
+     "seats": 2,
+     "bloc": "left",
+     "color": "#FF3366"
+    }
+   ]
+  },
+  {
+   "term": "1963–1967",
+   "year": 1963,
+   "pm": "victor-marijnen",
+   "seats": 150,
+   "results": [
+    {
+     "id": "catholic-people-s-party",
+     "name": {
+      "en": "Catholic People's Party",
+      "nl": "Katholieke Volkspartij"
+     },
+     "seats": 50,
+     "bloc": "centre-right",
+     "color": "#F0CB47"
+    },
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nl": "Partij van de Arbeid"
+     },
+     "seats": 43,
+     "bloc": "centre-left",
+     "color": "#DF111A"
+    },
+    {
+     "id": "people-s-party-for-freedom-and-democracy",
+     "name": {
+      "en": "People's Party for Freedom and Democracy",
+      "nl": "Volkspartij voor Vrijheid en Democratie"
+     },
+     "seats": 16,
+     "bloc": "centre-right",
+     "color": "#0A2CCA"
+    },
+    {
+     "id": "anti-revolutionary-party",
+     "name": {
+      "en": "Anti-Revolutionary Party",
+      "nl": "Anti-Revolutionaire Partij"
+     },
+     "seats": 13,
+     "bloc": "centre-right",
+     "color": "#008F90"
+    },
+    {
+     "id": "christian-historical-union",
+     "name": {
+      "en": "Christian Historical Union",
+      "nl": "Christelijk-Historische Unie"
+     },
+     "seats": 13,
+     "bloc": "centre-right",
+     "color": "#006F70"
+    },
+    {
+     "id": "pacifist-socialist-party",
+     "name": {
+      "en": "Pacifist Socialist Party",
+      "nl": "Pacifistisch Socialistische Partij"
+     },
+     "seats": 4,
+     "bloc": "left",
+     "color": "#FF3366"
+    },
+    {
+     "id": "communist-party-of-the-netherlands",
+     "name": {
+      "en": "Communist Party of the Netherlands",
+      "nl": "Communistische Partij van Nederland"
+     },
+     "seats": 4,
+     "bloc": "far-left",
+     "color": "#BB5555"
+    },
+    {
+     "id": "reformed-political-party",
+     "name": {
+      "en": "Reformed Political Party",
+      "nl": "Staatkundig Gereformeerde Partij"
+     },
+     "seats": 3,
+     "bloc": "right",
+     "color": "#EA5B0B"
+    },
+    {
+     "id": "farmers-party",
+     "name": {
+      "en": "Farmers' Party",
+      "nl": "Boerenpartij"
+     },
+     "seats": 3,
+     "bloc": "right",
+     "color": "#7AA300"
+    },
+    {
+     "id": "reformed-political-league",
+     "name": {
+      "en": "Reformed Political League",
+      "nl": "Gereformeerd Politiek Verbond"
+     },
+     "seats": 1,
+     "bloc": "right",
+     "color": "#6CBFD9"
+    }
+   ]
+  },
+  {
+   "term": "1963–1967",
+   "year": 1965,
+   "pm": "jo-cals",
+   "seats": 150,
+   "results": [
+    {
+     "id": "catholic-people-s-party",
+     "name": {
+      "en": "Catholic People's Party",
+      "nl": "Katholieke Volkspartij"
+     },
+     "seats": 50,
+     "bloc": "centre-right",
+     "color": "#F0CB47"
+    },
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nl": "Partij van de Arbeid"
+     },
+     "seats": 43,
+     "bloc": "centre-left",
+     "color": "#DF111A"
+    },
+    {
+     "id": "people-s-party-for-freedom-and-democracy",
+     "name": {
+      "en": "People's Party for Freedom and Democracy",
+      "nl": "Volkspartij voor Vrijheid en Democratie"
+     },
+     "seats": 16,
+     "bloc": "centre-right",
+     "color": "#0A2CCA"
+    },
+    {
+     "id": "anti-revolutionary-party",
+     "name": {
+      "en": "Anti-Revolutionary Party",
+      "nl": "Anti-Revolutionaire Partij"
+     },
+     "seats": 13,
+     "bloc": "centre-right",
+     "color": "#008F90"
+    },
+    {
+     "id": "christian-historical-union",
+     "name": {
+      "en": "Christian Historical Union",
+      "nl": "Christelijk-Historische Unie"
+     },
+     "seats": 13,
+     "bloc": "centre-right",
+     "color": "#006F70"
+    },
+    {
+     "id": "pacifist-socialist-party",
+     "name": {
+      "en": "Pacifist Socialist Party",
+      "nl": "Pacifistisch Socialistische Partij"
+     },
+     "seats": 4,
+     "bloc": "left",
+     "color": "#FF3366"
+    },
+    {
+     "id": "communist-party-of-the-netherlands",
+     "name": {
+      "en": "Communist Party of the Netherlands",
+      "nl": "Communistische Partij van Nederland"
+     },
+     "seats": 4,
+     "bloc": "far-left",
+     "color": "#BB5555"
+    },
+    {
+     "id": "reformed-political-party",
+     "name": {
+      "en": "Reformed Political Party",
+      "nl": "Staatkundig Gereformeerde Partij"
+     },
+     "seats": 3,
+     "bloc": "right",
+     "color": "#EA5B0B"
+    },
+    {
+     "id": "farmers-party",
+     "name": {
+      "en": "Farmers' Party",
+      "nl": "Boerenpartij"
+     },
+     "seats": 3,
+     "bloc": "right",
+     "color": "#7AA300"
+    },
+    {
+     "id": "reformed-political-league",
+     "name": {
+      "en": "Reformed Political League",
+      "nl": "Gereformeerd Politiek Verbond"
+     },
+     "seats": 1,
+     "bloc": "right",
+     "color": "#6CBFD9"
+    }
+   ]
+  },
+  {
+   "term": "1963–1967",
+   "year": 1966,
+   "pm": "jelle-zijlstra",
+   "seats": 150,
+   "results": [
+    {
+     "id": "catholic-people-s-party",
+     "name": {
+      "en": "Catholic People's Party",
+      "nl": "Katholieke Volkspartij"
+     },
+     "seats": 50,
+     "bloc": "centre-right",
+     "color": "#F0CB47"
+    },
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nl": "Partij van de Arbeid"
+     },
+     "seats": 43,
+     "bloc": "centre-left",
+     "color": "#DF111A"
+    },
+    {
+     "id": "people-s-party-for-freedom-and-democracy",
+     "name": {
+      "en": "People's Party for Freedom and Democracy",
+      "nl": "Volkspartij voor Vrijheid en Democratie"
+     },
+     "seats": 16,
+     "bloc": "centre-right",
+     "color": "#0A2CCA"
+    },
+    {
+     "id": "anti-revolutionary-party",
+     "name": {
+      "en": "Anti-Revolutionary Party",
+      "nl": "Anti-Revolutionaire Partij"
+     },
+     "seats": 13,
+     "bloc": "centre-right",
+     "color": "#008F90"
+    },
+    {
+     "id": "christian-historical-union",
+     "name": {
+      "en": "Christian Historical Union",
+      "nl": "Christelijk-Historische Unie"
+     },
+     "seats": 13,
+     "bloc": "centre-right",
+     "color": "#006F70"
+    },
+    {
+     "id": "pacifist-socialist-party",
+     "name": {
+      "en": "Pacifist Socialist Party",
+      "nl": "Pacifistisch Socialistische Partij"
+     },
+     "seats": 4,
+     "bloc": "left",
+     "color": "#FF3366"
+    },
+    {
+     "id": "communist-party-of-the-netherlands",
+     "name": {
+      "en": "Communist Party of the Netherlands",
+      "nl": "Communistische Partij van Nederland"
+     },
+     "seats": 4,
+     "bloc": "far-left",
+     "color": "#BB5555"
+    },
+    {
+     "id": "reformed-political-party",
+     "name": {
+      "en": "Reformed Political Party",
+      "nl": "Staatkundig Gereformeerde Partij"
+     },
+     "seats": 3,
+     "bloc": "right",
+     "color": "#EA5B0B"
+    },
+    {
+     "id": "farmers-party",
+     "name": {
+      "en": "Farmers' Party",
+      "nl": "Boerenpartij"
+     },
+     "seats": 3,
+     "bloc": "right",
+     "color": "#7AA300"
+    },
+    {
+     "id": "reformed-political-league",
+     "name": {
+      "en": "Reformed Political League",
+      "nl": "Gereformeerd Politiek Verbond"
+     },
+     "seats": 1,
+     "bloc": "right",
+     "color": "#6CBFD9"
+    }
+   ]
+  },
+  {
+   "term": "1967–1971",
+   "year": 1967,
+   "pm": "piet-de-jong",
+   "seats": 150,
+   "results": [
+    {
+     "id": "catholic-people-s-party",
+     "name": {
+      "en": "Catholic People's Party",
+      "nl": "Katholieke Volkspartij"
+     },
+     "seats": 42,
+     "bloc": "centre-right",
+     "color": "#F0CB47"
+    },
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nl": "Partij van de Arbeid"
+     },
+     "seats": 37,
+     "bloc": "centre-left",
+     "color": "#DF111A"
+    },
+    {
+     "id": "people-s-party-for-freedom-and-democracy",
+     "name": {
+      "en": "People's Party for Freedom and Democracy",
+      "nl": "Volkspartij voor Vrijheid en Democratie"
+     },
+     "seats": 17,
+     "bloc": "centre-right",
+     "color": "#0A2CCA"
+    },
+    {
+     "id": "anti-revolutionary-party",
+     "name": {
+      "en": "Anti-Revolutionary Party",
+      "nl": "Anti-Revolutionaire Partij"
+     },
+     "seats": 15,
+     "bloc": "centre-right",
+     "color": "#008F90"
+    },
+    {
+     "id": "christian-historical-union",
+     "name": {
+      "en": "Christian Historical Union",
+      "nl": "Christelijk-Historische Unie"
+     },
+     "seats": 12,
+     "bloc": "centre-right",
+     "color": "#006F70"
+    },
+    {
+     "id": "farmers-party",
+     "name": {
+      "en": "Farmers' Party",
+      "nl": "Boerenpartij"
+     },
+     "seats": 7,
+     "bloc": "right",
+     "color": "#7AA300"
+    },
+    {
+     "id": "democrats-66",
+     "name": {
+      "en": "Democrats 66",
+      "nl": "Democraten 66"
+     },
+     "seats": 7,
+     "bloc": "centre",
+     "color": "#00AE41"
+    },
+    {
+     "id": "communist-party-of-the-netherlands",
+     "name": {
+      "en": "Communist Party of the Netherlands",
+      "nl": "Communistische Partij van Nederland"
+     },
+     "seats": 5,
+     "bloc": "far-left",
+     "color": "#BB5555"
+    },
+    {
+     "id": "pacifist-socialist-party",
+     "name": {
+      "en": "Pacifist Socialist Party",
+      "nl": "Pacifistisch Socialistische Partij"
+     },
+     "seats": 4,
+     "bloc": "left",
+     "color": "#FF3366"
+    },
+    {
+     "id": "reformed-political-party",
+     "name": {
+      "en": "Reformed Political Party",
+      "nl": "Staatkundig Gereformeerde Partij"
+     },
+     "seats": 3,
+     "bloc": "right",
+     "color": "#EA5B0B"
+    },
+    {
+     "id": "reformed-political-league",
+     "name": {
+      "en": "Reformed Political League",
+      "nl": "Gereformeerd Politiek Verbond"
+     },
+     "seats": 1,
+     "bloc": "right",
+     "color": "#6CBFD9"
+    }
+   ]
+  },
+  {
+   "term": "1971–1972",
+   "year": 1971,
+   "pm": "barend-biesheuvel",
+   "seats": 150,
+   "results": [
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nl": "Partij van de Arbeid"
+     },
+     "seats": 39,
+     "bloc": "centre-left",
+     "color": "#DF111A"
+    },
+    {
+     "id": "catholic-people-s-party",
+     "name": {
+      "en": "Catholic People's Party",
+      "nl": "Katholieke Volkspartij"
+     },
+     "seats": 35,
+     "bloc": "centre-right",
+     "color": "#F0CB47"
+    },
+    {
+     "id": "people-s-party-for-freedom-and-democracy",
+     "name": {
+      "en": "People's Party for Freedom and Democracy",
+      "nl": "Volkspartij voor Vrijheid en Democratie"
+     },
+     "seats": 16,
+     "bloc": "centre-right",
+     "color": "#0A2CCA"
+    },
+    {
+     "id": "anti-revolutionary-party",
+     "name": {
+      "en": "Anti-Revolutionary Party",
+      "nl": "Anti-Revolutionaire Partij"
+     },
+     "seats": 13,
+     "bloc": "centre-right",
+     "color": "#008F90"
+    },
+    {
+     "id": "democrats-66",
+     "name": {
+      "en": "Democrats 66",
+      "nl": "Democraten 66"
+     },
+     "seats": 11,
+     "bloc": "centre",
+     "color": "#00AE41"
+    },
+    {
+     "id": "christian-historical-union",
+     "name": {
+      "en": "Christian Historical Union",
+      "nl": "Christelijk-Historische Unie"
+     },
+     "seats": 10,
+     "bloc": "centre-right",
+     "color": "#006F70"
+    },
+    {
+     "id": "democratic-socialists-70",
+     "name": {
+      "en": "Democratic Socialists '70",
+      "nl": "Democratisch Socialisten '70"
+     },
+     "seats": 8,
+     "bloc": "centre-left",
+     "color": "#A21756"
+    },
+    {
+     "id": "communist-party-of-the-netherlands",
+     "name": {
+      "en": "Communist Party of the Netherlands",
+      "nl": "Communistische Partij van Nederland"
+     },
+     "seats": 6,
+     "bloc": "far-left",
+     "color": "#BB5555"
+    },
+    {
+     "id": "reformed-political-party",
+     "name": {
+      "en": "Reformed Political Party",
+      "nl": "Staatkundig Gereformeerde Partij"
+     },
+     "seats": 3,
+     "bloc": "right",
+     "color": "#EA5B0B"
+    },
+    {
+     "id": "political-party-of-radicals",
+     "name": {
+      "en": "Political Party of Radicals",
+      "nl": "Politieke Partij Radikalen"
+     },
+     "seats": 2,
+     "bloc": "left",
+     "color": "#15803C"
+    },
+    {
+     "id": "reformed-political-league",
+     "name": {
+      "en": "Reformed Political League",
+      "nl": "Gereformeerd Politiek Verbond"
+     },
+     "seats": 2,
+     "bloc": "right",
+     "color": "#6CBFD9"
+    },
+    {
+     "id": "new-middle-party",
+     "name": {
+      "en": "New Middle Party",
+      "nl": "Nederlandse Middenstands Partij"
+     },
+     "seats": 2,
+     "bloc": "centre-right",
+     "color": "#0033EE"
+    },
+    {
+     "id": "pacifist-socialist-party",
+     "name": {
+      "en": "Pacifist Socialist Party",
+      "nl": "Pacifistisch Socialistische Partij"
+     },
+     "seats": 2,
+     "bloc": "left",
+     "color": "#FF3366"
+    },
+    {
+     "id": "farmers-party",
+     "name": {
+      "en": "Farmers' Party",
+      "nl": "Boerenpartij"
+     },
+     "seats": 1,
+     "bloc": "right",
+     "color": "#7AA300"
+    }
+   ]
+  },
+  {
+   "term": "1972–1977",
+   "year": 1972,
+   "pm": "barend-biesheuvel",
+   "seats": 150,
+   "results": [
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nl": "Partij van de Arbeid"
+     },
+     "seats": 43,
+     "bloc": "centre-left",
+     "color": "#DF111A"
+    },
+    {
+     "id": "catholic-people-s-party",
+     "name": {
+      "en": "Catholic People's Party",
+      "nl": "Katholieke Volkspartij"
+     },
+     "seats": 27,
+     "bloc": "centre-right",
+     "color": "#F0CB47"
+    },
+    {
+     "id": "people-s-party-for-freedom-and-democracy",
+     "name": {
+      "en": "People's Party for Freedom and Democracy",
+      "nl": "Volkspartij voor Vrijheid en Democratie"
+     },
+     "seats": 22,
+     "bloc": "centre-right",
+     "color": "#0A2CCA"
+    },
+    {
+     "id": "anti-revolutionary-party",
+     "name": {
+      "en": "Anti-Revolutionary Party",
+      "nl": "Anti-Revolutionaire Partij"
+     },
+     "seats": 14,
+     "bloc": "centre-right",
+     "color": "#008F90"
+    },
+    {
+     "id": "political-party-of-radicals",
+     "name": {
+      "en": "Political Party of Radicals",
+      "nl": "Politieke Partij Radikalen"
+     },
+     "seats": 7,
+     "bloc": "left",
+     "color": "#15803C"
+    },
+    {
+     "id": "christian-historical-union",
+     "name": {
+      "en": "Christian Historical Union",
+      "nl": "Christelijk-Historische Unie"
+     },
+     "seats": 7,
+     "bloc": "centre-right",
+     "color": "#006F70"
+    },
+    {
+     "id": "communist-party-of-the-netherlands",
+     "name": {
+      "en": "Communist Party of the Netherlands",
+      "nl": "Communistische Partij van Nederland"
+     },
+     "seats": 7,
+     "bloc": "far-left",
+     "color": "#BB5555"
+    },
+    {
+     "id": "democrats-66",
+     "name": {
+      "en": "Democrats 66",
+      "nl": "Democraten 66"
+     },
+     "seats": 6,
+     "bloc": "centre",
+     "color": "#00AE41"
+    },
+    {
+     "id": "democratic-socialists-70",
+     "name": {
+      "en": "Democratic Socialists '70",
+      "nl": "Democratisch Socialisten '70"
+     },
+     "seats": 6,
+     "bloc": "centre-left",
+     "color": "#A21756"
+    },
+    {
+     "id": "reformed-political-party",
+     "name": {
+      "en": "Reformed Political Party",
+      "nl": "Staatkundig Gereformeerde Partij"
+     },
+     "seats": 3,
+     "bloc": "right",
+     "color": "#EA5B0B"
+    },
+    {
+     "id": "farmers-party",
+     "name": {
+      "en": "Farmers' Party",
+      "nl": "Boerenpartij"
+     },
+     "seats": 3,
+     "bloc": "right",
+     "color": "#7AA300"
+    },
+    {
+     "id": "reformed-political-league",
+     "name": {
+      "en": "Reformed Political League",
+      "nl": "Gereformeerd Politiek Verbond"
+     },
+     "seats": 2,
+     "bloc": "right",
+     "color": "#6CBFD9"
+    },
+    {
+     "id": "pacifist-socialist-party",
+     "name": {
+      "en": "Pacifist Socialist Party",
+      "nl": "Pacifistisch Socialistische Partij"
+     },
+     "seats": 2,
+     "bloc": "left",
+     "color": "#FF3366"
+    },
+    {
+     "id": "roman-catholic-party-of-the-netherlands",
+     "name": {
+      "en": "Roman Catholic Party of the Netherlands",
+      "nl": "Rooms Katholieke Partij Nederland"
+     },
+     "seats": 1,
+     "bloc": "right",
+     "color": "#0033BB"
+    }
+   ]
+  },
+  {
+   "term": "1972–1977",
+   "year": 1973,
+   "pm": "joop-den-uyl",
+   "seats": 150,
+   "results": [
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nl": "Partij van de Arbeid"
+     },
+     "seats": 43,
+     "bloc": "centre-left",
+     "color": "#DF111A"
+    },
+    {
+     "id": "catholic-people-s-party",
+     "name": {
+      "en": "Catholic People's Party",
+      "nl": "Katholieke Volkspartij"
+     },
+     "seats": 27,
+     "bloc": "centre-right",
+     "color": "#F0CB47"
+    },
+    {
+     "id": "people-s-party-for-freedom-and-democracy",
+     "name": {
+      "en": "People's Party for Freedom and Democracy",
+      "nl": "Volkspartij voor Vrijheid en Democratie"
+     },
+     "seats": 22,
+     "bloc": "centre-right",
+     "color": "#0A2CCA"
+    },
+    {
+     "id": "anti-revolutionary-party",
+     "name": {
+      "en": "Anti-Revolutionary Party",
+      "nl": "Anti-Revolutionaire Partij"
+     },
+     "seats": 14,
+     "bloc": "centre-right",
+     "color": "#008F90"
+    },
+    {
+     "id": "political-party-of-radicals",
+     "name": {
+      "en": "Political Party of Radicals",
+      "nl": "Politieke Partij Radikalen"
+     },
+     "seats": 7,
+     "bloc": "left",
+     "color": "#15803C"
+    },
+    {
+     "id": "christian-historical-union",
+     "name": {
+      "en": "Christian Historical Union",
+      "nl": "Christelijk-Historische Unie"
+     },
+     "seats": 7,
+     "bloc": "centre-right",
+     "color": "#006F70"
+    },
+    {
+     "id": "communist-party-of-the-netherlands",
+     "name": {
+      "en": "Communist Party of the Netherlands",
+      "nl": "Communistische Partij van Nederland"
+     },
+     "seats": 7,
+     "bloc": "far-left",
+     "color": "#BB5555"
+    },
+    {
+     "id": "democrats-66",
+     "name": {
+      "en": "Democrats 66",
+      "nl": "Democraten 66"
+     },
+     "seats": 6,
+     "bloc": "centre",
+     "color": "#00AE41"
+    },
+    {
+     "id": "democratic-socialists-70",
+     "name": {
+      "en": "Democratic Socialists '70",
+      "nl": "Democratisch Socialisten '70"
+     },
+     "seats": 6,
+     "bloc": "centre-left",
+     "color": "#A21756"
+    },
+    {
+     "id": "reformed-political-party",
+     "name": {
+      "en": "Reformed Political Party",
+      "nl": "Staatkundig Gereformeerde Partij"
+     },
+     "seats": 3,
+     "bloc": "right",
+     "color": "#EA5B0B"
+    },
+    {
+     "id": "farmers-party",
+     "name": {
+      "en": "Farmers' Party",
+      "nl": "Boerenpartij"
+     },
+     "seats": 3,
+     "bloc": "right",
+     "color": "#7AA300"
+    },
+    {
+     "id": "reformed-political-league",
+     "name": {
+      "en": "Reformed Political League",
+      "nl": "Gereformeerd Politiek Verbond"
+     },
+     "seats": 2,
+     "bloc": "right",
+     "color": "#6CBFD9"
+    },
+    {
+     "id": "pacifist-socialist-party",
+     "name": {
+      "en": "Pacifist Socialist Party",
+      "nl": "Pacifistisch Socialistische Partij"
+     },
+     "seats": 2,
+     "bloc": "left",
+     "color": "#FF3366"
+    },
+    {
+     "id": "roman-catholic-party-of-the-netherlands",
+     "name": {
+      "en": "Roman Catholic Party of the Netherlands",
+      "nl": "Rooms Katholieke Partij Nederland"
+     },
+     "seats": 1,
+     "bloc": "right",
+     "color": "#0033BB"
+    }
+   ]
+  },
+  {
+   "term": "1977–1981",
+   "year": 1977,
+   "pm": "joop-den-uyl",
+   "seats": 150,
+   "results": [
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nl": "Partij van de Arbeid"
+     },
+     "seats": 53,
+     "bloc": "centre-left",
+     "color": "#DF111A"
+    },
+    {
+     "id": "christian-democratic-appeal",
+     "name": {
+      "en": "Christian Democratic Appeal",
+      "nl": "Christen-Democratisch Appèl"
+     },
+     "seats": 49,
+     "bloc": "centre-right",
+     "color": "#1f9359"
+    },
+    {
+     "id": "people-s-party-for-freedom-and-democracy",
+     "name": {
+      "en": "People's Party for Freedom and Democracy",
+      "nl": "Volkspartij voor Vrijheid en Democratie"
+     },
+     "seats": 28,
+     "bloc": "centre-right",
+     "color": "#0A2CCA"
+    },
+    {
+     "id": "democrats-66",
+     "name": {
+      "en": "Democrats 66",
+      "nl": "Democraten 66"
+     },
+     "seats": 8,
+     "bloc": "centre",
+     "color": "#00AE41"
+    },
+    {
+     "id": "reformed-political-party",
+     "name": {
+      "en": "Reformed Political Party",
+      "nl": "Staatkundig Gereformeerde Partij"
+     },
+     "seats": 3,
+     "bloc": "right",
+     "color": "#EA5B0B"
+    },
+    {
+     "id": "political-party-of-radicals",
+     "name": {
+      "en": "Political Party of Radicals",
+      "nl": "Politieke Partij Radikalen"
+     },
+     "seats": 3,
+     "bloc": "left",
+     "color": "#15803C"
+    },
+    {
+     "id": "communist-party-of-the-netherlands",
+     "name": {
+      "en": "Communist Party of the Netherlands",
+      "nl": "Communistische Partij van Nederland"
+     },
+     "seats": 2,
+     "bloc": "far-left",
+     "color": "#BB5555"
+    },
+    {
+     "id": "reformed-political-league",
+     "name": {
+      "en": "Reformed Political League",
+      "nl": "Gereformeerd Politiek Verbond"
+     },
+     "seats": 1,
+     "bloc": "right",
+     "color": "#6CBFD9"
+    },
+    {
+     "id": "pacifist-socialist-party",
+     "name": {
+      "en": "Pacifist Socialist Party",
+      "nl": "Pacifistisch Socialistische Partij"
+     },
+     "seats": 1,
+     "bloc": "left",
+     "color": "#FF3366"
+    },
+    {
+     "id": "farmers-party",
+     "name": {
+      "en": "Farmers' Party",
+      "nl": "Boerenpartij"
+     },
+     "seats": 1,
+     "bloc": "right",
+     "color": "#7AA300"
+    },
+    {
+     "id": "democratic-socialists-70",
+     "name": {
+      "en": "Democratic Socialists '70",
+      "nl": "Democratisch Socialisten '70"
+     },
+     "seats": 1,
+     "bloc": "centre-left",
+     "color": "#A21756"
+    }
+   ]
+  },
+  {
+   "term": "1977–1981",
+   "year": 1977,
+   "pm": "dries-van-agt",
+   "seats": 150,
+   "results": [
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nl": "Partij van de Arbeid"
+     },
+     "seats": 53,
+     "bloc": "centre-left",
+     "color": "#DF111A"
+    },
+    {
+     "id": "christian-democratic-appeal",
+     "name": {
+      "en": "Christian Democratic Appeal",
+      "nl": "Christen-Democratisch Appèl"
+     },
+     "seats": 49,
+     "bloc": "centre-right",
+     "color": "#1f9359"
+    },
+    {
+     "id": "people-s-party-for-freedom-and-democracy",
+     "name": {
+      "en": "People's Party for Freedom and Democracy",
+      "nl": "Volkspartij voor Vrijheid en Democratie"
+     },
+     "seats": 28,
+     "bloc": "centre-right",
+     "color": "#0A2CCA"
+    },
+    {
+     "id": "democrats-66",
+     "name": {
+      "en": "Democrats 66",
+      "nl": "Democraten 66"
+     },
+     "seats": 8,
+     "bloc": "centre",
+     "color": "#00AE41"
+    },
+    {
+     "id": "reformed-political-party",
+     "name": {
+      "en": "Reformed Political Party",
+      "nl": "Staatkundig Gereformeerde Partij"
+     },
+     "seats": 3,
+     "bloc": "right",
+     "color": "#EA5B0B"
+    },
+    {
+     "id": "political-party-of-radicals",
+     "name": {
+      "en": "Political Party of Radicals",
+      "nl": "Politieke Partij Radikalen"
+     },
+     "seats": 3,
+     "bloc": "left",
+     "color": "#15803C"
+    },
+    {
+     "id": "communist-party-of-the-netherlands",
+     "name": {
+      "en": "Communist Party of the Netherlands",
+      "nl": "Communistische Partij van Nederland"
+     },
+     "seats": 2,
+     "bloc": "far-left",
+     "color": "#BB5555"
+    },
+    {
+     "id": "reformed-political-league",
+     "name": {
+      "en": "Reformed Political League",
+      "nl": "Gereformeerd Politiek Verbond"
+     },
+     "seats": 1,
+     "bloc": "right",
+     "color": "#6CBFD9"
+    },
+    {
+     "id": "pacifist-socialist-party",
+     "name": {
+      "en": "Pacifist Socialist Party",
+      "nl": "Pacifistisch Socialistische Partij"
+     },
+     "seats": 1,
+     "bloc": "left",
+     "color": "#FF3366"
+    },
+    {
+     "id": "farmers-party",
+     "name": {
+      "en": "Farmers' Party",
+      "nl": "Boerenpartij"
+     },
+     "seats": 1,
+     "bloc": "right",
+     "color": "#7AA300"
+    },
+    {
+     "id": "democratic-socialists-70",
+     "name": {
+      "en": "Democratic Socialists '70",
+      "nl": "Democratisch Socialisten '70"
+     },
+     "seats": 1,
+     "bloc": "centre-left",
+     "color": "#A21756"
+    }
+   ]
+  },
+  {
+   "term": "1981–1982",
+   "year": 1981,
+   "pm": "dries-van-agt",
+   "seats": 150,
+   "results": [
+    {
+     "id": "christian-democratic-appeal",
+     "name": {
+      "en": "Christian Democratic Appeal",
+      "nl": "Christen-Democratisch Appèl"
+     },
+     "seats": 48,
+     "bloc": "centre-right",
+     "color": "#1f9359"
+    },
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nl": "Partij van de Arbeid"
+     },
+     "seats": 44,
+     "bloc": "centre-left",
+     "color": "#DF111A"
+    },
+    {
+     "id": "people-s-party-for-freedom-and-democracy",
+     "name": {
+      "en": "People's Party for Freedom and Democracy",
+      "nl": "Volkspartij voor Vrijheid en Democratie"
+     },
+     "seats": 26,
+     "bloc": "centre-right",
+     "color": "#0A2CCA"
+    },
+    {
+     "id": "democrats-66",
+     "name": {
+      "en": "Democrats 66",
+      "nl": "Democraten 66"
+     },
+     "seats": 17,
+     "bloc": "centre",
+     "color": "#00AE41"
+    },
+    {
+     "id": "pacifist-socialist-party",
+     "name": {
+      "en": "Pacifist Socialist Party",
+      "nl": "Pacifistisch Socialistische Partij"
+     },
+     "seats": 3,
+     "bloc": "left",
+     "color": "#FF3366"
+    },
+    {
+     "id": "communist-party-of-the-netherlands",
+     "name": {
+      "en": "Communist Party of the Netherlands",
+      "nl": "Communistische Partij van Nederland"
+     },
+     "seats": 3,
+     "bloc": "far-left",
+     "color": "#BB5555"
+    },
+    {
+     "id": "reformed-political-party",
+     "name": {
+      "en": "Reformed Political Party",
+      "nl": "Staatkundig Gereformeerde Partij"
+     },
+     "seats": 3,
+     "bloc": "right",
+     "color": "#EA5B0B"
+    },
+    {
+     "id": "political-party-of-radicals",
+     "name": {
+      "en": "Political Party of Radicals",
+      "nl": "Politieke Partij Radikalen"
+     },
+     "seats": 3,
+     "bloc": "left",
+     "color": "#15803C"
+    },
+    {
+     "id": "reformatory-political-federation",
+     "name": {
+      "en": "Reformatory Political Federation",
+      "nl": "Reformatorische Politieke Federatie"
+     },
+     "seats": 2,
+     "bloc": "right",
+     "color": "#7FD3E9"
+    },
+    {
+     "id": "reformed-political-league",
+     "name": {
+      "en": "Reformed Political League",
+      "nl": "Gereformeerd Politiek Verbond"
+     },
+     "seats": 1,
+     "bloc": "right",
+     "color": "#6CBFD9"
+    }
+   ]
+  },
+  {
+   "term": "1982–1986",
+   "year": 1982,
+   "pm": "ruud-lubbers",
+   "seats": 150,
+   "results": [
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nl": "Partij van de Arbeid"
+     },
+     "seats": 47,
+     "bloc": "centre-left",
+     "color": "#DF111A"
+    },
+    {
+     "id": "christian-democratic-appeal",
+     "name": {
+      "en": "Christian Democratic Appeal",
+      "nl": "Christen-Democratisch Appèl"
+     },
+     "seats": 45,
+     "bloc": "centre-right",
+     "color": "#1f9359"
+    },
+    {
+     "id": "people-s-party-for-freedom-and-democracy",
+     "name": {
+      "en": "People's Party for Freedom and Democracy",
+      "nl": "Volkspartij voor Vrijheid en Democratie"
+     },
+     "seats": 36,
+     "bloc": "centre-right",
+     "color": "#0A2CCA"
+    },
+    {
+     "id": "democrats-66",
+     "name": {
+      "en": "Democrats 66",
+      "nl": "Democraten 66"
+     },
+     "seats": 6,
+     "bloc": "centre",
+     "color": "#00AE41"
+    },
+    {
+     "id": "pacifist-socialist-party",
+     "name": {
+      "en": "Pacifist Socialist Party",
+      "nl": "Pacifistisch Socialistische Partij"
+     },
+     "seats": 3,
+     "bloc": "left",
+     "color": "#FF3366"
+    },
+    {
+     "id": "reformed-political-party",
+     "name": {
+      "en": "Reformed Political Party",
+      "nl": "Staatkundig Gereformeerde Partij"
+     },
+     "seats": 3,
+     "bloc": "right",
+     "color": "#EA5B0B"
+    },
+    {
+     "id": "communist-party-of-the-netherlands",
+     "name": {
+      "en": "Communist Party of the Netherlands",
+      "nl": "Communistische Partij van Nederland"
+     },
+     "seats": 3,
+     "bloc": "far-left",
+     "color": "#BB5555"
+    },
+    {
+     "id": "political-party-of-radicals",
+     "name": {
+      "en": "Political Party of Radicals",
+      "nl": "Politieke Partij Radikalen"
+     },
+     "seats": 2,
+     "bloc": "left",
+     "color": "#15803C"
+    },
+    {
+     "id": "reformatory-political-federation",
+     "name": {
+      "en": "Reformatory Political Federation",
+      "nl": "Reformatorische Politieke Federatie"
+     },
+     "seats": 2,
+     "bloc": "right",
+     "color": "#7FD3E9"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "nl": "Centrumpartij"
+     },
+     "seats": 1,
+     "bloc": "far-right"
+    },
+    {
+     "id": "reformed-political-league",
+     "name": {
+      "en": "Reformed Political League",
+      "nl": "Gereformeerd Politiek Verbond"
+     },
+     "seats": 1,
+     "bloc": "right",
+     "color": "#6CBFD9"
+    },
+    {
+     "id": "evangelical-people-s-party",
+     "name": {
+      "en": "Evangelical People's Party",
+      "nl": "Evangelische Volkspartij"
+     },
+     "seats": 1,
+     "bloc": "centre-left"
+    }
+   ]
+  },
+  {
+   "term": "1986–1989",
+   "year": 1986,
+   "pm": "ruud-lubbers",
+   "seats": 150,
+   "results": [
+    {
+     "id": "christian-democratic-appeal",
+     "name": {
+      "en": "Christian Democratic Appeal",
+      "nl": "Christen-Democratisch Appèl"
+     },
+     "seats": 54,
+     "bloc": "centre-right",
+     "color": "#1f9359"
+    },
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nl": "Partij van de Arbeid"
+     },
+     "seats": 52,
+     "bloc": "centre-left",
+     "color": "#DF111A"
+    },
+    {
+     "id": "people-s-party-for-freedom-and-democracy",
+     "name": {
+      "en": "People's Party for Freedom and Democracy",
+      "nl": "Volkspartij voor Vrijheid en Democratie"
+     },
+     "seats": 27,
+     "bloc": "centre-right",
+     "color": "#0A2CCA"
+    },
+    {
+     "id": "democrats-66",
+     "name": {
+      "en": "Democrats 66",
+      "nl": "Democraten 66"
+     },
+     "seats": 9,
+     "bloc": "centre",
+     "color": "#00AE41"
+    },
+    {
+     "id": "reformed-political-party",
+     "name": {
+      "en": "Reformed Political Party",
+      "nl": "Staatkundig Gereformeerde Partij"
+     },
+     "seats": 3,
+     "bloc": "right",
+     "color": "#EA5B0B"
+    },
+    {
+     "id": "political-party-of-radicals",
+     "name": {
+      "en": "Political Party of Radicals",
+      "nl": "Politieke Partij Radikalen"
+     },
+     "seats": 2,
+     "bloc": "left",
+     "color": "#15803C"
+    },
+    {
+     "id": "pacifist-socialist-party",
+     "name": {
+      "en": "Pacifist Socialist Party",
+      "nl": "Pacifistisch Socialistische Partij"
+     },
+     "seats": 1,
+     "bloc": "left",
+     "color": "#FF3366"
+    },
+    {
+     "id": "reformed-political-league",
+     "name": {
+      "en": "Reformed Political League",
+      "nl": "Gereformeerd Politiek Verbond"
+     },
+     "seats": 1,
+     "bloc": "right",
+     "color": "#6CBFD9"
+    },
+    {
+     "id": "reformatory-political-federation",
+     "name": {
+      "en": "Reformatory Political Federation",
+      "nl": "Reformatorische Politieke Federatie"
+     },
+     "seats": 1,
+     "bloc": "right",
+     "color": "#7FD3E9"
+    }
+   ]
+  },
+  {
+   "term": "1989–1994",
+   "year": 1989,
+   "pm": "ruud-lubbers",
+   "seats": 150,
+   "results": [
+    {
+     "id": "christian-democratic-appeal",
+     "name": {
+      "en": "Christian Democratic Appeal",
+      "nl": "Christen-Democratisch Appèl"
+     },
+     "seats": 54,
+     "bloc": "centre-right",
+     "color": "#1f9359"
+    },
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nl": "Partij van de Arbeid"
+     },
+     "seats": 49,
+     "bloc": "centre-left",
+     "color": "#DF111A"
+    },
+    {
+     "id": "people-s-party-for-freedom-and-democracy",
+     "name": {
+      "en": "People's Party for Freedom and Democracy",
+      "nl": "Volkspartij voor Vrijheid en Democratie"
+     },
+     "seats": 22,
+     "bloc": "centre-right",
+     "color": "#0A2CCA"
+    },
+    {
+     "id": "democrats-66",
+     "name": {
+      "en": "Democrats 66",
+      "nl": "Democraten 66"
+     },
+     "seats": 12,
+     "bloc": "centre",
+     "color": "#00AE41"
+    },
+    {
+     "id": "groenlinks",
+     "name": {
+      "en": "GroenLinks",
+      "nl": "GroenLinks"
+     },
+     "seats": 6,
+     "bloc": "left",
+     "color": "#5BC422"
+    },
+    {
+     "id": "reformed-political-party",
+     "name": {
+      "en": "Reformed Political Party",
+      "nl": "Staatkundig Gereformeerde Partij"
+     },
+     "seats": 3,
+     "bloc": "right",
+     "color": "#EA5B0B"
+    },
+    {
+     "id": "reformed-political-league",
+     "name": {
+      "en": "Reformed Political League",
+      "nl": "Gereformeerd Politiek Verbond"
+     },
+     "seats": 2,
+     "bloc": "right",
+     "color": "#6CBFD9"
+    },
+    {
+     "id": "reformatory-political-federation",
+     "name": {
+      "en": "Reformatory Political Federation",
+      "nl": "Reformatorische Politieke Federatie"
+     },
+     "seats": 1,
+     "bloc": "right",
+     "color": "#7FD3E9"
+    },
+    {
+     "id": "centre-democrats",
+     "name": {
+      "en": "Centre Democrats",
+      "nl": "Centrumdemocraten"
+     },
+     "seats": 1,
+     "bloc": "far-right",
+     "color": "#7F663D"
+    }
+   ]
+  },
+  {
+   "term": "1994–1998",
+   "year": 1994,
+   "pm": "wim-kok",
+   "seats": 150,
+   "results": [
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nl": "Partij van de Arbeid"
+     },
+     "seats": 37,
+     "bloc": "centre-left",
+     "color": "#DF111A"
+    },
+    {
+     "id": "christian-democratic-appeal",
+     "name": {
+      "en": "Christian Democratic Appeal",
+      "nl": "Christen-Democratisch Appèl"
+     },
+     "seats": 34,
+     "bloc": "centre-right",
+     "color": "#1f9359"
+    },
+    {
+     "id": "people-s-party-for-freedom-and-democracy",
+     "name": {
+      "en": "People's Party for Freedom and Democracy",
+      "nl": "Volkspartij voor Vrijheid en Democratie"
+     },
+     "seats": 31,
+     "bloc": "centre-right",
+     "color": "#0A2CCA"
+    },
+    {
+     "id": "democrats-66",
+     "name": {
+      "en": "Democrats 66",
+      "nl": "Democraten 66"
+     },
+     "seats": 24,
+     "bloc": "centre",
+     "color": "#00AE41"
+    },
+    {
+     "id": "general-elderly-alliance",
+     "name": {
+      "en": "General Elderly Alliance",
+      "nl": "Algemeen Ouderen Verbond"
+     },
+     "seats": 6,
+     "bloc": "centre",
+     "color": "#972C95"
+    },
+    {
+     "id": "groenlinks",
+     "name": {
+      "en": "GroenLinks",
+      "nl": "GroenLinks"
+     },
+     "seats": 5,
+     "bloc": "left",
+     "color": "#5BC422"
+    },
+    {
+     "id": "centre-democrats",
+     "name": {
+      "en": "Centre Democrats",
+      "nl": "Centrumdemocraten"
+     },
+     "seats": 3,
+     "bloc": "far-right",
+     "color": "#7F663D"
+    },
+    {
+     "id": "reformatory-political-federation",
+     "name": {
+      "en": "Reformatory Political Federation",
+      "nl": "Reformatorische Politieke Federatie"
+     },
+     "seats": 3,
+     "bloc": "right",
+     "color": "#7FD3E9"
+    },
+    {
+     "id": "reformed-political-party",
+     "name": {
+      "en": "Reformed Political Party",
+      "nl": "Staatkundig Gereformeerde Partij"
+     },
+     "seats": 2,
+     "bloc": "right",
+     "color": "#EA5B0B"
+    },
+    {
+     "id": "reformed-political-league",
+     "name": {
+      "en": "Reformed Political League",
+      "nl": "Gereformeerd Politiek Verbond"
+     },
+     "seats": 2,
+     "bloc": "right",
+     "color": "#6CBFD9"
+    },
+    {
+     "id": "socialist-party",
+     "name": {
+      "en": "Socialist Party",
+      "nl": "Socialistische Partij"
+     },
+     "seats": 2,
+     "bloc": "left",
+     "color": "#F60000"
+    },
+    {
+     "id": "union-55",
+     "name": {
+      "en": "Union 55+",
+      "nl": "Unie 55+"
+     },
+     "seats": 1,
+     "bloc": "centre",
+     "color": "#C373B1"
+    }
+   ]
+  },
+  {
+   "term": "1998–2002",
+   "year": 1998,
+   "pm": "wim-kok",
+   "seats": 150,
+   "results": [
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nl": "Partij van de Arbeid"
+     },
+     "seats": 45,
+     "bloc": "centre-left",
+     "color": "#DF111A"
+    },
+    {
+     "id": "people-s-party-for-freedom-and-democracy",
+     "name": {
+      "en": "People's Party for Freedom and Democracy",
+      "nl": "Volkspartij voor Vrijheid en Democratie"
+     },
+     "seats": 38,
+     "bloc": "centre-right",
+     "color": "#0A2CCA"
+    },
+    {
+     "id": "christian-democratic-appeal",
+     "name": {
+      "en": "Christian Democratic Appeal",
+      "nl": "Christen-Democratisch Appèl"
+     },
+     "seats": 29,
+     "bloc": "centre-right",
+     "color": "#1f9359"
+    },
+    {
+     "id": "democrats-66",
+     "name": {
+      "en": "Democrats 66",
+      "nl": "Democraten 66"
+     },
+     "seats": 14,
+     "bloc": "centre",
+     "color": "#00AE41"
+    },
+    {
+     "id": "groenlinks",
+     "name": {
+      "en": "GroenLinks",
+      "nl": "GroenLinks"
+     },
+     "seats": 11,
+     "bloc": "left",
+     "color": "#5BC422"
+    },
+    {
+     "id": "socialist-party",
+     "name": {
+      "en": "Socialist Party",
+      "nl": "Socialistische Partij"
+     },
+     "seats": 5,
+     "bloc": "left",
+     "color": "#F60000"
+    },
+    {
+     "id": "reformatory-political-federation",
+     "name": {
+      "en": "Reformatory Political Federation",
+      "nl": "Reformatorische Politieke Federatie"
+     },
+     "seats": 3,
+     "bloc": "right",
+     "color": "#7FD3E9"
+    },
+    {
+     "id": "reformed-political-party",
+     "name": {
+      "en": "Reformed Political Party",
+      "nl": "Staatkundig Gereformeerde Partij"
+     },
+     "seats": 3,
+     "bloc": "right",
+     "color": "#EA5B0B"
+    },
+    {
+     "id": "reformed-political-league",
+     "name": {
+      "en": "Reformed Political League",
+      "nl": "Gereformeerd Politiek Verbond"
+     },
+     "seats": 2,
+     "bloc": "right",
+     "color": "#6CBFD9"
+    }
+   ]
+  },
+  {
+   "term": "2002–2003",
+   "year": 2002,
+   "pm": "jan-peter-balkenende",
+   "seats": 150,
+   "results": [
+    {
+     "id": "christian-democratic-appeal",
+     "name": {
+      "en": "Christian Democratic Appeal",
+      "nl": "Christen-Democratisch Appèl"
+     },
+     "seats": 43,
+     "bloc": "centre-right",
+     "color": "#1f9359"
+    },
+    {
+     "id": "pim-fortuyn-list",
+     "name": {
+      "en": "Pim Fortuyn List",
+      "nl": "Lijst Pim Fortuyn"
+     },
+     "seats": 26,
+     "bloc": "right",
+     "color": "#FCE11F"
+    },
+    {
+     "id": "people-s-party-for-freedom-and-democracy",
+     "name": {
+      "en": "People's Party for Freedom and Democracy",
+      "nl": "Volkspartij voor Vrijheid en Democratie"
+     },
+     "seats": 24,
+     "bloc": "centre-right",
+     "color": "#0A2CCA"
+    },
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nl": "Partij van de Arbeid"
+     },
+     "seats": 23,
+     "bloc": "centre-left",
+     "color": "#DF111A"
+    },
+    {
+     "id": "groenlinks",
+     "name": {
+      "en": "GroenLinks",
+      "nl": "GroenLinks"
+     },
+     "seats": 10,
+     "bloc": "left",
+     "color": "#5BC422"
+    },
+    {
+     "id": "socialist-party",
+     "name": {
+      "en": "Socialist Party",
+      "nl": "Socialistische Partij"
+     },
+     "seats": 9,
+     "bloc": "left",
+     "color": "#F60000"
+    },
+    {
+     "id": "democrats-66",
+     "name": {
+      "en": "Democrats 66",
+      "nl": "Democraten 66"
+     },
+     "seats": 7,
+     "bloc": "centre",
+     "color": "#00AE41"
+    },
+    {
+     "id": "christian-union",
+     "name": {
+      "en": "Christian Union",
+      "nl": "ChristenUnie"
+     },
+     "seats": 4,
+     "bloc": "centre",
+     "color": "#00A7EB"
+    },
+    {
+     "id": "reformed-political-party",
+     "name": {
+      "en": "Reformed Political Party",
+      "nl": "Staatkundig Gereformeerde Partij"
+     },
+     "seats": 2,
+     "bloc": "right",
+     "color": "#EA5B0B"
+    },
+    {
+     "id": "livable-netherlands",
+     "name": {
+      "en": "Livable Netherlands",
+      "nl": "Leefbaar Nederland"
+     },
+     "seats": 2,
+     "bloc": "right",
+     "color": "#FF4400"
+    }
+   ]
+  },
+  {
+   "term": "2003–2006",
+   "year": 2003,
+   "pm": "jan-peter-balkenende",
+   "seats": 150,
+   "results": [
+    {
+     "id": "christian-democratic-appeal",
+     "name": {
+      "en": "Christian Democratic Appeal",
+      "nl": "Christen-Democratisch Appèl"
+     },
+     "seats": 44,
+     "bloc": "centre-right",
+     "color": "#1f9359"
+    },
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nl": "Partij van de Arbeid"
+     },
+     "seats": 42,
+     "bloc": "centre-left",
+     "color": "#DF111A"
+    },
+    {
+     "id": "people-s-party-for-freedom-and-democracy",
+     "name": {
+      "en": "People's Party for Freedom and Democracy",
+      "nl": "Volkspartij voor Vrijheid en Democratie"
+     },
+     "seats": 28,
+     "bloc": "centre-right",
+     "color": "#0A2CCA"
+    },
+    {
+     "id": "socialist-party",
+     "name": {
+      "en": "Socialist Party",
+      "nl": "Socialistische Partij"
+     },
+     "seats": 9,
+     "bloc": "left",
+     "color": "#F60000"
+    },
+    {
+     "id": "pim-fortuyn-list",
+     "name": {
+      "en": "Pim Fortuyn List",
+      "nl": "Lijst Pim Fortuyn"
+     },
+     "seats": 8,
+     "bloc": "right",
+     "color": "#FCE11F"
+    },
+    {
+     "id": "groenlinks",
+     "name": {
+      "en": "GroenLinks",
+      "nl": "GroenLinks"
+     },
+     "seats": 8,
+     "bloc": "left",
+     "color": "#5BC422"
+    },
+    {
+     "id": "democrats-66",
+     "name": {
+      "en": "Democrats 66",
+      "nl": "Democraten 66"
+     },
+     "seats": 6,
+     "bloc": "centre",
+     "color": "#00AE41"
+    },
+    {
+     "id": "christian-union",
+     "name": {
+      "en": "Christian Union",
+      "nl": "ChristenUnie"
+     },
+     "seats": 3,
+     "bloc": "centre",
+     "color": "#00A7EB"
+    },
+    {
+     "id": "reformed-political-party",
+     "name": {
+      "en": "Reformed Political Party",
+      "nl": "Staatkundig Gereformeerde Partij"
+     },
+     "seats": 2,
+     "bloc": "right",
+     "color": "#EA5B0B"
+    }
+   ]
+  },
+  {
+   "term": "2006–2010",
+   "year": 2006,
+   "pm": "jan-peter-balkenende",
+   "seats": 150,
+   "results": [
+    {
+     "id": "christian-democratic-appeal",
+     "name": {
+      "en": "Christian Democratic Appeal",
+      "nl": "Christen-Democratisch Appèl"
+     },
+     "seats": 41,
+     "bloc": "centre-right",
+     "color": "#1f9359"
+    },
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nl": "Partij van de Arbeid"
+     },
+     "seats": 33,
+     "bloc": "centre-left",
+     "color": "#DF111A"
+    },
+    {
+     "id": "socialist-party",
+     "name": {
+      "en": "Socialist Party",
+      "nl": "Socialistische Partij"
+     },
+     "seats": 25,
+     "bloc": "left",
+     "color": "#F60000"
+    },
+    {
+     "id": "people-s-party-for-freedom-and-democracy",
+     "name": {
+      "en": "People's Party for Freedom and Democracy",
+      "nl": "Volkspartij voor Vrijheid en Democratie"
+     },
+     "seats": 22,
+     "bloc": "centre-right",
+     "color": "#0A2CCA"
+    },
+    {
+     "id": "party-for-freedom",
+     "name": {
+      "en": "Party for Freedom",
+      "nl": "Partij voor de Vrijheid"
+     },
+     "seats": 9,
+     "bloc": "far-right",
+     "color": "#0b2f65"
+    },
+    {
+     "id": "groenlinks",
+     "name": {
+      "en": "GroenLinks",
+      "nl": "GroenLinks"
+     },
+     "seats": 7,
+     "bloc": "left",
+     "color": "#5BC422"
+    },
+    {
+     "id": "christian-union",
+     "name": {
+      "en": "Christian Union",
+      "nl": "ChristenUnie"
+     },
+     "seats": 6,
+     "bloc": "centre",
+     "color": "#00A7EB"
+    },
+    {
+     "id": "democrats-66",
+     "name": {
+      "en": "Democrats 66",
+      "nl": "Democraten 66"
+     },
+     "seats": 3,
+     "bloc": "centre",
+     "color": "#00AE41"
+    },
+    {
+     "id": "party-for-the-animals",
+     "name": {
+      "en": "Party for the Animals",
+      "nl": "Partij voor de Dieren"
+     },
+     "seats": 2,
+     "bloc": "left",
+     "color": "#006B2D"
+    },
+    {
+     "id": "reformed-political-party",
+     "name": {
+      "en": "Reformed Political Party",
+      "nl": "Staatkundig Gereformeerde Partij"
+     },
+     "seats": 2,
+     "bloc": "right",
+     "color": "#EA5B0B"
+    }
+   ]
+  },
+  {
+   "term": "2010–2012",
+   "year": 2010,
+   "pm": "mark-rutte",
+   "seats": 150,
+   "results": [
+    {
+     "id": "people-s-party-for-freedom-and-democracy",
+     "name": {
+      "en": "People's Party for Freedom and Democracy",
+      "nl": "Volkspartij voor Vrijheid en Democratie"
+     },
+     "seats": 31,
+     "bloc": "centre-right",
+     "color": "#0A2CCA"
+    },
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nl": "Partij van de Arbeid"
+     },
+     "seats": 30,
+     "bloc": "centre-left",
+     "color": "#DF111A"
+    },
+    {
+     "id": "party-for-freedom",
+     "name": {
+      "en": "Party for Freedom",
+      "nl": "Partij voor de Vrijheid"
+     },
+     "seats": 24,
+     "bloc": "far-right",
+     "color": "#0b2f65"
+    },
+    {
+     "id": "christian-democratic-appeal",
+     "name": {
+      "en": "Christian Democratic Appeal",
+      "nl": "Christen-Democratisch Appèl"
+     },
+     "seats": 21,
+     "bloc": "centre-right",
+     "color": "#1f9359"
+    },
+    {
+     "id": "socialist-party",
+     "name": {
+      "en": "Socialist Party",
+      "nl": "Socialistische Partij"
+     },
+     "seats": 15,
+     "bloc": "left",
+     "color": "#F60000"
+    },
+    {
+     "id": "democrats-66",
+     "name": {
+      "en": "Democrats 66",
+      "nl": "Democraten 66"
+     },
+     "seats": 10,
+     "bloc": "centre",
+     "color": "#00AE41"
+    },
+    {
+     "id": "groenlinks",
+     "name": {
+      "en": "GreenLeft",
+      "nl": "GroenLinks"
+     },
+     "seats": 10,
+     "bloc": "left",
+     "color": "#5BC422"
+    },
+    {
+     "id": "christian-union",
+     "name": {
+      "en": "ChristianUnion",
+      "nl": "ChristenUnie"
+     },
+     "seats": 5,
+     "bloc": "centre",
+     "color": "#00A7EB"
+    },
+    {
+     "id": "reformed-political-party",
+     "name": {
+      "en": "Reformed Political Party",
+      "nl": "Staatkundig Gereformeerde Partij"
+     },
+     "seats": 2,
+     "bloc": "right",
+     "color": "#EA5B0B"
+    },
+    {
+     "id": "party-for-the-animals",
+     "name": {
+      "en": "Party for the Animals",
+      "nl": "Partij voor de Dieren"
+     },
+     "seats": 2,
+     "bloc": "left",
+     "color": "#006B2D"
+    }
+   ]
+  },
+  {
+   "term": "2012–2017",
+   "year": 2012,
+   "pm": "mark-rutte",
+   "seats": 150,
+   "results": [
+    {
+     "id": "people-s-party-for-freedom-and-democracy",
+     "name": {
+      "en": "People's Party for Freedom and Democracy",
+      "nl": "Volkspartij voor Vrijheid en Democratie"
+     },
+     "seats": 41,
+     "bloc": "centre-right",
+     "color": "#0A2CCA"
+    },
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nl": "Partij van de Arbeid"
+     },
+     "seats": 38,
+     "bloc": "centre-left",
+     "color": "#DF111A"
+    },
+    {
+     "id": "party-for-freedom",
+     "name": {
+      "en": "Party for Freedom",
+      "nl": "Partij voor de Vrijheid"
+     },
+     "seats": 15,
+     "bloc": "far-right",
+     "color": "#0b2f65"
+    },
+    {
+     "id": "socialist-party",
+     "name": {
+      "en": "Socialist Party",
+      "nl": "Socialistische Partij"
+     },
+     "seats": 15,
+     "bloc": "left",
+     "color": "#F60000"
+    },
+    {
+     "id": "christian-democratic-appeal",
+     "name": {
+      "en": "Christian Democratic Appeal",
+      "nl": "Christen-Democratisch Appèl"
+     },
+     "seats": 13,
+     "bloc": "centre-right",
+     "color": "#1f9359"
+    },
+    {
+     "id": "democrats-66",
+     "name": {
+      "en": "Democrats 66",
+      "nl": "Democraten 66"
+     },
+     "seats": 12,
+     "bloc": "centre",
+     "color": "#00AE41"
+    },
+    {
+     "id": "christian-union",
+     "name": {
+      "en": "Christian Union",
+      "nl": "ChristenUnie"
+     },
+     "seats": 5,
+     "bloc": "centre",
+     "color": "#00A7EB"
+    },
+    {
+     "id": "groenlinks",
+     "name": {
+      "en": "GroenLinks",
+      "nl": "GroenLinks"
+     },
+     "seats": 4,
+     "bloc": "left",
+     "color": "#5BC422"
+    },
+    {
+     "id": "reformed-political-party",
+     "name": {
+      "en": "Reformed Political Party",
+      "nl": "Staatkundig Gereformeerde Partij"
+     },
+     "seats": 3,
+     "bloc": "right",
+     "color": "#EA5B0B"
+    },
+    {
+     "id": "party-for-the-animals",
+     "name": {
+      "en": "Party for the Animals",
+      "nl": "Partij voor de Dieren"
+     },
+     "seats": 2,
+     "bloc": "left",
+     "color": "#006B2D"
+    },
+    {
+     "id": "50plus",
+     "name": {
+      "en": "50PLUS",
+      "nl": "50PLUS"
+     },
+     "seats": 2,
+     "bloc": "centre",
+     "color": "#92107D"
+    }
+   ]
+  },
+  {
+   "term": "2017–2021",
+   "year": 2017,
+   "pm": "mark-rutte",
+   "seats": 150,
+   "results": [
+    {
+     "id": "people-s-party-for-freedom-and-democracy",
+     "name": {
+      "en": "People's Party for Freedom and Democracy",
+      "nl": "Volkspartij voor Vrijheid en Democratie"
+     },
+     "seats": 33,
+     "bloc": "centre-right",
+     "color": "#0A2CCA"
+    },
+    {
+     "id": "party-for-freedom",
+     "name": {
+      "en": "Party for Freedom",
+      "nl": "Partij voor de Vrijheid"
+     },
+     "seats": 20,
+     "bloc": "far-right",
+     "color": "#0b2f65"
+    },
+    {
+     "id": "christian-democratic-appeal",
+     "name": {
+      "en": "Christian Democratic Appeal",
+      "nl": "Christen-Democratisch Appèl"
+     },
+     "seats": 19,
+     "bloc": "centre-right",
+     "color": "#1f9359"
+    },
+    {
+     "id": "democrats-66",
+     "name": {
+      "en": "Democrats 66",
+      "nl": "Democraten 66"
+     },
+     "seats": 19,
+     "bloc": "centre",
+     "color": "#00AE41"
+    },
+    {
+     "id": "groenlinks",
+     "name": {
+      "en": "GroenLinks",
+      "nl": "GroenLinks"
+     },
+     "seats": 14,
+     "bloc": "left",
+     "color": "#5BC422"
+    },
+    {
+     "id": "socialist-party",
+     "name": {
+      "en": "Socialist Party",
+      "nl": "Socialistische Partij"
+     },
+     "seats": 14,
+     "bloc": "left",
+     "color": "#F60000"
+    },
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nl": "Partij van de Arbeid"
+     },
+     "seats": 9,
+     "bloc": "centre-left",
+     "color": "#DF111A"
+    },
+    {
+     "id": "christian-union",
+     "name": {
+      "en": "Christian Union",
+      "nl": "ChristenUnie"
+     },
+     "seats": 5,
+     "bloc": "centre",
+     "color": "#00A7EB"
+    },
+    {
+     "id": "party-for-the-animals",
+     "name": {
+      "en": "Party for the Animals",
+      "nl": "Partij voor de Dieren"
+     },
+     "seats": 5,
+     "bloc": "left",
+     "color": "#006B2D"
+    },
+    {
+     "id": "50plus",
+     "name": {
+      "en": "50PLUS",
+      "nl": "50PLUS"
+     },
+     "seats": 4,
+     "bloc": "centre",
+     "color": "#92107D"
+    },
+    {
+     "id": "reformed-political-party",
+     "name": {
+      "en": "Reformed Political Party",
+      "nl": "Staatkundig Gereformeerde Partij"
+     },
+     "seats": 3,
+     "bloc": "right",
+     "color": "#EA5B0B"
+    },
+    {
+     "id": "denk",
+     "name": {
+      "en": "DENK",
+      "nl": "DENK"
+     },
+     "seats": 3,
+     "bloc": "centre-left",
+     "color": "#00B7B2"
+    },
+    {
+     "id": "forum-for-democracy",
+     "name": {
+      "en": "Forum for Democracy",
+      "nl": "Forum voor Democratie"
+     },
+     "seats": 2,
+     "bloc": "far-right",
+     "color": "#841818"
+    }
+   ]
+  },
+  {
+   "term": "2021–2023",
+   "year": 2021,
+   "pm": "mark-rutte",
+   "seats": 150,
+   "results": [
+    {
+     "id": "people-s-party-for-freedom-and-democracy",
+     "name": {
+      "en": "People's Party for Freedom and Democracy",
+      "nl": "Volkspartij voor Vrijheid en Democratie"
+     },
+     "seats": 34,
+     "bloc": "centre-right",
+     "color": "#0A2CCA"
+    },
+    {
+     "id": "democrats-66",
+     "name": {
+      "en": "Democrats 66",
+      "nl": "Democraten 66"
+     },
+     "seats": 24,
+     "bloc": "centre",
+     "color": "#00AE41"
+    },
+    {
+     "id": "party-for-freedom",
+     "name": {
+      "en": "Party for Freedom",
+      "nl": "Partij voor de Vrijheid"
+     },
+     "seats": 17,
+     "bloc": "far-right",
+     "color": "#0b2f65"
+    },
+    {
+     "id": "christian-democratic-appeal",
+     "name": {
+      "en": "Christian Democratic Appeal",
+      "nl": "Christen-Democratisch Appèl"
+     },
+     "seats": 15,
+     "bloc": "centre-right",
+     "color": "#1f9359"
+    },
+    {
+     "id": "socialist-party",
+     "name": {
+      "en": "Socialist Party",
+      "nl": "Socialistische Partij"
+     },
+     "seats": 9,
+     "bloc": "left",
+     "color": "#F60000"
+    },
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nl": "Partij van de Arbeid"
+     },
+     "seats": 9,
+     "bloc": "centre-left",
+     "color": "#DF111A"
+    },
+    {
+     "id": "groenlinks",
+     "name": {
+      "en": "GroenLinks",
+      "nl": "GroenLinks"
+     },
+     "seats": 8,
+     "bloc": "left",
+     "color": "#5BC422"
+    },
+    {
+     "id": "forum-for-democracy",
+     "name": {
+      "en": "Forum for Democracy",
+      "nl": "Forum voor Democratie"
+     },
+     "seats": 8,
+     "bloc": "far-right",
+     "color": "#841818"
+    },
+    {
+     "id": "party-for-the-animals",
+     "name": {
+      "en": "Party for the Animals",
+      "nl": "Partij voor de Dieren"
+     },
+     "seats": 6,
+     "bloc": "left",
+     "color": "#006B2D"
+    },
+    {
+     "id": "christian-union",
+     "name": {
+      "en": "Christian Union",
+      "nl": "ChristenUnie"
+     },
+     "seats": 5,
+     "bloc": "centre",
+     "color": "#00A7EB"
+    },
+    {
+     "id": "volt-netherlands",
+     "name": {
+      "en": "Volt Netherlands",
+      "nl": "Volt Nederland"
+     },
+     "seats": 3,
+     "bloc": "centre-left",
+     "color": "#502379"
+    },
+    {
+     "id": "ja21",
+     "name": {
+      "en": "JA21",
+      "nl": "JA21"
+     },
+     "seats": 3,
+     "bloc": "centre-right",
+     "color": "#263573"
+    },
+    {
+     "id": "reformed-political-party",
+     "name": {
+      "en": "Reformed Political Party",
+      "nl": "Staatkundig Gereformeerde Partij"
+     },
+     "seats": 3,
+     "bloc": "right",
+     "color": "#EA5B0B"
+    },
+    {
+     "id": "denk",
+     "name": {
+      "en": "Denk",
+      "nl": "DENK"
+     },
+     "seats": 3,
+     "bloc": "centre-left",
+     "color": "#00B7B2"
+    },
+    {
+     "id": "50plus",
+     "name": {
+      "en": "50PLUS",
+      "nl": "50PLUS"
+     },
+     "seats": 1,
+     "bloc": "centre",
+     "color": "#92107D"
+    },
+    {
+     "id": "farmer-citizen-movement",
+     "name": {
+      "en": "Farmer–Citizen Movement",
+      "nl": "BoerBurgerBeweging"
+     },
+     "seats": 1,
+     "bloc": "centre-right",
+     "color": "#94C11F"
+    },
+    {
+     "id": "bij1",
+     "name": {
+      "en": "BIJ1",
+      "nl": "BIJ1"
+     },
+     "seats": 1,
+     "bloc": "left",
+     "color": "#fdfd00"
+    }
+   ]
+  },
+  {
+   "term": "2023–2025",
+   "year": 2023,
+   "pm": "mark-rutte",
+   "seats": 150,
+   "results": [
+    {
+     "id": "party-for-freedom",
+     "name": {
+      "en": "Party for Freedom",
+      "nl": "Partij voor de Vrijheid"
+     },
+     "seats": 37,
+     "bloc": "far-right",
+     "color": "#0b2f65"
+    },
+    {
+     "id": "groenlinks-pvda",
+     "name": {
+      "en": "GroenLinks–PvdA",
+      "nl": "GroenLinks-PvdA"
+     },
+     "seats": 25,
+     "bloc": "centre-left",
+     "color": "#DC1F26"
+    },
+    {
+     "id": "people-s-party-for-freedom-and-democracy",
+     "name": {
+      "en": "People's Party for Freedom and Democracy",
+      "nl": "Volkspartij voor Vrijheid en Democratie"
+     },
+     "seats": 24,
+     "bloc": "centre-right",
+     "color": "#0A2CCA"
+    },
+    {
+     "id": "new-social-contract",
+     "name": {
+      "en": "New Social Contract",
+      "nl": "Nieuw Sociaal Contract"
+     },
+     "seats": 20,
+     "bloc": "centre-right",
+     "color": "#F0C400"
+    },
+    {
+     "id": "democrats-66",
+     "name": {
+      "en": "Democrats 66",
+      "nl": "Democraten 66"
+     },
+     "seats": 9,
+     "bloc": "centre",
+     "color": "#00AE41"
+    },
+    {
+     "id": "farmer-citizen-movement",
+     "name": {
+      "en": "Farmer–Citizen Movement",
+      "nl": "BoerBurgerBeweging"
+     },
+     "seats": 7,
+     "bloc": "centre-right",
+     "color": "#94C11F"
+    },
+    {
+     "id": "christian-democratic-appeal",
+     "name": {
+      "en": "Christian Democratic Appeal",
+      "nl": "Christen-Democratisch Appèl"
+     },
+     "seats": 5,
+     "bloc": "centre-right",
+     "color": "#1f9359"
+    },
+    {
+     "id": "socialist-party",
+     "name": {
+      "en": "Socialist Party",
+      "nl": "Socialistische Partij"
+     },
+     "seats": 5,
+     "bloc": "left",
+     "color": "#F60000"
+    },
+    {
+     "id": "denk",
+     "name": {
+      "en": "Denk",
+      "nl": "DENK"
+     },
+     "seats": 3,
+     "bloc": "centre-left",
+     "color": "#00B7B2"
+    },
+    {
+     "id": "party-for-the-animals",
+     "name": {
+      "en": "Party for the Animals",
+      "nl": "Partij voor de Dieren"
+     },
+     "seats": 3,
+     "bloc": "left",
+     "color": "#006B2D"
+    },
+    {
+     "id": "forum-for-democracy",
+     "name": {
+      "en": "Forum for Democracy",
+      "nl": "Forum voor Democratie"
+     },
+     "seats": 3,
+     "bloc": "far-right",
+     "color": "#841818"
+    },
+    {
+     "id": "reformed-political-party",
+     "name": {
+      "en": "Reformed Political Party",
+      "nl": "Staatkundig Gereformeerde Partij"
+     },
+     "seats": 3,
+     "bloc": "right",
+     "color": "#EA5B0B"
+    },
+    {
+     "id": "christian-union",
+     "name": {
+      "en": "Christian Union",
+      "nl": "ChristenUnie"
+     },
+     "seats": 3,
+     "bloc": "centre",
+     "color": "#00A7EB"
+    },
+    {
+     "id": "volt-netherlands",
+     "name": {
+      "en": "Volt Netherlands",
+      "nl": "Volt Nederland"
+     },
+     "seats": 2,
+     "bloc": "centre-left",
+     "color": "#502379"
+    },
+    {
+     "id": "ja21",
+     "name": {
+      "en": "JA21",
+      "nl": "JA21"
+     },
+     "seats": 1,
+     "bloc": "centre-right",
+     "color": "#263573"
+    }
+   ]
+  },
+  {
+   "term": "2023–2025",
+   "year": 2024,
+   "pm": "dick-schoof",
+   "seats": 150,
+   "results": [
+    {
+     "id": "party-for-freedom",
+     "name": {
+      "en": "Party for Freedom",
+      "nl": "Partij voor de Vrijheid"
+     },
+     "seats": 37,
+     "bloc": "far-right",
+     "color": "#0b2f65"
+    },
+    {
+     "id": "groenlinks-pvda",
+     "name": {
+      "en": "GroenLinks–PvdA",
+      "nl": "GroenLinks-PvdA"
+     },
+     "seats": 25,
+     "bloc": "centre-left",
+     "color": "#DC1F26"
+    },
+    {
+     "id": "people-s-party-for-freedom-and-democracy",
+     "name": {
+      "en": "People's Party for Freedom and Democracy",
+      "nl": "Volkspartij voor Vrijheid en Democratie"
+     },
+     "seats": 24,
+     "bloc": "centre-right",
+     "color": "#0A2CCA"
+    },
+    {
+     "id": "new-social-contract",
+     "name": {
+      "en": "New Social Contract",
+      "nl": "Nieuw Sociaal Contract"
+     },
+     "seats": 20,
+     "bloc": "centre-right",
+     "color": "#F0C400"
+    },
+    {
+     "id": "democrats-66",
+     "name": {
+      "en": "Democrats 66",
+      "nl": "Democraten 66"
+     },
+     "seats": 9,
+     "bloc": "centre",
+     "color": "#00AE41"
+    },
+    {
+     "id": "farmer-citizen-movement",
+     "name": {
+      "en": "Farmer–Citizen Movement",
+      "nl": "BoerBurgerBeweging"
+     },
+     "seats": 7,
+     "bloc": "centre-right",
+     "color": "#94C11F"
+    },
+    {
+     "id": "christian-democratic-appeal",
+     "name": {
+      "en": "Christian Democratic Appeal",
+      "nl": "Christen-Democratisch Appèl"
+     },
+     "seats": 5,
+     "bloc": "centre-right",
+     "color": "#1f9359"
+    },
+    {
+     "id": "socialist-party",
+     "name": {
+      "en": "Socialist Party",
+      "nl": "Socialistische Partij"
+     },
+     "seats": 5,
+     "bloc": "left",
+     "color": "#F60000"
+    },
+    {
+     "id": "denk",
+     "name": {
+      "en": "Denk",
+      "nl": "DENK"
+     },
+     "seats": 3,
+     "bloc": "centre-left",
+     "color": "#00B7B2"
+    },
+    {
+     "id": "party-for-the-animals",
+     "name": {
+      "en": "Party for the Animals",
+      "nl": "Partij voor de Dieren"
+     },
+     "seats": 3,
+     "bloc": "left",
+     "color": "#006B2D"
+    },
+    {
+     "id": "forum-for-democracy",
+     "name": {
+      "en": "Forum for Democracy",
+      "nl": "Forum voor Democratie"
+     },
+     "seats": 3,
+     "bloc": "far-right",
+     "color": "#841818"
+    },
+    {
+     "id": "reformed-political-party",
+     "name": {
+      "en": "Reformed Political Party",
+      "nl": "Staatkundig Gereformeerde Partij"
+     },
+     "seats": 3,
+     "bloc": "right",
+     "color": "#EA5B0B"
+    },
+    {
+     "id": "christian-union",
+     "name": {
+      "en": "Christian Union",
+      "nl": "ChristenUnie"
+     },
+     "seats": 3,
+     "bloc": "centre",
+     "color": "#00A7EB"
+    },
+    {
+     "id": "volt-netherlands",
+     "name": {
+      "en": "Volt Netherlands",
+      "nl": "Volt Nederland"
+     },
+     "seats": 2,
+     "bloc": "centre-left",
+     "color": "#502379"
+    },
+    {
+     "id": "ja21",
+     "name": {
+      "en": "JA21",
+      "nl": "JA21"
+     },
+     "seats": 1,
+     "bloc": "centre-right",
+     "color": "#263573"
+    }
+   ]
+  },
+  {
+   "term": "2025–",
+   "year": 2026,
+   "pm": "rob-jetten",
+   "seats": 150,
+   "results": [
+    {
+     "id": "democrats-66",
+     "name": {
+      "en": "Democrats 66",
+      "nl": "Democraten 66"
+     },
+     "seats": 26,
+     "bloc": "centre",
+     "color": "#00AE41"
+    },
+    {
+     "id": "party-for-freedom",
+     "name": {
+      "en": "Party for Freedom",
+      "nl": "Partij voor de Vrijheid"
+     },
+     "seats": 26,
+     "bloc": "far-right",
+     "color": "#0b2f65"
+    },
+    {
+     "id": "people-s-party-for-freedom-and-democracy",
+     "name": {
+      "en": "People's Party for Freedom and Democracy",
+      "nl": "Volkspartij voor Vrijheid en Democratie"
+     },
+     "seats": 22,
+     "bloc": "centre-right",
+     "color": "#0A2CCA"
+    },
+    {
+     "id": "groenlinks-pvda",
+     "name": {
+      "en": "GroenLinks–PvdA",
+      "nl": "GroenLinks-PvdA"
+     },
+     "seats": 20,
+     "bloc": "centre-left",
+     "color": "#DC1F26"
+    },
+    {
+     "id": "christian-democratic-appeal",
+     "name": {
+      "en": "Christian Democratic Appeal",
+      "nl": "Christen-Democratisch Appèl"
+     },
+     "seats": 18,
+     "bloc": "centre-right",
+     "color": "#1f9359"
+    },
+    {
+     "id": "ja21",
+     "name": {
+      "en": "JA21",
+      "nl": "JA21"
+     },
+     "seats": 9,
+     "bloc": "centre-right",
+     "color": "#263573"
+    },
+    {
+     "id": "forum-for-democracy",
+     "name": {
+      "en": "Forum for Democracy",
+      "nl": "Forum voor Democratie"
+     },
+     "seats": 7,
+     "bloc": "far-right",
+     "color": "#841818"
+    },
+    {
+     "id": "farmer-citizen-movement",
+     "name": {
+      "en": "Farmer–Citizen Movement",
+      "nl": "BoerBurgerBeweging"
+     },
+     "seats": 4,
+     "bloc": "centre-right",
+     "color": "#94C11F"
+    },
+    {
+     "id": "denk",
+     "name": {
+      "en": "Denk",
+      "nl": "DENK"
+     },
+     "seats": 3,
+     "bloc": "centre-left",
+     "color": "#00B7B2"
+    },
+    {
+     "id": "reformed-political-party",
+     "name": {
+      "en": "Reformed Political Party",
+      "nl": "Staatkundig Gereformeerde Partij"
+     },
+     "seats": 3,
+     "bloc": "right",
+     "color": "#EA5B0B"
+    },
+    {
+     "id": "party-for-the-animals",
+     "name": {
+      "en": "Party for the Animals",
+      "nl": "Partij voor de Dieren"
+     },
+     "seats": 3,
+     "bloc": "left",
+     "color": "#006B2D"
+    },
+    {
+     "id": "christian-union",
+     "name": {
+      "en": "Christian Union",
+      "nl": "ChristenUnie"
+     },
+     "seats": 3,
+     "bloc": "centre",
+     "color": "#00A7EB"
+    },
+    {
+     "id": "socialist-party",
+     "name": {
+      "en": "Socialist Party",
+      "nl": "Socialistische Partij"
+     },
+     "seats": 3,
+     "bloc": "left",
+     "color": "#F60000"
+    },
+    {
+     "id": "50plus",
+     "name": {
+      "en": "50PLUS",
+      "nl": "50PLUS"
+     },
+     "seats": 2,
+     "bloc": "centre",
+     "color": "#92107D"
+    },
+    {
+     "id": "volt-netherlands",
+     "name": {
+      "en": "Volt Netherlands",
+      "nl": "Volt Nederland"
+     },
+     "seats": 1,
+     "bloc": "centre-left",
+     "color": "#502379"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/2025_Dutch_general_election"
+  }
+ ],
+ "credits": [
+  "Willem Drees: Rob Bogaerts for Anefo, CC0, via Wikimedia Commons",
+  "Louis Beel: Collectie SPAARNESTAD PHOTO/Henk Blansjaar, CC BY-SA 3.0 nl, via Wikimedia Commons",
+  "Jan Eduard de Quay: Rijksoverheid.nl, CC0, via Wikimedia Commons",
+  "Victor Marijnen: Harry Pot for Anefo, CC BY-SA 3.0 nl, via Wikimedia Commons",
+  "Jo Cals: Rijksoverheid.nl, CC0, via Wikimedia Commons",
+  "Jelle Zijlstra: Nico Naeff (Rijksvoorlichtingsdienst), CC0, via Wikimedia Commons",
+  "Piet de Jong: Rijksoverheid.nl, CC0, via Wikimedia Commons",
+  "Barend Biesheuvel: Marcel Antonisse / Anefo, CC0, via Wikimedia Commons",
+  "Joop den Uyl: Fotograaf Onbekend / Anefo, CC0, via Wikimedia Commons",
+  "Dries van Agt: Rijksoverheid.nl, CC0, via Wikimedia Commons",
+  "Ruud Lubbers: Rijksoverheid.nl, CC0, via Wikimedia Commons",
+  "Wim Kok: Rijksoverheid.nl, CC0, via Wikimedia Commons",
+  "Jan Peter Balkenende: Rijksoverheid.nl, CC0, via Wikimedia Commons",
+  "Mark Rutte: European Commission (Christophe Licoppe), CC BY 4.0, via Wikimedia Commons",
+  "Dick Schoof: Ministerie van Buitenlandse Zaken, CC BY-SA 4.0, via Wikimedia Commons",
+  "Rob Jetten: Alexis Haulot / EP, European Parliament, via Wikimedia Commons"
+ ]
+}

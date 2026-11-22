@@ -1,0 +1,622 @@
+{
+  "code": "se",
+  "slug": "sweden",
+  "name": {
+    "en": "Sweden",
+    "sv": "Sverige"
+  },
+  "languages": [
+    "en",
+    "sv"
+  ],
+  "from": 1948,
+  "wikidata": "Q34",
+  "office": "Q687075",
+  "chamber": {
+    "en": "Riksdag",
+    "sv": "Sveriges riksdag"
+  },
+  "termLabel": {
+    "en": "Term"
+  },
+  "leaderTitle": {
+    "en": "Prime Minister",
+    "sv": "Sveriges statsminister"
+  },
+  "blocs": [
+    {
+      "key": "left",
+      "name": {
+        "en": "Left",
+        "sv": "politisk vänster"
+      },
+      "hue": 0,
+      "color": "#dc2626"
+    },
+    {
+      "key": "centre-left",
+      "name": {
+        "en": "Centre-left",
+        "sv": "Center–vänster-politik"
+      },
+      "hue": 12,
+      "color": "#f87171"
+    },
+    {
+      "key": "centre",
+      "name": {
+        "en": "Centre",
+        "sv": "politisk mitt"
+      },
+      "hue": 48,
+      "color": "#eab308"
+    },
+    {
+      "key": "centre-right",
+      "name": {
+        "en": "Centre-right",
+        "sv": "Borgerliga partier"
+      },
+      "hue": 200,
+      "color": "#38bdf8"
+    },
+    {
+      "key": "right",
+      "name": {
+        "en": "Right",
+        "sv": "politisk höger"
+      },
+      "hue": 222,
+      "color": "#2563eb"
+    },
+    {
+      "key": "far-right",
+      "name": {
+        "en": "Far-right",
+        "sv": "högerextremism"
+      },
+      "hue": 262,
+      "color": "#7c3aed"
+    },
+    {
+      "key": "other",
+      "name": {
+        "en": "Other"
+      },
+      "color": "#94a3b8"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_Swedish_general_election"
+    }
+  ],
+  "elections": [
+    {
+      "year": 1948,
+      "wiki": "1948 Swedish general election",
+      "date": "1948-09-19",
+      "key": "1948"
+    },
+    {
+      "year": 1952,
+      "wiki": "1952 Swedish general election",
+      "date": "1952-09-21",
+      "key": "1952"
+    },
+    {
+      "year": 1956,
+      "wiki": "1956 Swedish general election",
+      "date": "1956-09-16",
+      "key": "1956"
+    },
+    {
+      "year": 1958,
+      "wiki": "1958 Swedish general election",
+      "date": "1958-06-01",
+      "key": "1958"
+    },
+    {
+      "year": 1960,
+      "wiki": "1960 Swedish general election",
+      "date": "1960-09-18",
+      "key": "1960"
+    },
+    {
+      "year": 1964,
+      "wiki": "1964 Swedish general election",
+      "date": "1964-09-20",
+      "key": "1964"
+    },
+    {
+      "year": 1968,
+      "wiki": "1968 Swedish general election",
+      "date": "1968-09-15",
+      "key": "1968"
+    },
+    {
+      "year": 1970,
+      "wiki": "1970 Swedish general election",
+      "date": "1970-09-20",
+      "key": "1970"
+    },
+    {
+      "year": 1973,
+      "wiki": "1973 Swedish general election",
+      "date": "1973-09-16",
+      "key": "1973"
+    },
+    {
+      "year": 1976,
+      "wiki": "1976 Swedish general election",
+      "date": "1976-09-19",
+      "key": "1976"
+    },
+    {
+      "year": 1979,
+      "wiki": "1979 Swedish general election",
+      "date": "1979-09-16",
+      "key": "1979"
+    },
+    {
+      "year": 1982,
+      "wiki": "1982 Swedish general election",
+      "date": "1982-09-19",
+      "key": "1982"
+    },
+    {
+      "year": 1985,
+      "wiki": "1985 Swedish general election",
+      "date": "1985-09-15",
+      "key": "1985"
+    },
+    {
+      "year": 1988,
+      "wiki": "1988 Swedish general election",
+      "date": "1988-09-18",
+      "key": "1988"
+    },
+    {
+      "year": 1991,
+      "wiki": "1991 Swedish general election",
+      "date": "1991-09-15",
+      "key": "1991"
+    },
+    {
+      "year": 1994,
+      "wiki": "1994 Swedish general election",
+      "date": "1994-09-18",
+      "key": "1994"
+    },
+    {
+      "year": 1998,
+      "wiki": "1998 Swedish general election",
+      "date": "1998-09-20",
+      "key": "1998"
+    },
+    {
+      "year": 2002,
+      "wiki": "2002 Swedish general election",
+      "date": "2002-09-15",
+      "key": "2002"
+    },
+    {
+      "year": 2006,
+      "wiki": "2006 Swedish general election",
+      "date": "2006-09-17",
+      "key": "2006"
+    },
+    {
+      "year": 2010,
+      "wiki": "2010 Swedish general election",
+      "date": "2010-09-19",
+      "key": "2010"
+    },
+    {
+      "year": 2014,
+      "wiki": "2014 Swedish general election",
+      "date": "2014-09-14",
+      "key": "2014"
+    },
+    {
+      "year": 2018,
+      "wiki": "2018 Swedish general election",
+      "date": "2018-09-09",
+      "key": "2018"
+    },
+    {
+      "year": 2022,
+      "wiki": "2022 Swedish general election",
+      "date": "2022-09-11",
+      "key": "2022"
+    },
+    {
+      "year": 2026,
+      "wiki": "2026 Swedish general election",
+      "date": "2026-09-13",
+      "key": "2026"
+    }
+  ],
+  "governments": [
+    {
+      "year": 1948,
+      "date": "1948-09-19",
+      "election": "1948",
+      "pm": "tage-erlander"
+    },
+    {
+      "year": 1952,
+      "date": "1952-09-21",
+      "election": "1952",
+      "pm": "tage-erlander"
+    },
+    {
+      "year": 1956,
+      "date": "1956-09-16",
+      "election": "1956",
+      "pm": "tage-erlander"
+    },
+    {
+      "year": 1958,
+      "date": "1958-06-01",
+      "election": "1958",
+      "pm": "tage-erlander"
+    },
+    {
+      "year": 1960,
+      "date": "1960-09-18",
+      "election": "1960",
+      "pm": "tage-erlander"
+    },
+    {
+      "year": 1964,
+      "date": "1964-09-20",
+      "election": "1964",
+      "pm": "tage-erlander"
+    },
+    {
+      "year": 1968,
+      "date": "1968-09-15",
+      "election": "1968",
+      "pm": "tage-erlander"
+    },
+    {
+      "year": 1969,
+      "date": "1969-10-14",
+      "election": "1968",
+      "pm": "olof-palme"
+    },
+    {
+      "year": 1970,
+      "date": "1970-09-20",
+      "election": "1970",
+      "pm": "olof-palme"
+    },
+    {
+      "year": 1973,
+      "date": "1973-09-16",
+      "election": "1973",
+      "pm": "olof-palme"
+    },
+    {
+      "year": 1976,
+      "date": "1976-10-08",
+      "election": "1976",
+      "pm": "thorbjorn-falldin"
+    },
+    {
+      "year": 1978,
+      "date": "1978-10-18",
+      "election": "1976",
+      "pm": "ola-ullsten"
+    },
+    {
+      "year": 1979,
+      "date": "1979-10-12",
+      "election": "1979",
+      "pm": "thorbjorn-falldin"
+    },
+    {
+      "year": 1982,
+      "date": "1982-10-08",
+      "election": "1982",
+      "pm": "olof-palme"
+    },
+    {
+      "year": 1985,
+      "date": "1985-09-15",
+      "election": "1985",
+      "pm": "olof-palme"
+    },
+    {
+      "year": 1986,
+      "date": "1986-03-01",
+      "election": "1985",
+      "pm": "ingvar-carlsson"
+    },
+    {
+      "year": 1988,
+      "date": "1988-09-18",
+      "election": "1988",
+      "pm": "ingvar-carlsson"
+    },
+    {
+      "year": 1991,
+      "date": "1991-10-04",
+      "election": "1991",
+      "pm": "carl-bildt"
+    },
+    {
+      "year": 1994,
+      "date": "1994-10-07",
+      "election": "1994",
+      "pm": "ingvar-carlsson"
+    },
+    {
+      "year": 1996,
+      "date": "1996-03-22",
+      "election": "1994",
+      "pm": "goran-persson"
+    },
+    {
+      "year": 1998,
+      "date": "1998-09-20",
+      "election": "1998",
+      "pm": "goran-persson"
+    },
+    {
+      "year": 2002,
+      "date": "2002-09-15",
+      "election": "2002",
+      "pm": "goran-persson"
+    },
+    {
+      "year": 2006,
+      "date": "2006-10-06",
+      "election": "2006",
+      "pm": "fredrik-reinfeldt"
+    },
+    {
+      "year": 2010,
+      "date": "2010-09-19",
+      "election": "2010",
+      "pm": "fredrik-reinfeldt"
+    },
+    {
+      "year": 2014,
+      "date": "2014-10-03",
+      "election": "2014",
+      "pm": "stefan-lofven"
+    },
+    {
+      "year": 2018,
+      "date": "2018-09-09",
+      "election": "2018",
+      "pm": "stefan-lofven"
+    },
+    {
+      "year": 2021,
+      "date": "2021-11-30",
+      "election": "2018",
+      "pm": "magdalena-andersson"
+    },
+    {
+      "year": 2022,
+      "date": "2022-10-18",
+      "election": "2022",
+      "pm": "ulf-kristersson"
+    },
+    {
+      "year": 2026,
+      "date": "2026-09-13",
+      "election": "2026",
+      "pm": "ulf-kristersson"
+    }
+  ],
+  "pms": {
+    "tage-erlander": {
+      "wiki": "Tage Erlander",
+      "wikidata": "Q53707",
+      "image": "Tage Erlander 1949.jpg",
+      "name": {
+        "en": "Tage Erlander",
+        "sv": "Tage Erlander"
+      }
+    },
+    "olof-palme": {
+      "wiki": "Olof Palme",
+      "wikidata": "Q53713",
+      "image": "Olof Palme 1974 (cropped).jpg",
+      "name": {
+        "en": "Olof Palme",
+        "sv": "Olof Palme"
+      }
+    },
+    "thorbjorn-falldin": {
+      "wiki": "Thorbjörn Fälldin",
+      "wikidata": "Q53721",
+      "image": "Falldin.JPG",
+      "name": {
+        "en": "Thorbjörn Fälldin",
+        "sv": "Thorbjörn Fälldin"
+      }
+    },
+    "ola-ullsten": {
+      "wiki": "Ola Ullsten",
+      "wikidata": "Q53733",
+      "image": "Ola Ullsten.JPG",
+      "name": {
+        "en": "Ola Ullsten",
+        "sv": "Ola Ullsten"
+      }
+    },
+    "ingvar-carlsson": {
+      "wiki": "Ingvar Carlsson",
+      "wikidata": "Q53740",
+      "image": "Ingvar Carlsson.jpg",
+      "name": {
+        "en": "Ingvar Carlsson",
+        "sv": "Ingvar Carlsson"
+      }
+    },
+    "carl-bildt": {
+      "wiki": "Carl Bildt",
+      "wikidata": "Q52922",
+      "image": "Carl Bildt under den politiska Almedalsveckan 2016.jpg",
+      "name": {
+        "en": "Carl Bildt",
+        "sv": "Carl Bildt"
+      }
+    },
+    "goran-persson": {
+      "wiki": "Göran Persson",
+      "wikidata": "Q53747",
+      "image": "Goran Persson, Sveriges statsminister, under nordiskt statsministermotet i Reykjavik 2005.jpg",
+      "name": {
+        "en": "Göran Persson",
+        "sv": "Göran Persson"
+      }
+    },
+    "fredrik-reinfeldt": {
+      "wiki": "Fredrik Reinfeldt",
+      "wikidata": "Q52920",
+      "image": "Nordisk-baltisk statsministermote under Nordiska radets session i Helsingfors (3) (cropped).jpg",
+      "name": {
+        "en": "Fredrik Reinfeldt",
+        "sv": "Fredrik Reinfeldt"
+      }
+    },
+    "stefan-lofven": {
+      "wiki": "Stefan Löfven",
+      "wikidata": "Q2740012",
+      "image": "Stefan Löfven efter slutdebatten i SVT 2014 (cropped).jpg",
+      "name": {
+        "en": "Stefan Löfven",
+        "sv": "Stefan Löfven"
+      }
+    },
+    "magdalena-andersson": {
+      "wiki": "Magdalena Andersson",
+      "wikidata": "Q4935873",
+      "image": "Swedish Prime Minister Andersson (2021).jpg",
+      "name": {
+        "en": "Magdalena Andersson",
+        "sv": "Magdalena Andersson"
+      }
+    },
+    "ulf-kristersson": {
+      "wiki": "Ulf Kristersson",
+      "wikidata": "Q1780398",
+      "image": "Ulf Kristersson on 29 June 2023.jpg",
+      "name": {
+        "en": "Ulf Kristersson"
+      }
+    }
+  },
+  "parties": {
+    "Swedish Social Democratic Party": {
+      "key": "swedish-social-democratic-party",
+      "wikidata": "Q105112",
+      "name": {
+        "en": "Swedish Social Democratic Party",
+        "sv": "Socialdemokraterna"
+      },
+      "bloc": "centre-left",
+      "color": "#ED1B34"
+    },
+    "Liberals (Sweden)": {
+      "key": "liberals",
+      "wikidata": "Q110857",
+      "name": {
+        "en": "Liberals",
+        "sv": "Liberalerna"
+      },
+      "bloc": "centre-right",
+      "color": "#006AB3"
+    },
+    "Centre Party (Sweden)": {
+      "key": "centre-party",
+      "wikidata": "Q110832",
+      "name": {
+        "en": "Centre Party",
+        "sv": "Centerpartiet"
+      },
+      "bloc": "centre",
+      "color": "#114838"
+    },
+    "Moderate Party": {
+      "key": "moderate-party",
+      "wikidata": "Q110843",
+      "name": {
+        "en": "Moderate Party",
+        "sv": "Moderaterna"
+      },
+      "bloc": "centre-right",
+      "color": "#019CDB"
+    },
+    "Left Party (Sweden)": {
+      "key": "left-party",
+      "wikidata": "Q110837",
+      "name": {
+        "en": "Left Party",
+        "sv": "Vänsterpartiet"
+      },
+      "bloc": "left",
+      "color": "#B00000"
+    },
+    "Civic Unity": {
+      "key": "civic-unity",
+      "name": {
+        "en": "Civic Unity"
+      },
+      "bloc": "centre-right"
+    },
+    "Centre (CDU–C)": {
+      "key": "centre",
+      "name": {
+        "en": "Centre"
+      },
+      "bloc": "centre-right"
+    },
+    "Green Party (Sweden)": {
+      "key": "green-party",
+      "wikidata": "Q213451",
+      "name": {
+        "en": "Green Party",
+        "sv": "Miljöpartiet"
+      },
+      "bloc": "centre-left",
+      "color": "#2B912C"
+    },
+    "Christian Democrats (Sweden)": {
+      "key": "christian-democrats",
+      "wikidata": "Q213654",
+      "name": {
+        "en": "Christian Democrats",
+        "sv": "Kristdemokraterna"
+      },
+      "bloc": "centre-right",
+      "color": "#231977"
+    },
+    "New Democracy (Sweden)": {
+      "key": "new-democracy",
+      "wikidata": "Q967278",
+      "name": {
+        "en": "New Democracy",
+        "sv": "Ny demokrati"
+      },
+      "bloc": "right"
+    },
+    "Sweden Democrats": {
+      "key": "sweden-democrats",
+      "wikidata": "Q504069",
+      "name": {
+        "en": "Sweden Democrats",
+        "sv": "Sverigedemokraterna"
+      },
+      "bloc": "far-right",
+      "color": "#FEDF09"
+    }
+  }
+}

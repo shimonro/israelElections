@@ -1,0 +1,1456 @@
+{
+ "results": {
+  "1945": {
+   "wiki": "1945 Finnish parliamentary election",
+   "date": "1945-03-17",
+   "seats": 200,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party of Finland",
+     "seats": 50
+    },
+    {
+     "name": "Finnish People's Democratic League",
+     "link": "Finnish People's Democratic League",
+     "seats": 49
+    },
+    {
+     "name": "Agrarian League",
+     "link": "Centre Party (Finland)",
+     "seats": 49
+    },
+    {
+     "name": "National Coalition Party",
+     "link": "National Coalition Party",
+     "seats": 28
+    },
+    {
+     "name": "Swedish People's Party",
+     "link": "Swedish People's Party of Finland",
+     "seats": 14
+    },
+    {
+     "name": "National Progressive Party",
+     "link": "National Progressive Party (Finland)",
+     "seats": 9
+    },
+    {
+     "name": "Swedish Left",
+     "link": "Liberal Swedish Party",
+     "seats": 1
+    }
+   ],
+   "chamber": {
+    "link": "Parliament of Finland",
+    "text": "Parliament of Finland"
+   }
+  },
+  "1948": {
+   "wiki": "1948 Finnish parliamentary election",
+   "date": "1948-07-01",
+   "seats": 200,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party of Finland",
+     "seats": 54
+    },
+    {
+     "name": "Agrarian League",
+     "link": "Centre Party (Finland)",
+     "seats": 56
+    },
+    {
+     "name": "Finnish People's Democratic League",
+     "link": "Finnish People's Democratic League",
+     "seats": 38
+    },
+    {
+     "name": "National Coalition Party",
+     "link": "National Coalition Party",
+     "seats": 33
+    },
+    {
+     "name": "Swedish People's Party",
+     "link": "Swedish People's Party of Finland",
+     "seats": 13
+    },
+    {
+     "name": "National Progressive Party",
+     "link": "National Progressive Party (Finland)",
+     "seats": 5
+    },
+    {
+     "name": "Åland Coalition",
+     "link": "Åland Coalition",
+     "seats": 1
+    }
+   ],
+   "chamber": {
+    "link": "Parliament of Finland",
+    "text": "Parliament of Finland"
+   }
+  },
+  "1951": {
+   "wiki": "1951 Finnish parliamentary election",
+   "date": "1951-07-01",
+   "seats": 200,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party of Finland",
+     "seats": 53
+    },
+    {
+     "name": "Agrarian League",
+     "link": "Centre Party (Finland)",
+     "seats": 51
+    },
+    {
+     "name": "Finnish People's Democratic League",
+     "link": "Finnish People's Democratic League",
+     "seats": 43
+    },
+    {
+     "name": "National Coalition Party",
+     "link": "National Coalition Party",
+     "seats": 28
+    },
+    {
+     "name": "Swedish People's Party",
+     "link": "Swedish People's Party of Finland",
+     "seats": 14
+    },
+    {
+     "name": "People's Party of Finland",
+     "link": "People's Party of Finland (1951)",
+     "seats": 10
+    },
+    {
+     "name": "Åland Coalition",
+     "link": "Åland Coalition",
+     "seats": 1
+    }
+   ],
+   "chamber": {
+    "link": "Parliament of Finland",
+    "text": "Parliament of Finland"
+   }
+  },
+  "1954": {
+   "wiki": "1954 Finnish parliamentary election",
+   "date": "1954-03-07",
+   "seats": 200,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party of Finland",
+     "seats": 54
+    },
+    {
+     "name": "Agrarian League",
+     "link": "Centre Party (Finland)",
+     "seats": 53
+    },
+    {
+     "name": "Finnish People's Democratic League",
+     "link": "Finnish People's Democratic League",
+     "seats": 43
+    },
+    {
+     "name": "National Coalition Party",
+     "link": "National Coalition Party",
+     "seats": 24
+    },
+    {
+     "name": "People's Party",
+     "link": "People's Party of Finland (1951)",
+     "seats": 13
+    },
+    {
+     "name": "Swedish People's Party",
+     "link": "Swedish People's Party of Finland",
+     "seats": 12
+    },
+    {
+     "name": "Åland Coalition",
+     "link": "Åland Coalition",
+     "seats": 1
+    }
+   ],
+   "chamber": {
+    "link": "Parliament of Finland",
+    "text": "Parliament of Finland"
+   }
+  },
+  "1958": {
+   "wiki": "1958 Finnish parliamentary election",
+   "date": "1958-07-06",
+   "seats": 200,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Finnish People's Democratic League",
+     "link": "Finnish People's Democratic League",
+     "seats": 50
+    },
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party of Finland",
+     "seats": 48
+    },
+    {
+     "name": "Agrarian League",
+     "link": "Centre Party (Finland)",
+     "seats": 48
+    },
+    {
+     "name": "National Coalition Party",
+     "link": "National Coalition Party",
+     "seats": 29
+    },
+    {
+     "name": "Swedish People's Party",
+     "link": "Swedish People's Party of Finland",
+     "seats": 13
+    },
+    {
+     "name": "People's Party",
+     "link": "People's Party of Finland (1951)",
+     "seats": 8
+    },
+    {
+     "name": "Social Democratic Union of Workers and Smallholders",
+     "link": "Social Democratic Union of Workers and Smallholders",
+     "seats": 3
+    },
+    {
+     "name": "Åland Coalition",
+     "link": "Åland Coalition",
+     "seats": 1
+    }
+   ],
+   "chamber": {
+    "link": "Parliament of Finland",
+    "text": "Parliament"
+   }
+  },
+  "1962": {
+   "wiki": "1962 Finnish parliamentary election",
+   "date": "1962-02-04",
+   "seats": 200,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Agrarian League",
+     "link": "Centre Party (Finland)",
+     "seats": 53
+    },
+    {
+     "name": "Finnish People's Democratic League",
+     "link": "Finnish People's Democratic League",
+     "seats": 47
+    },
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party of Finland",
+     "seats": 38
+    },
+    {
+     "name": "National Coalition Party",
+     "link": "National Coalition Party",
+     "seats": 32
+    },
+    {
+     "name": "People's Party",
+     "link": "People's Party of Finland (1951)",
+     "seats": 13
+    },
+    {
+     "name": "Swedish People's Party",
+     "link": "Swedish People's Party of Finland",
+     "seats": 13
+    },
+    {
+     "name": "Social Democratic Union of Workers and Smallholders",
+     "link": "Social Democratic Union of Workers and Smallholders",
+     "seats": 2
+    },
+    {
+     "name": "Liberal League",
+     "link": "Liberal League (Finland)",
+     "seats": 1
+    },
+    {
+     "name": "Åland Coalition",
+     "link": "Åland Coalition",
+     "seats": 1
+    }
+   ],
+   "chamber": {
+    "link": "Parliament of Finland",
+    "text": "Parliament of Finland"
+   }
+  },
+  "1966": {
+   "wiki": "1966 Finnish parliamentary election",
+   "date": "1966-03-20",
+   "seats": 200,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party of Finland",
+     "seats": 55
+    },
+    {
+     "name": "Centre Party",
+     "link": "Centre Party (Finland)",
+     "seats": 49
+    },
+    {
+     "name": "Finnish People's Democratic League",
+     "link": "Finnish People's Democratic League",
+     "seats": 41
+    },
+    {
+     "name": "National Coalition Party",
+     "link": "National Coalition Party",
+     "seats": 26
+    },
+    {
+     "name": "Liberal People's Party",
+     "link": "Liberals (Finland)",
+     "seats": 9
+    },
+    {
+     "name": "Swedish People's Party",
+     "link": "Swedish People's Party of Finland",
+     "seats": 11
+    },
+    {
+     "name": "Social Democratic Union of Workers and Smallholders",
+     "link": "Social Democratic Union of Workers and Smallholders",
+     "seats": 7
+    },
+    {
+     "name": "Smallholders' Party",
+     "link": "Finnish Rural Party",
+     "seats": 1
+    },
+    {
+     "name": "Åland Coalition",
+     "link": "Åland Coalition",
+     "seats": 1
+    }
+   ],
+   "chamber": {
+    "link": "Parliament of Finland",
+    "text": "Parliament of Finland"
+   }
+  },
+  "1970": {
+   "wiki": "1970 Finnish parliamentary election",
+   "date": "1970-03-15",
+   "seats": 200,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party of Finland",
+     "seats": 52
+    },
+    {
+     "name": "National Coalition Party",
+     "link": "National Coalition Party",
+     "seats": 37
+    },
+    {
+     "name": "Centre Party",
+     "link": "Centre Party (Finland)",
+     "seats": 36
+    },
+    {
+     "name": "Finnish People's Democratic League",
+     "link": "Finnish People's Democratic League",
+     "seats": 36
+    },
+    {
+     "name": "Finnish Rural Party",
+     "link": "Finnish Rural Party",
+     "seats": 18
+    },
+    {
+     "name": "Liberal People's Party",
+     "link": "Liberals (Finland)",
+     "seats": 8
+    },
+    {
+     "name": "Swedish People's Party",
+     "link": "Swedish People's Party of Finland",
+     "seats": 11
+    },
+    {
+     "name": "Finnish Christian League",
+     "link": "Christian Democrats (Finland)",
+     "seats": 1
+    },
+    {
+     "name": "Åland Coalition",
+     "link": "Åland Coalition",
+     "seats": 1
+    }
+   ],
+   "chamber": {
+    "link": "Parliament of Finland",
+    "text": "Parliament of Finland"
+   }
+  },
+  "1972": {
+   "wiki": "1972 Finnish parliamentary election",
+   "date": "1972-01-02",
+   "seats": 200,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party of Finland",
+     "seats": 55
+    },
+    {
+     "name": "National Coalition Party",
+     "link": "National Coalition Party",
+     "seats": 34
+    },
+    {
+     "name": "Finnish People's Democratic League",
+     "link": "Finnish People's Democratic League",
+     "seats": 37
+    },
+    {
+     "name": "Centre Party",
+     "link": "Centre Party (Finland)",
+     "seats": 35
+    },
+    {
+     "name": "Finnish Rural Party",
+     "link": "Finnish Rural Party",
+     "seats": 18
+    },
+    {
+     "name": "Liberal People's Party",
+     "link": "Liberals (Finland)",
+     "seats": 7
+    },
+    {
+     "name": "Swedish People's Party",
+     "link": "Swedish People's Party of Finland",
+     "seats": 9
+    },
+    {
+     "name": "Finnish Christian League",
+     "link": "Christian Democrats (Finland)",
+     "seats": 4
+    },
+    {
+     "name": "Åland Coalition",
+     "link": "Åland Coalition",
+     "seats": 1
+    }
+   ],
+   "chamber": {
+    "link": "Parliament of Finland",
+    "text": "Parliament of Finland"
+   }
+  },
+  "1975": {
+   "wiki": "1975 Finnish parliamentary election",
+   "date": "1975-09-21",
+   "seats": 200,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party of Finland",
+     "seats": 54
+    },
+    {
+     "name": "Finnish People's Democratic League",
+     "link": "Finnish People's Democratic League",
+     "seats": 40
+    },
+    {
+     "name": "National Coalition Party",
+     "link": "National Coalition Party",
+     "seats": 35
+    },
+    {
+     "name": "Centre Party",
+     "link": "Centre Party (Finland)",
+     "seats": 39
+    },
+    {
+     "name": "Swedish People's Party",
+     "link": "Swedish People's Party of Finland",
+     "seats": 9
+    },
+    {
+     "name": "Liberal People's Party",
+     "link": "Liberals (Finland)",
+     "seats": 9
+    },
+    {
+     "name": "Finnish Rural Party",
+     "link": "Finnish Rural Party",
+     "seats": 2
+    },
+    {
+     "name": "Finnish Christian League",
+     "link": "Christian Democrats (Finland)",
+     "seats": 9
+    },
+    {
+     "name": "Finnish People's Unity Party",
+     "link": "Finnish People's Unity Party",
+     "seats": 1
+    },
+    {
+     "name": "Constitutional People's Party",
+     "link": "Constitutional Right Party",
+     "seats": 1
+    },
+    {
+     "name": "Åland Coalition",
+     "link": "Åland Coalition",
+     "seats": 1
+    }
+   ],
+   "chamber": {
+    "link": "Parliament of Finland",
+    "text": "Parliament of Finland"
+   }
+  },
+  "1979": {
+   "wiki": "1979 Finnish parliamentary election",
+   "date": "1979-03-18",
+   "seats": 200,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party of Finland",
+     "seats": 52
+    },
+    {
+     "name": "National Coalition Party",
+     "link": "National Coalition Party",
+     "seats": 47
+    },
+    {
+     "name": "Finnish People's Democratic League",
+     "link": "Finnish People's Democratic League",
+     "seats": 35
+    },
+    {
+     "name": "Centre Party",
+     "link": "Centre Party (Finland)",
+     "seats": 36
+    },
+    {
+     "name": "Finnish Christian League",
+     "link": "Christian Democrats (Finland)",
+     "seats": 9
+    },
+    {
+     "name": "Finnish Rural Party",
+     "link": "Finnish Rural Party",
+     "seats": 7
+    },
+    {
+     "name": "Swedish People's Party",
+     "link": "Swedish People's Party of Finland",
+     "seats": 9
+    },
+    {
+     "name": "Liberal People's Party",
+     "link": "Liberals (Finland)",
+     "seats": 4
+    },
+    {
+     "name": "Åland Coalition",
+     "link": "Åland Coalition",
+     "seats": 1
+    }
+   ],
+   "chamber": {
+    "link": "Parliament of Finland",
+    "text": "Parliament of Finland"
+   }
+  },
+  "1983": {
+   "wiki": "1983 Finnish parliamentary election",
+   "date": "1983-03-20",
+   "seats": 200,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party of Finland",
+     "seats": 57
+    },
+    {
+     "name": "National Coalition Party",
+     "link": "National Coalition Party",
+     "seats": 44
+    },
+    {
+     "name": "Centre Party–Liberal People's Party",
+     "link": "Centre Party–Liberal People's Party",
+     "seats": 38,
+     "parts": [
+      "Centre Party (Finland)",
+      "Liberals (Finland)"
+     ]
+    },
+    {
+     "name": "Finnish People's Democratic League",
+     "link": "Finnish People's Democratic League",
+     "seats": 26
+    },
+    {
+     "name": "Finnish Rural Party",
+     "link": "Finnish Rural Party",
+     "seats": 17
+    },
+    {
+     "name": "Swedish People's Party",
+     "link": "Swedish People's Party of Finland",
+     "seats": 10
+    },
+    {
+     "name": "Finnish Christian League",
+     "link": "Christian Democrats (Finland)",
+     "seats": 3
+    },
+    {
+     "name": "Greens",
+     "link": "Green League",
+     "seats": 2
+    },
+    {
+     "name": "Constitutional Right Party",
+     "link": "Constitutional Right Party",
+     "seats": 1
+    },
+    {
+     "name": "Åland Coalition",
+     "link": "Åland Coalition",
+     "seats": 1
+    },
+    {
+     "name": "Others",
+     "link": "Others",
+     "seats": 1
+    }
+   ],
+   "chamber": {
+    "link": "Parliament of Finland",
+    "text": "Parliament of Finland"
+   }
+  },
+  "1987": {
+   "wiki": "1987 Finnish parliamentary election",
+   "date": "1987-03-15",
+   "seats": 200,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party of Finland",
+     "seats": 56
+    },
+    {
+     "name": "National Coalition Party",
+     "link": "National Coalition Party",
+     "seats": 53
+    },
+    {
+     "name": "Centre Party",
+     "link": "Centre Party (Finland)",
+     "seats": 40
+    },
+    {
+     "name": "Finnish People's Democratic League",
+     "link": "Finnish People's Democratic League",
+     "seats": 16
+    },
+    {
+     "name": "Finnish Rural Party",
+     "link": "Finnish Rural Party",
+     "seats": 9
+    },
+    {
+     "name": "Swedish People's Party",
+     "link": "Swedish People's Party of Finland",
+     "seats": 12
+    },
+    {
+     "name": "Democratic Alternative",
+     "link": "Democratic Alternative (Finland)",
+     "seats": 4
+    },
+    {
+     "name": "Greens",
+     "link": "Green League",
+     "seats": 4
+    },
+    {
+     "name": "Finnish Christian League",
+     "link": "Christian Democrats (Finland)",
+     "seats": 5
+    },
+    {
+     "name": "Liberals for Åland–Social Democrats",
+     "link": "Liberals for Åland–Social Democrats",
+     "seats": 1,
+     "parts": [
+      "Liberals for Åland",
+      "Åland Social Democrats"
+     ]
+    }
+   ],
+   "chamber": {
+    "link": "Parliament of Finland",
+    "text": "Parliament of Finland"
+   }
+  },
+  "1991": {
+   "wiki": "1991 Finnish parliamentary election",
+   "date": "1991-03-17",
+   "seats": 200,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Centre Party",
+     "link": "Centre Party (Finland)",
+     "seats": 55
+    },
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party of Finland",
+     "seats": 48
+    },
+    {
+     "name": "National Coalition Party",
+     "link": "National Coalition Party",
+     "seats": 40
+    },
+    {
+     "name": "Left Alliance",
+     "link": "Left Alliance (Finland)",
+     "seats": 19
+    },
+    {
+     "name": "Green League",
+     "link": "Green League",
+     "seats": 10
+    },
+    {
+     "name": "Swedish People's Party",
+     "link": "Swedish People's Party of Finland",
+     "seats": 11
+    },
+    {
+     "name": "Finnish Rural Party",
+     "link": "Finnish Rural Party",
+     "seats": 7
+    },
+    {
+     "name": "Finnish Christian League",
+     "link": "Christian Democrats (Finland)",
+     "seats": 8
+    },
+    {
+     "name": "Liberal People's Party",
+     "link": "Liberals (Finland)",
+     "seats": 1
+    },
+    {
+     "name": "Liberals for Åland–Freeminded–Greens",
+     "link": "Liberals for Åland–Freeminded–Greens",
+     "seats": 1,
+     "parts": [
+      "Liberals for Åland",
+      "Moderates of Åland",
+      "Greens on Åland"
+     ]
+    }
+   ],
+   "chamber": {
+    "link": "Parliament of Finland",
+    "text": "Parliament of Finland"
+   }
+  },
+  "1995": {
+   "wiki": "1995 Finnish parliamentary election",
+   "date": "1995-03-19",
+   "seats": 200,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party of Finland",
+     "seats": 63
+    },
+    {
+     "name": "Centre Party",
+     "link": "Centre Party (Finland)",
+     "seats": 44
+    },
+    {
+     "name": "National Coalition Party",
+     "link": "National Coalition Party",
+     "seats": 39
+    },
+    {
+     "name": "Left Alliance",
+     "link": "Left Alliance (Finland)",
+     "seats": 22
+    },
+    {
+     "name": "Green League",
+     "link": "Green League",
+     "seats": 9
+    },
+    {
+     "name": "Swedish People's Party",
+     "link": "Swedish People's Party of Finland",
+     "seats": 11
+    },
+    {
+     "name": "Finnish Christian League",
+     "link": "Christian Democrats (Finland)",
+     "seats": 7
+    },
+    {
+     "name": "Young Finns",
+     "link": "Young Finns",
+     "seats": 2
+    },
+    {
+     "name": "Finnish Rural Party",
+     "link": "Finnish Rural Party",
+     "seats": 1
+    },
+    {
+     "name": "Ecological Party the Greens",
+     "link": "Kirjava ”Puolue” – Elonkehän Puolesta",
+     "seats": 1
+    },
+    {
+     "name": "Liberals for Åland",
+     "link": "Liberals for Åland",
+     "seats": 1
+    }
+   ],
+   "chamber": {
+    "link": "Eduskunta",
+    "text": "Eduskunta"
+   }
+  },
+  "1999": {
+   "wiki": "1999 Finnish parliamentary election",
+   "date": "1999-03-21",
+   "seats": 200,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party of Finland",
+     "seats": 51
+    },
+    {
+     "name": "Centre Party",
+     "link": "Centre Party (Finland)",
+     "seats": 48
+    },
+    {
+     "name": "National Coalition Party",
+     "link": "National Coalition Party",
+     "seats": 46
+    },
+    {
+     "name": "Left Alliance",
+     "link": "Left Alliance (Finland)",
+     "seats": 20
+    },
+    {
+     "name": "Green League",
+     "link": "Green League",
+     "seats": 11
+    },
+    {
+     "name": "Swedish People's Party",
+     "link": "Swedish People's Party of Finland",
+     "seats": 11
+    },
+    {
+     "name": "Finnish Christian League",
+     "link": "Christian Democrats (Finland)",
+     "seats": 10
+    },
+    {
+     "name": "Reform Group",
+     "link": "Reform Group (Finland)",
+     "seats": 1
+    },
+    {
+     "name": "Finns Party",
+     "link": "Finns Party",
+     "seats": 1
+    },
+    {
+     "name": "Liberals for Åland",
+     "link": "Liberals for Åland",
+     "seats": 1
+    }
+   ],
+   "chamber": {
+    "link": "Parliament of Finland",
+    "text": "Parliament"
+   }
+  },
+  "2003": {
+   "wiki": "2003 Finnish parliamentary election",
+   "date": "2003-03-16",
+   "seats": 200,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Centre Party",
+     "link": "Centre Party (Finland)",
+     "seats": 55
+    },
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party of Finland",
+     "seats": 53
+    },
+    {
+     "name": "National Coalition Party",
+     "link": "National Coalition Party",
+     "seats": 40
+    },
+    {
+     "name": "Left Alliance",
+     "link": "Left Alliance (Finland)",
+     "seats": 19
+    },
+    {
+     "name": "Green League",
+     "link": "Green League",
+     "seats": 14
+    },
+    {
+     "name": "Christian Democrats",
+     "link": "Christian Democrats (Finland)",
+     "seats": 7
+    },
+    {
+     "name": "Swedish People's Party",
+     "link": "Swedish People's Party of Finland",
+     "seats": 8
+    },
+    {
+     "name": "Finns Party",
+     "link": "Finns Party",
+     "seats": 3
+    },
+    {
+     "name": "Freeminded Cooperation–Non-aligned Coalition",
+     "link": "Freeminded Cooperation–Non-aligned Coalition",
+     "seats": 1,
+     "parts": [
+      "Moderates of Åland",
+      "Non-aligned Coalition"
+     ]
+    }
+   ],
+   "chamber": {
+    "link": "Parliament of Finland",
+    "text": "Parliament"
+   }
+  },
+  "2007": {
+   "wiki": "2007 Finnish parliamentary election",
+   "date": "2007-03-18",
+   "seats": 200,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Centre Party",
+     "link": "Centre Party (Finland)",
+     "seats": 51
+    },
+    {
+     "name": "National Coalition Party",
+     "link": "National Coalition Party",
+     "seats": 50
+    },
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party of Finland",
+     "seats": 45
+    },
+    {
+     "name": "Left Alliance",
+     "link": "Left Alliance (Finland)",
+     "seats": 17
+    },
+    {
+     "name": "Green League",
+     "link": "Green League",
+     "seats": 15
+    },
+    {
+     "name": "Christian Democrats",
+     "link": "Christian Democrats (Finland)",
+     "seats": 7
+    },
+    {
+     "name": "Swedish People's Party",
+     "link": "Swedish People's Party of Finland",
+     "seats": 9
+    },
+    {
+     "name": "Finns Party",
+     "link": "Finns Party",
+     "seats": 5
+    },
+    {
+     "name": "Civic Alliance (C–FS–LIB–ObS)",
+     "link": "Civic Alliance (C–FS–LIB–ObS)",
+     "seats": 1,
+     "parts": [
+      "Åland Centre",
+      "Freeminded Co-operation",
+      "Liberals for Åland",
+      "Non-aligned Coalition"
+     ]
+    }
+   ],
+   "chamber": {
+    "link": "Parliament of Finland",
+    "text": "Parliament"
+   }
+  },
+  "2011": {
+   "wiki": "2011 Finnish parliamentary election",
+   "date": "2011-04-17",
+   "seats": 200,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "National Coalition Party",
+     "link": "National Coalition Party",
+     "seats": 44
+    },
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party of Finland",
+     "seats": 42
+    },
+    {
+     "name": "True Finns",
+     "link": "True Finns",
+     "seats": 39
+    },
+    {
+     "name": "Centre Party",
+     "link": "Centre Party (Finland)",
+     "seats": 35
+    },
+    {
+     "name": "Left Alliance",
+     "link": "Left Alliance (Finland)",
+     "seats": 14
+    },
+    {
+     "name": "Green League",
+     "link": "Green League",
+     "seats": 10
+    },
+    {
+     "name": "Swedish People's Party",
+     "link": "Swedish People's Party of Finland",
+     "seats": 9
+    },
+    {
+     "name": "Christian Democrats",
+     "link": "Christian Democrats (Finland)",
+     "seats": 6
+    },
+    {
+     "name": "Åland Coalition 2011 (C–Ob–S–ÅF)",
+     "link": "Åland Coalition 2011 (C–Ob–S–ÅF)",
+     "seats": 1,
+     "parts": [
+      "Åland Centre",
+      "Non-aligned Coalition",
+      "Åland Social Democrats",
+      "Future of Åland"
+     ]
+    }
+   ],
+   "chamber": {
+    "link": "Parliament of Finland",
+    "text": "Parliament"
+   }
+  },
+  "2015": {
+   "wiki": "2015 Finnish parliamentary election",
+   "date": "2015-04-19",
+   "seats": 200,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Centre Party",
+     "link": "Centre Party (Finland)",
+     "seats": 49
+    },
+    {
+     "name": "Finns Party",
+     "link": "Finns Party",
+     "seats": 38
+    },
+    {
+     "name": "National Coalition Party",
+     "link": "National Coalition Party",
+     "seats": 37
+    },
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party of Finland",
+     "seats": 34
+    },
+    {
+     "name": "Green League",
+     "link": "Green League",
+     "seats": 15
+    },
+    {
+     "name": "Left Alliance",
+     "link": "Left Alliance (Finland)",
+     "seats": 12
+    },
+    {
+     "name": "Swedish People's Party",
+     "link": "Swedish People's Party of Finland",
+     "seats": 9
+    },
+    {
+     "name": "Christian Democrats",
+     "link": "Christian Democrats (Finland)",
+     "seats": 5
+    },
+    {
+     "name": "Åland Coalition 2015 (C–M–S)",
+     "link": "Åland Coalition 2015 (C–M–S)",
+     "seats": 1,
+     "parts": [
+      "Åland Centre",
+      "Moderates of Åland",
+      "Åland Social Democrats"
+     ]
+    }
+   ],
+   "chamber": {
+    "link": "Parliament of Finland",
+    "text": "Parliament"
+   }
+  },
+  "2019": {
+   "wiki": "2019 Finnish parliamentary election",
+   "date": "2019-04-14",
+   "seats": 200,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party of Finland",
+     "seats": 40
+    },
+    {
+     "name": "Finns Party",
+     "link": "Finns Party",
+     "seats": 39
+    },
+    {
+     "name": "National Coalition Party",
+     "link": "National Coalition Party",
+     "seats": 38
+    },
+    {
+     "name": "Centre Party",
+     "link": "Centre Party (Finland)",
+     "seats": 31
+    },
+    {
+     "name": "Green League",
+     "link": "Green League",
+     "seats": 20
+    },
+    {
+     "name": "Left Alliance",
+     "link": "Left Alliance (Finland)",
+     "seats": 16
+    },
+    {
+     "name": "Swedish People's Party",
+     "link": "Swedish People's Party of Finland",
+     "seats": 9
+    },
+    {
+     "name": "Christian Democrats",
+     "link": "Christian Democrats (Finland)",
+     "seats": 5
+    },
+    {
+     "name": "Movement Now",
+     "link": "Movement Now",
+     "seats": 1
+    },
+    {
+     "name": "For Åland (C–L–M–S–ÅF)",
+     "link": "For Åland (C–L–M–S–ÅF)",
+     "seats": 1,
+     "parts": [
+      "Åland Centre",
+      "Liberals for Åland",
+      "Moderates of Åland",
+      "Åland Social Democrats",
+      "Future of Åland"
+     ]
+    }
+   ],
+   "chamber": {
+    "link": "Parliament of Finland",
+    "text": "Parliament"
+   }
+  },
+  "2023": {
+   "wiki": "2023 Finnish parliamentary election",
+   "date": "2023-04-02",
+   "seats": 200,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "National Coalition Party",
+     "link": "National Coalition Party",
+     "seats": 48
+    },
+    {
+     "name": "Finns Party",
+     "link": "Finns Party",
+     "seats": 46
+    },
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party of Finland",
+     "seats": 43
+    },
+    {
+     "name": "Centre Party",
+     "link": "Centre Party (Finland)",
+     "seats": 23
+    },
+    {
+     "name": "Left Alliance",
+     "link": "Left Alliance (Finland)",
+     "seats": 11
+    },
+    {
+     "name": "Green League",
+     "link": "Green League",
+     "seats": 13
+    },
+    {
+     "name": "Swedish People's Party",
+     "link": "Swedish People's Party of Finland",
+     "seats": 9
+    },
+    {
+     "name": "Christian Democrats",
+     "link": "Christian Democrats (Finland)",
+     "seats": 5
+    },
+    {
+     "name": "Movement Now",
+     "link": "Movement Now",
+     "seats": 1
+    },
+    {
+     "name": "For Åland",
+     "link": "Åland Coalition",
+     "seats": 1
+    }
+   ],
+   "chamber": {
+    "link": "Parliament of Finland",
+    "text": "Parliament of Finland"
+   }
+  }
+ },
+ "credits": {
+  "juho-kusti-paasikivi": {
+   "file": "Juho Kusti Paasikivi, 1940s.jpg",
+   "author": "Unknown",
+   "license": "Public domain"
+  },
+  "mauno-pekkala": {
+   "file": "Mauno Pekkala 1938.jpg",
+   "author": "Aarne Pietinen",
+   "license": "Public domain"
+  },
+  "urho-kekkonen": {
+   "file": "Urho-Kekkonen-1977-c.jpg",
+   "author": "AnonymousUnknown author / Kuvasiskot studio",
+   "license": "CC BY 4.0"
+  },
+  "karl-august-fagerholm": {
+   "file": "Carl August Fagerholm 1955.jpg",
+   "author": "Moshe Pridan",
+   "license": "Public domain"
+  },
+  "ralf-torngren": {
+   "file": "Ralf Törngren1.jpg",
+   "author": "Unknown authorUnknown author",
+   "license": "Public domain"
+  },
+  "v-j-sukselainen": {
+   "file": "Vieno Johannes Sukselainen.jpg",
+   "author": "Unknown authorUnknown author",
+   "license": "Public domain"
+  },
+  "rainer-von-fieandt": {
+   "file": "Rainer von Fieandt.jpg",
+   "author": "Unknown authorUnknown author",
+   "license": "Public domain"
+  },
+  "reino-kuuskoski": {
+   "file": "Reino-Kuuskoski.jpg",
+   "author": "AnonymousUnknown author",
+   "license": "Public domain"
+  },
+  "martti-miettunen": {
+   "file": "Martti-Miettunen.jpg",
+   "author": "AnonymousUnknown author",
+   "license": "Public domain"
+  },
+  "ahti-karjalainen": {
+   "file": "Ahti-Karjalainen-1980 (cropped).jpg",
+   "author": "Kuvasiskot",
+   "license": "CC BY 4.0"
+  },
+  "reino-ragnar-lehto": {
+   "file": "Reino-R-Lehto.jpg",
+   "author": "AnonymousUnknown author / Museovirasto",
+   "license": "Public domain"
+  },
+  "johannes-virolainen": {
+   "file": "Johannes Virolainen 1970 (cropped).jpg",
+   "author": "Kuvasiskot",
+   "license": "CC BY 4.0"
+  },
+  "rafael-paasio": {
+   "file": "Rafael-Paasio-1963.jpg",
+   "author": "Jarmo Hietaranta",
+   "license": "Public domain"
+  },
+  "mauno-koivisto": {
+   "file": "Mauno-Koivisto-1967.jpg",
+   "author": "Kuvasiskot",
+   "license": "CC BY 4.0"
+  },
+  "teuvo-aura": {
+   "file": "Teuvo-Aura-1972.jpg",
+   "author": "Kari Hakli",
+   "license": "CC BY 4.0"
+  },
+  "kalevi-sorsa": {
+   "file": "Kalevi-Sorsa-1975 (cropped).jpg",
+   "author": "Kuvasiskot",
+   "license": "CC BY 4.0"
+  },
+  "keijo-liinamaa": {
+   "file": "Keijo-Liinamaa-1975.jpg",
+   "author": "Tapio Korpisaari",
+   "license": "CC BY 4.0"
+  },
+  "harri-holkeri": {
+   "file": "Holkeri.jpg",
+   "author": "Unknown authorUnknown author",
+   "license": "CC BY-SA 3.0"
+  },
+  "esko-aho": {
+   "file": "Esko Aho in 2022.jpg",
+   "author": "Stina Virkamäki / Prime Minister's Office Finland",
+   "license": "CC BY 2.0"
+  },
+  "paavo-lipponen": {
+   "file": "Paavo Lipponen 2004.jpg",
+   "author": "Johannes Jansson",
+   "license": "CC BY 2.5 dk"
+  },
+  "anneli-jaatteenmaki": {
+   "file": "Jäätteenmäki Anneli 2014-02-06 1.jpg",
+   "author": "Isiwal",
+   "license": "CC BY-SA 3.0"
+  },
+  "matti-vanhanen": {
+   "file": "2020-03-02 Matti Vanhanen (cropped).jpg",
+   "author": "council.gov.ru",
+   "license": "CC BY 4.0"
+  },
+  "mari-kiviniemi": {
+   "file": "Mari Kiviniemi on November 2, 2010.jpg",
+   "author": "Johannes Jansson/norden.org",
+   "license": "CC BY 2.5"
+  },
+  "jyrki-katainen": {
+   "file": "EPP Political Assembly, 09-10 March, Helsinki (52736730189) (cropped).jpg",
+   "author": "European People's Party",
+   "license": "CC BY 2.0"
+  },
+  "alexander-stubb": {
+   "file": "Alexander Stubb in 2024 (cropped).jpg",
+   "author": "Kynnap",
+   "license": "CC BY 4.0"
+  },
+  "juha-sipila": {
+   "file": "Juha Sipila in Stockholm, Sweden on April 17, 2018 (cropped).JPG",
+   "author": "Prime Minister's Office",
+   "license": "GODL-India"
+  },
+  "antti-rinne": {
+   "file": "Antti Rinne.jpg",
+   "author": "Teemu Rajala",
+   "license": "CC BY 4.0"
+  },
+  "sanna-marin": {
+   "file": "Eurooppa-neuvosto 23.–24.3.2023 (52766857233) (cropped).jpg",
+   "author": "Rami Kurth, valtioneuvoston kanslia - FinnishGovernment",
+   "license": "CC BY 2.0"
+  },
+  "petteri-orpo": {
+   "file": "Petteri-Orpo-01 (cropped).jpg",
+   "author": "Lauri Heikkinen, valtioneuvoston kanslia",
+   "license": "CC BY 4.0"
+  }
+ }
+}

@@ -1,0 +1,3017 @@
+{
+ "meta": {
+  "code": "no",
+  "slug": "norway",
+  "name": {
+   "en": "Norway",
+   "nb": "Norge",
+   "nn": "Noreg"
+  },
+  "languages": [
+   "en",
+   "nb",
+   "nn"
+  ],
+  "emblem": "/countries/no/emblem.png"
+ },
+ "chamber": {
+  "en": "Storting"
+ },
+ "termLabel": {
+  "en": "Term"
+ },
+ "leaderTitle": {
+  "en": "Prime Minister",
+  "nb": "Norges statsminister",
+  "nn": "Norsk statsminister"
+ },
+ "blocs": [
+  {
+   "key": "far-left",
+   "name": {
+    "en": "Far-left",
+    "nb": "venstreekstremisme",
+    "nn": "venstreekstremisme"
+   },
+   "hue": 340,
+   "color": "#9f1239"
+  },
+  {
+   "key": "left",
+   "name": {
+    "en": "Left",
+    "nb": "venstresiden",
+    "nn": "venstresida"
+   },
+   "hue": 0,
+   "color": "#dc2626"
+  },
+  {
+   "key": "centre-left",
+   "name": {
+    "en": "Centre-left",
+    "nb": "sentrum-venstre",
+    "nn": "sentrum-venstre"
+   },
+   "hue": 12,
+   "color": "#f87171"
+  },
+  {
+   "key": "centre",
+   "name": {
+    "en": "Centre",
+    "nb": "sentrum",
+    "nn": "sentrisme"
+   },
+   "hue": 48,
+   "color": "#eab308"
+  },
+  {
+   "key": "centre-right",
+   "name": {
+    "en": "Centre-right",
+    "nb": "sentrum-høyre",
+    "nn": "sentrum-høgre"
+   },
+   "hue": 200,
+   "color": "#38bdf8"
+  },
+  {
+   "key": "right",
+   "name": {
+    "en": "Right",
+    "nb": "høyresiden",
+    "nn": "høgresida"
+   },
+   "hue": 222,
+   "color": "#2563eb"
+  },
+  {
+   "key": "other",
+   "name": {
+    "en": "Other"
+   },
+   "color": "#94a3b8"
+  }
+ ],
+ "pms": {
+  "einar-gerhardsen": {
+   "name": {
+    "en": "Einar Gerhardsen",
+    "nb": "Einar Gerhardsen",
+    "nn": "Einar Gerhardsen"
+   },
+   "photo": "/countries/no/pm/einar-gerhardsen.jpg"
+  },
+  "oscar-torp": {
+   "name": {
+    "en": "Oscar Torp",
+    "nb": "Oscar Torp",
+    "nn": "Oscar Torp"
+   },
+   "photo": "/countries/no/pm/oscar-torp.jpg"
+  },
+  "per-borten": {
+   "name": {
+    "en": "Per Borten",
+    "nb": "Per Borten",
+    "nn": "Per Borten"
+   },
+   "photo": "/countries/no/pm/per-borten.jpg"
+  },
+  "trygve-bratteli": {
+   "name": {
+    "en": "Trygve Bratteli",
+    "nb": "Trygve Bratteli",
+    "nn": "Trygve Bratteli"
+   },
+   "photo": "/countries/no/pm/trygve-bratteli.jpg"
+  },
+  "lars-korvald": {
+   "name": {
+    "en": "Lars Korvald",
+    "nb": "Lars Korvald",
+    "nn": "Lars Korvald"
+   },
+   "photo": "/countries/no/pm/lars-korvald.jpg"
+  },
+  "odvar-nordli": {
+   "name": {
+    "en": "Odvar Nordli",
+    "nb": "Odvar Nordli",
+    "nn": "Odvar Nordli"
+   },
+   "photo": "/countries/no/pm/odvar-nordli.jpg"
+  },
+  "gro-harlem-brundtland": {
+   "name": {
+    "en": "Gro Harlem Brundtland",
+    "nb": "Gro Harlem Brundtland",
+    "nn": "Gro Harlem Brundtland"
+   },
+   "photo": "/countries/no/pm/gro-harlem-brundtland.jpg"
+  },
+  "kare-willoch": {
+   "name": {
+    "en": "Kåre Willoch",
+    "nb": "Kåre Willoch",
+    "nn": "Kåre Willoch"
+   },
+   "photo": "/countries/no/pm/kare-willoch.jpg"
+  },
+  "jan-p-syse": {
+   "name": {
+    "en": "Jan P. Syse",
+    "nb": "Jan P. Syse",
+    "nn": "Jan P. Syse"
+   },
+   "photo": "/countries/no/pm/jan-p-syse.jpg"
+  },
+  "thorbj-rn-jagland": {
+   "name": {
+    "en": "Thorbjørn Jagland",
+    "nb": "Thorbjørn Jagland",
+    "nn": "Thorbjørn Jagland"
+   },
+   "photo": "/countries/no/pm/thorbj-rn-jagland.jpg"
+  },
+  "kjell-magne-bondevik": {
+   "name": {
+    "en": "Kjell Magne Bondevik",
+    "nb": "Kjell Magne Bondevik",
+    "nn": "Kjell Magne Bondevik"
+   },
+   "photo": "/countries/no/pm/kjell-magne-bondevik.jpg"
+  },
+  "jens-stoltenberg": {
+   "name": {
+    "en": "Jens Stoltenberg"
+   },
+   "photo": "/countries/no/pm/jens-stoltenberg.jpg"
+  },
+  "erna-solberg": {
+   "name": {
+    "en": "Erna Solberg",
+    "nb": "Erna Solberg",
+    "nn": "Erna Solberg"
+   },
+   "photo": "/countries/no/pm/erna-solberg.jpg"
+  },
+  "jonas-gahr-st-re": {
+   "name": {
+    "en": "Jonas Gahr Støre",
+    "nb": "Jonas Gahr Støre",
+    "nn": "Jonas Gahr Støre"
+   },
+   "photo": "/countries/no/pm/jonas-gahr-st-re.jpg"
+  }
+ },
+ "terms": [
+  {
+   "term": "1945–1949",
+   "year": 1945,
+   "pm": "einar-gerhardsen",
+   "seats": 150,
+   "results": [
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nb": "Arbeiderpartiet",
+      "nn": "Arbeidarpartiet"
+     },
+     "seats": 76,
+     "bloc": "centre-left",
+     "color": "#E11926"
+    },
+    {
+     "id": "conservative-party",
+     "name": {
+      "en": "Conservative Party",
+      "nb": "Høyre",
+      "nn": "Høgre"
+     },
+     "seats": 25,
+     "bloc": "centre-right",
+     "color": "#87add7"
+    },
+    {
+     "id": "liberal-party",
+     "name": {
+      "en": "Liberal Party",
+      "nb": "Venstre",
+      "nn": "Venstre"
+     },
+     "seats": 20,
+     "bloc": "centre",
+     "color": "#006666"
+    },
+    {
+     "id": "communist-party-of-norway",
+     "name": {
+      "en": "Communist Party of Norway",
+      "nb": "Norges Kommunistiske Parti",
+      "nn": "Norges Kommunistiske Parti"
+     },
+     "seats": 11,
+     "bloc": "far-left",
+     "color": "#990000"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "nb": "Senterpartiet",
+      "nn": "Senterpartiet"
+     },
+     "seats": 10,
+     "bloc": "centre",
+     "color": "#00843D"
+    },
+    {
+     "id": "christian-democratic-party",
+     "name": {
+      "en": "Christian Democratic Party",
+      "nb": "Kristelig Folkeparti",
+      "nn": "Kristeleg Folkeparti"
+     },
+     "seats": 8,
+     "bloc": "centre-right",
+     "color": "#FDED34"
+    }
+   ]
+  },
+  {
+   "term": "1949–1953",
+   "year": 1949,
+   "pm": "einar-gerhardsen",
+   "seats": 150,
+   "results": [
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nb": "Arbeiderpartiet",
+      "nn": "Arbeidarpartiet"
+     },
+     "seats": 85,
+     "bloc": "centre-left",
+     "color": "#E11926"
+    },
+    {
+     "id": "conservative-party",
+     "name": {
+      "en": "Conservative Party",
+      "nb": "Høyre",
+      "nn": "Høgre"
+     },
+     "seats": 21,
+     "bloc": "centre-right",
+     "color": "#87add7"
+    },
+    {
+     "id": "liberal-party",
+     "name": {
+      "en": "Liberal Party",
+      "nb": "Venstre",
+      "nn": "Venstre"
+     },
+     "seats": 20,
+     "bloc": "centre",
+     "color": "#006666"
+    },
+    {
+     "id": "christian-democratic-party",
+     "name": {
+      "en": "Christian Democratic Party",
+      "nb": "Kristelig Folkeparti",
+      "nn": "Kristeleg Folkeparti"
+     },
+     "seats": 9,
+     "bloc": "centre-right",
+     "color": "#FDED34"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "nb": "Senterpartiet",
+      "nn": "Senterpartiet"
+     },
+     "seats": 6,
+     "bloc": "centre",
+     "color": "#00843D"
+    },
+    {
+     "id": "farmers-conservatives-liberals",
+     "name": {
+      "en": "Farmers–Conservatives–Liberals"
+     },
+     "seats": 4,
+     "bloc": "centre"
+    },
+    {
+     "id": "farmers-conservatives",
+     "name": {
+      "en": "Farmers–Conservatives"
+     },
+     "seats": 3,
+     "bloc": "centre-right"
+    },
+    {
+     "id": "farmers-liberals",
+     "name": {
+      "en": "Farmers–Liberals"
+     },
+     "seats": 2,
+     "bloc": "centre"
+    }
+   ]
+  },
+  {
+   "term": "1949–1953",
+   "year": 1951,
+   "pm": "oscar-torp",
+   "seats": 150,
+   "results": [
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nb": "Arbeiderpartiet",
+      "nn": "Arbeidarpartiet"
+     },
+     "seats": 85,
+     "bloc": "centre-left",
+     "color": "#E11926"
+    },
+    {
+     "id": "conservative-party",
+     "name": {
+      "en": "Conservative Party",
+      "nb": "Høyre",
+      "nn": "Høgre"
+     },
+     "seats": 21,
+     "bloc": "centre-right",
+     "color": "#87add7"
+    },
+    {
+     "id": "liberal-party",
+     "name": {
+      "en": "Liberal Party",
+      "nb": "Venstre",
+      "nn": "Venstre"
+     },
+     "seats": 20,
+     "bloc": "centre",
+     "color": "#006666"
+    },
+    {
+     "id": "christian-democratic-party",
+     "name": {
+      "en": "Christian Democratic Party",
+      "nb": "Kristelig Folkeparti",
+      "nn": "Kristeleg Folkeparti"
+     },
+     "seats": 9,
+     "bloc": "centre-right",
+     "color": "#FDED34"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "nb": "Senterpartiet",
+      "nn": "Senterpartiet"
+     },
+     "seats": 6,
+     "bloc": "centre",
+     "color": "#00843D"
+    },
+    {
+     "id": "farmers-conservatives-liberals",
+     "name": {
+      "en": "Farmers–Conservatives–Liberals"
+     },
+     "seats": 4,
+     "bloc": "centre"
+    },
+    {
+     "id": "farmers-conservatives",
+     "name": {
+      "en": "Farmers–Conservatives"
+     },
+     "seats": 3,
+     "bloc": "centre-right"
+    },
+    {
+     "id": "farmers-liberals",
+     "name": {
+      "en": "Farmers–Liberals"
+     },
+     "seats": 2,
+     "bloc": "centre"
+    }
+   ]
+  },
+  {
+   "term": "1953–1957",
+   "year": 1953,
+   "pm": "oscar-torp",
+   "seats": 150,
+   "results": [
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nb": "Arbeiderpartiet",
+      "nn": "Arbeidarpartiet"
+     },
+     "seats": 77,
+     "bloc": "centre-left",
+     "color": "#E11926"
+    },
+    {
+     "id": "conservative-party",
+     "name": {
+      "en": "Conservative Party",
+      "nb": "Høyre",
+      "nn": "Høgre"
+     },
+     "seats": 26,
+     "bloc": "centre-right",
+     "color": "#87add7"
+    },
+    {
+     "id": "liberal-party",
+     "name": {
+      "en": "Liberal Party",
+      "nb": "Venstre",
+      "nn": "Venstre"
+     },
+     "seats": 15,
+     "bloc": "centre",
+     "color": "#006666"
+    },
+    {
+     "id": "christian-democratic-party",
+     "name": {
+      "en": "Christian Democratic Party",
+      "nb": "Kristelig Folkeparti",
+      "nn": "Kristeleg Folkeparti"
+     },
+     "seats": 14,
+     "bloc": "centre-right",
+     "color": "#FDED34"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "nb": "Senterpartiet",
+      "nn": "Senterpartiet"
+     },
+     "seats": 14,
+     "bloc": "centre",
+     "color": "#00843D"
+    },
+    {
+     "id": "communist-party-of-norway",
+     "name": {
+      "en": "Communist Party of Norway",
+      "nb": "Norges Kommunistiske Parti",
+      "nn": "Norges Kommunistiske Parti"
+     },
+     "seats": 3,
+     "bloc": "far-left",
+     "color": "#990000"
+    },
+    {
+     "id": "farmers-conservatives",
+     "name": {
+      "en": "Farmers–Conservatives"
+     },
+     "seats": 1,
+     "bloc": "centre-right"
+    }
+   ]
+  },
+  {
+   "term": "1953–1957",
+   "year": 1955,
+   "pm": "einar-gerhardsen",
+   "seats": 150,
+   "results": [
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nb": "Arbeiderpartiet",
+      "nn": "Arbeidarpartiet"
+     },
+     "seats": 77,
+     "bloc": "centre-left",
+     "color": "#E11926"
+    },
+    {
+     "id": "conservative-party",
+     "name": {
+      "en": "Conservative Party",
+      "nb": "Høyre",
+      "nn": "Høgre"
+     },
+     "seats": 26,
+     "bloc": "centre-right",
+     "color": "#87add7"
+    },
+    {
+     "id": "liberal-party",
+     "name": {
+      "en": "Liberal Party",
+      "nb": "Venstre",
+      "nn": "Venstre"
+     },
+     "seats": 15,
+     "bloc": "centre",
+     "color": "#006666"
+    },
+    {
+     "id": "christian-democratic-party",
+     "name": {
+      "en": "Christian Democratic Party",
+      "nb": "Kristelig Folkeparti",
+      "nn": "Kristeleg Folkeparti"
+     },
+     "seats": 14,
+     "bloc": "centre-right",
+     "color": "#FDED34"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "nb": "Senterpartiet",
+      "nn": "Senterpartiet"
+     },
+     "seats": 14,
+     "bloc": "centre",
+     "color": "#00843D"
+    },
+    {
+     "id": "communist-party-of-norway",
+     "name": {
+      "en": "Communist Party of Norway",
+      "nb": "Norges Kommunistiske Parti",
+      "nn": "Norges Kommunistiske Parti"
+     },
+     "seats": 3,
+     "bloc": "far-left",
+     "color": "#990000"
+    },
+    {
+     "id": "farmers-conservatives",
+     "name": {
+      "en": "Farmers–Conservatives"
+     },
+     "seats": 1,
+     "bloc": "centre-right"
+    }
+   ]
+  },
+  {
+   "term": "1957–1961",
+   "year": 1957,
+   "pm": "einar-gerhardsen",
+   "seats": 150,
+   "results": [
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nb": "Arbeiderpartiet",
+      "nn": "Arbeidarpartiet"
+     },
+     "seats": 78,
+     "bloc": "centre-left",
+     "color": "#E11926"
+    },
+    {
+     "id": "conservative-party",
+     "name": {
+      "en": "Conservative Party",
+      "nb": "Høyre",
+      "nn": "Høgre"
+     },
+     "seats": 25,
+     "bloc": "centre-right",
+     "color": "#87add7"
+    },
+    {
+     "id": "liberal-party",
+     "name": {
+      "en": "Liberal Party",
+      "nb": "Venstre",
+      "nn": "Venstre"
+     },
+     "seats": 15,
+     "bloc": "centre",
+     "color": "#006666"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "nb": "Senterpartiet",
+      "nn": "Senterpartiet"
+     },
+     "seats": 14,
+     "bloc": "centre",
+     "color": "#00843D"
+    },
+    {
+     "id": "christian-democratic-party",
+     "name": {
+      "en": "Christian Democratic Party",
+      "nb": "Kristelig Folkeparti",
+      "nn": "Kristeleg Folkeparti"
+     },
+     "seats": 12,
+     "bloc": "centre-right",
+     "color": "#FDED34"
+    },
+    {
+     "id": "farmers-conservatives",
+     "name": {
+      "en": "Farmers'–Conservatives"
+     },
+     "seats": 4,
+     "bloc": "centre-right"
+    },
+    {
+     "id": "communist-party-of-norway",
+     "name": {
+      "en": "Communist Party of Norway",
+      "nb": "Norges Kommunistiske Parti",
+      "nn": "Norges Kommunistiske Parti"
+     },
+     "seats": 1,
+     "bloc": "far-left",
+     "color": "#990000"
+    },
+    {
+     "id": "liberals-conservatives",
+     "name": {
+      "en": "Liberals–Conservatives"
+     },
+     "seats": 1,
+     "bloc": "centre-right"
+    }
+   ]
+  },
+  {
+   "term": "1961–1965",
+   "year": 1961,
+   "pm": "einar-gerhardsen",
+   "seats": 150,
+   "results": [
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nb": "Arbeiderpartiet",
+      "nn": "Arbeidarpartiet"
+     },
+     "seats": 74,
+     "bloc": "centre-left",
+     "color": "#E11926"
+    },
+    {
+     "id": "conservative-party",
+     "name": {
+      "en": "Conservative Party",
+      "nb": "Høyre",
+      "nn": "Høgre"
+     },
+     "seats": 28,
+     "bloc": "centre-right",
+     "color": "#87add7"
+    },
+    {
+     "id": "christian-democratic-party",
+     "name": {
+      "en": "Christian Democratic Party",
+      "nb": "Kristelig Folkeparti",
+      "nn": "Kristeleg Folkeparti"
+     },
+     "seats": 14,
+     "bloc": "centre-right",
+     "color": "#FDED34"
+    },
+    {
+     "id": "liberal-party",
+     "name": {
+      "en": "Liberal Party",
+      "nb": "Venstre",
+      "nn": "Venstre"
+     },
+     "seats": 11,
+     "bloc": "centre",
+     "color": "#006666"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "nb": "Senterpartiet",
+      "nn": "Senterpartiet"
+     },
+     "seats": 11,
+     "bloc": "centre",
+     "color": "#00843D"
+    },
+    {
+     "id": "centrists-liberals",
+     "name": {
+      "en": "Centrists–Liberals"
+     },
+     "seats": 8,
+     "bloc": "centre"
+    },
+    {
+     "id": "socialist-people-s-party",
+     "name": {
+      "en": "Socialist People's Party",
+      "nb": "Sosialistisk Folkeparti",
+      "nn": "Sosialistisk Folkeparti"
+     },
+     "seats": 2,
+     "bloc": "left",
+     "color": "#dc0028"
+    },
+    {
+     "id": "christians-conservatives",
+     "name": {
+      "en": "Christians–Conservatives"
+     },
+     "seats": 2,
+     "bloc": "centre-right"
+    }
+   ]
+  },
+  {
+   "term": "1965–1969",
+   "year": 1965,
+   "pm": "per-borten",
+   "seats": 150,
+   "results": [
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nb": "Arbeiderpartiet",
+      "nn": "Arbeidarpartiet"
+     },
+     "seats": 68,
+     "bloc": "centre-left",
+     "color": "#E11926"
+    },
+    {
+     "id": "conservative-party",
+     "name": {
+      "en": "Conservative Party",
+      "nb": "Høyre",
+      "nn": "Høgre"
+     },
+     "seats": 30,
+     "bloc": "centre-right",
+     "color": "#87add7"
+    },
+    {
+     "id": "liberal-party",
+     "name": {
+      "en": "Liberal Party",
+      "nb": "Venstre",
+      "nn": "Venstre"
+     },
+     "seats": 18,
+     "bloc": "centre",
+     "color": "#006666"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "nb": "Senterpartiet",
+      "nn": "Senterpartiet"
+     },
+     "seats": 17,
+     "bloc": "centre",
+     "color": "#00843D"
+    },
+    {
+     "id": "christian-democratic-party",
+     "name": {
+      "en": "Christian Democratic Party",
+      "nb": "Kristelig Folkeparti",
+      "nn": "Kristeleg Folkeparti"
+     },
+     "seats": 12,
+     "bloc": "centre-right",
+     "color": "#FDED34"
+    },
+    {
+     "id": "socialist-people-s-party",
+     "name": {
+      "en": "Socialist People's Party",
+      "nb": "Sosialistisk Folkeparti",
+      "nn": "Sosialistisk Folkeparti"
+     },
+     "seats": 2,
+     "bloc": "left",
+     "color": "#dc0028"
+    },
+    {
+     "id": "christians-conservatives",
+     "name": {
+      "en": "Christians–Conservatives"
+     },
+     "seats": 2,
+     "bloc": "centre-right"
+    },
+    {
+     "id": "centrists-liberals",
+     "name": {
+      "en": "Centrists–Liberals"
+     },
+     "seats": 1,
+     "bloc": "centre"
+    }
+   ]
+  },
+  {
+   "term": "1969–1973",
+   "year": 1969,
+   "pm": "per-borten",
+   "seats": 150,
+   "results": [
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nb": "Arbeiderpartiet",
+      "nn": "Arbeidarpartiet"
+     },
+     "seats": 74,
+     "bloc": "centre-left",
+     "color": "#E11926"
+    },
+    {
+     "id": "conservative-party",
+     "name": {
+      "en": "Conservative Party",
+      "nb": "Høyre",
+      "nn": "Høgre"
+     },
+     "seats": 28,
+     "bloc": "centre-right",
+     "color": "#87add7"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "nb": "Senterpartiet",
+      "nn": "Senterpartiet"
+     },
+     "seats": 17,
+     "bloc": "centre",
+     "color": "#00843D"
+    },
+    {
+     "id": "liberal-party",
+     "name": {
+      "en": "Liberal Party",
+      "nb": "Venstre",
+      "nn": "Venstre"
+     },
+     "seats": 13,
+     "bloc": "centre",
+     "color": "#006666"
+    },
+    {
+     "id": "christian-democratic-party",
+     "name": {
+      "en": "Christian Democratic Party",
+      "nb": "Kristelig Folkeparti",
+      "nn": "Kristeleg Folkeparti"
+     },
+     "seats": 12,
+     "bloc": "centre-right",
+     "color": "#FDED34"
+    },
+    {
+     "id": "centrists-christians",
+     "name": {
+      "en": "Centrists–Christians"
+     },
+     "seats": 4,
+     "bloc": "centre-right"
+    },
+    {
+     "id": "christians-conservatives",
+     "name": {
+      "en": "Christians–Conservatives"
+     },
+     "seats": 2,
+     "bloc": "centre-right"
+    }
+   ]
+  },
+  {
+   "term": "1969–1973",
+   "year": 1971,
+   "pm": "trygve-bratteli",
+   "seats": 150,
+   "results": [
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nb": "Arbeiderpartiet",
+      "nn": "Arbeidarpartiet"
+     },
+     "seats": 74,
+     "bloc": "centre-left",
+     "color": "#E11926"
+    },
+    {
+     "id": "conservative-party",
+     "name": {
+      "en": "Conservative Party",
+      "nb": "Høyre",
+      "nn": "Høgre"
+     },
+     "seats": 28,
+     "bloc": "centre-right",
+     "color": "#87add7"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "nb": "Senterpartiet",
+      "nn": "Senterpartiet"
+     },
+     "seats": 17,
+     "bloc": "centre",
+     "color": "#00843D"
+    },
+    {
+     "id": "liberal-party",
+     "name": {
+      "en": "Liberal Party",
+      "nb": "Venstre",
+      "nn": "Venstre"
+     },
+     "seats": 13,
+     "bloc": "centre",
+     "color": "#006666"
+    },
+    {
+     "id": "christian-democratic-party",
+     "name": {
+      "en": "Christian Democratic Party",
+      "nb": "Kristelig Folkeparti",
+      "nn": "Kristeleg Folkeparti"
+     },
+     "seats": 12,
+     "bloc": "centre-right",
+     "color": "#FDED34"
+    },
+    {
+     "id": "centrists-christians",
+     "name": {
+      "en": "Centrists–Christians"
+     },
+     "seats": 4,
+     "bloc": "centre-right"
+    },
+    {
+     "id": "christians-conservatives",
+     "name": {
+      "en": "Christians–Conservatives"
+     },
+     "seats": 2,
+     "bloc": "centre-right"
+    }
+   ]
+  },
+  {
+   "term": "1969–1973",
+   "year": 1972,
+   "pm": "lars-korvald",
+   "seats": 150,
+   "results": [
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nb": "Arbeiderpartiet",
+      "nn": "Arbeidarpartiet"
+     },
+     "seats": 74,
+     "bloc": "centre-left",
+     "color": "#E11926"
+    },
+    {
+     "id": "conservative-party",
+     "name": {
+      "en": "Conservative Party",
+      "nb": "Høyre",
+      "nn": "Høgre"
+     },
+     "seats": 28,
+     "bloc": "centre-right",
+     "color": "#87add7"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "nb": "Senterpartiet",
+      "nn": "Senterpartiet"
+     },
+     "seats": 17,
+     "bloc": "centre",
+     "color": "#00843D"
+    },
+    {
+     "id": "liberal-party",
+     "name": {
+      "en": "Liberal Party",
+      "nb": "Venstre",
+      "nn": "Venstre"
+     },
+     "seats": 13,
+     "bloc": "centre",
+     "color": "#006666"
+    },
+    {
+     "id": "christian-democratic-party",
+     "name": {
+      "en": "Christian Democratic Party",
+      "nb": "Kristelig Folkeparti",
+      "nn": "Kristeleg Folkeparti"
+     },
+     "seats": 12,
+     "bloc": "centre-right",
+     "color": "#FDED34"
+    },
+    {
+     "id": "centrists-christians",
+     "name": {
+      "en": "Centrists–Christians"
+     },
+     "seats": 4,
+     "bloc": "centre-right"
+    },
+    {
+     "id": "christians-conservatives",
+     "name": {
+      "en": "Christians–Conservatives"
+     },
+     "seats": 2,
+     "bloc": "centre-right"
+    }
+   ]
+  },
+  {
+   "term": "1973–1977",
+   "year": 1973,
+   "pm": "trygve-bratteli",
+   "seats": 155,
+   "results": [
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nb": "Arbeiderpartiet",
+      "nn": "Arbeidarpartiet"
+     },
+     "seats": 62,
+     "bloc": "centre-left",
+     "color": "#E11926"
+    },
+    {
+     "id": "conservative-party",
+     "name": {
+      "en": "Conservative Party",
+      "nb": "Høyre",
+      "nn": "Høgre"
+     },
+     "seats": 29,
+     "bloc": "centre-right",
+     "color": "#87add7"
+    },
+    {
+     "id": "christian-democratic-party",
+     "name": {
+      "en": "Christian Democratic Party",
+      "nb": "Kristelig Folkeparti",
+      "nn": "Kristeleg Folkeparti"
+     },
+     "seats": 19,
+     "bloc": "centre-right",
+     "color": "#FDED34"
+    },
+    {
+     "id": "socialist-left-party",
+     "name": {
+      "en": "Socialist Left Party",
+      "nb": "Sosialistisk Venstreparti",
+      "nn": "Sosialistisk Venstreparti"
+     },
+     "seats": 16,
+     "bloc": "left",
+     "color": "#B5317C"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "nb": "Senterpartiet",
+      "nn": "Senterpartiet"
+     },
+     "seats": 13,
+     "bloc": "centre",
+     "color": "#00843D"
+    },
+    {
+     "id": "centrists-liberals",
+     "name": {
+      "en": "Centrists–Liberals"
+     },
+     "seats": 7,
+     "bloc": "centre"
+    },
+    {
+     "id": "progress-party",
+     "name": {
+      "en": "Progress Party",
+      "nb": "Fremskrittspartiet",
+      "nn": "Framstegspartiet"
+     },
+     "seats": 4,
+     "bloc": "right",
+     "color": "#004F80"
+    },
+    {
+     "id": "centrists-liberals-christians",
+     "name": {
+      "en": "Centrists–Liberals–Christians"
+     },
+     "seats": 3,
+     "bloc": "centre"
+    },
+    {
+     "id": "liberal-people-s-party",
+     "name": {
+      "en": "Liberal People's Party",
+      "nb": "Det Liberale Folkepartiet",
+      "nn": "Det Liberale Folkepartiet"
+     },
+     "seats": 1,
+     "bloc": "centre-left"
+    },
+    {
+     "id": "liberal-party",
+     "name": {
+      "en": "Liberal Party",
+      "nb": "Venstre",
+      "nn": "Venstre"
+     },
+     "seats": 1,
+     "bloc": "centre",
+     "color": "#006666"
+    }
+   ]
+  },
+  {
+   "term": "1973–1977",
+   "year": 1976,
+   "pm": "odvar-nordli",
+   "seats": 155,
+   "results": [
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nb": "Arbeiderpartiet",
+      "nn": "Arbeidarpartiet"
+     },
+     "seats": 62,
+     "bloc": "centre-left",
+     "color": "#E11926"
+    },
+    {
+     "id": "conservative-party",
+     "name": {
+      "en": "Conservative Party",
+      "nb": "Høyre",
+      "nn": "Høgre"
+     },
+     "seats": 29,
+     "bloc": "centre-right",
+     "color": "#87add7"
+    },
+    {
+     "id": "christian-democratic-party",
+     "name": {
+      "en": "Christian Democratic Party",
+      "nb": "Kristelig Folkeparti",
+      "nn": "Kristeleg Folkeparti"
+     },
+     "seats": 19,
+     "bloc": "centre-right",
+     "color": "#FDED34"
+    },
+    {
+     "id": "socialist-left-party",
+     "name": {
+      "en": "Socialist Left Party",
+      "nb": "Sosialistisk Venstreparti",
+      "nn": "Sosialistisk Venstreparti"
+     },
+     "seats": 16,
+     "bloc": "left",
+     "color": "#B5317C"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "nb": "Senterpartiet",
+      "nn": "Senterpartiet"
+     },
+     "seats": 13,
+     "bloc": "centre",
+     "color": "#00843D"
+    },
+    {
+     "id": "centrists-liberals",
+     "name": {
+      "en": "Centrists–Liberals"
+     },
+     "seats": 7,
+     "bloc": "centre"
+    },
+    {
+     "id": "progress-party",
+     "name": {
+      "en": "Progress Party",
+      "nb": "Fremskrittspartiet",
+      "nn": "Framstegspartiet"
+     },
+     "seats": 4,
+     "bloc": "right",
+     "color": "#004F80"
+    },
+    {
+     "id": "centrists-liberals-christians",
+     "name": {
+      "en": "Centrists–Liberals–Christians"
+     },
+     "seats": 3,
+     "bloc": "centre"
+    },
+    {
+     "id": "liberal-people-s-party",
+     "name": {
+      "en": "Liberal People's Party",
+      "nb": "Det Liberale Folkepartiet",
+      "nn": "Det Liberale Folkepartiet"
+     },
+     "seats": 1,
+     "bloc": "centre-left"
+    },
+    {
+     "id": "liberal-party",
+     "name": {
+      "en": "Liberal Party",
+      "nb": "Venstre",
+      "nn": "Venstre"
+     },
+     "seats": 1,
+     "bloc": "centre",
+     "color": "#006666"
+    }
+   ]
+  },
+  {
+   "term": "1977–1981",
+   "year": 1977,
+   "pm": "odvar-nordli",
+   "seats": 155,
+   "results": [
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nb": "Arbeiderpartiet",
+      "nn": "Arbeidarpartiet"
+     },
+     "seats": 76,
+     "bloc": "centre-left",
+     "color": "#E11926"
+    },
+    {
+     "id": "conservative-party",
+     "name": {
+      "en": "Conservative Party",
+      "nb": "Høyre",
+      "nn": "Høgre"
+     },
+     "seats": 40,
+     "bloc": "centre-right",
+     "color": "#87add7"
+    },
+    {
+     "id": "christian-democratic-party",
+     "name": {
+      "en": "Christian Democratic Party",
+      "nb": "Kristelig Folkeparti",
+      "nn": "Kristeleg Folkeparti"
+     },
+     "seats": 18,
+     "bloc": "centre-right",
+     "color": "#FDED34"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "nb": "Senterpartiet",
+      "nn": "Senterpartiet"
+     },
+     "seats": 11,
+     "bloc": "centre",
+     "color": "#00843D"
+    },
+    {
+     "id": "non-socialist-joint-lists",
+     "name": {
+      "en": "Non-socialist joint lists"
+     },
+     "seats": 7,
+     "bloc": "centre-right"
+    },
+    {
+     "id": "socialist-left-party",
+     "name": {
+      "en": "Socialist Left Party",
+      "nb": "Sosialistisk Venstreparti",
+      "nn": "Sosialistisk Venstreparti"
+     },
+     "seats": 2,
+     "bloc": "left",
+     "color": "#B5317C"
+    },
+    {
+     "id": "liberal-party",
+     "name": {
+      "en": "Liberal Party",
+      "nb": "Venstre",
+      "nn": "Venstre"
+     },
+     "seats": 1,
+     "bloc": "centre",
+     "color": "#006666"
+    }
+   ]
+  },
+  {
+   "term": "1977–1981",
+   "year": 1981,
+   "pm": "gro-harlem-brundtland",
+   "seats": 155,
+   "results": [
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nb": "Arbeiderpartiet",
+      "nn": "Arbeidarpartiet"
+     },
+     "seats": 76,
+     "bloc": "centre-left",
+     "color": "#E11926"
+    },
+    {
+     "id": "conservative-party",
+     "name": {
+      "en": "Conservative Party",
+      "nb": "Høyre",
+      "nn": "Høgre"
+     },
+     "seats": 40,
+     "bloc": "centre-right",
+     "color": "#87add7"
+    },
+    {
+     "id": "christian-democratic-party",
+     "name": {
+      "en": "Christian Democratic Party",
+      "nb": "Kristelig Folkeparti",
+      "nn": "Kristeleg Folkeparti"
+     },
+     "seats": 18,
+     "bloc": "centre-right",
+     "color": "#FDED34"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "nb": "Senterpartiet",
+      "nn": "Senterpartiet"
+     },
+     "seats": 11,
+     "bloc": "centre",
+     "color": "#00843D"
+    },
+    {
+     "id": "non-socialist-joint-lists",
+     "name": {
+      "en": "Non-socialist joint lists"
+     },
+     "seats": 7,
+     "bloc": "centre-right"
+    },
+    {
+     "id": "socialist-left-party",
+     "name": {
+      "en": "Socialist Left Party",
+      "nb": "Sosialistisk Venstreparti",
+      "nn": "Sosialistisk Venstreparti"
+     },
+     "seats": 2,
+     "bloc": "left",
+     "color": "#B5317C"
+    },
+    {
+     "id": "liberal-party",
+     "name": {
+      "en": "Liberal Party",
+      "nb": "Venstre",
+      "nn": "Venstre"
+     },
+     "seats": 1,
+     "bloc": "centre",
+     "color": "#006666"
+    }
+   ]
+  },
+  {
+   "term": "1981–1985",
+   "year": 1981,
+   "pm": "kare-willoch",
+   "seats": 155,
+   "results": [
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Norwegian Labour Party",
+      "nb": "Arbeiderpartiet",
+      "nn": "Arbeidarpartiet"
+     },
+     "seats": 66,
+     "bloc": "centre-left",
+     "color": "#E11926"
+    },
+    {
+     "id": "conservative-party",
+     "name": {
+      "en": "Conservative Party",
+      "nb": "Høyre",
+      "nn": "Høgre"
+     },
+     "seats": 53,
+     "bloc": "centre-right",
+     "color": "#87add7"
+    },
+    {
+     "id": "christian-democratic-party",
+     "name": {
+      "en": "Christian Democratic Party",
+      "nb": "Kristelig Folkeparti",
+      "nn": "Kristeleg Folkeparti"
+     },
+     "seats": 15,
+     "bloc": "centre-right",
+     "color": "#FDED34"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "nb": "Senterpartiet",
+      "nn": "Senterpartiet"
+     },
+     "seats": 11,
+     "bloc": "centre",
+     "color": "#00843D"
+    },
+    {
+     "id": "socialist-left-party",
+     "name": {
+      "en": "Socialist Left Party",
+      "nb": "Sosialistisk Venstreparti",
+      "nn": "Sosialistisk Venstreparti"
+     },
+     "seats": 4,
+     "bloc": "left",
+     "color": "#B5317C"
+    },
+    {
+     "id": "progress-party",
+     "name": {
+      "en": "Progress Party",
+      "nb": "Fremskrittspartiet",
+      "nn": "Framstegspartiet"
+     },
+     "seats": 4,
+     "bloc": "right",
+     "color": "#004F80"
+    },
+    {
+     "id": "liberal-party",
+     "name": {
+      "en": "Liberal Party of Norway",
+      "nb": "Venstre",
+      "nn": "Venstre"
+     },
+     "seats": 2,
+     "bloc": "centre",
+     "color": "#006666"
+    }
+   ]
+  },
+  {
+   "term": "1985–1989",
+   "year": 1985,
+   "pm": "kare-willoch",
+   "seats": 157,
+   "results": [
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nb": "Arbeiderpartiet",
+      "nn": "Arbeidarpartiet"
+     },
+     "seats": 71,
+     "bloc": "centre-left",
+     "color": "#E11926"
+    },
+    {
+     "id": "conservative-party",
+     "name": {
+      "en": "Conservative Party",
+      "nb": "Høyre",
+      "nn": "Høgre"
+     },
+     "seats": 50,
+     "bloc": "centre-right",
+     "color": "#87add7"
+    },
+    {
+     "id": "christian-democratic-party",
+     "name": {
+      "en": "Christian Democratic Party",
+      "nb": "Kristelig Folkeparti",
+      "nn": "Kristeleg Folkeparti"
+     },
+     "seats": 16,
+     "bloc": "centre-right",
+     "color": "#FDED34"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "nb": "Senterpartiet",
+      "nn": "Senterpartiet"
+     },
+     "seats": 12,
+     "bloc": "centre",
+     "color": "#00843D"
+    },
+    {
+     "id": "socialist-left-party",
+     "name": {
+      "en": "Socialist Left Party",
+      "nb": "Sosialistisk Venstreparti",
+      "nn": "Sosialistisk Venstreparti"
+     },
+     "seats": 6,
+     "bloc": "left",
+     "color": "#B5317C"
+    },
+    {
+     "id": "progress-party",
+     "name": {
+      "en": "Progress Party",
+      "nb": "Fremskrittspartiet",
+      "nn": "Framstegspartiet"
+     },
+     "seats": 2,
+     "bloc": "right",
+     "color": "#004F80"
+    }
+   ]
+  },
+  {
+   "term": "1985–1989",
+   "year": 1986,
+   "pm": "gro-harlem-brundtland",
+   "seats": 157,
+   "results": [
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nb": "Arbeiderpartiet",
+      "nn": "Arbeidarpartiet"
+     },
+     "seats": 71,
+     "bloc": "centre-left",
+     "color": "#E11926"
+    },
+    {
+     "id": "conservative-party",
+     "name": {
+      "en": "Conservative Party",
+      "nb": "Høyre",
+      "nn": "Høgre"
+     },
+     "seats": 50,
+     "bloc": "centre-right",
+     "color": "#87add7"
+    },
+    {
+     "id": "christian-democratic-party",
+     "name": {
+      "en": "Christian Democratic Party",
+      "nb": "Kristelig Folkeparti",
+      "nn": "Kristeleg Folkeparti"
+     },
+     "seats": 16,
+     "bloc": "centre-right",
+     "color": "#FDED34"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "nb": "Senterpartiet",
+      "nn": "Senterpartiet"
+     },
+     "seats": 12,
+     "bloc": "centre",
+     "color": "#00843D"
+    },
+    {
+     "id": "socialist-left-party",
+     "name": {
+      "en": "Socialist Left Party",
+      "nb": "Sosialistisk Venstreparti",
+      "nn": "Sosialistisk Venstreparti"
+     },
+     "seats": 6,
+     "bloc": "left",
+     "color": "#B5317C"
+    },
+    {
+     "id": "progress-party",
+     "name": {
+      "en": "Progress Party",
+      "nb": "Fremskrittspartiet",
+      "nn": "Framstegspartiet"
+     },
+     "seats": 2,
+     "bloc": "right",
+     "color": "#004F80"
+    }
+   ]
+  },
+  {
+   "term": "1989–1993",
+   "year": 1989,
+   "pm": "jan-p-syse",
+   "seats": 165,
+   "results": [
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nb": "Arbeiderpartiet",
+      "nn": "Arbeidarpartiet"
+     },
+     "seats": 63,
+     "bloc": "centre-left",
+     "color": "#E11926"
+    },
+    {
+     "id": "conservative-party",
+     "name": {
+      "en": "Conservative Party",
+      "nb": "Høyre",
+      "nn": "Høgre"
+     },
+     "seats": 37,
+     "bloc": "centre-right",
+     "color": "#87add7"
+    },
+    {
+     "id": "progress-party",
+     "name": {
+      "en": "Progress Party",
+      "nb": "Fremskrittspartiet",
+      "nn": "Framstegspartiet"
+     },
+     "seats": 22,
+     "bloc": "right",
+     "color": "#004F80"
+    },
+    {
+     "id": "socialist-left-party",
+     "name": {
+      "en": "Socialist Left Party",
+      "nb": "Sosialistisk Venstreparti",
+      "nn": "Sosialistisk Venstreparti"
+     },
+     "seats": 17,
+     "bloc": "left",
+     "color": "#B5317C"
+    },
+    {
+     "id": "christian-democratic-party",
+     "name": {
+      "en": "Christian Democratic Party",
+      "nb": "Kristelig Folkeparti",
+      "nn": "Kristeleg Folkeparti"
+     },
+     "seats": 14,
+     "bloc": "centre-right",
+     "color": "#FDED34"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "nb": "Senterpartiet",
+      "nn": "Senterpartiet"
+     },
+     "seats": 11,
+     "bloc": "centre",
+     "color": "#00843D"
+    },
+    {
+     "id": "future-for-finnmark",
+     "name": {
+      "en": "Future for Finnmark",
+      "nb": "Framtid for Finnmark",
+      "nn": "Framtid for Finnmark"
+     },
+     "seats": 1,
+     "bloc": "centre-left",
+     "color": "#FFB4CD"
+    }
+   ]
+  },
+  {
+   "term": "1989–1993",
+   "year": 1990,
+   "pm": "gro-harlem-brundtland",
+   "seats": 165,
+   "results": [
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nb": "Arbeiderpartiet",
+      "nn": "Arbeidarpartiet"
+     },
+     "seats": 63,
+     "bloc": "centre-left",
+     "color": "#E11926"
+    },
+    {
+     "id": "conservative-party",
+     "name": {
+      "en": "Conservative Party",
+      "nb": "Høyre",
+      "nn": "Høgre"
+     },
+     "seats": 37,
+     "bloc": "centre-right",
+     "color": "#87add7"
+    },
+    {
+     "id": "progress-party",
+     "name": {
+      "en": "Progress Party",
+      "nb": "Fremskrittspartiet",
+      "nn": "Framstegspartiet"
+     },
+     "seats": 22,
+     "bloc": "right",
+     "color": "#004F80"
+    },
+    {
+     "id": "socialist-left-party",
+     "name": {
+      "en": "Socialist Left Party",
+      "nb": "Sosialistisk Venstreparti",
+      "nn": "Sosialistisk Venstreparti"
+     },
+     "seats": 17,
+     "bloc": "left",
+     "color": "#B5317C"
+    },
+    {
+     "id": "christian-democratic-party",
+     "name": {
+      "en": "Christian Democratic Party",
+      "nb": "Kristelig Folkeparti",
+      "nn": "Kristeleg Folkeparti"
+     },
+     "seats": 14,
+     "bloc": "centre-right",
+     "color": "#FDED34"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "nb": "Senterpartiet",
+      "nn": "Senterpartiet"
+     },
+     "seats": 11,
+     "bloc": "centre",
+     "color": "#00843D"
+    },
+    {
+     "id": "future-for-finnmark",
+     "name": {
+      "en": "Future for Finnmark",
+      "nb": "Framtid for Finnmark",
+      "nn": "Framtid for Finnmark"
+     },
+     "seats": 1,
+     "bloc": "centre-left",
+     "color": "#FFB4CD"
+    }
+   ]
+  },
+  {
+   "term": "1993–1997",
+   "year": 1993,
+   "pm": "gro-harlem-brundtland",
+   "seats": 165,
+   "results": [
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nb": "Arbeiderpartiet",
+      "nn": "Arbeidarpartiet"
+     },
+     "seats": 67,
+     "bloc": "centre-left",
+     "color": "#E11926"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "nb": "Senterpartiet",
+      "nn": "Senterpartiet"
+     },
+     "seats": 32,
+     "bloc": "centre",
+     "color": "#00843D"
+    },
+    {
+     "id": "conservative-party",
+     "name": {
+      "en": "Conservative Party",
+      "nb": "Høyre",
+      "nn": "Høgre"
+     },
+     "seats": 28,
+     "bloc": "centre-right",
+     "color": "#87add7"
+    },
+    {
+     "id": "socialist-left-party",
+     "name": {
+      "en": "Socialist Left Party",
+      "nb": "Sosialistisk Venstreparti",
+      "nn": "Sosialistisk Venstreparti"
+     },
+     "seats": 13,
+     "bloc": "left",
+     "color": "#B5317C"
+    },
+    {
+     "id": "christian-democratic-party",
+     "name": {
+      "en": "Christian Democratic Party",
+      "nb": "Kristelig Folkeparti",
+      "nn": "Kristeleg Folkeparti"
+     },
+     "seats": 13,
+     "bloc": "centre-right",
+     "color": "#FDED34"
+    },
+    {
+     "id": "progress-party",
+     "name": {
+      "en": "Progress Party",
+      "nb": "Fremskrittspartiet",
+      "nn": "Framstegspartiet"
+     },
+     "seats": 10,
+     "bloc": "right",
+     "color": "#004F80"
+    },
+    {
+     "id": "liberal-party",
+     "name": {
+      "en": "Liberal Party",
+      "nb": "Venstre",
+      "nn": "Venstre"
+     },
+     "seats": 1,
+     "bloc": "centre",
+     "color": "#006666"
+    },
+    {
+     "id": "red-electoral-alliance",
+     "name": {
+      "en": "Red Electoral Alliance",
+      "nb": "Rød Valgallianse",
+      "nn": "Raud Valallianse"
+     },
+     "seats": 1,
+     "bloc": "far-left",
+     "color": "#d4001a"
+    }
+   ]
+  },
+  {
+   "term": "1993–1997",
+   "year": 1996,
+   "pm": "thorbj-rn-jagland",
+   "seats": 165,
+   "results": [
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nb": "Arbeiderpartiet",
+      "nn": "Arbeidarpartiet"
+     },
+     "seats": 67,
+     "bloc": "centre-left",
+     "color": "#E11926"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "nb": "Senterpartiet",
+      "nn": "Senterpartiet"
+     },
+     "seats": 32,
+     "bloc": "centre",
+     "color": "#00843D"
+    },
+    {
+     "id": "conservative-party",
+     "name": {
+      "en": "Conservative Party",
+      "nb": "Høyre",
+      "nn": "Høgre"
+     },
+     "seats": 28,
+     "bloc": "centre-right",
+     "color": "#87add7"
+    },
+    {
+     "id": "socialist-left-party",
+     "name": {
+      "en": "Socialist Left Party",
+      "nb": "Sosialistisk Venstreparti",
+      "nn": "Sosialistisk Venstreparti"
+     },
+     "seats": 13,
+     "bloc": "left",
+     "color": "#B5317C"
+    },
+    {
+     "id": "christian-democratic-party",
+     "name": {
+      "en": "Christian Democratic Party",
+      "nb": "Kristelig Folkeparti",
+      "nn": "Kristeleg Folkeparti"
+     },
+     "seats": 13,
+     "bloc": "centre-right",
+     "color": "#FDED34"
+    },
+    {
+     "id": "progress-party",
+     "name": {
+      "en": "Progress Party",
+      "nb": "Fremskrittspartiet",
+      "nn": "Framstegspartiet"
+     },
+     "seats": 10,
+     "bloc": "right",
+     "color": "#004F80"
+    },
+    {
+     "id": "liberal-party",
+     "name": {
+      "en": "Liberal Party",
+      "nb": "Venstre",
+      "nn": "Venstre"
+     },
+     "seats": 1,
+     "bloc": "centre",
+     "color": "#006666"
+    },
+    {
+     "id": "red-electoral-alliance",
+     "name": {
+      "en": "Red Electoral Alliance",
+      "nb": "Rød Valgallianse",
+      "nn": "Raud Valallianse"
+     },
+     "seats": 1,
+     "bloc": "far-left",
+     "color": "#d4001a"
+    }
+   ]
+  },
+  {
+   "term": "1997–2001",
+   "year": 1997,
+   "pm": "kjell-magne-bondevik",
+   "seats": 165,
+   "results": [
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nb": "Arbeiderpartiet",
+      "nn": "Arbeidarpartiet"
+     },
+     "seats": 65,
+     "bloc": "centre-left",
+     "color": "#E11926"
+    },
+    {
+     "id": "progress-party",
+     "name": {
+      "en": "Progress Party",
+      "nb": "Fremskrittspartiet",
+      "nn": "Framstegspartiet"
+     },
+     "seats": 25,
+     "bloc": "right",
+     "color": "#004F80"
+    },
+    {
+     "id": "christian-democratic-party",
+     "name": {
+      "en": "Christian Democratic Party",
+      "nb": "Kristelig Folkeparti",
+      "nn": "Kristeleg Folkeparti"
+     },
+     "seats": 25,
+     "bloc": "centre-right",
+     "color": "#FDED34"
+    },
+    {
+     "id": "conservative-party",
+     "name": {
+      "en": "Conservative Party",
+      "nb": "Høyre",
+      "nn": "Høgre"
+     },
+     "seats": 23,
+     "bloc": "centre-right",
+     "color": "#87add7"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "nb": "Senterpartiet",
+      "nn": "Senterpartiet"
+     },
+     "seats": 11,
+     "bloc": "centre",
+     "color": "#00843D"
+    },
+    {
+     "id": "socialist-left-party",
+     "name": {
+      "en": "Socialist Left Party",
+      "nb": "Sosialistisk Venstreparti",
+      "nn": "Sosialistisk Venstreparti"
+     },
+     "seats": 9,
+     "bloc": "left",
+     "color": "#B5317C"
+    },
+    {
+     "id": "liberal-party",
+     "name": {
+      "en": "Liberal Party",
+      "nb": "Venstre",
+      "nn": "Venstre"
+     },
+     "seats": 6,
+     "bloc": "centre",
+     "color": "#006666"
+    },
+    {
+     "id": "non-partisan-deputies",
+     "name": {
+      "en": "Non-Partisan Deputies",
+      "nb": "Tverrpolitisk Folkevalgte"
+     },
+     "seats": 1,
+     "bloc": "other",
+     "color": "#AAAAAA"
+    }
+   ]
+  },
+  {
+   "term": "1997–2001",
+   "year": 2000,
+   "pm": "jens-stoltenberg",
+   "seats": 165,
+   "results": [
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nb": "Arbeiderpartiet",
+      "nn": "Arbeidarpartiet"
+     },
+     "seats": 65,
+     "bloc": "centre-left",
+     "color": "#E11926"
+    },
+    {
+     "id": "progress-party",
+     "name": {
+      "en": "Progress Party",
+      "nb": "Fremskrittspartiet",
+      "nn": "Framstegspartiet"
+     },
+     "seats": 25,
+     "bloc": "right",
+     "color": "#004F80"
+    },
+    {
+     "id": "christian-democratic-party",
+     "name": {
+      "en": "Christian Democratic Party",
+      "nb": "Kristelig Folkeparti",
+      "nn": "Kristeleg Folkeparti"
+     },
+     "seats": 25,
+     "bloc": "centre-right",
+     "color": "#FDED34"
+    },
+    {
+     "id": "conservative-party",
+     "name": {
+      "en": "Conservative Party",
+      "nb": "Høyre",
+      "nn": "Høgre"
+     },
+     "seats": 23,
+     "bloc": "centre-right",
+     "color": "#87add7"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "nb": "Senterpartiet",
+      "nn": "Senterpartiet"
+     },
+     "seats": 11,
+     "bloc": "centre",
+     "color": "#00843D"
+    },
+    {
+     "id": "socialist-left-party",
+     "name": {
+      "en": "Socialist Left Party",
+      "nb": "Sosialistisk Venstreparti",
+      "nn": "Sosialistisk Venstreparti"
+     },
+     "seats": 9,
+     "bloc": "left",
+     "color": "#B5317C"
+    },
+    {
+     "id": "liberal-party",
+     "name": {
+      "en": "Liberal Party",
+      "nb": "Venstre",
+      "nn": "Venstre"
+     },
+     "seats": 6,
+     "bloc": "centre",
+     "color": "#006666"
+    },
+    {
+     "id": "non-partisan-deputies",
+     "name": {
+      "en": "Non-Partisan Deputies",
+      "nb": "Tverrpolitisk Folkevalgte"
+     },
+     "seats": 1,
+     "bloc": "other",
+     "color": "#AAAAAA"
+    }
+   ]
+  },
+  {
+   "term": "2001–2005",
+   "year": 2001,
+   "pm": "kjell-magne-bondevik",
+   "seats": 165,
+   "results": [
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nb": "Arbeiderpartiet",
+      "nn": "Arbeidarpartiet"
+     },
+     "seats": 43,
+     "bloc": "centre-left",
+     "color": "#E11926"
+    },
+    {
+     "id": "conservative-party",
+     "name": {
+      "en": "Conservative Party",
+      "nb": "Høyre",
+      "nn": "Høgre"
+     },
+     "seats": 38,
+     "bloc": "centre-right",
+     "color": "#87add7"
+    },
+    {
+     "id": "progress-party",
+     "name": {
+      "en": "Progress Party",
+      "nb": "Fremskrittspartiet",
+      "nn": "Framstegspartiet"
+     },
+     "seats": 26,
+     "bloc": "right",
+     "color": "#004F80"
+    },
+    {
+     "id": "socialist-left-party",
+     "name": {
+      "en": "Socialist Left Party",
+      "nb": "Sosialistisk Venstreparti",
+      "nn": "Sosialistisk Venstreparti"
+     },
+     "seats": 23,
+     "bloc": "left",
+     "color": "#B5317C"
+    },
+    {
+     "id": "christian-democratic-party",
+     "name": {
+      "en": "Christian Democratic Party",
+      "nb": "Kristelig Folkeparti",
+      "nn": "Kristeleg Folkeparti"
+     },
+     "seats": 22,
+     "bloc": "centre-right",
+     "color": "#FDED34"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "nb": "Senterpartiet",
+      "nn": "Senterpartiet"
+     },
+     "seats": 10,
+     "bloc": "centre",
+     "color": "#00843D"
+    },
+    {
+     "id": "liberal-party",
+     "name": {
+      "en": "Liberal Party",
+      "nb": "Venstre",
+      "nn": "Venstre"
+     },
+     "seats": 2,
+     "bloc": "centre",
+     "color": "#006666"
+    },
+    {
+     "id": "coastal-party",
+     "name": {
+      "en": "Coastal Party",
+      "nb": "Kystpartiet",
+      "nn": "Kystpartiet"
+     },
+     "seats": 1,
+     "bloc": "centre",
+     "color": "#00ad8e"
+    }
+   ]
+  },
+  {
+   "term": "2005–2009",
+   "year": 2005,
+   "pm": "jens-stoltenberg",
+   "seats": 169,
+   "results": [
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nb": "Arbeiderpartiet",
+      "nn": "Arbeidarpartiet"
+     },
+     "seats": 61,
+     "bloc": "centre-left",
+     "color": "#E11926"
+    },
+    {
+     "id": "progress-party",
+     "name": {
+      "en": "Progress Party",
+      "nb": "Fremskrittspartiet",
+      "nn": "Framstegspartiet"
+     },
+     "seats": 38,
+     "bloc": "right",
+     "color": "#004F80"
+    },
+    {
+     "id": "conservative-party",
+     "name": {
+      "en": "Conservative Party",
+      "nb": "Høyre",
+      "nn": "Høgre"
+     },
+     "seats": 23,
+     "bloc": "centre-right",
+     "color": "#87add7"
+    },
+    {
+     "id": "socialist-left-party",
+     "name": {
+      "en": "Socialist Left Party",
+      "nb": "Sosialistisk Venstreparti",
+      "nn": "Sosialistisk Venstreparti"
+     },
+     "seats": 15,
+     "bloc": "left",
+     "color": "#B5317C"
+    },
+    {
+     "id": "christian-democratic-party",
+     "name": {
+      "en": "Christian Democratic Party",
+      "nb": "Kristelig Folkeparti",
+      "nn": "Kristeleg Folkeparti"
+     },
+     "seats": 11,
+     "bloc": "centre-right",
+     "color": "#FDED34"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "nb": "Senterpartiet",
+      "nn": "Senterpartiet"
+     },
+     "seats": 11,
+     "bloc": "centre",
+     "color": "#00843D"
+    },
+    {
+     "id": "liberal-party",
+     "name": {
+      "en": "Liberal Party",
+      "nb": "Venstre",
+      "nn": "Venstre"
+     },
+     "seats": 10,
+     "bloc": "centre",
+     "color": "#006666"
+    }
+   ]
+  },
+  {
+   "term": "2009–2013",
+   "year": 2009,
+   "pm": "jens-stoltenberg",
+   "seats": 169,
+   "results": [
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nb": "Arbeiderpartiet",
+      "nn": "Arbeidarpartiet"
+     },
+     "seats": 64,
+     "bloc": "centre-left",
+     "color": "#E11926"
+    },
+    {
+     "id": "progress-party",
+     "name": {
+      "en": "Progress Party",
+      "nb": "Fremskrittspartiet",
+      "nn": "Framstegspartiet"
+     },
+     "seats": 41,
+     "bloc": "right",
+     "color": "#004F80"
+    },
+    {
+     "id": "conservative-party",
+     "name": {
+      "en": "Conservative Party",
+      "nb": "Høyre",
+      "nn": "Høgre"
+     },
+     "seats": 30,
+     "bloc": "centre-right",
+     "color": "#87add7"
+    },
+    {
+     "id": "socialist-left-party",
+     "name": {
+      "en": "Socialist Left Party",
+      "nb": "Sosialistisk Venstreparti",
+      "nn": "Sosialistisk Venstreparti"
+     },
+     "seats": 11,
+     "bloc": "left",
+     "color": "#B5317C"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "nb": "Senterpartiet",
+      "nn": "Senterpartiet"
+     },
+     "seats": 11,
+     "bloc": "centre",
+     "color": "#00843D"
+    },
+    {
+     "id": "christian-democratic-party",
+     "name": {
+      "en": "Christian Democratic Party",
+      "nb": "Kristelig Folkeparti",
+      "nn": "Kristeleg Folkeparti"
+     },
+     "seats": 10,
+     "bloc": "centre-right",
+     "color": "#FDED34"
+    },
+    {
+     "id": "liberal-party",
+     "name": {
+      "en": "Liberal Party",
+      "nb": "Venstre",
+      "nn": "Venstre"
+     },
+     "seats": 2,
+     "bloc": "centre",
+     "color": "#006666"
+    }
+   ]
+  },
+  {
+   "term": "2013–2017",
+   "year": 2013,
+   "pm": "erna-solberg",
+   "seats": 169,
+   "results": [
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nb": "Arbeiderpartiet",
+      "nn": "Arbeidarpartiet"
+     },
+     "seats": 55,
+     "bloc": "centre-left",
+     "color": "#E11926"
+    },
+    {
+     "id": "conservative-party",
+     "name": {
+      "en": "Conservative Party",
+      "nb": "Høyre",
+      "nn": "Høgre"
+     },
+     "seats": 48,
+     "bloc": "centre-right",
+     "color": "#87add7"
+    },
+    {
+     "id": "progress-party",
+     "name": {
+      "en": "Progress Party",
+      "nb": "Fremskrittspartiet",
+      "nn": "Framstegspartiet"
+     },
+     "seats": 29,
+     "bloc": "right",
+     "color": "#004F80"
+    },
+    {
+     "id": "christian-democratic-party",
+     "name": {
+      "en": "Christian Democratic Party",
+      "nb": "Kristelig Folkeparti",
+      "nn": "Kristeleg Folkeparti"
+     },
+     "seats": 10,
+     "bloc": "centre-right",
+     "color": "#FDED34"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "nb": "Senterpartiet",
+      "nn": "Senterpartiet"
+     },
+     "seats": 10,
+     "bloc": "centre",
+     "color": "#00843D"
+    },
+    {
+     "id": "liberal-party",
+     "name": {
+      "en": "Liberal Party",
+      "nb": "Venstre",
+      "nn": "Venstre"
+     },
+     "seats": 9,
+     "bloc": "centre",
+     "color": "#006666"
+    },
+    {
+     "id": "socialist-left-party",
+     "name": {
+      "en": "Socialist Left Party",
+      "nb": "Sosialistisk Venstreparti",
+      "nn": "Sosialistisk Venstreparti"
+     },
+     "seats": 7,
+     "bloc": "left",
+     "color": "#B5317C"
+    },
+    {
+     "id": "green-party",
+     "name": {
+      "en": "Green Party",
+      "nb": "Miljøpartiet De Grønne",
+      "nn": "Miljøpartiet Dei Grøne"
+     },
+     "seats": 1,
+     "bloc": "centre-left",
+     "color": "#6A9325"
+    }
+   ]
+  },
+  {
+   "term": "2017–2021",
+   "year": 2017,
+   "pm": "erna-solberg",
+   "seats": 169,
+   "results": [
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nb": "Arbeiderpartiet",
+      "nn": "Arbeidarpartiet"
+     },
+     "seats": 49,
+     "bloc": "centre-left",
+     "color": "#E11926"
+    },
+    {
+     "id": "conservative-party",
+     "name": {
+      "en": "Conservative Party",
+      "nb": "Høyre",
+      "nn": "Høgre"
+     },
+     "seats": 45,
+     "bloc": "centre-right",
+     "color": "#87add7"
+    },
+    {
+     "id": "progress-party",
+     "name": {
+      "en": "Progress Party",
+      "nb": "Fremskrittspartiet",
+      "nn": "Framstegspartiet"
+     },
+     "seats": 27,
+     "bloc": "right",
+     "color": "#004F80"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "nb": "Senterpartiet",
+      "nn": "Senterpartiet"
+     },
+     "seats": 19,
+     "bloc": "centre",
+     "color": "#00843D"
+    },
+    {
+     "id": "socialist-left-party",
+     "name": {
+      "en": "Socialist Left Party",
+      "nb": "Sosialistisk Venstreparti",
+      "nn": "Sosialistisk Venstreparti"
+     },
+     "seats": 11,
+     "bloc": "left",
+     "color": "#B5317C"
+    },
+    {
+     "id": "liberal-party",
+     "name": {
+      "en": "Liberal Party",
+      "nb": "Venstre",
+      "nn": "Venstre"
+     },
+     "seats": 8,
+     "bloc": "centre",
+     "color": "#006666"
+    },
+    {
+     "id": "christian-democratic-party",
+     "name": {
+      "en": "Christian Democratic Party",
+      "nb": "Kristelig Folkeparti",
+      "nn": "Kristeleg Folkeparti"
+     },
+     "seats": 8,
+     "bloc": "centre-right",
+     "color": "#FDED34"
+    },
+    {
+     "id": "green-party",
+     "name": {
+      "en": "Green Party",
+      "nb": "Miljøpartiet De Grønne",
+      "nn": "Miljøpartiet Dei Grøne"
+     },
+     "seats": 1,
+     "bloc": "centre-left",
+     "color": "#6A9325"
+    },
+    {
+     "id": "red-party",
+     "name": {
+      "en": "Red Party",
+      "nb": "Rødt",
+      "nn": "Raudt"
+     },
+     "seats": 1,
+     "bloc": "far-left",
+     "color": "#871212"
+    }
+   ]
+  },
+  {
+   "term": "2021–2025",
+   "year": 2021,
+   "pm": "jonas-gahr-st-re",
+   "seats": 169,
+   "results": [
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nb": "Arbeiderpartiet",
+      "nn": "Arbeidarpartiet"
+     },
+     "seats": 48,
+     "bloc": "centre-left",
+     "color": "#E11926"
+    },
+    {
+     "id": "conservative-party",
+     "name": {
+      "en": "Conservative Party",
+      "nb": "Høyre",
+      "nn": "Høgre"
+     },
+     "seats": 36,
+     "bloc": "centre-right",
+     "color": "#87add7"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "nb": "Senterpartiet",
+      "nn": "Senterpartiet"
+     },
+     "seats": 28,
+     "bloc": "centre",
+     "color": "#00843D"
+    },
+    {
+     "id": "progress-party",
+     "name": {
+      "en": "Progress Party",
+      "nb": "Fremskrittspartiet",
+      "nn": "Framstegspartiet"
+     },
+     "seats": 21,
+     "bloc": "right",
+     "color": "#004F80"
+    },
+    {
+     "id": "socialist-left-party",
+     "name": {
+      "en": "Socialist Left Party",
+      "nb": "Sosialistisk Venstreparti",
+      "nn": "Sosialistisk Venstreparti"
+     },
+     "seats": 13,
+     "bloc": "left",
+     "color": "#B5317C"
+    },
+    {
+     "id": "red-party",
+     "name": {
+      "en": "Red Party",
+      "nb": "Rødt",
+      "nn": "Raudt"
+     },
+     "seats": 8,
+     "bloc": "far-left",
+     "color": "#871212"
+    },
+    {
+     "id": "liberal-party",
+     "name": {
+      "en": "Liberal Party",
+      "nb": "Venstre",
+      "nn": "Venstre"
+     },
+     "seats": 8,
+     "bloc": "centre",
+     "color": "#006666"
+    },
+    {
+     "id": "green-party",
+     "name": {
+      "en": "Green Party",
+      "nb": "Miljøpartiet De Grønne",
+      "nn": "Miljøpartiet Dei Grøne"
+     },
+     "seats": 3,
+     "bloc": "centre-left",
+     "color": "#6A9325"
+    },
+    {
+     "id": "christian-democratic-party",
+     "name": {
+      "en": "Christian Democratic Party",
+      "nb": "Kristelig Folkeparti",
+      "nn": "Kristeleg Folkeparti"
+     },
+     "seats": 3,
+     "bloc": "centre-right",
+     "color": "#FDED34"
+    },
+    {
+     "id": "patient-focus",
+     "name": {
+      "en": "Patient Focus",
+      "nb": "Pasientfokus",
+      "nn": "Pasientfokus"
+     },
+     "seats": 1,
+     "bloc": "centre",
+     "color": "#F69465"
+    }
+   ]
+  },
+  {
+   "term": "2025–",
+   "year": 2025,
+   "pm": "jonas-gahr-st-re",
+   "seats": 169,
+   "results": [
+    {
+     "id": "labour-party",
+     "name": {
+      "en": "Labour Party",
+      "nb": "Arbeiderpartiet",
+      "nn": "Arbeidarpartiet"
+     },
+     "seats": 53,
+     "bloc": "centre-left",
+     "color": "#E11926"
+    },
+    {
+     "id": "progress-party",
+     "name": {
+      "en": "Progress Party",
+      "nb": "Fremskrittspartiet",
+      "nn": "Framstegspartiet"
+     },
+     "seats": 47,
+     "bloc": "right",
+     "color": "#004F80"
+    },
+    {
+     "id": "conservative-party",
+     "name": {
+      "en": "Conservative Party",
+      "nb": "Høyre",
+      "nn": "Høgre"
+     },
+     "seats": 24,
+     "bloc": "centre-right",
+     "color": "#87add7"
+    },
+    {
+     "id": "socialist-left-party",
+     "name": {
+      "en": "Socialist Left Party",
+      "nb": "Sosialistisk Venstreparti",
+      "nn": "Sosialistisk Venstreparti"
+     },
+     "seats": 9,
+     "bloc": "left",
+     "color": "#B5317C"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "nb": "Senterpartiet",
+      "nn": "Senterpartiet"
+     },
+     "seats": 9,
+     "bloc": "centre",
+     "color": "#00843D"
+    },
+    {
+     "id": "red-party",
+     "name": {
+      "en": "Red Party",
+      "nb": "Rødt",
+      "nn": "Raudt"
+     },
+     "seats": 9,
+     "bloc": "far-left",
+     "color": "#871212"
+    },
+    {
+     "id": "green-party",
+     "name": {
+      "en": "Green Party",
+      "nb": "Miljøpartiet De Grønne",
+      "nn": "Miljøpartiet Dei Grøne"
+     },
+     "seats": 8,
+     "bloc": "centre-left",
+     "color": "#6A9325"
+    },
+    {
+     "id": "christian-democratic-party",
+     "name": {
+      "en": "Christian Democratic Party",
+      "nb": "Kristelig Folkeparti",
+      "nn": "Kristeleg Folkeparti"
+     },
+     "seats": 7,
+     "bloc": "centre-right",
+     "color": "#FDED34"
+    },
+    {
+     "id": "liberal-party",
+     "name": {
+      "en": "Liberal Party",
+      "nb": "Venstre",
+      "nn": "Venstre"
+     },
+     "seats": 3,
+     "bloc": "centre",
+     "color": "#006666"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/2025_Norwegian_parliamentary_election"
+  }
+ ],
+ "credits": [
+  "Einar Gerhardsen: Ernest Rude, CC BY-SA 4.0, via Wikimedia Commons",
+  "Oscar Torp: Leif Ørnelund, CC BY-SA 4.0, via Wikimedia Commons",
+  "Per Borten: Knudsens fotosenter / Norsk Teknisk Museum, CC BY 4.0, via Wikimedia Commons",
+  "Trygve Bratteli: Lasse Klæboe/Billedbladet NÅ, CC BY 4.0, via Wikimedia Commons",
+  "Lars Korvald: Lasse Klæboe/Billedbladet NÅ, CC BY 4.0, via Wikimedia Commons",
+  "Gro Harlem Brundtland: Christophe Licoppe, CC BY 4.0, via Wikimedia Commons",
+  "Odvar Nordli: Copyright © Harry Wad, CC BY 2.5, via Wikimedia Commons",
+  "Kåre Willoch: SGT MICHAEL W. TYLER, Public domain, via Wikimedia Commons",
+  "Jan P. Syse: Sturlason AS Polyfoto/Statsministerens kontor, CC BY-SA 3.0, via Wikimedia Commons",
+  "Thorbjørn Jagland: Estonian Foreign Ministry, CC BY 2.0, via Wikimedia Commons",
+  "Kjell Magne Bondevik: Magnus Fröderberg, CC BY 2.5 dk, via Wikimedia Commons",
+  "Jens Stoltenberg: Chairman of the Joint Chiefs of Staff from Washington D.C, United States, CC BY 2.0, via Wikimedia Commons",
+  "Erna Solberg: European People's Party, CC BY 2.0, via Wikimedia Commons",
+  "Jonas Gahr Støre: Torbjørn Kjosvold/SMK, CC BY 4.0, via Wikimedia Commons"
+ ]
+}

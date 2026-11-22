@@ -1,0 +1,1201 @@
+{
+ "results": {
+  "1945": {
+   "wiki": "1945 Norwegian parliamentary election",
+   "date": "1945-10-08",
+   "seats": 150,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Labour Party",
+     "link": "Labour Party (Norway)",
+     "seats": 76
+    },
+    {
+     "name": "Conservative Party",
+     "link": "Conservative Party (Norway)",
+     "seats": 25
+    },
+    {
+     "name": "Liberal Party",
+     "link": "Liberal Party (Norway)",
+     "seats": 20
+    },
+    {
+     "name": "Communist Party",
+     "link": "Communist Party of Norway",
+     "seats": 11
+    },
+    {
+     "name": "Farmers' Party",
+     "link": "Centre Party (Norway)",
+     "seats": 10
+    },
+    {
+     "name": "Christian Democratic Party",
+     "link": "Christian Democratic Party (Norway)",
+     "seats": 8
+    }
+   ],
+   "chamber": {
+    "link": "Parliament of Norway",
+    "text": "Norwegian Parliament"
+   }
+  },
+  "1949": {
+   "wiki": "1949 Norwegian parliamentary election",
+   "date": "1949-10-10",
+   "seats": 150,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Labour Party",
+     "link": "Labour Party (Norway)",
+     "seats": 85
+    },
+    {
+     "name": "Conservative Party",
+     "link": "Conservative Party (Norway)",
+     "seats": 21
+    },
+    {
+     "name": "Liberal Party",
+     "link": "Liberal Party (Norway)",
+     "seats": 20
+    },
+    {
+     "name": "Christian Democratic Party",
+     "link": "Christian Democratic Party (Norway)",
+     "seats": 9
+    },
+    {
+     "name": "Farmers' Party",
+     "link": "Centre Party (Norway)",
+     "seats": 6
+    },
+    {
+     "name": "Farmers–Conservatives–Liberals",
+     "link": "Farmers–Conservatives–Liberals",
+     "seats": 4,
+     "parts": [
+      "Centre Party (Norway)",
+      "Conservative Party (Norway)",
+      "Liberal Party (Norway)"
+     ]
+    },
+    {
+     "name": "Farmers–Conservatives",
+     "link": "Farmers–Conservatives",
+     "seats": 3,
+     "parts": [
+      "Centre Party (Norway)",
+      "Conservative Party (Norway)"
+     ]
+    },
+    {
+     "name": "Farmers–Liberals",
+     "link": "Farmers–Liberals",
+     "seats": 2,
+     "parts": [
+      "Centre Party (Norway)",
+      "Liberal Party (Norway)"
+     ]
+    }
+   ],
+   "chamber": {
+    "link": "Parliament of Norway",
+    "text": "Norwegian Parliament"
+   }
+  },
+  "1953": {
+   "wiki": "1953 Norwegian parliamentary election",
+   "date": "1953-10-12",
+   "seats": 150,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Labour Party",
+     "link": "Labour Party (Norway)",
+     "seats": 77
+    },
+    {
+     "name": "Conservative Party",
+     "link": "Conservative Party (Norway)",
+     "seats": 26
+    },
+    {
+     "name": "Christian Democratic Party",
+     "link": "Christian Democratic Party (Norway)",
+     "seats": 14
+    },
+    {
+     "name": "Liberal Party",
+     "link": "Liberal Party (Norway)",
+     "seats": 15
+    },
+    {
+     "name": "Farmers' Party",
+     "link": "Centre Party (Norway)",
+     "seats": 14
+    },
+    {
+     "name": "Communist Party",
+     "link": "Communist Party of Norway",
+     "seats": 3
+    },
+    {
+     "name": "Farmers–Conservatives",
+     "link": "Farmers–Conservatives",
+     "seats": 1,
+     "parts": [
+      "Centre Party (Norway)",
+      "Conservative Party (Norway)"
+     ]
+    }
+   ],
+   "chamber": {
+    "link": "Storting",
+    "text": "Storting"
+   }
+  },
+  "1957": {
+   "wiki": "1957 Norwegian parliamentary election",
+   "date": "1957-10-07",
+   "seats": 150,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Labour Party",
+     "link": "Labour Party (Norway)",
+     "seats": 78
+    },
+    {
+     "name": "Conservative Party",
+     "link": "Conservative Party (Norway)",
+     "seats": 25
+    },
+    {
+     "name": "Christian Democratic Party",
+     "link": "Christian Democratic Party (Norway)",
+     "seats": 12
+    },
+    {
+     "name": "Liberal Party",
+     "link": "Liberal Party (Norway)",
+     "seats": 15
+    },
+    {
+     "name": "Farmers' Party",
+     "link": "Centre Party (Norway)",
+     "seats": 14
+    },
+    {
+     "name": "Communist Party",
+     "link": "Communist Party of Norway",
+     "seats": 1
+    },
+    {
+     "name": "Farmers'–Conservatives",
+     "link": "Farmers'–Conservatives",
+     "seats": 4,
+     "parts": [
+      "Centre Party (Norway)",
+      "Conservative Party (Norway)"
+     ]
+    },
+    {
+     "name": "Liberals–Conservatives",
+     "link": "Liberals–Conservatives",
+     "seats": 1,
+     "parts": [
+      "Liberal Party (Norway)",
+      "Conservative Party (Norway)"
+     ]
+    }
+   ],
+   "chamber": {
+    "link": "Storting",
+    "text": "Storting"
+   }
+  },
+  "1961": {
+   "wiki": "1961 Norwegian parliamentary election",
+   "date": "1961-09-11",
+   "seats": 150,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Labour Party",
+     "link": "Labour Party (Norway)",
+     "seats": 74
+    },
+    {
+     "name": "Conservative Party",
+     "link": "Conservative Party (Norway)",
+     "seats": 28
+    },
+    {
+     "name": "Christian Democratic Party",
+     "link": "Christian Democratic Party (Norway)",
+     "seats": 14
+    },
+    {
+     "name": "Liberal Party",
+     "link": "Liberal Party (Norway)",
+     "seats": 11
+    },
+    {
+     "name": "Centre Party",
+     "link": "Centre Party (Norway)",
+     "seats": 11
+    },
+    {
+     "name": "Centrists–Liberals",
+     "link": "Centrists–Liberals",
+     "seats": 8,
+     "parts": [
+      "Centre Party (Norway)",
+      "Liberal Party (Norway)"
+     ]
+    },
+    {
+     "name": "Socialist People's Party",
+     "link": "Socialist People's Party (Norway)",
+     "seats": 2
+    },
+    {
+     "name": "Christians–Conservatives",
+     "link": "Christians–Conservatives",
+     "seats": 2,
+     "parts": [
+      "Christian Democratic Party (Norway)",
+      "Conservative Party (Norway)"
+     ]
+    }
+   ],
+   "chamber": {
+    "link": "Storting",
+    "text": "Storting"
+   }
+  },
+  "1965": {
+   "wiki": "1965 Norwegian parliamentary election",
+   "date": "1965-09-13",
+   "seats": 150,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Labour Party",
+     "link": "Labour Party (Norway)",
+     "seats": 68
+    },
+    {
+     "name": "Conservative Party",
+     "link": "Conservative Party (Norway)",
+     "seats": 30
+    },
+    {
+     "name": "Liberal Party",
+     "link": "Liberal Party (Norway)",
+     "seats": 18
+    },
+    {
+     "name": "Centre Party",
+     "link": "Centre Party (Norway)",
+     "seats": 17
+    },
+    {
+     "name": "Christian Democratic Party",
+     "link": "Christian Democratic Party (Norway)",
+     "seats": 12
+    },
+    {
+     "name": "Socialist People's Party",
+     "link": "Socialist People's Party (Norway)",
+     "seats": 2
+    },
+    {
+     "name": "Christians–Conservatives",
+     "link": "Christians–Conservatives",
+     "seats": 2,
+     "parts": [
+      "Christian Democratic Party (Norway)",
+      "Conservative Party (Norway)"
+     ]
+    },
+    {
+     "name": "Centrists–Liberals",
+     "link": "Centrists–Liberals",
+     "seats": 1,
+     "parts": [
+      "Centre Party (Norway)",
+      "Liberal Party (Norway)"
+     ]
+    }
+   ],
+   "chamber": {
+    "link": "Storting",
+    "text": "Storting"
+   }
+  },
+  "1969": {
+   "wiki": "1969 Norwegian parliamentary election",
+   "date": "1969-09-08",
+   "seats": 150,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Labour Party",
+     "link": "Labour Party (Norway)",
+     "seats": 74
+    },
+    {
+     "name": "Conservative Party",
+     "link": "Conservative Party (Norway)",
+     "seats": 28
+    },
+    {
+     "name": "Liberal Party",
+     "link": "Liberal Party (Norway)",
+     "seats": 13
+    },
+    {
+     "name": "Centre Party",
+     "link": "Centre Party (Norway)",
+     "seats": 17
+    },
+    {
+     "name": "Christian Democratic Party",
+     "link": "Christian Democratic Party (Norway)",
+     "seats": 12
+    },
+    {
+     "name": "Christians–Conservatives",
+     "link": "Christians–Conservatives",
+     "seats": 2,
+     "parts": [
+      "Christian Democratic Party (Norway)",
+      "Conservative Party (Norway)"
+     ]
+    },
+    {
+     "name": "Centrists–Christians",
+     "link": "Centrists–Christians",
+     "seats": 4,
+     "parts": [
+      "Centre Party (Norway)",
+      "Christian Democratic Party (Norway)"
+     ]
+    }
+   ],
+   "chamber": {
+    "link": "Storting",
+    "text": "Storting"
+   }
+  },
+  "1973": {
+   "wiki": "1973 Norwegian parliamentary election",
+   "date": "1973-09-09",
+   "seats": 155,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Labour Party",
+     "link": "Labour Party (Norway)",
+     "seats": 62
+    },
+    {
+     "name": "Conservative Party",
+     "link": "Conservative Party (Norway)",
+     "seats": 29
+    },
+    {
+     "name": "Christian Democratic Party",
+     "link": "Christian Democratic Party (Norway)",
+     "seats": 19
+    },
+    {
+     "name": "Socialist Electoral League",
+     "link": "Socialist Left Party (Norway)",
+     "seats": 16
+    },
+    {
+     "name": "Centre Party",
+     "link": "Centre Party (Norway)",
+     "seats": 13
+    },
+    {
+     "name": "Anders Lange's Party",
+     "link": "Progress Party (Norway)",
+     "seats": 4
+    },
+    {
+     "name": "Centrists–Liberals",
+     "link": "Centrists–Liberals",
+     "seats": 7,
+     "parts": [
+      "Centre Party (Norway)",
+      "Liberal Party (Norway)"
+     ]
+    },
+    {
+     "name": "New People's Party",
+     "link": "Liberal People's Party (Norway, 1972)",
+     "seats": 1
+    },
+    {
+     "name": "Liberal Party",
+     "link": "Liberal Party (Norway)",
+     "seats": 1
+    },
+    {
+     "name": "Centrists–Liberals–Christians",
+     "link": "Centrists–Liberals–Christians",
+     "seats": 3,
+     "parts": [
+      "Centre Party (Norway)",
+      "Liberal Party (Norway)",
+      "Christian Democratic Party (Norway)"
+     ]
+    }
+   ],
+   "chamber": {
+    "link": "Storting",
+    "text": "Storting"
+   }
+  },
+  "1977": {
+   "wiki": "1977 Norwegian parliamentary election",
+   "date": "1977-09-12",
+   "seats": 155,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Labour Party",
+     "link": "Labour Party (Norway)",
+     "seats": 76
+    },
+    {
+     "name": "Conservative Party",
+     "link": "Conservative Party (Norway)",
+     "seats": 40
+    },
+    {
+     "name": "Christian Democratic Party",
+     "link": "Christian Democratic Party (Norway)",
+     "seats": 18
+    },
+    {
+     "name": "Centre Party",
+     "link": "Centre Party (Norway)",
+     "seats": 11
+    },
+    {
+     "name": "Non-socialist joint lists",
+     "link": "Non-socialist joint lists",
+     "seats": 7
+    },
+    {
+     "name": "Socialist Left Party",
+     "link": "Socialist Left Party (Norway)",
+     "seats": 2
+    },
+    {
+     "name": "Liberal Party",
+     "link": "Liberal Party (Norway)",
+     "seats": 1
+    }
+   ],
+   "chamber": {
+    "link": "Storting",
+    "text": "Storting"
+   }
+  },
+  "1981": {
+   "wiki": "1981 Norwegian parliamentary election",
+   "date": "1981-09-14",
+   "seats": 155,
+   "table": "Infobox election",
+   "rows": [
+    {
+     "name": "Norwegian Labour Party",
+     "link": "Norwegian Labour Party",
+     "seats": 66
+    },
+    {
+     "name": "Conservative Party (Norway)",
+     "link": "Conservative Party (Norway)",
+     "seats": 53
+    },
+    {
+     "name": "Christian Democratic Party (Norway)",
+     "link": "Christian Democratic Party (Norway)",
+     "seats": 15
+    },
+    {
+     "name": "Centre Party (Norway)",
+     "link": "Centre Party (Norway)",
+     "seats": 11
+    },
+    {
+     "name": "Socialist Left Party (Norway)",
+     "link": "Socialist Left Party (Norway)",
+     "seats": 4
+    },
+    {
+     "name": "Progress Party (Norway)",
+     "link": "Progress Party (Norway)",
+     "seats": 4
+    },
+    {
+     "name": "Liberal Party of Norway",
+     "link": "Liberal Party of Norway",
+     "seats": 2
+    }
+   ],
+   "chamber": {
+    "link": "Storting",
+    "text": "Storting"
+   }
+  },
+  "1985": {
+   "wiki": "1985 Norwegian parliamentary election",
+   "date": "1985-09-08",
+   "seats": 157,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Labour Party",
+     "link": "Labour Party (Norway)",
+     "seats": 71
+    },
+    {
+     "name": "Conservative Party",
+     "link": "Conservative Party (Norway)",
+     "seats": 50
+    },
+    {
+     "name": "Christian Democratic Party",
+     "link": "Christian Democratic Party (Norway)",
+     "seats": 16
+    },
+    {
+     "name": "Centre Party",
+     "link": "Centre Party (Norway)",
+     "seats": 12
+    },
+    {
+     "name": "Socialist Left Party",
+     "link": "Socialist Left Party (Norway)",
+     "seats": 6
+    },
+    {
+     "name": "Progress Party",
+     "link": "Progress Party (Norway)",
+     "seats": 2
+    }
+   ],
+   "chamber": {
+    "link": "Storting",
+    "text": "Storting"
+   }
+  },
+  "1989": {
+   "wiki": "1989 Norwegian parliamentary election",
+   "date": "1989-09-11",
+   "seats": 165,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Labour Party",
+     "link": "Labour Party (Norway)",
+     "seats": 63
+    },
+    {
+     "name": "Conservative Party",
+     "link": "Conservative Party (Norway)",
+     "seats": 37
+    },
+    {
+     "name": "Progress Party",
+     "link": "Progress Party (Norway)",
+     "seats": 22
+    },
+    {
+     "name": "Socialist Left Party",
+     "link": "Socialist Left Party (Norway)",
+     "seats": 17
+    },
+    {
+     "name": "Christian Democratic Party",
+     "link": "Christian Democratic Party (Norway)",
+     "seats": 14
+    },
+    {
+     "name": "Centre Party",
+     "link": "Centre Party (Norway)",
+     "seats": 11
+    },
+    {
+     "name": "Future for Finnmark",
+     "link": "Future for Finnmark",
+     "seats": 1
+    }
+   ],
+   "chamber": {
+    "link": "Storting",
+    "text": "Storting"
+   }
+  },
+  "1993": {
+   "wiki": "1993 Norwegian parliamentary election",
+   "date": "1993-09-12",
+   "seats": 165,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Labour Party",
+     "link": "Labour Party (Norway)",
+     "seats": 67
+    },
+    {
+     "name": "Conservative Party",
+     "link": "Conservative Party (Norway)",
+     "seats": 28
+    },
+    {
+     "name": "Centre Party",
+     "link": "Centre Party (Norway)",
+     "seats": 32
+    },
+    {
+     "name": "Socialist Left Party",
+     "link": "Socialist Left Party (Norway)",
+     "seats": 13
+    },
+    {
+     "name": "Christian Democratic Party",
+     "link": "Christian Democratic Party (Norway)",
+     "seats": 13
+    },
+    {
+     "name": "Progress Party",
+     "link": "Progress Party (Norway)",
+     "seats": 10
+    },
+    {
+     "name": "Liberal Party",
+     "link": "Liberal Party (Norway)",
+     "seats": 1
+    },
+    {
+     "name": "Red Electoral Alliance",
+     "link": "Red Electoral Alliance",
+     "seats": 1
+    }
+   ],
+   "chamber": {
+    "link": "Storting",
+    "text": "Storting"
+   }
+  },
+  "1997": {
+   "wiki": "1997 Norwegian parliamentary election",
+   "date": "1997-09-15",
+   "seats": 165,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Labour Party",
+     "link": "Labour Party (Norway)",
+     "seats": 65
+    },
+    {
+     "name": "Progress Party",
+     "link": "Progress Party (Norway)",
+     "seats": 25
+    },
+    {
+     "name": "Conservative Party",
+     "link": "Conservative Party (Norway)",
+     "seats": 23
+    },
+    {
+     "name": "Christian Democratic Party",
+     "link": "Christian Democratic Party (Norway)",
+     "seats": 25
+    },
+    {
+     "name": "Centre Party",
+     "link": "Centre Party (Norway)",
+     "seats": 11
+    },
+    {
+     "name": "Socialist Left Party",
+     "link": "Socialist Left Party (Norway)",
+     "seats": 9
+    },
+    {
+     "name": "Liberal Party",
+     "link": "Liberal Party (Norway)",
+     "seats": 6
+    },
+    {
+     "name": "Non-Partisan Deputies",
+     "link": "Non-Partisan Deputies",
+     "seats": 1
+    }
+   ],
+   "chamber": {
+    "link": "Storting",
+    "text": "Storting"
+   }
+  },
+  "2001": {
+   "wiki": "2001 Norwegian parliamentary election",
+   "date": "2001-09-09",
+   "seats": 165,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Labour Party",
+     "link": "Labour Party (Norway)",
+     "seats": 43
+    },
+    {
+     "name": "Conservative Party",
+     "link": "Conservative Party (Norway)",
+     "seats": 38
+    },
+    {
+     "name": "Progress Party",
+     "link": "Progress Party (Norway)",
+     "seats": 26
+    },
+    {
+     "name": "Socialist Left Party",
+     "link": "Socialist Left Party (Norway)",
+     "seats": 23
+    },
+    {
+     "name": "Christian Democratic Party",
+     "link": "Christian Democratic Party (Norway)",
+     "seats": 22
+    },
+    {
+     "name": "Centre Party",
+     "link": "Centre Party (Norway)",
+     "seats": 10
+    },
+    {
+     "name": "Liberal Party",
+     "link": "Liberal Party (Norway)",
+     "seats": 2
+    },
+    {
+     "name": "Coastal Party",
+     "link": "Coastal Party",
+     "seats": 1
+    }
+   ],
+   "chamber": {
+    "link": "Storting",
+    "text": "Storting"
+   }
+  },
+  "2005": {
+   "wiki": "2005 Norwegian parliamentary election",
+   "date": "2005-09-11",
+   "seats": 169,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Labour Party",
+     "link": "Labour Party (Norway)",
+     "seats": 61
+    },
+    {
+     "name": "Progress Party",
+     "link": "Progress Party (Norway)",
+     "seats": 38
+    },
+    {
+     "name": "Conservative Party",
+     "link": "Conservative Party (Norway)",
+     "seats": 23
+    },
+    {
+     "name": "Socialist Left Party",
+     "link": "Socialist Left Party (Norway)",
+     "seats": 15
+    },
+    {
+     "name": "Christian Democratic Party",
+     "link": "Christian Democratic Party (Norway)",
+     "seats": 11
+    },
+    {
+     "name": "Centre Party",
+     "link": "Centre Party (Norway)",
+     "seats": 11
+    },
+    {
+     "name": "Liberal Party",
+     "link": "Liberal Party (Norway)",
+     "seats": 10
+    }
+   ],
+   "chamber": {
+    "link": "Storting",
+    "text": "Storting"
+   }
+  },
+  "2009": {
+   "wiki": "2009 Norwegian parliamentary election",
+   "date": "2009-09-14",
+   "seats": 169,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Labour Party",
+     "link": "Labour Party (Norway)",
+     "seats": 64
+    },
+    {
+     "name": "Progress Party",
+     "link": "Progress Party (Norway)",
+     "seats": 41
+    },
+    {
+     "name": "Conservative Party",
+     "link": "Conservative Party (Norway)",
+     "seats": 30
+    },
+    {
+     "name": "Socialist Left Party",
+     "link": "Socialist Left Party (Norway)",
+     "seats": 11
+    },
+    {
+     "name": "Centre Party",
+     "link": "Centre Party (Norway)",
+     "seats": 11
+    },
+    {
+     "name": "Christian Democratic Party",
+     "link": "Christian Democratic Party (Norway)",
+     "seats": 10
+    },
+    {
+     "name": "Liberal Party",
+     "link": "Liberal Party (Norway)",
+     "seats": 2
+    }
+   ],
+   "chamber": {
+    "link": "Storting",
+    "text": "Storting"
+   }
+  },
+  "2013": {
+   "wiki": "2013 Norwegian parliamentary election",
+   "date": "2013-09-09",
+   "seats": 169,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Labour Party",
+     "link": "Labour Party (Norway)",
+     "seats": 55
+    },
+    {
+     "name": "Conservative Party",
+     "link": "Conservative Party (Norway)",
+     "seats": 48
+    },
+    {
+     "name": "Progress Party",
+     "link": "Progress Party (Norway)",
+     "seats": 29
+    },
+    {
+     "name": "Christian Democratic Party",
+     "link": "Christian Democratic Party (Norway)",
+     "seats": 10
+    },
+    {
+     "name": "Centre Party",
+     "link": "Centre Party (Norway)",
+     "seats": 10
+    },
+    {
+     "name": "Liberal Party",
+     "link": "Liberal Party (Norway)",
+     "seats": 9
+    },
+    {
+     "name": "Socialist Left Party",
+     "link": "Socialist Left Party (Norway)",
+     "seats": 7
+    },
+    {
+     "name": "Green Party",
+     "link": "Green Party (Norway)",
+     "seats": 1
+    }
+   ],
+   "chamber": {
+    "link": "Storting",
+    "text": "Storting"
+   }
+  },
+  "2017": {
+   "wiki": "2017 Norwegian parliamentary election",
+   "date": "2017-09-11",
+   "seats": 169,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Labour Party",
+     "link": "Labour Party (Norway)",
+     "seats": 49
+    },
+    {
+     "name": "Conservative Party",
+     "link": "Conservative Party (Norway)",
+     "seats": 45
+    },
+    {
+     "name": "Progress Party",
+     "link": "Progress Party (Norway)",
+     "seats": 27
+    },
+    {
+     "name": "Centre Party",
+     "link": "Centre Party (Norway)",
+     "seats": 19
+    },
+    {
+     "name": "Socialist Left Party",
+     "link": "Socialist Left Party (Norway)",
+     "seats": 11
+    },
+    {
+     "name": "Liberal Party",
+     "link": "Liberal Party (Norway)",
+     "seats": 8
+    },
+    {
+     "name": "Christian Democratic Party",
+     "link": "Christian Democratic Party (Norway)",
+     "seats": 8
+    },
+    {
+     "name": "Green Party",
+     "link": "Green Party (Norway)",
+     "seats": 1
+    },
+    {
+     "name": "Red Party",
+     "link": "Red Party (Norway)",
+     "seats": 1
+    }
+   ],
+   "chamber": {
+    "link": "Storting",
+    "text": "Storting"
+   }
+  },
+  "2021": {
+   "wiki": "2021 Norwegian parliamentary election",
+   "date": "2021-09-13",
+   "seats": 169,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Labour Party",
+     "link": "Labour Party (Norway)",
+     "seats": 48
+    },
+    {
+     "name": "Conservative Party",
+     "link": "Conservative Party (Norway)",
+     "seats": 36
+    },
+    {
+     "name": "Centre Party",
+     "link": "Centre Party (Norway)",
+     "seats": 28
+    },
+    {
+     "name": "Progress Party",
+     "link": "Progress Party (Norway)",
+     "seats": 21
+    },
+    {
+     "name": "Socialist Left Party",
+     "link": "Socialist Left Party (Norway)",
+     "seats": 13
+    },
+    {
+     "name": "Red Party",
+     "link": "Red Party (Norway)",
+     "seats": 8
+    },
+    {
+     "name": "Liberal Party",
+     "link": "Liberal Party (Norway)",
+     "seats": 8
+    },
+    {
+     "name": "Green Party",
+     "link": "Green Party (Norway)",
+     "seats": 3
+    },
+    {
+     "name": "Christian Democratic Party",
+     "link": "Christian Democratic Party (Norway)",
+     "seats": 3
+    },
+    {
+     "name": "Patient Focus",
+     "link": "Patient Focus (Norway)",
+     "seats": 1
+    }
+   ],
+   "chamber": {
+    "link": "Storting",
+    "text": "Storting"
+   }
+  },
+  "2025": {
+   "wiki": "2025 Norwegian parliamentary election",
+   "date": "2025-09-08",
+   "seats": 169,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Labour Party",
+     "link": "Labour Party (Norway)",
+     "seats": 53
+    },
+    {
+     "name": "Progress Party",
+     "link": "Progress Party (Norway)",
+     "seats": 47
+    },
+    {
+     "name": "Conservative Party",
+     "link": "Conservative Party (Norway)",
+     "seats": 24
+    },
+    {
+     "name": "Socialist Left Party",
+     "link": "Socialist Left Party",
+     "seats": 9
+    },
+    {
+     "name": "Centre Party",
+     "link": "Centre Party (Norway)",
+     "seats": 9
+    },
+    {
+     "name": "Red Party",
+     "link": "Red Party (Norway)",
+     "seats": 9
+    },
+    {
+     "name": "Green Party",
+     "link": "Green Party (Norway)",
+     "seats": 8
+    },
+    {
+     "name": "Christian Democratic Party",
+     "link": "Christian Democratic Party (Norway)",
+     "seats": 7
+    },
+    {
+     "name": "Liberal Party",
+     "link": "Liberal Party (Norway)",
+     "seats": 3
+    }
+   ],
+   "chamber": {
+    "link": "Storting",
+    "text": "Storting"
+   }
+  }
+ },
+ "credits": {
+  "einar-gerhardsen": {
+   "file": "Einar Gerhardsen 1945.jpeg",
+   "author": "Ernest Rude",
+   "license": "CC BY-SA 4.0"
+  },
+  "oscar-torp": {
+   "file": "26771 Oscar Torp.jpg",
+   "author": "Leif Ørnelund",
+   "license": "CC BY-SA 4.0"
+  },
+  "per-borten": {
+   "file": "Per Borten (1964, Knudsens fotosenter).jpg",
+   "author": "Knudsens fotosenter / Norsk Teknisk Museum",
+   "license": "CC BY 4.0"
+  },
+  "trygve-bratteli": {
+   "file": "Trygve Bratteli (5Fo30141709010076).jpg",
+   "author": "Lasse Klæboe/Billedbladet NÅ",
+   "license": "CC BY 4.0"
+  },
+  "lars-korvald": {
+   "file": "Lars Korvald (4Fo30141709010050).jpg",
+   "author": "Lasse Klæboe/Billedbladet NÅ",
+   "license": "CC BY 4.0"
+  },
+  "gro-harlem-brundtland": {
+   "file": "Gro Harlem Brundtland in 2025 (cropped).jpg",
+   "author": "Christophe Licoppe",
+   "license": "CC BY 4.0"
+  },
+  "odvar-nordli": {
+   "file": "Odvar Nordli 2007 04 21.jpg",
+   "author": "Copyright © Harry Wad",
+   "license": "CC BY 2.5"
+  },
+  "kare-willoch": {
+   "file": "Willoch 1983 (high resolution, cropped).jpg",
+   "author": "SGT MICHAEL W. TYLER",
+   "license": "Public domain"
+  },
+  "jan-p-syse": {
+   "file": "Jan P. Syse.JPG",
+   "author": "Sturlason AS Polyfoto/Statsministerens kontor",
+   "license": "CC BY-SA 3.0"
+  },
+  "thorbj-rn-jagland": {
+   "file": "Thorbjørn Jagland (30366602783) (cropped).jpg",
+   "author": "Estonian Foreign Ministry",
+   "license": "CC BY 2.0"
+  },
+  "kjell-magne-bondevik": {
+   "file": "Kjell Magne Bondevik, Norges statsminister, under presskonferens vid Nordiska radets session i Stockholm.jpg",
+   "author": "Magnus Fröderberg",
+   "license": "CC BY 2.5 dk"
+  },
+  "jens-stoltenberg": {
+   "file": "JensStoltenberg (cropped).jpg",
+   "author": "Chairman of the Joint Chiefs of Staff from Washington D.C, United States",
+   "license": "CC BY 2.0"
+  },
+  "erna-solberg": {
+   "file": "Erna Solberg, EPP Congress 2025 Valencia Day 1 (54484743746, cropped).jpg",
+   "author": "European People's Party",
+   "license": "CC BY 2.0"
+  },
+  "jonas-gahr-st-re": {
+   "file": "Jonas Gahr Støre under åpningen av det nye regjeringskvartalet 130426 (cropped).jpg",
+   "author": "Torbjørn Kjosvold/SMK",
+   "license": "CC BY 4.0"
+  }
+ }
+}

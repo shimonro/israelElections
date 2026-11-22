@@ -1,0 +1,707 @@
+{
+  "code": "at",
+  "slug": "austria",
+  "name": {
+    "en": "Austria",
+    "de": "Österreich"
+  },
+  "languages": [
+    "en",
+    "de"
+  ],
+  "from": 1945,
+  "wikidata": "Q40",
+  "office": "Q1006398",
+  "chamber": {
+    "en": "National Council",
+    "de": "Nationalrat"
+  },
+  "termLabel": {
+    "en": "Term"
+  },
+  "leaderTitle": {
+    "en": "Federal Chancellor",
+    "de": "Bundeskanzler"
+  },
+  "blocs": [
+    {
+      "key": "far-left",
+      "name": {
+        "en": "Far-left",
+        "de": "Linksextremismus"
+      },
+      "hue": 340,
+      "color": "#9f1239"
+    },
+    {
+      "key": "left",
+      "name": {
+        "en": "Left",
+        "de": "politische Linke"
+      },
+      "hue": 0,
+      "color": "#dc2626"
+    },
+    {
+      "key": "centre-left",
+      "name": {
+        "en": "Centre-left",
+        "de": "Mitte-links"
+      },
+      "hue": 12,
+      "color": "#f87171"
+    },
+    {
+      "key": "centre",
+      "name": {
+        "en": "Centre",
+        "de": "politische Mitte"
+      },
+      "hue": 48,
+      "color": "#eab308"
+    },
+    {
+      "key": "centre-right",
+      "name": {
+        "en": "Centre-right",
+        "de": "Mitte-rechts"
+      },
+      "hue": 200,
+      "color": "#38bdf8"
+    },
+    {
+      "key": "right",
+      "name": {
+        "en": "Right",
+        "de": "politische Rechte"
+      },
+      "hue": 222,
+      "color": "#2563eb"
+    },
+    {
+      "key": "other",
+      "name": {
+        "en": "Other"
+      },
+      "color": "#94a3b8"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2024_Austrian_legislative_election"
+    }
+  ],
+  "elections": [
+    {
+      "year": 1945,
+      "wiki": "1945 Austrian legislative election",
+      "date": "1945-11-25",
+      "key": "1945"
+    },
+    {
+      "year": 1949,
+      "wiki": "1949 Austrian legislative election",
+      "date": "1949-10-09",
+      "key": "1949"
+    },
+    {
+      "year": 1953,
+      "wiki": "1953 Austrian legislative election",
+      "date": "1953-02-22",
+      "key": "1953"
+    },
+    {
+      "year": 1956,
+      "wiki": "1956 Austrian legislative election",
+      "date": "1956-05-13",
+      "key": "1956"
+    },
+    {
+      "year": 1959,
+      "wiki": "1959 Austrian legislative election",
+      "date": "1959-05-10",
+      "key": "1959"
+    },
+    {
+      "year": 1962,
+      "wiki": "1962 Austrian legislative election",
+      "date": "1962-11-18",
+      "key": "1962"
+    },
+    {
+      "year": 1966,
+      "wiki": "1966 Austrian legislative election",
+      "date": "1966-03-06",
+      "key": "1966"
+    },
+    {
+      "year": 1970,
+      "wiki": "1970 Austrian legislative election",
+      "date": "1970-03-01",
+      "key": "1970"
+    },
+    {
+      "year": 1971,
+      "wiki": "1971 Austrian legislative election",
+      "date": "1971-10-10",
+      "key": "1971"
+    },
+    {
+      "year": 1975,
+      "wiki": "1975 Austrian legislative election",
+      "date": "1975-10-05",
+      "key": "1975"
+    },
+    {
+      "year": 1979,
+      "wiki": "1979 Austrian legislative election",
+      "date": "1979-05-06",
+      "key": "1979"
+    },
+    {
+      "year": 1983,
+      "wiki": "1983 Austrian legislative election",
+      "date": "1983-04-24",
+      "key": "1983"
+    },
+    {
+      "year": 1986,
+      "wiki": "1986 Austrian legislative election",
+      "date": "1986-11-23",
+      "key": "1986"
+    },
+    {
+      "year": 1990,
+      "wiki": "1990 Austrian legislative election",
+      "date": "1990-10-07",
+      "key": "1990"
+    },
+    {
+      "year": 1994,
+      "wiki": "1994 Austrian legislative election",
+      "date": "1994-10-09",
+      "key": "1994"
+    },
+    {
+      "year": 1995,
+      "wiki": "1995 Austrian legislative election",
+      "date": "1995-12-17",
+      "key": "1995"
+    },
+    {
+      "year": 1999,
+      "wiki": "1999 Austrian legislative election",
+      "date": "1999-10-03",
+      "key": "1999"
+    },
+    {
+      "year": 2002,
+      "wiki": "2002 Austrian legislative election",
+      "date": "2002-11-24",
+      "key": "2002"
+    },
+    {
+      "year": 2006,
+      "wiki": "2006 Austrian legislative election",
+      "date": "2006-10-01",
+      "key": "2006"
+    },
+    {
+      "year": 2008,
+      "wiki": "2008 Austrian legislative election",
+      "date": "2008-09-28",
+      "key": "2008"
+    },
+    {
+      "year": 2013,
+      "wiki": "2013 Austrian legislative election",
+      "date": "2013-09-29",
+      "key": "2013"
+    },
+    {
+      "year": 2017,
+      "wiki": "2017 Austrian legislative election",
+      "date": "2017-10-15",
+      "key": "2017"
+    },
+    {
+      "year": 2019,
+      "wiki": "2019 Austrian legislative election",
+      "date": "2019-09-29",
+      "key": "2019"
+    },
+    {
+      "year": 2024,
+      "wiki": "2024 Austrian legislative election",
+      "date": "2024-09-29",
+      "key": "2024"
+    }
+  ],
+  "governments": [
+    {
+      "year": 1945,
+      "date": "1945-12-20",
+      "election": "1945",
+      "pm": "leopold-figl"
+    },
+    {
+      "year": 1949,
+      "date": "1949-10-09",
+      "election": "1949",
+      "pm": "leopold-figl"
+    },
+    {
+      "year": 1953,
+      "date": "1953-04-02",
+      "election": "1953",
+      "pm": "julius-raab"
+    },
+    {
+      "year": 1956,
+      "date": "1956-05-13",
+      "election": "1956",
+      "pm": "julius-raab"
+    },
+    {
+      "year": 1959,
+      "date": "1959-05-10",
+      "election": "1959",
+      "pm": "julius-raab"
+    },
+    {
+      "year": 1961,
+      "date": "1961-04-11",
+      "election": "1959",
+      "pm": "alfons-gorbach"
+    },
+    {
+      "year": 1962,
+      "date": "1962-11-18",
+      "election": "1962",
+      "pm": "alfons-gorbach"
+    },
+    {
+      "year": 1966,
+      "date": "1966-03-06",
+      "election": "1966",
+      "pm": "alfons-gorbach"
+    },
+    {
+      "year": 1970,
+      "date": "1970-04-21",
+      "election": "1970",
+      "pm": "bruno-kreisky"
+    },
+    {
+      "year": 1971,
+      "date": "1971-10-10",
+      "election": "1971",
+      "pm": "bruno-kreisky"
+    },
+    {
+      "year": 1975,
+      "date": "1975-10-05",
+      "election": "1975",
+      "pm": "bruno-kreisky"
+    },
+    {
+      "year": 1979,
+      "date": "1979-05-06",
+      "election": "1979",
+      "pm": "bruno-kreisky"
+    },
+    {
+      "year": 1983,
+      "date": "1983-04-24",
+      "election": "1983",
+      "pm": "bruno-kreisky"
+    },
+    {
+      "year": 1986,
+      "date": "1986-06-16",
+      "election": "1983",
+      "pm": "franz-vranitzky"
+    },
+    {
+      "year": 1986,
+      "date": "1986-11-23",
+      "election": "1986",
+      "pm": "franz-vranitzky"
+    },
+    {
+      "year": 1990,
+      "date": "1990-10-07",
+      "election": "1990",
+      "pm": "franz-vranitzky"
+    },
+    {
+      "year": 1994,
+      "date": "1994-10-09",
+      "election": "1994",
+      "pm": "franz-vranitzky"
+    },
+    {
+      "year": 1995,
+      "date": "1995-12-17",
+      "election": "1995",
+      "pm": "franz-vranitzky"
+    },
+    {
+      "year": 1997,
+      "date": "1997-01-28",
+      "election": "1995",
+      "pm": "viktor-klima"
+    },
+    {
+      "year": 2000,
+      "date": "2000-02-04",
+      "election": "1999",
+      "pm": "wolfgang-schussel"
+    },
+    {
+      "year": 2002,
+      "date": "2002-11-24",
+      "election": "2002",
+      "pm": "wolfgang-schussel"
+    },
+    {
+      "year": 2007,
+      "date": "2007-01-11",
+      "election": "2006",
+      "pm": "alfred-gusenbauer"
+    },
+    {
+      "year": 2008,
+      "date": "2008-12-02",
+      "election": "2008",
+      "pm": "werner-faymann"
+    },
+    {
+      "year": 2013,
+      "date": "2013-09-29",
+      "election": "2013",
+      "pm": "werner-faymann"
+    },
+    {
+      "year": 2016,
+      "date": "2016-05-17",
+      "election": "2013",
+      "pm": "christian-kern"
+    },
+    {
+      "year": 2017,
+      "date": "2017-12-18",
+      "election": "2017",
+      "pm": "sebastian-kurz"
+    },
+    {
+      "year": 2019,
+      "date": "2019-06-03",
+      "election": "2017",
+      "pm": "brigitte-bierlein"
+    },
+    {
+      "year": 2020,
+      "date": "2020-01-07",
+      "election": "2019",
+      "pm": "sebastian-kurz"
+    },
+    {
+      "year": 2021,
+      "date": "2021-10-11",
+      "election": "2019",
+      "pm": "alexander-schallenberg"
+    },
+    {
+      "year": 2021,
+      "date": "2021-12-06",
+      "election": "2019",
+      "pm": "karl-nehammer"
+    },
+    {
+      "year": 2025,
+      "date": "2025-01-10",
+      "election": "2024",
+      "pm": "alexander-schallenberg"
+    },
+    {
+      "year": 2025,
+      "date": "2025-03-03",
+      "election": "2024",
+      "pm": "christian-stocker"
+    }
+  ],
+  "pms": {
+    "karl-renner": {
+      "wiki": "Karl Renner",
+      "wikidata": "Q11726",
+      "image": "Karl Renner 1905.jpg",
+      "name": {
+        "en": "Karl Renner",
+        "de": "Karl Renner"
+      }
+    },
+    "leopold-figl": {
+      "wiki": "Leopold Figl",
+      "wikidata": "Q11715",
+      "image": "Figl leopold 01b.jpg",
+      "name": {
+        "en": "Leopold Figl",
+        "de": "Leopold Figl"
+      }
+    },
+    "julius-raab": {
+      "wiki": "Julius Raab",
+      "wikidata": "Q78539",
+      "image": "Julius-Raab-1961.jpg",
+      "name": {
+        "en": "Julius Raab",
+        "de": "Julius Raab"
+      }
+    },
+    "alfons-gorbach": {
+      "wiki": "Alfons Gorbach",
+      "wikidata": "Q29008",
+      "image": "Alfons Gorbach 1965.jpg",
+      "name": {
+        "en": "Alfons Gorbach",
+        "de": "Alfons Gorbach"
+      }
+    },
+    "bruno-kreisky": {
+      "wiki": "Bruno Kreisky",
+      "wikidata": "Q44517",
+      "image": "Bruno Kreisky 1983.jpg",
+      "name": {
+        "en": "Bruno Kreisky",
+        "de": "Bruno Kreisky"
+      }
+    },
+    "franz-vranitzky": {
+      "wiki": "Franz Vranitzky",
+      "wikidata": "Q158123",
+      "image": "Franz Vranitzky.jpg",
+      "name": {
+        "en": "Franz Vranitzky",
+        "de": "Franz Vranitzky"
+      }
+    },
+    "viktor-klima": {
+      "wiki": "Viktor Klima",
+      "wikidata": "Q78538",
+      "image": "Bundeskanzler Viktor Klima.JPG",
+      "name": {
+        "en": "Viktor Klima",
+        "de": "Viktor Klima"
+      }
+    },
+    "wolfgang-schussel": {
+      "wiki": "Wolfgang Schüssel",
+      "wikidata": "Q2125645",
+      "image": "Schüssel 2024.jpg",
+      "name": {
+        "en": "Wolfgang Schüssel",
+        "de": "Wolfgang Schüssel"
+      }
+    },
+    "alfred-gusenbauer": {
+      "wiki": "Alfred Gusenbauer",
+      "wikidata": "Q260037",
+      "image": "Alfred Gusenbauer 26.10.2008.jpg",
+      "name": {
+        "en": "Alfred Gusenbauer",
+        "de": "Alfred Gusenbauer"
+      }
+    },
+    "werner-faymann": {
+      "wiki": "Werner Faymann",
+      "wikidata": "Q53282",
+      "image": "Werner Faymann Wien08-2008a.jpg",
+      "name": {
+        "en": "Werner Faymann",
+        "de": "Werner Faymann"
+      }
+    },
+    "christian-kern": {
+      "wiki": "Christian Kern",
+      "wikidata": "Q18135060",
+      "image": "Christian Kern 2016 (portrait).jpg",
+      "name": {
+        "en": "Christian Kern",
+        "de": "Christian Kern"
+      }
+    },
+    "sebastian-kurz": {
+      "wiki": "Sebastian Kurz",
+      "wikidata": "Q2262885",
+      "image": "Maischberger 2024-12-17-8605.jpg",
+      "name": {
+        "en": "Sebastian Kurz",
+        "de": "Sebastian Kurz"
+      }
+    },
+    "brigitte-bierlein": {
+      "wiki": "Brigitte Bierlein",
+      "wikidata": "Q916162",
+      "image": "Brigitte Bierlein.jpg",
+      "name": {
+        "en": "Brigitte Bierlein",
+        "de": "Brigitte Bierlein"
+      }
+    },
+    "alexander-schallenberg": {
+      "wiki": "Alexander Schallenberg",
+      "wikidata": "Q64168538",
+      "image": "Alexander Schallenberg 20230913.jpg",
+      "name": {
+        "en": "Alexander Schallenberg",
+        "de": "Alexander Schallenberg"
+      }
+    },
+    "karl-nehammer": {
+      "wiki": "Karl Nehammer",
+      "wikidata": "Q42860944",
+      "image": "Karl Nehammer - Buch Wien 2025.JPG",
+      "name": {
+        "en": "Karl Nehammer",
+        "de": "Karl Nehammer"
+      }
+    },
+    "christian-stocker": {
+      "wiki": "Christian Stocker",
+      "wikidata": "Q64576653",
+      "image": "Christian Stocker EuCo 2026.jpg",
+      "name": {
+        "en": "Christian Stocker",
+        "de": "Christian Stocker"
+      }
+    }
+  },
+  "parties": {
+    "Austrian People's Party": {
+      "key": "austrian-people-s-party",
+      "wikidata": "Q186867",
+      "name": {
+        "en": "Austrian People's Party",
+        "de": "Österreichische Volkspartei"
+      },
+      "bloc": "centre-right",
+      "color": "#000000"
+    },
+    "Social Democratic Party of Austria": {
+      "key": "social-democratic-party-of-austria",
+      "wikidata": "Q179111",
+      "name": {
+        "en": "Social Democratic Party of Austria",
+        "de": "Sozialdemokratische Partei Österreichs"
+      },
+      "bloc": "centre-left",
+      "color": "#E42712"
+    },
+    "Communist Party of Austria": {
+      "key": "communist-party-of-austria",
+      "wikidata": "Q161118",
+      "name": {
+        "en": "Communist Party of Austria",
+        "de": "Kommunistische Partei Österreichs"
+      },
+      "bloc": "far-left",
+      "color": "#AA0000"
+    },
+    "Federation of Independents": {
+      "key": "federation-of-independents",
+      "wikidata": "Q688585",
+      "name": {
+        "en": "Federation of Independents",
+        "de": "Verband der Unabhängigen"
+      },
+      "bloc": "right",
+      "color": "#0056A2"
+    },
+    "Freedom Party of Austria": {
+      "key": "freedom-party-of-austria",
+      "wikidata": "Q131692",
+      "name": {
+        "en": "Freedom Party of Austria",
+        "de": "Freiheitliche Partei Österreichs"
+      },
+      "bloc": "far-right",
+      "color": "#0056A2"
+    },
+    "Green Alternative–Freda Meissner-Blau List": {
+      "key": "green-alternative-freda-meissner-blau-list",
+      "name": {
+        "en": "Green Alternative–Freda Meissner-Blau List"
+      },
+      "bloc": "centre-left"
+    },
+    "Green Alternative–Freda Meissner-Blau List": {
+      "key": "green-alternative-freda-meissner-blau-list",
+      "name": {
+        "en": "Green Alternative–Freda Meissner-Blau List"
+      },
+      "bloc": "centre-left"
+    },
+    "The Greens (Austria)": {
+      "key": "the-greens",
+      "wikidata": "Q193178",
+      "name": {
+        "en": "The Greens",
+        "de": "Die Grünen – Die grüne Alternative"
+      },
+      "bloc": "centre-left",
+      "color": "#87B529"
+    },
+    "Liberal Forum": {
+      "key": "liberal-forum",
+      "wikidata": "Q699381",
+      "name": {
+        "en": "Liberal Forum",
+        "de": "Liberales Forum"
+      },
+      "bloc": "centre",
+      "color": "#FFDC00"
+    },
+    "Alliance for the Future of Austria": {
+      "key": "alliance-for-the-future-of-austria",
+      "wikidata": "Q653833",
+      "name": {
+        "en": "Alliance for the Future of Austria",
+        "de": "Bündnis Zukunft Österreich"
+      },
+      "bloc": "right",
+      "color": "#F29400"
+    },
+    "Team Stronach": {
+      "key": "team-stronach",
+      "wikidata": "Q103748",
+      "name": {
+        "en": "Team Stronach",
+        "de": "Team Stronach für Österreich"
+      },
+      "bloc": "centre-right",
+      "color": "#E5CC00"
+    },
+    "NEOS (Austria)": {
+      "key": "neos",
+      "wikidata": "Q13564543",
+      "name": {
+        "en": "NEOS",
+        "de": "NEOS – Das Neue Österreich und Liberales Forum"
+      },
+      "bloc": "centre",
+      "color": "#CB1667"
+    },
+    "JETZT (party)": {
+      "key": "jetzt",
+      "wikidata": "Q34198369",
+      "name": {
+        "en": "JETZT",
+        "de": "Jetzt – Liste Pilz"
+      },
+      "bloc": "left",
+      "color": "#ADADAD"
+    }
+  }
+}

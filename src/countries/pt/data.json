@@ -1,0 +1,1823 @@
+{
+ "meta": {
+  "code": "pt",
+  "slug": "portugal",
+  "name": {
+   "en": "Portugal",
+   "pt": "Portugal"
+  },
+  "languages": [
+   "en",
+   "pt"
+  ],
+  "emblem": "/countries/pt/emblem.png"
+ },
+ "chamber": {
+  "en": "Assembly of the Republic",
+  "pt": "Assembleia da República"
+ },
+ "termLabel": {
+  "en": "Term"
+ },
+ "leaderTitle": {
+  "en": "Prime Minister",
+  "pt": "Primeiro-Ministro"
+ },
+ "blocs": [
+  {
+   "key": "far-left",
+   "name": {
+    "en": "Far-left",
+    "pt": "extrema-esquerda"
+   },
+   "hue": 340,
+   "color": "#9f1239"
+  },
+  {
+   "key": "left",
+   "name": {
+    "en": "Left",
+    "pt": "esquerda política"
+   },
+   "hue": 0,
+   "color": "#dc2626"
+  },
+  {
+   "key": "centre-left",
+   "name": {
+    "en": "Centre-left",
+    "pt": "centro-esquerda"
+   },
+   "hue": 12,
+   "color": "#f87171"
+  },
+  {
+   "key": "centre",
+   "name": {
+    "en": "Centre",
+    "pt": "centro"
+   },
+   "hue": 48,
+   "color": "#eab308"
+  },
+  {
+   "key": "centre-right",
+   "name": {
+    "en": "Centre-right",
+    "pt": "centro-direita"
+   },
+   "hue": 200,
+   "color": "#38bdf8"
+  },
+  {
+   "key": "far-right",
+   "name": {
+    "en": "Far-right",
+    "pt": "extrema-direita"
+   },
+   "hue": 262,
+   "color": "#7c3aed"
+  },
+  {
+   "key": "other",
+   "name": {
+    "en": "Other"
+   },
+   "color": "#94a3b8"
+  }
+ ],
+ "pms": {
+  "jose-baptista-pinheiro-de-azevedo": {
+   "name": {
+    "en": "José Baptista Pinheiro de Azevedo",
+    "pt": "José Pinheiro de Azevedo"
+   }
+  },
+  "mario-soares": {
+   "name": {
+    "en": "Mário Soares",
+    "pt": "Mário Soares"
+   },
+   "photo": "/countries/pt/pm/mario-soares.jpg"
+  },
+  "alfredo-nobre-da-costa": {
+   "name": {
+    "en": "Alfredo Nobre da Costa",
+    "pt": "Alfredo Nobre da Costa"
+   }
+  },
+  "carlos-mota-pinto": {
+   "name": {
+    "en": "Carlos Mota Pinto",
+    "pt": "Carlos Mota Pinto"
+   }
+  },
+  "maria-de-lourdes-pintasilgo": {
+   "name": {
+    "en": "Maria de Lourdes Pintasilgo",
+    "pt": "Maria de Lourdes Pintasilgo"
+   },
+   "photo": "/countries/pt/pm/maria-de-lourdes-pintasilgo.jpg"
+  },
+  "francisco-de-sa-carneiro": {
+   "name": {
+    "en": "Francisco de Sá Carneiro",
+    "pt": "Francisco Sá Carneiro"
+   },
+   "photo": "/countries/pt/pm/francisco-de-sa-carneiro.jpg"
+  },
+  "diogo-de-freitas-do-amaral": {
+   "name": {
+    "en": "Diogo de Freitas do Amaral",
+    "pt": "Diogo Freitas do Amaral"
+   },
+   "photo": "/countries/pt/pm/diogo-de-freitas-do-amaral.png"
+  },
+  "francisco-pinto-balsemao": {
+   "name": {
+    "en": "Francisco Pinto Balsemão",
+    "pt": "Francisco Pinto Balsemão"
+   },
+   "photo": "/countries/pt/pm/francisco-pinto-balsemao.jpg"
+  },
+  "anibal-cavaco-silva": {
+   "name": {
+    "en": "Aníbal Cavaco Silva",
+    "pt": "Aníbal Cavaco Silva"
+   },
+   "photo": "/countries/pt/pm/anibal-cavaco-silva.jpg"
+  },
+  "antonio-guterres": {
+   "name": {
+    "en": "António Guterres",
+    "pt": "António Guterres"
+   },
+   "photo": "/countries/pt/pm/antonio-guterres.jpg"
+  },
+  "jose-manuel-durao-barroso": {
+   "name": {
+    "en": "José Manuel Durão Barroso",
+    "pt": "José Manuel Durão Barroso"
+   },
+   "photo": "/countries/pt/pm/jose-manuel-durao-barroso.jpg"
+  },
+  "pedro-santana-lopes": {
+   "name": {
+    "en": "Pedro Santana Lopes",
+    "pt": "Pedro Santana Lopes"
+   },
+   "photo": "/countries/pt/pm/pedro-santana-lopes.jpg"
+  },
+  "jose-socrates": {
+   "name": {
+    "en": "José Sócrates",
+    "pt": "José Sócrates"
+   },
+   "photo": "/countries/pt/pm/jose-socrates.jpg"
+  },
+  "pedro-passos-coelho": {
+   "name": {
+    "en": "Pedro Passos Coelho",
+    "pt": "Pedro Passos Coelho"
+   },
+   "photo": "/countries/pt/pm/pedro-passos-coelho.jpg"
+  },
+  "antonio-costa": {
+   "name": {
+    "en": "António Costa",
+    "pt": "António Costa"
+   },
+   "photo": "/countries/pt/pm/antonio-costa.jpg"
+  },
+  "luis-montenegro": {
+   "name": {
+    "en": "Luís Montenegro",
+    "pt": "Luís Montenegro"
+   },
+   "photo": "/countries/pt/pm/luis-montenegro.jpg"
+  }
+ },
+ "terms": [
+  {
+   "term": "1975–1976",
+   "year": 1975,
+   "pm": "jose-baptista-pinheiro-de-azevedo",
+   "seats": 250,
+   "results": [
+    {
+     "id": "socialist-party",
+     "name": {
+      "en": "Socialist Party",
+      "pt": "Partido Socialista"
+     },
+     "seats": 116,
+     "bloc": "centre-left",
+     "color": "#FF66FF"
+    },
+    {
+     "id": "social-democratic-party",
+     "name": {
+      "en": "Social Democratic Party",
+      "pt": "Partido Social Democrata"
+     },
+     "seats": 81,
+     "bloc": "centre-right",
+     "color": "#FF9900"
+    },
+    {
+     "id": "portuguese-communist-party",
+     "name": {
+      "en": "Portuguese Communist Party",
+      "pt": "Partido Comunista Português"
+     },
+     "seats": 30,
+     "bloc": "far-left",
+     "color": "#FF0000"
+    },
+    {
+     "id": "democratic-and-social-centre-people-s-party",
+     "name": {
+      "en": "Democratic and Social Centre – People's Party",
+      "pt": "CDS - Partido Popular"
+     },
+     "seats": 16,
+     "bloc": "centre-right",
+     "color": "#0093DD"
+    },
+    {
+     "id": "portuguese-democratic-movement",
+     "name": {
+      "en": "Portuguese Democratic Movement",
+      "pt": "Movimento Democrático Português / Comissão Democrática Eleitoral"
+     },
+     "seats": 5,
+     "bloc": "left",
+     "color": "#AA1111"
+    },
+    {
+     "id": "popular-democratic-union",
+     "name": {
+      "en": "Popular Democratic Union",
+      "pt": "União Democrática Popular (UDP)"
+     },
+     "seats": 1,
+     "bloc": "far-left",
+     "color": "#E2062C"
+    },
+    {
+     "id": "association-for-the-defense-of-macau-interests",
+     "name": {
+      "en": "Association for the Defense of Macau Interests",
+      "pt": "Associação para a Defesa dos Interesses de Macau"
+     },
+     "seats": 1,
+     "bloc": "other",
+     "color": "#000080"
+    }
+   ]
+  },
+  {
+   "term": "1976–1979",
+   "year": 1976,
+   "pm": "mario-soares",
+   "seats": 263,
+   "results": [
+    {
+     "id": "socialist-party",
+     "name": {
+      "en": "Socialist Party",
+      "pt": "Partido Socialista"
+     },
+     "seats": 107,
+     "bloc": "centre-left",
+     "color": "#FF66FF"
+    },
+    {
+     "id": "social-democratic-party",
+     "name": {
+      "en": "Social Democratic Party",
+      "pt": "Partido Social Democrata"
+     },
+     "seats": 73,
+     "bloc": "centre-right",
+     "color": "#FF9900"
+    },
+    {
+     "id": "democratic-and-social-centre-people-s-party",
+     "name": {
+      "en": "Democratic and Social Centre – People's Party",
+      "pt": "CDS - Partido Popular"
+     },
+     "seats": 42,
+     "bloc": "centre-right",
+     "color": "#0093DD"
+    },
+    {
+     "id": "portuguese-communist-party",
+     "name": {
+      "en": "Portuguese Communist Party",
+      "pt": "Partido Comunista Português"
+     },
+     "seats": 40,
+     "bloc": "far-left",
+     "color": "#FF0000"
+    },
+    {
+     "id": "popular-democratic-union",
+     "name": {
+      "en": "Popular Democratic Union",
+      "pt": "União Democrática Popular (UDP)"
+     },
+     "seats": 1,
+     "bloc": "far-left",
+     "color": "#E2062C"
+    }
+   ]
+  },
+  {
+   "term": "1976–1979",
+   "year": 1978,
+   "pm": "alfredo-nobre-da-costa",
+   "seats": 263,
+   "results": [
+    {
+     "id": "socialist-party",
+     "name": {
+      "en": "Socialist Party",
+      "pt": "Partido Socialista"
+     },
+     "seats": 107,
+     "bloc": "centre-left",
+     "color": "#FF66FF"
+    },
+    {
+     "id": "social-democratic-party",
+     "name": {
+      "en": "Social Democratic Party",
+      "pt": "Partido Social Democrata"
+     },
+     "seats": 73,
+     "bloc": "centre-right",
+     "color": "#FF9900"
+    },
+    {
+     "id": "democratic-and-social-centre-people-s-party",
+     "name": {
+      "en": "Democratic and Social Centre – People's Party",
+      "pt": "CDS - Partido Popular"
+     },
+     "seats": 42,
+     "bloc": "centre-right",
+     "color": "#0093DD"
+    },
+    {
+     "id": "portuguese-communist-party",
+     "name": {
+      "en": "Portuguese Communist Party",
+      "pt": "Partido Comunista Português"
+     },
+     "seats": 40,
+     "bloc": "far-left",
+     "color": "#FF0000"
+    },
+    {
+     "id": "popular-democratic-union",
+     "name": {
+      "en": "Popular Democratic Union",
+      "pt": "União Democrática Popular (UDP)"
+     },
+     "seats": 1,
+     "bloc": "far-left",
+     "color": "#E2062C"
+    }
+   ]
+  },
+  {
+   "term": "1976–1979",
+   "year": 1978,
+   "pm": "carlos-mota-pinto",
+   "seats": 263,
+   "results": [
+    {
+     "id": "socialist-party",
+     "name": {
+      "en": "Socialist Party",
+      "pt": "Partido Socialista"
+     },
+     "seats": 107,
+     "bloc": "centre-left",
+     "color": "#FF66FF"
+    },
+    {
+     "id": "social-democratic-party",
+     "name": {
+      "en": "Social Democratic Party",
+      "pt": "Partido Social Democrata"
+     },
+     "seats": 73,
+     "bloc": "centre-right",
+     "color": "#FF9900"
+    },
+    {
+     "id": "democratic-and-social-centre-people-s-party",
+     "name": {
+      "en": "Democratic and Social Centre – People's Party",
+      "pt": "CDS - Partido Popular"
+     },
+     "seats": 42,
+     "bloc": "centre-right",
+     "color": "#0093DD"
+    },
+    {
+     "id": "portuguese-communist-party",
+     "name": {
+      "en": "Portuguese Communist Party",
+      "pt": "Partido Comunista Português"
+     },
+     "seats": 40,
+     "bloc": "far-left",
+     "color": "#FF0000"
+    },
+    {
+     "id": "popular-democratic-union",
+     "name": {
+      "en": "Popular Democratic Union",
+      "pt": "União Democrática Popular (UDP)"
+     },
+     "seats": 1,
+     "bloc": "far-left",
+     "color": "#E2062C"
+    }
+   ]
+  },
+  {
+   "term": "1976–1979",
+   "year": 1979,
+   "pm": "maria-de-lourdes-pintasilgo",
+   "seats": 263,
+   "results": [
+    {
+     "id": "socialist-party",
+     "name": {
+      "en": "Socialist Party",
+      "pt": "Partido Socialista"
+     },
+     "seats": 107,
+     "bloc": "centre-left",
+     "color": "#FF66FF"
+    },
+    {
+     "id": "social-democratic-party",
+     "name": {
+      "en": "Social Democratic Party",
+      "pt": "Partido Social Democrata"
+     },
+     "seats": 73,
+     "bloc": "centre-right",
+     "color": "#FF9900"
+    },
+    {
+     "id": "democratic-and-social-centre-people-s-party",
+     "name": {
+      "en": "Democratic and Social Centre – People's Party",
+      "pt": "CDS - Partido Popular"
+     },
+     "seats": 42,
+     "bloc": "centre-right",
+     "color": "#0093DD"
+    },
+    {
+     "id": "portuguese-communist-party",
+     "name": {
+      "en": "Portuguese Communist Party",
+      "pt": "Partido Comunista Português"
+     },
+     "seats": 40,
+     "bloc": "far-left",
+     "color": "#FF0000"
+    },
+    {
+     "id": "popular-democratic-union",
+     "name": {
+      "en": "Popular Democratic Union",
+      "pt": "União Democrática Popular (UDP)"
+     },
+     "seats": 1,
+     "bloc": "far-left",
+     "color": "#E2062C"
+    }
+   ]
+  },
+  {
+   "term": "1979–1980",
+   "year": 1980,
+   "pm": "francisco-de-sa-carneiro",
+   "seats": 250,
+   "results": [
+    {
+     "id": "democratic-alliance",
+     "name": {
+      "en": "Democratic Alliance",
+      "pt": "Aliança Democrática"
+     },
+     "seats": 121,
+     "bloc": "centre-right",
+     "color": "#2A52BE"
+    },
+    {
+     "id": "socialist-party",
+     "name": {
+      "en": "Socialist Party",
+      "pt": "Partido Socialista"
+     },
+     "seats": 74,
+     "bloc": "centre-left",
+     "color": "#FF66FF"
+    },
+    {
+     "id": "united-people-alliance",
+     "name": {
+      "en": "United People Alliance",
+      "pt": "Aliança Povo Unido"
+     },
+     "seats": 47,
+     "bloc": "far-left",
+     "color": "#EB3D43"
+    },
+    {
+     "id": "social-democratic-party",
+     "name": {
+      "en": "Social Democratic Party",
+      "pt": "Partido Social Democrata"
+     },
+     "seats": 7,
+     "bloc": "centre-right",
+     "color": "#FF9900"
+    },
+    {
+     "id": "popular-democratic-union",
+     "name": {
+      "en": "Popular Democratic Union",
+      "pt": "União Democrática Popular (UDP)"
+     },
+     "seats": 1,
+     "bloc": "far-left",
+     "color": "#E2062C"
+    }
+   ]
+  },
+  {
+   "term": "1980–1983",
+   "year": 1980,
+   "pm": "diogo-de-freitas-do-amaral",
+   "seats": 250,
+   "results": [
+    {
+     "id": "democratic-alliance",
+     "name": {
+      "en": "Democratic Alliance",
+      "pt": "Aliança Democrática"
+     },
+     "seats": 126,
+     "bloc": "centre-right",
+     "color": "#2A52BE"
+    },
+    {
+     "id": "republican-and-socialist-front",
+     "name": {
+      "en": "Republican and Socialist Front",
+      "pt": "Frente Republicana e Socialista"
+     },
+     "seats": 71,
+     "bloc": "left",
+     "color": "#FF2E3F"
+    },
+    {
+     "id": "united-people-alliance",
+     "name": {
+      "en": "United People Alliance",
+      "pt": "Aliança Povo Unido"
+     },
+     "seats": 41,
+     "bloc": "far-left",
+     "color": "#EB3D43"
+    },
+    {
+     "id": "social-democratic-party",
+     "name": {
+      "en": "Social Democratic Party",
+      "pt": "Partido Social Democrata"
+     },
+     "seats": 8,
+     "bloc": "centre-right",
+     "color": "#FF9900"
+    },
+    {
+     "id": "socialist-party",
+     "name": {
+      "en": "Socialist Party",
+      "pt": "Partido Socialista"
+     },
+     "seats": 3,
+     "bloc": "centre-left",
+     "color": "#FF66FF"
+    },
+    {
+     "id": "popular-democratic-union",
+     "name": {
+      "en": "Popular Democratic Union",
+      "pt": "União Democrática Popular (UDP)"
+     },
+     "seats": 1,
+     "bloc": "far-left",
+     "color": "#E2062C"
+    }
+   ]
+  },
+  {
+   "term": "1980–1983",
+   "year": 1981,
+   "pm": "francisco-pinto-balsemao",
+   "seats": 250,
+   "results": [
+    {
+     "id": "democratic-alliance",
+     "name": {
+      "en": "Democratic Alliance",
+      "pt": "Aliança Democrática"
+     },
+     "seats": 126,
+     "bloc": "centre-right",
+     "color": "#2A52BE"
+    },
+    {
+     "id": "republican-and-socialist-front",
+     "name": {
+      "en": "Republican and Socialist Front",
+      "pt": "Frente Republicana e Socialista"
+     },
+     "seats": 71,
+     "bloc": "left",
+     "color": "#FF2E3F"
+    },
+    {
+     "id": "united-people-alliance",
+     "name": {
+      "en": "United People Alliance",
+      "pt": "Aliança Povo Unido"
+     },
+     "seats": 41,
+     "bloc": "far-left",
+     "color": "#EB3D43"
+    },
+    {
+     "id": "social-democratic-party",
+     "name": {
+      "en": "Social Democratic Party",
+      "pt": "Partido Social Democrata"
+     },
+     "seats": 8,
+     "bloc": "centre-right",
+     "color": "#FF9900"
+    },
+    {
+     "id": "socialist-party",
+     "name": {
+      "en": "Socialist Party",
+      "pt": "Partido Socialista"
+     },
+     "seats": 3,
+     "bloc": "centre-left",
+     "color": "#FF66FF"
+    },
+    {
+     "id": "popular-democratic-union",
+     "name": {
+      "en": "Popular Democratic Union",
+      "pt": "União Democrática Popular (UDP)"
+     },
+     "seats": 1,
+     "bloc": "far-left",
+     "color": "#E2062C"
+    }
+   ]
+  },
+  {
+   "term": "1983–1985",
+   "year": 1983,
+   "pm": "mario-soares",
+   "seats": 250,
+   "results": [
+    {
+     "id": "socialist-party",
+     "name": {
+      "en": "Socialist Party",
+      "pt": "Partido Socialista"
+     },
+     "seats": 101,
+     "bloc": "centre-left",
+     "color": "#FF66FF"
+    },
+    {
+     "id": "social-democratic-party",
+     "name": {
+      "en": "Social Democratic Party",
+      "pt": "Partido Social Democrata"
+     },
+     "seats": 75,
+     "bloc": "centre-right",
+     "color": "#FF9900"
+    },
+    {
+     "id": "united-people-alliance",
+     "name": {
+      "en": "United People Alliance",
+      "pt": "Aliança Povo Unido"
+     },
+     "seats": 44,
+     "bloc": "far-left",
+     "color": "#EB3D43"
+    },
+    {
+     "id": "democratic-and-social-centre-people-s-party",
+     "name": {
+      "en": "CDS – People's Party",
+      "pt": "CDS - Partido Popular"
+     },
+     "seats": 30,
+     "bloc": "centre-right",
+     "color": "#0093DD"
+    }
+   ]
+  },
+  {
+   "term": "1985–1987",
+   "year": 1985,
+   "pm": "anibal-cavaco-silva",
+   "seats": 250,
+   "results": [
+    {
+     "id": "social-democratic-party",
+     "name": {
+      "en": "Social Democratic Party",
+      "pt": "Partido Social Democrata"
+     },
+     "seats": 88,
+     "bloc": "centre-right",
+     "color": "#FF9900"
+    },
+    {
+     "id": "socialist-party",
+     "name": {
+      "en": "Socialist Party",
+      "pt": "Partido Socialista"
+     },
+     "seats": 57,
+     "bloc": "centre-left",
+     "color": "#FF66FF"
+    },
+    {
+     "id": "democratic-renewal-party",
+     "name": {
+      "en": "Democratic Renewal Party",
+      "pt": "Partido Renovador Democrático"
+     },
+     "seats": 45,
+     "bloc": "centre-left",
+     "color": "#008000"
+    },
+    {
+     "id": "united-people-alliance",
+     "name": {
+      "en": "United People Alliance",
+      "pt": "Aliança Povo Unido"
+     },
+     "seats": 38,
+     "bloc": "far-left",
+     "color": "#EB3D43"
+    },
+    {
+     "id": "democratic-and-social-centre-people-s-party",
+     "name": {
+      "en": "CDS – People's Party",
+      "pt": "CDS - Partido Popular"
+     },
+     "seats": 22,
+     "bloc": "centre-right",
+     "color": "#0093DD"
+    }
+   ]
+  },
+  {
+   "term": "1987–1991",
+   "year": 1987,
+   "pm": "anibal-cavaco-silva",
+   "seats": 250,
+   "results": [
+    {
+     "id": "social-democratic-party",
+     "name": {
+      "en": "Social Democratic Party",
+      "pt": "Partido Social Democrata"
+     },
+     "seats": 148,
+     "bloc": "centre-right",
+     "color": "#FF9900"
+    },
+    {
+     "id": "socialist-party",
+     "name": {
+      "en": "Socialist Party",
+      "pt": "Partido Socialista"
+     },
+     "seats": 60,
+     "bloc": "centre-left",
+     "color": "#FF66FF"
+    },
+    {
+     "id": "unitary-democratic-coalition",
+     "name": {
+      "en": "Unitary Democratic Coalition",
+      "pt": "Coligação Democrática Unitária"
+     },
+     "seats": 31,
+     "bloc": "far-left",
+     "color": "#FF0000"
+    },
+    {
+     "id": "democratic-renewal-party",
+     "name": {
+      "en": "Democratic Renewal Party",
+      "pt": "Partido Renovador Democrático"
+     },
+     "seats": 7,
+     "bloc": "centre-left",
+     "color": "#008000"
+    },
+    {
+     "id": "democratic-and-social-centre-people-s-party",
+     "name": {
+      "en": "CDS – People's Party",
+      "pt": "CDS - Partido Popular"
+     },
+     "seats": 4,
+     "bloc": "centre-right",
+     "color": "#0093DD"
+    }
+   ]
+  },
+  {
+   "term": "1991–1995",
+   "year": 1991,
+   "pm": "anibal-cavaco-silva",
+   "seats": 230,
+   "results": [
+    {
+     "id": "social-democratic-party",
+     "name": {
+      "en": "Social Democratic Party",
+      "pt": "Partido Social Democrata"
+     },
+     "seats": 135,
+     "bloc": "centre-right",
+     "color": "#FF9900"
+    },
+    {
+     "id": "socialist-party",
+     "name": {
+      "en": "Socialist Party",
+      "pt": "Partido Socialista"
+     },
+     "seats": 72,
+     "bloc": "centre-left",
+     "color": "#FF66FF"
+    },
+    {
+     "id": "unitary-democratic-coalition",
+     "name": {
+      "en": "Unitary Democratic Coalition",
+      "pt": "Coligação Democrática Unitária"
+     },
+     "seats": 17,
+     "bloc": "far-left",
+     "color": "#FF0000"
+    },
+    {
+     "id": "democratic-and-social-centre-people-s-party",
+     "name": {
+      "en": "CDS – People's Party",
+      "pt": "CDS - Partido Popular"
+     },
+     "seats": 5,
+     "bloc": "centre-right",
+     "color": "#0093DD"
+    },
+    {
+     "id": "national-solidarity-party",
+     "name": {
+      "en": "National Solidarity Party",
+      "pt": "Partido da Solidariedade Nacional"
+     },
+     "seats": 1,
+     "bloc": "centre",
+     "color": "#000080"
+    }
+   ]
+  },
+  {
+   "term": "1995–1999",
+   "year": 1995,
+   "pm": "antonio-guterres",
+   "seats": 230,
+   "results": [
+    {
+     "id": "socialist-party",
+     "name": {
+      "en": "Socialist Party",
+      "pt": "Partido Socialista"
+     },
+     "seats": 112,
+     "bloc": "centre-left",
+     "color": "#FF66FF"
+    },
+    {
+     "id": "social-democratic-party",
+     "name": {
+      "en": "Social Democratic Party",
+      "pt": "Partido Social Democrata"
+     },
+     "seats": 88,
+     "bloc": "centre-right",
+     "color": "#FF9900"
+    },
+    {
+     "id": "democratic-and-social-centre-people-s-party",
+     "name": {
+      "en": "CDS – People's Party",
+      "pt": "CDS - Partido Popular"
+     },
+     "seats": 15,
+     "bloc": "centre-right",
+     "color": "#0093DD"
+    },
+    {
+     "id": "unitary-democratic-coalition",
+     "name": {
+      "en": "Unitary Democratic Coalition",
+      "pt": "Coligação Democrática Unitária"
+     },
+     "seats": 15,
+     "bloc": "far-left",
+     "color": "#FF0000"
+    }
+   ]
+  },
+  {
+   "term": "1999–2002",
+   "year": 1999,
+   "pm": "antonio-guterres",
+   "seats": 230,
+   "results": [
+    {
+     "id": "socialist-party",
+     "name": {
+      "en": "Socialist Party",
+      "pt": "Partido Socialista"
+     },
+     "seats": 115,
+     "bloc": "centre-left",
+     "color": "#FF66FF"
+    },
+    {
+     "id": "social-democratic-party",
+     "name": {
+      "en": "Social Democratic Party",
+      "pt": "Partido Social Democrata"
+     },
+     "seats": 81,
+     "bloc": "centre-right",
+     "color": "#FF9900"
+    },
+    {
+     "id": "unitary-democratic-coalition",
+     "name": {
+      "en": "Unitary Democratic Coalition",
+      "pt": "Coligação Democrática Unitária"
+     },
+     "seats": 17,
+     "bloc": "far-left",
+     "color": "#FF0000"
+    },
+    {
+     "id": "democratic-and-social-centre-people-s-party",
+     "name": {
+      "en": "CDS – People's Party",
+      "pt": "CDS - Partido Popular"
+     },
+     "seats": 15,
+     "bloc": "centre-right",
+     "color": "#0093DD"
+    },
+    {
+     "id": "left-bloc",
+     "name": {
+      "en": "Left Bloc",
+      "pt": "Bloco de Esquerda"
+     },
+     "seats": 2,
+     "bloc": "far-left",
+     "color": "#8B0000"
+    }
+   ]
+  },
+  {
+   "term": "2002–2005",
+   "year": 2002,
+   "pm": "jose-manuel-durao-barroso",
+   "seats": 230,
+   "results": [
+    {
+     "id": "social-democratic-party",
+     "name": {
+      "en": "Social Democratic Party",
+      "pt": "Partido Social Democrata"
+     },
+     "seats": 105,
+     "bloc": "centre-right",
+     "color": "#FF9900"
+    },
+    {
+     "id": "socialist-party",
+     "name": {
+      "en": "Socialist Party",
+      "pt": "Partido Socialista"
+     },
+     "seats": 96,
+     "bloc": "centre-left",
+     "color": "#FF66FF"
+    },
+    {
+     "id": "democratic-and-social-centre-people-s-party",
+     "name": {
+      "en": "CDS – People's Party",
+      "pt": "CDS - Partido Popular"
+     },
+     "seats": 14,
+     "bloc": "centre-right",
+     "color": "#0093DD"
+    },
+    {
+     "id": "unitary-democratic-coalition",
+     "name": {
+      "en": "Unitary Democratic Coalition",
+      "pt": "Coligação Democrática Unitária"
+     },
+     "seats": 12,
+     "bloc": "far-left",
+     "color": "#FF0000"
+    },
+    {
+     "id": "left-bloc",
+     "name": {
+      "en": "Left Bloc",
+      "pt": "Bloco de Esquerda"
+     },
+     "seats": 3,
+     "bloc": "far-left",
+     "color": "#8B0000"
+    }
+   ]
+  },
+  {
+   "term": "2002–2005",
+   "year": 2004,
+   "pm": "pedro-santana-lopes",
+   "seats": 230,
+   "results": [
+    {
+     "id": "social-democratic-party",
+     "name": {
+      "en": "Social Democratic Party",
+      "pt": "Partido Social Democrata"
+     },
+     "seats": 105,
+     "bloc": "centre-right",
+     "color": "#FF9900"
+    },
+    {
+     "id": "socialist-party",
+     "name": {
+      "en": "Socialist Party",
+      "pt": "Partido Socialista"
+     },
+     "seats": 96,
+     "bloc": "centre-left",
+     "color": "#FF66FF"
+    },
+    {
+     "id": "democratic-and-social-centre-people-s-party",
+     "name": {
+      "en": "CDS – People's Party",
+      "pt": "CDS - Partido Popular"
+     },
+     "seats": 14,
+     "bloc": "centre-right",
+     "color": "#0093DD"
+    },
+    {
+     "id": "unitary-democratic-coalition",
+     "name": {
+      "en": "Unitary Democratic Coalition",
+      "pt": "Coligação Democrática Unitária"
+     },
+     "seats": 12,
+     "bloc": "far-left",
+     "color": "#FF0000"
+    },
+    {
+     "id": "left-bloc",
+     "name": {
+      "en": "Left Bloc",
+      "pt": "Bloco de Esquerda"
+     },
+     "seats": 3,
+     "bloc": "far-left",
+     "color": "#8B0000"
+    }
+   ]
+  },
+  {
+   "term": "2005–2009",
+   "year": 2005,
+   "pm": "jose-socrates",
+   "seats": 230,
+   "results": [
+    {
+     "id": "socialist-party",
+     "name": {
+      "en": "Socialist Party",
+      "pt": "Partido Socialista"
+     },
+     "seats": 121,
+     "bloc": "centre-left",
+     "color": "#FF66FF"
+    },
+    {
+     "id": "social-democratic-party",
+     "name": {
+      "en": "Social Democratic Party",
+      "pt": "Partido Social Democrata"
+     },
+     "seats": 75,
+     "bloc": "centre-right",
+     "color": "#FF9900"
+    },
+    {
+     "id": "unitary-democratic-coalition",
+     "name": {
+      "en": "Unitary Democratic Coalition",
+      "pt": "Coligação Democrática Unitária"
+     },
+     "seats": 14,
+     "bloc": "far-left",
+     "color": "#FF0000"
+    },
+    {
+     "id": "democratic-and-social-centre-people-s-party",
+     "name": {
+      "en": "CDS – People's Party",
+      "pt": "CDS - Partido Popular"
+     },
+     "seats": 12,
+     "bloc": "centre-right",
+     "color": "#0093DD"
+    },
+    {
+     "id": "left-bloc",
+     "name": {
+      "en": "Left Bloc",
+      "pt": "Bloco de Esquerda"
+     },
+     "seats": 8,
+     "bloc": "far-left",
+     "color": "#8B0000"
+    }
+   ]
+  },
+  {
+   "term": "2009–2011",
+   "year": 2009,
+   "pm": "jose-socrates",
+   "seats": 230,
+   "results": [
+    {
+     "id": "socialist-party",
+     "name": {
+      "en": "Socialist Party",
+      "pt": "Partido Socialista"
+     },
+     "seats": 97,
+     "bloc": "centre-left",
+     "color": "#FF66FF"
+    },
+    {
+     "id": "social-democratic-party",
+     "name": {
+      "en": "Social Democratic Party",
+      "pt": "Partido Social Democrata"
+     },
+     "seats": 81,
+     "bloc": "centre-right",
+     "color": "#FF9900"
+    },
+    {
+     "id": "democratic-and-social-centre-people-s-party",
+     "name": {
+      "en": "CDS – People's Party",
+      "pt": "CDS - Partido Popular"
+     },
+     "seats": 21,
+     "bloc": "centre-right",
+     "color": "#0093DD"
+    },
+    {
+     "id": "left-bloc",
+     "name": {
+      "en": "Left Bloc",
+      "pt": "Bloco de Esquerda"
+     },
+     "seats": 16,
+     "bloc": "far-left",
+     "color": "#8B0000"
+    },
+    {
+     "id": "unitary-democratic-coalition",
+     "name": {
+      "en": "Unitary Democratic Coalition",
+      "pt": "Coligação Democrática Unitária"
+     },
+     "seats": 15,
+     "bloc": "far-left",
+     "color": "#FF0000"
+    }
+   ]
+  },
+  {
+   "term": "2011–2015",
+   "year": 2011,
+   "pm": "pedro-passos-coelho",
+   "seats": 230,
+   "results": [
+    {
+     "id": "social-democratic-party",
+     "name": {
+      "en": "Social Democratic Party",
+      "pt": "Partido Social Democrata"
+     },
+     "seats": 108,
+     "bloc": "centre-right",
+     "color": "#FF9900"
+    },
+    {
+     "id": "socialist-party",
+     "name": {
+      "en": "Socialist Party",
+      "pt": "Partido Socialista"
+     },
+     "seats": 74,
+     "bloc": "centre-left",
+     "color": "#FF66FF"
+    },
+    {
+     "id": "democratic-and-social-centre-people-s-party",
+     "name": {
+      "en": "CDS – People's Party",
+      "pt": "CDS - Partido Popular"
+     },
+     "seats": 24,
+     "bloc": "centre-right",
+     "color": "#0093DD"
+    },
+    {
+     "id": "unitary-democratic-coalition",
+     "name": {
+      "en": "Unitary Democratic Coalition",
+      "pt": "Coligação Democrática Unitária"
+     },
+     "seats": 16,
+     "bloc": "far-left",
+     "color": "#FF0000"
+    },
+    {
+     "id": "left-bloc",
+     "name": {
+      "en": "Left Bloc",
+      "pt": "Bloco de Esquerda"
+     },
+     "seats": 8,
+     "bloc": "far-left",
+     "color": "#8B0000"
+    }
+   ]
+  },
+  {
+   "term": "2015–2019",
+   "year": 2015,
+   "pm": "antonio-costa",
+   "seats": 230,
+   "results": [
+    {
+     "id": "coalition-psd-cds",
+     "name": {
+      "en": "Coalition PSD/CDS",
+      "pt": "Coligação PSD/CDS"
+     },
+     "seats": 102,
+     "bloc": "centre-right",
+     "color": "#00AAAA"
+    },
+    {
+     "id": "socialist-party",
+     "name": {
+      "en": "Socialist Party",
+      "pt": "Partido Socialista"
+     },
+     "seats": 86,
+     "bloc": "centre-left",
+     "color": "#FF66FF"
+    },
+    {
+     "id": "left-bloc",
+     "name": {
+      "en": "Left Bloc",
+      "pt": "Bloco de Esquerda"
+     },
+     "seats": 19,
+     "bloc": "far-left",
+     "color": "#8B0000"
+    },
+    {
+     "id": "unitary-democratic-coalition",
+     "name": {
+      "en": "Unitary Democratic Coalition",
+      "pt": "Coligação Democrática Unitária"
+     },
+     "seats": 17,
+     "bloc": "far-left",
+     "color": "#FF0000"
+    },
+    {
+     "id": "social-democratic-party",
+     "name": {
+      "en": "Social Democratic Party",
+      "pt": "Partido Social Democrata"
+     },
+     "seats": 5,
+     "bloc": "centre-right",
+     "color": "#FF9900"
+    },
+    {
+     "id": "people-animals-nature",
+     "name": {
+      "en": "People Animals Nature",
+      "pt": "Pessoas–Animais–Natureza"
+     },
+     "seats": 1,
+     "bloc": "centre",
+     "color": "#008080"
+    }
+   ]
+  },
+  {
+   "term": "2019–2022",
+   "year": 2019,
+   "pm": "antonio-costa",
+   "seats": 230,
+   "results": [
+    {
+     "id": "socialist-party",
+     "name": {
+      "en": "Socialist Party",
+      "pt": "Partido Socialista"
+     },
+     "seats": 108,
+     "bloc": "centre-left",
+     "color": "#FF66FF"
+    },
+    {
+     "id": "social-democratic-party",
+     "name": {
+      "en": "Social Democratic Party",
+      "pt": "Partido Social Democrata"
+     },
+     "seats": 79,
+     "bloc": "centre-right",
+     "color": "#FF9900"
+    },
+    {
+     "id": "left-bloc",
+     "name": {
+      "en": "Left Bloc",
+      "pt": "Bloco de Esquerda"
+     },
+     "seats": 19,
+     "bloc": "far-left",
+     "color": "#8B0000"
+    },
+    {
+     "id": "unitary-democratic-coalition",
+     "name": {
+      "en": "Unitary Democratic Coalition",
+      "pt": "Coligação Democrática Unitária"
+     },
+     "seats": 12,
+     "bloc": "far-left",
+     "color": "#FF0000"
+    },
+    {
+     "id": "democratic-and-social-centre-people-s-party",
+     "name": {
+      "en": "CDS – People's Party",
+      "pt": "CDS - Partido Popular"
+     },
+     "seats": 5,
+     "bloc": "centre-right",
+     "color": "#0093DD"
+    },
+    {
+     "id": "people-animals-nature",
+     "name": {
+      "en": "People Animals Nature",
+      "pt": "Pessoas–Animais–Natureza"
+     },
+     "seats": 4,
+     "bloc": "centre",
+     "color": "#008080"
+    },
+    {
+     "id": "chega",
+     "name": {
+      "en": "Chega",
+      "pt": "CHEGA"
+     },
+     "seats": 1,
+     "bloc": "far-right",
+     "color": "#222256"
+    },
+    {
+     "id": "liberal-initiative",
+     "name": {
+      "en": "Liberal Initiative",
+      "pt": "Iniciativa Liberal"
+     },
+     "seats": 1,
+     "bloc": "centre-right",
+     "color": "#00ADEF"
+    },
+    {
+     "id": "livre",
+     "name": {
+      "en": "LIVRE",
+      "pt": "LIVRE"
+     },
+     "seats": 1,
+     "bloc": "centre-left",
+     "color": "#C2D216"
+    }
+   ]
+  },
+  {
+   "term": "2022–2024",
+   "year": 2022,
+   "pm": "antonio-costa",
+   "seats": 230,
+   "results": [
+    {
+     "id": "socialist-party",
+     "name": {
+      "en": "Socialist Party",
+      "pt": "Partido Socialista"
+     },
+     "seats": 120,
+     "bloc": "centre-left",
+     "color": "#FF66FF"
+    },
+    {
+     "id": "social-democratic-party",
+     "name": {
+      "en": "Social Democratic Party",
+      "pt": "Partido Social Democrata"
+     },
+     "seats": 72,
+     "bloc": "centre-right",
+     "color": "#FF9900"
+    },
+    {
+     "id": "chega",
+     "name": {
+      "en": "Chega",
+      "pt": "CHEGA"
+     },
+     "seats": 12,
+     "bloc": "far-right",
+     "color": "#222256"
+    },
+    {
+     "id": "liberal-initiative",
+     "name": {
+      "en": "Liberal Initiative",
+      "pt": "Iniciativa Liberal"
+     },
+     "seats": 8,
+     "bloc": "centre-right",
+     "color": "#00ADEF"
+    },
+    {
+     "id": "unitary-democratic-coalition",
+     "name": {
+      "en": "Unitary Democratic Coalition",
+      "pt": "Coligação Democrática Unitária"
+     },
+     "seats": 6,
+     "bloc": "far-left",
+     "color": "#FF0000"
+    },
+    {
+     "id": "left-bloc",
+     "name": {
+      "en": "Left Bloc",
+      "pt": "Bloco de Esquerda"
+     },
+     "seats": 5,
+     "bloc": "far-left",
+     "color": "#8B0000"
+    },
+    {
+     "id": "coalition-psd-cds",
+     "name": {
+      "en": "Madeira First",
+      "pt": "Coligação PSD/CDS"
+     },
+     "seats": 3,
+     "bloc": "centre-right",
+     "color": "#00AAAA"
+    },
+    {
+     "id": "democratic-alliance-2",
+     "name": {
+      "en": "Democratic Alliance"
+     },
+     "seats": 2,
+     "bloc": "centre-right"
+    },
+    {
+     "id": "people-animals-nature",
+     "name": {
+      "en": "People Animals Nature",
+      "pt": "Pessoas–Animais–Natureza"
+     },
+     "seats": 1,
+     "bloc": "centre",
+     "color": "#008080"
+    },
+    {
+     "id": "livre",
+     "name": {
+      "en": "LIVRE",
+      "pt": "LIVRE"
+     },
+     "seats": 1,
+     "bloc": "centre-left",
+     "color": "#C2D216"
+    }
+   ]
+  },
+  {
+   "term": "2024–2025",
+   "year": 2024,
+   "pm": "luis-montenegro",
+   "seats": 230,
+   "results": [
+    {
+     "id": "socialist-party",
+     "name": {
+      "en": "Socialist Party",
+      "pt": "Partido Socialista"
+     },
+     "seats": 78,
+     "bloc": "centre-left",
+     "color": "#FF66FF"
+    },
+    {
+     "id": "democratic-alliance-portugal-2024",
+     "name": {
+      "en": "Democratic Alliance",
+      "pt": "Aliança Democrática"
+     },
+     "seats": 77,
+     "bloc": "centre-right",
+     "color": "#3777BC"
+    },
+    {
+     "id": "chega",
+     "name": {
+      "en": "Chega",
+      "pt": "CHEGA"
+     },
+     "seats": 50,
+     "bloc": "far-right",
+     "color": "#222256"
+    },
+    {
+     "id": "liberal-initiative",
+     "name": {
+      "en": "Liberal Initiative",
+      "pt": "Iniciativa Liberal"
+     },
+     "seats": 8,
+     "bloc": "centre-right",
+     "color": "#00ADEF"
+    },
+    {
+     "id": "left-bloc",
+     "name": {
+      "en": "Left Bloc",
+      "pt": "Bloco de Esquerda"
+     },
+     "seats": 5,
+     "bloc": "far-left",
+     "color": "#8B0000"
+    },
+    {
+     "id": "unitary-democratic-coalition",
+     "name": {
+      "en": "Unitary Democratic Coalition",
+      "pt": "Coligação Democrática Unitária"
+     },
+     "seats": 4,
+     "bloc": "far-left",
+     "color": "#FF0000"
+    },
+    {
+     "id": "livre",
+     "name": {
+      "en": "LIVRE",
+      "pt": "LIVRE"
+     },
+     "seats": 4,
+     "bloc": "centre-left",
+     "color": "#C2D216"
+    },
+    {
+     "id": "coalition-psd-cds",
+     "name": {
+      "en": "Coalition PSD/CDS",
+      "pt": "Coligação PSD/CDS"
+     },
+     "seats": 3,
+     "bloc": "centre-right",
+     "color": "#00AAAA"
+    },
+    {
+     "id": "people-animals-nature",
+     "name": {
+      "en": "People Animals Nature",
+      "pt": "Pessoas–Animais–Natureza"
+     },
+     "seats": 1,
+     "bloc": "centre",
+     "color": "#008080"
+    }
+   ]
+  },
+  {
+   "term": "2025–",
+   "year": 2025,
+   "pm": "luis-montenegro",
+   "seats": 230,
+   "results": [
+    {
+     "id": "coalition-psd-cds",
+     "name": {
+      "en": "Coalition PSD/CDS",
+      "pt": "Coligação PSD/CDS"
+     },
+     "seats": 88,
+     "bloc": "centre-right",
+     "color": "#00AAAA"
+    },
+    {
+     "id": "chega",
+     "name": {
+      "en": "Chega",
+      "pt": "CHEGA"
+     },
+     "seats": 60,
+     "bloc": "far-right",
+     "color": "#222256"
+    },
+    {
+     "id": "socialist-party",
+     "name": {
+      "en": "Socialist Party",
+      "pt": "Partido Socialista"
+     },
+     "seats": 58,
+     "bloc": "centre-left",
+     "color": "#FF66FF"
+    },
+    {
+     "id": "liberal-initiative",
+     "name": {
+      "en": "Liberal Initiative",
+      "pt": "Iniciativa Liberal"
+     },
+     "seats": 9,
+     "bloc": "centre-right",
+     "color": "#00ADEF"
+    },
+    {
+     "id": "livre",
+     "name": {
+      "en": "LIVRE",
+      "pt": "LIVRE"
+     },
+     "seats": 6,
+     "bloc": "centre-left",
+     "color": "#C2D216"
+    },
+    {
+     "id": "democratic-alliance-portugal-2024",
+     "name": {
+      "en": "Democratic Alliance",
+      "pt": "Aliança Democrática"
+     },
+     "seats": 3,
+     "bloc": "centre-right",
+     "color": "#3777BC"
+    },
+    {
+     "id": "unitary-democratic-coalition",
+     "name": {
+      "en": "Unitary Democratic Coalition",
+      "pt": "Coligação Democrática Unitária"
+     },
+     "seats": 3,
+     "bloc": "far-left",
+     "color": "#FF0000"
+    },
+    {
+     "id": "left-bloc",
+     "name": {
+      "en": "Left Bloc",
+      "pt": "Bloco de Esquerda"
+     },
+     "seats": 1,
+     "bloc": "far-left",
+     "color": "#8B0000"
+    },
+    {
+     "id": "people-animals-nature",
+     "name": {
+      "en": "People Animals Nature",
+      "pt": "Pessoas–Animais–Natureza"
+     },
+     "seats": 1,
+     "bloc": "centre",
+     "color": "#008080"
+    },
+    {
+     "id": "together-for-the-people",
+     "name": {
+      "en": "Together for the People",
+      "pt": "Juntos pelo Povo"
+     },
+     "seats": 1,
+     "bloc": "centre",
+     "color": "#00A28B"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/2025_Portuguese_legislative_election"
+  }
+ ],
+ "credits": [
+  "Mário Soares: Photo Claude TRUONG-NGOC, CC BY-SA 3.0, via Wikimedia Commons",
+  "Maria de Lourdes Pintasilgo: European Union - Source : EP, European Parliament, via Wikimedia Commons",
+  "Francisco de Sá Carneiro: Desconhecido, CC BY-SA 4.0, via Wikimedia Commons",
+  "Diogo de Freitas do Amaral: Unknown authorUnknown author, CC BY-SA 4.0, via Wikimedia Commons",
+  "Francisco Pinto Balsemão: Cruks, CC BY-SA 3.0, via Wikimedia Commons",
+  "Aníbal Cavaco Silva: Foreign and Commonwealth Office, OGL v1.0, via Wikimedia Commons",
+  "António Guterres: U.S. Department of State from United States, Public domain, via Wikimedia Commons",
+  "Pedro Santana Lopes: Roberto Santorini (Removed watermark read: RS), CC BY-SA 2.0, via Wikimedia Commons",
+  "José Sócrates: José Cruz/ABr, CC BY 3.0 br, via Wikimedia Commons",
+  "Pedro Passos Coelho: Cruks, CC BY-SA 3.0, via Wikimedia Commons",
+  "Luís Montenegro: European Union, Attribution, via Wikimedia Commons",
+  "José Manuel Durão Barroso: State Chancellery of Latvia, CC BY-SA 2.0, via Wikimedia Commons",
+  "António Costa: Frédéric Sierakowski - European Council, Attribution, via Wikimedia Commons"
+ ]
+}

@@ -10,11 +10,7 @@
    "en",
    "hu"
   ],
-  "emblem": "/countries/hu/emblem.png",
-  "years": [
-   1990,
-   2026
-  ]
+  "emblem": "/countries/hu/emblem.png"
  },
  "chamber": {
   "en": "National Assembly",

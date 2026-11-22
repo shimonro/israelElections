@@ -1,0 +1,1804 @@
+{
+ "meta": {
+  "code": "at",
+  "slug": "austria",
+  "name": {
+   "en": "Austria",
+   "de": "Österreich"
+  },
+  "languages": [
+   "en",
+   "de"
+  ],
+  "emblem": "/countries/at/emblem.png"
+ },
+ "chamber": {
+  "en": "National Council",
+  "de": "Nationalrat"
+ },
+ "termLabel": {
+  "en": "Term"
+ },
+ "leaderTitle": {
+  "en": "Federal Chancellor",
+  "de": "Bundeskanzler"
+ },
+ "blocs": [
+  {
+   "key": "far-left",
+   "name": {
+    "en": "Far-left",
+    "de": "Linksextremismus"
+   },
+   "hue": 340,
+   "color": "#9f1239"
+  },
+  {
+   "key": "left",
+   "name": {
+    "en": "Left",
+    "de": "politische Linke"
+   },
+   "hue": 0,
+   "color": "#dc2626"
+  },
+  {
+   "key": "centre-left",
+   "name": {
+    "en": "Centre-left",
+    "de": "Mitte-links"
+   },
+   "hue": 12,
+   "color": "#f87171"
+  },
+  {
+   "key": "centre",
+   "name": {
+    "en": "Centre",
+    "de": "politische Mitte"
+   },
+   "hue": 48,
+   "color": "#eab308"
+  },
+  {
+   "key": "centre-right",
+   "name": {
+    "en": "Centre-right",
+    "de": "Mitte-rechts"
+   },
+   "hue": 200,
+   "color": "#38bdf8"
+  },
+  {
+   "key": "right",
+   "name": {
+    "en": "Right",
+    "de": "politische Rechte"
+   },
+   "hue": 222,
+   "color": "#2563eb"
+  },
+  {
+   "key": "far-right",
+   "name": {
+    "en": "Far-right"
+   },
+   "hue": 262,
+   "color": "#7c3aed"
+  }
+ ],
+ "pms": {
+  "leopold-figl": {
+   "name": {
+    "en": "Leopold Figl",
+    "de": "Leopold Figl"
+   },
+   "photo": "/countries/at/pm/leopold-figl.jpg"
+  },
+  "julius-raab": {
+   "name": {
+    "en": "Julius Raab",
+    "de": "Julius Raab"
+   },
+   "photo": "/countries/at/pm/julius-raab.jpg"
+  },
+  "alfons-gorbach": {
+   "name": {
+    "en": "Alfons Gorbach",
+    "de": "Alfons Gorbach"
+   },
+   "photo": "/countries/at/pm/alfons-gorbach.jpg"
+  },
+  "bruno-kreisky": {
+   "name": {
+    "en": "Bruno Kreisky",
+    "de": "Bruno Kreisky"
+   },
+   "photo": "/countries/at/pm/bruno-kreisky.jpg"
+  },
+  "franz-vranitzky": {
+   "name": {
+    "en": "Franz Vranitzky",
+    "de": "Franz Vranitzky"
+   },
+   "photo": "/countries/at/pm/franz-vranitzky.jpg"
+  },
+  "viktor-klima": {
+   "name": {
+    "en": "Viktor Klima",
+    "de": "Viktor Klima"
+   },
+   "photo": "/countries/at/pm/viktor-klima.jpg"
+  },
+  "wolfgang-schussel": {
+   "name": {
+    "en": "Wolfgang Schüssel",
+    "de": "Wolfgang Schüssel"
+   },
+   "photo": "/countries/at/pm/wolfgang-schussel.jpg"
+  },
+  "alfred-gusenbauer": {
+   "name": {
+    "en": "Alfred Gusenbauer",
+    "de": "Alfred Gusenbauer"
+   },
+   "photo": "/countries/at/pm/alfred-gusenbauer.jpg"
+  },
+  "werner-faymann": {
+   "name": {
+    "en": "Werner Faymann",
+    "de": "Werner Faymann"
+   },
+   "photo": "/countries/at/pm/werner-faymann.jpg"
+  },
+  "christian-kern": {
+   "name": {
+    "en": "Christian Kern",
+    "de": "Christian Kern"
+   },
+   "photo": "/countries/at/pm/christian-kern.jpg"
+  },
+  "sebastian-kurz": {
+   "name": {
+    "en": "Sebastian Kurz",
+    "de": "Sebastian Kurz"
+   },
+   "photo": "/countries/at/pm/sebastian-kurz.jpg"
+  },
+  "brigitte-bierlein": {
+   "name": {
+    "en": "Brigitte Bierlein",
+    "de": "Brigitte Bierlein"
+   },
+   "photo": "/countries/at/pm/brigitte-bierlein.jpg"
+  },
+  "alexander-schallenberg": {
+   "name": {
+    "en": "Alexander Schallenberg",
+    "de": "Alexander Schallenberg"
+   },
+   "photo": "/countries/at/pm/alexander-schallenberg.jpg"
+  },
+  "karl-nehammer": {
+   "name": {
+    "en": "Karl Nehammer",
+    "de": "Karl Nehammer"
+   },
+   "photo": "/countries/at/pm/karl-nehammer.jpg"
+  },
+  "christian-stocker": {
+   "name": {
+    "en": "Christian Stocker",
+    "de": "Christian Stocker"
+   },
+   "photo": "/countries/at/pm/christian-stocker.jpg"
+  }
+ },
+ "terms": [
+  {
+   "term": "1945–1949",
+   "year": 1945,
+   "pm": "leopold-figl",
+   "seats": 165,
+   "results": [
+    {
+     "id": "austrian-people-s-party",
+     "name": {
+      "en": "Austrian People's Party",
+      "de": "Österreichische Volkspartei"
+     },
+     "seats": 85,
+     "bloc": "centre-right",
+     "color": "#000000"
+    },
+    {
+     "id": "social-democratic-party-of-austria",
+     "name": {
+      "en": "Social Democratic Party of Austria",
+      "de": "Sozialdemokratische Partei Österreichs"
+     },
+     "seats": 76,
+     "bloc": "centre-left",
+     "color": "#E42712"
+    },
+    {
+     "id": "communist-party-of-austria",
+     "name": {
+      "en": "Communist Party of Austria",
+      "de": "Kommunistische Partei Österreichs"
+     },
+     "seats": 4,
+     "bloc": "far-left",
+     "color": "#AA0000"
+    }
+   ]
+  },
+  {
+   "term": "1949–1953",
+   "year": 1949,
+   "pm": "leopold-figl",
+   "seats": 165,
+   "results": [
+    {
+     "id": "austrian-people-s-party",
+     "name": {
+      "en": "Austrian People's Party",
+      "de": "Österreichische Volkspartei"
+     },
+     "seats": 77,
+     "bloc": "centre-right",
+     "color": "#000000"
+    },
+    {
+     "id": "social-democratic-party-of-austria",
+     "name": {
+      "en": "Social Democratic Party of Austria",
+      "de": "Sozialdemokratische Partei Österreichs"
+     },
+     "seats": 67,
+     "bloc": "centre-left",
+     "color": "#E42712"
+    },
+    {
+     "id": "federation-of-independents",
+     "name": {
+      "en": "Federation of Independents",
+      "de": "Verband der Unabhängigen"
+     },
+     "seats": 16,
+     "bloc": "right",
+     "color": "#0056A2"
+    },
+    {
+     "id": "communist-party-of-austria",
+     "name": {
+      "en": "Communist Party of Austria",
+      "de": "Kommunistische Partei Österreichs"
+     },
+     "seats": 5,
+     "bloc": "far-left",
+     "color": "#AA0000"
+    }
+   ]
+  },
+  {
+   "term": "1953–1956",
+   "year": 1953,
+   "pm": "julius-raab",
+   "seats": 165,
+   "results": [
+    {
+     "id": "austrian-people-s-party",
+     "name": {
+      "en": "Austrian People's Party",
+      "de": "Österreichische Volkspartei"
+     },
+     "seats": 74,
+     "bloc": "centre-right",
+     "color": "#000000"
+    },
+    {
+     "id": "social-democratic-party-of-austria",
+     "name": {
+      "en": "Social Democratic Party of Austria",
+      "de": "Sozialdemokratische Partei Österreichs"
+     },
+     "seats": 73,
+     "bloc": "centre-left",
+     "color": "#E42712"
+    },
+    {
+     "id": "federation-of-independents",
+     "name": {
+      "en": "Federation of Independents",
+      "de": "Verband der Unabhängigen"
+     },
+     "seats": 14,
+     "bloc": "right",
+     "color": "#0056A2"
+    },
+    {
+     "id": "communist-party-of-austria",
+     "name": {
+      "en": "Communist Party of Austria",
+      "de": "Kommunistische Partei Österreichs"
+     },
+     "seats": 4,
+     "bloc": "far-left",
+     "color": "#AA0000"
+    }
+   ]
+  },
+  {
+   "term": "1956–1959",
+   "year": 1956,
+   "pm": "julius-raab",
+   "seats": 165,
+   "results": [
+    {
+     "id": "austrian-people-s-party",
+     "name": {
+      "en": "Austrian People's Party",
+      "de": "Österreichische Volkspartei"
+     },
+     "seats": 82,
+     "bloc": "centre-right",
+     "color": "#000000"
+    },
+    {
+     "id": "social-democratic-party-of-austria",
+     "name": {
+      "en": "Social Democratic Party of Austria",
+      "de": "Sozialdemokratische Partei Österreichs"
+     },
+     "seats": 74,
+     "bloc": "centre-left",
+     "color": "#E42712"
+    },
+    {
+     "id": "freedom-party-of-austria",
+     "name": {
+      "en": "Freedom Party of Austria",
+      "de": "Freiheitliche Partei Österreichs"
+     },
+     "seats": 6,
+     "bloc": "far-right",
+     "color": "#0056A2"
+    },
+    {
+     "id": "communist-party-of-austria",
+     "name": {
+      "en": "Communist Party of Austria",
+      "de": "Kommunistische Partei Österreichs"
+     },
+     "seats": 3,
+     "bloc": "far-left",
+     "color": "#AA0000"
+    }
+   ]
+  },
+  {
+   "term": "1959–1962",
+   "year": 1959,
+   "pm": "julius-raab",
+   "seats": 165,
+   "results": [
+    {
+     "id": "austrian-people-s-party",
+     "name": {
+      "en": "Austrian People's Party",
+      "de": "Österreichische Volkspartei"
+     },
+     "seats": 79,
+     "bloc": "centre-right",
+     "color": "#000000"
+    },
+    {
+     "id": "social-democratic-party-of-austria",
+     "name": {
+      "en": "Social Democratic Party of Austria",
+      "de": "Sozialdemokratische Partei Österreichs"
+     },
+     "seats": 78,
+     "bloc": "centre-left",
+     "color": "#E42712"
+    },
+    {
+     "id": "freedom-party-of-austria",
+     "name": {
+      "en": "Freedom Party of Austria",
+      "de": "Freiheitliche Partei Österreichs"
+     },
+     "seats": 8,
+     "bloc": "far-right",
+     "color": "#0056A2"
+    }
+   ]
+  },
+  {
+   "term": "1959–1962",
+   "year": 1961,
+   "pm": "alfons-gorbach",
+   "seats": 165,
+   "results": [
+    {
+     "id": "austrian-people-s-party",
+     "name": {
+      "en": "Austrian People's Party",
+      "de": "Österreichische Volkspartei"
+     },
+     "seats": 79,
+     "bloc": "centre-right",
+     "color": "#000000"
+    },
+    {
+     "id": "social-democratic-party-of-austria",
+     "name": {
+      "en": "Social Democratic Party of Austria",
+      "de": "Sozialdemokratische Partei Österreichs"
+     },
+     "seats": 78,
+     "bloc": "centre-left",
+     "color": "#E42712"
+    },
+    {
+     "id": "freedom-party-of-austria",
+     "name": {
+      "en": "Freedom Party of Austria",
+      "de": "Freiheitliche Partei Österreichs"
+     },
+     "seats": 8,
+     "bloc": "far-right",
+     "color": "#0056A2"
+    }
+   ]
+  },
+  {
+   "term": "1962–1966",
+   "year": 1962,
+   "pm": "alfons-gorbach",
+   "seats": 165,
+   "results": [
+    {
+     "id": "austrian-people-s-party",
+     "name": {
+      "en": "Austrian People's Party",
+      "de": "Österreichische Volkspartei"
+     },
+     "seats": 81,
+     "bloc": "centre-right",
+     "color": "#000000"
+    },
+    {
+     "id": "social-democratic-party-of-austria",
+     "name": {
+      "en": "Social Democratic Party of Austria",
+      "de": "Sozialdemokratische Partei Österreichs"
+     },
+     "seats": 76,
+     "bloc": "centre-left",
+     "color": "#E42712"
+    },
+    {
+     "id": "freedom-party-of-austria",
+     "name": {
+      "en": "Freedom Party of Austria",
+      "de": "Freiheitliche Partei Österreichs"
+     },
+     "seats": 8,
+     "bloc": "far-right",
+     "color": "#0056A2"
+    }
+   ]
+  },
+  {
+   "term": "1966–1970",
+   "year": 1966,
+   "pm": "alfons-gorbach",
+   "seats": 165,
+   "results": [
+    {
+     "id": "austrian-people-s-party",
+     "name": {
+      "en": "Austrian People's Party",
+      "de": "Österreichische Volkspartei"
+     },
+     "seats": 85,
+     "bloc": "centre-right",
+     "color": "#000000"
+    },
+    {
+     "id": "social-democratic-party-of-austria",
+     "name": {
+      "en": "Social Democratic Party of Austria",
+      "de": "Sozialdemokratische Partei Österreichs"
+     },
+     "seats": 74,
+     "bloc": "centre-left",
+     "color": "#E42712"
+    },
+    {
+     "id": "freedom-party-of-austria",
+     "name": {
+      "en": "Freedom Party of Austria",
+      "de": "Freiheitliche Partei Österreichs"
+     },
+     "seats": 6,
+     "bloc": "far-right",
+     "color": "#0056A2"
+    }
+   ]
+  },
+  {
+   "term": "1970–1971",
+   "year": 1970,
+   "pm": "bruno-kreisky",
+   "seats": 165,
+   "results": [
+    {
+     "id": "social-democratic-party-of-austria",
+     "name": {
+      "en": "Social Democratic Party of Austria",
+      "de": "Sozialdemokratische Partei Österreichs"
+     },
+     "seats": 81,
+     "bloc": "centre-left",
+     "color": "#E42712"
+    },
+    {
+     "id": "austrian-people-s-party",
+     "name": {
+      "en": "Austrian People's Party",
+      "de": "Österreichische Volkspartei"
+     },
+     "seats": 78,
+     "bloc": "centre-right",
+     "color": "#000000"
+    },
+    {
+     "id": "freedom-party-of-austria",
+     "name": {
+      "en": "Freedom Party of Austria",
+      "de": "Freiheitliche Partei Österreichs"
+     },
+     "seats": 6,
+     "bloc": "far-right",
+     "color": "#0056A2"
+    }
+   ]
+  },
+  {
+   "term": "1971–1975",
+   "year": 1971,
+   "pm": "bruno-kreisky",
+   "seats": 183,
+   "results": [
+    {
+     "id": "social-democratic-party-of-austria",
+     "name": {
+      "en": "Social Democratic Party of Austria",
+      "de": "Sozialdemokratische Partei Österreichs"
+     },
+     "seats": 93,
+     "bloc": "centre-left",
+     "color": "#E42712"
+    },
+    {
+     "id": "austrian-people-s-party",
+     "name": {
+      "en": "Austrian People's Party",
+      "de": "Österreichische Volkspartei"
+     },
+     "seats": 80,
+     "bloc": "centre-right",
+     "color": "#000000"
+    },
+    {
+     "id": "freedom-party-of-austria",
+     "name": {
+      "en": "Freedom Party of Austria",
+      "de": "Freiheitliche Partei Österreichs"
+     },
+     "seats": 10,
+     "bloc": "far-right",
+     "color": "#0056A2"
+    }
+   ]
+  },
+  {
+   "term": "1975–1979",
+   "year": 1975,
+   "pm": "bruno-kreisky",
+   "seats": 183,
+   "results": [
+    {
+     "id": "social-democratic-party-of-austria",
+     "name": {
+      "en": "Social Democratic Party of Austria",
+      "de": "Sozialdemokratische Partei Österreichs"
+     },
+     "seats": 93,
+     "bloc": "centre-left",
+     "color": "#E42712"
+    },
+    {
+     "id": "austrian-people-s-party",
+     "name": {
+      "en": "Austrian People's Party",
+      "de": "Österreichische Volkspartei"
+     },
+     "seats": 80,
+     "bloc": "centre-right",
+     "color": "#000000"
+    },
+    {
+     "id": "freedom-party-of-austria",
+     "name": {
+      "en": "Freedom Party of Austria",
+      "de": "Freiheitliche Partei Österreichs"
+     },
+     "seats": 10,
+     "bloc": "far-right",
+     "color": "#0056A2"
+    }
+   ]
+  },
+  {
+   "term": "1979–1983",
+   "year": 1979,
+   "pm": "bruno-kreisky",
+   "seats": 183,
+   "results": [
+    {
+     "id": "social-democratic-party-of-austria",
+     "name": {
+      "en": "Social Democratic Party of Austria",
+      "de": "Sozialdemokratische Partei Österreichs"
+     },
+     "seats": 95,
+     "bloc": "centre-left",
+     "color": "#E42712"
+    },
+    {
+     "id": "austrian-people-s-party",
+     "name": {
+      "en": "Austrian People's Party",
+      "de": "Österreichische Volkspartei"
+     },
+     "seats": 77,
+     "bloc": "centre-right",
+     "color": "#000000"
+    },
+    {
+     "id": "freedom-party-of-austria",
+     "name": {
+      "en": "Freedom Party of Austria",
+      "de": "Freiheitliche Partei Österreichs"
+     },
+     "seats": 11,
+     "bloc": "far-right",
+     "color": "#0056A2"
+    }
+   ]
+  },
+  {
+   "term": "1983–1986",
+   "year": 1983,
+   "pm": "bruno-kreisky",
+   "seats": 183,
+   "results": [
+    {
+     "id": "social-democratic-party-of-austria",
+     "name": {
+      "en": "Social Democratic Party of Austria",
+      "de": "Sozialdemokratische Partei Österreichs"
+     },
+     "seats": 90,
+     "bloc": "centre-left",
+     "color": "#E42712"
+    },
+    {
+     "id": "austrian-people-s-party",
+     "name": {
+      "en": "Austrian People's Party",
+      "de": "Österreichische Volkspartei"
+     },
+     "seats": 81,
+     "bloc": "centre-right",
+     "color": "#000000"
+    },
+    {
+     "id": "freedom-party-of-austria",
+     "name": {
+      "en": "Freedom Party of Austria",
+      "de": "Freiheitliche Partei Österreichs"
+     },
+     "seats": 12,
+     "bloc": "far-right",
+     "color": "#0056A2"
+    }
+   ]
+  },
+  {
+   "term": "1983–1986",
+   "year": 1986,
+   "pm": "franz-vranitzky",
+   "seats": 183,
+   "results": [
+    {
+     "id": "social-democratic-party-of-austria",
+     "name": {
+      "en": "Social Democratic Party of Austria",
+      "de": "Sozialdemokratische Partei Österreichs"
+     },
+     "seats": 90,
+     "bloc": "centre-left",
+     "color": "#E42712"
+    },
+    {
+     "id": "austrian-people-s-party",
+     "name": {
+      "en": "Austrian People's Party",
+      "de": "Österreichische Volkspartei"
+     },
+     "seats": 81,
+     "bloc": "centre-right",
+     "color": "#000000"
+    },
+    {
+     "id": "freedom-party-of-austria",
+     "name": {
+      "en": "Freedom Party of Austria",
+      "de": "Freiheitliche Partei Österreichs"
+     },
+     "seats": 12,
+     "bloc": "far-right",
+     "color": "#0056A2"
+    }
+   ]
+  },
+  {
+   "term": "1986–1990",
+   "year": 1986,
+   "pm": "franz-vranitzky",
+   "seats": 183,
+   "results": [
+    {
+     "id": "social-democratic-party-of-austria",
+     "name": {
+      "en": "Social Democratic Party of Austria",
+      "de": "Sozialdemokratische Partei Österreichs"
+     },
+     "seats": 80,
+     "bloc": "centre-left",
+     "color": "#E42712"
+    },
+    {
+     "id": "austrian-people-s-party",
+     "name": {
+      "en": "Austrian People's Party",
+      "de": "Österreichische Volkspartei"
+     },
+     "seats": 77,
+     "bloc": "centre-right",
+     "color": "#000000"
+    },
+    {
+     "id": "freedom-party-of-austria",
+     "name": {
+      "en": "Freedom Party of Austria",
+      "de": "Freiheitliche Partei Österreichs"
+     },
+     "seats": 18,
+     "bloc": "far-right",
+     "color": "#0056A2"
+    },
+    {
+     "id": "green-alternative-freda-meissner-blau-list",
+     "name": {
+      "en": "Green Alternative–Freda Meissner-Blau List"
+     },
+     "seats": 8,
+     "bloc": "centre-left"
+    }
+   ]
+  },
+  {
+   "term": "1990–1994",
+   "year": 1990,
+   "pm": "franz-vranitzky",
+   "seats": 183,
+   "results": [
+    {
+     "id": "social-democratic-party-of-austria",
+     "name": {
+      "en": "Social Democratic Party of Austria",
+      "de": "Sozialdemokratische Partei Österreichs"
+     },
+     "seats": 80,
+     "bloc": "centre-left",
+     "color": "#E42712"
+    },
+    {
+     "id": "austrian-people-s-party",
+     "name": {
+      "en": "Austrian People's Party",
+      "de": "Österreichische Volkspartei"
+     },
+     "seats": 60,
+     "bloc": "centre-right",
+     "color": "#000000"
+    },
+    {
+     "id": "freedom-party-of-austria",
+     "name": {
+      "en": "Freedom Party of Austria",
+      "de": "Freiheitliche Partei Österreichs"
+     },
+     "seats": 33,
+     "bloc": "far-right",
+     "color": "#0056A2"
+    },
+    {
+     "id": "green-alternative-freda-meissner-blau-list",
+     "name": {
+      "en": "Green Alternative–Freda Meissner-Blau List"
+     },
+     "seats": 10,
+     "bloc": "centre-left"
+    }
+   ]
+  },
+  {
+   "term": "1994–1995",
+   "year": 1994,
+   "pm": "franz-vranitzky",
+   "seats": 183,
+   "results": [
+    {
+     "id": "social-democratic-party-of-austria",
+     "name": {
+      "en": "Social Democratic Party of Austria",
+      "de": "Sozialdemokratische Partei Österreichs"
+     },
+     "seats": 65,
+     "bloc": "centre-left",
+     "color": "#E42712"
+    },
+    {
+     "id": "austrian-people-s-party",
+     "name": {
+      "en": "Austrian People's Party",
+      "de": "Österreichische Volkspartei"
+     },
+     "seats": 52,
+     "bloc": "centre-right",
+     "color": "#000000"
+    },
+    {
+     "id": "freedom-party-of-austria",
+     "name": {
+      "en": "Freedom Party of Austria",
+      "de": "Freiheitliche Partei Österreichs"
+     },
+     "seats": 42,
+     "bloc": "far-right",
+     "color": "#0056A2"
+    },
+    {
+     "id": "the-greens",
+     "name": {
+      "en": "The Greens",
+      "de": "Die Grünen – Die grüne Alternative"
+     },
+     "seats": 13,
+     "bloc": "centre-left",
+     "color": "#87B529"
+    },
+    {
+     "id": "liberal-forum",
+     "name": {
+      "en": "Liberal Forum",
+      "de": "Liberales Forum"
+     },
+     "seats": 11,
+     "bloc": "centre",
+     "color": "#FFDC00"
+    }
+   ]
+  },
+  {
+   "term": "1995–1999",
+   "year": 1995,
+   "pm": "franz-vranitzky",
+   "seats": 183,
+   "results": [
+    {
+     "id": "social-democratic-party-of-austria",
+     "name": {
+      "en": "Social Democratic Party of Austria",
+      "de": "Sozialdemokratische Partei Österreichs"
+     },
+     "seats": 71,
+     "bloc": "centre-left",
+     "color": "#E42712"
+    },
+    {
+     "id": "austrian-people-s-party",
+     "name": {
+      "en": "Austrian People's Party",
+      "de": "Österreichische Volkspartei"
+     },
+     "seats": 52,
+     "bloc": "centre-right",
+     "color": "#000000"
+    },
+    {
+     "id": "freedom-party-of-austria",
+     "name": {
+      "en": "Freedom Party of Austria",
+      "de": "Freiheitliche Partei Österreichs"
+     },
+     "seats": 41,
+     "bloc": "far-right",
+     "color": "#0056A2"
+    },
+    {
+     "id": "liberal-forum",
+     "name": {
+      "en": "Liberal Forum",
+      "de": "Liberales Forum"
+     },
+     "seats": 10,
+     "bloc": "centre",
+     "color": "#FFDC00"
+    },
+    {
+     "id": "the-greens",
+     "name": {
+      "en": "The Greens",
+      "de": "Die Grünen – Die grüne Alternative"
+     },
+     "seats": 9,
+     "bloc": "centre-left",
+     "color": "#87B529"
+    }
+   ]
+  },
+  {
+   "term": "1995–1999",
+   "year": 1997,
+   "pm": "viktor-klima",
+   "seats": 183,
+   "results": [
+    {
+     "id": "social-democratic-party-of-austria",
+     "name": {
+      "en": "Social Democratic Party of Austria",
+      "de": "Sozialdemokratische Partei Österreichs"
+     },
+     "seats": 71,
+     "bloc": "centre-left",
+     "color": "#E42712"
+    },
+    {
+     "id": "austrian-people-s-party",
+     "name": {
+      "en": "Austrian People's Party",
+      "de": "Österreichische Volkspartei"
+     },
+     "seats": 52,
+     "bloc": "centre-right",
+     "color": "#000000"
+    },
+    {
+     "id": "freedom-party-of-austria",
+     "name": {
+      "en": "Freedom Party of Austria",
+      "de": "Freiheitliche Partei Österreichs"
+     },
+     "seats": 41,
+     "bloc": "far-right",
+     "color": "#0056A2"
+    },
+    {
+     "id": "liberal-forum",
+     "name": {
+      "en": "Liberal Forum",
+      "de": "Liberales Forum"
+     },
+     "seats": 10,
+     "bloc": "centre",
+     "color": "#FFDC00"
+    },
+    {
+     "id": "the-greens",
+     "name": {
+      "en": "The Greens",
+      "de": "Die Grünen – Die grüne Alternative"
+     },
+     "seats": 9,
+     "bloc": "centre-left",
+     "color": "#87B529"
+    }
+   ]
+  },
+  {
+   "term": "1999–2002",
+   "year": 2000,
+   "pm": "wolfgang-schussel",
+   "seats": 183,
+   "results": [
+    {
+     "id": "social-democratic-party-of-austria",
+     "name": {
+      "en": "Social Democratic Party of Austria",
+      "de": "Sozialdemokratische Partei Österreichs"
+     },
+     "seats": 65,
+     "bloc": "centre-left",
+     "color": "#E42712"
+    },
+    {
+     "id": "freedom-party-of-austria",
+     "name": {
+      "en": "Freedom Party of Austria",
+      "de": "Freiheitliche Partei Österreichs"
+     },
+     "seats": 52,
+     "bloc": "far-right",
+     "color": "#0056A2"
+    },
+    {
+     "id": "austrian-people-s-party",
+     "name": {
+      "en": "Austrian People's Party",
+      "de": "Österreichische Volkspartei"
+     },
+     "seats": 52,
+     "bloc": "centre-right",
+     "color": "#000000"
+    },
+    {
+     "id": "the-greens",
+     "name": {
+      "en": "The Greens",
+      "de": "Die Grünen – Die grüne Alternative"
+     },
+     "seats": 14,
+     "bloc": "centre-left",
+     "color": "#87B529"
+    }
+   ]
+  },
+  {
+   "term": "2002–2006",
+   "year": 2002,
+   "pm": "wolfgang-schussel",
+   "seats": 183,
+   "results": [
+    {
+     "id": "austrian-people-s-party",
+     "name": {
+      "en": "Austrian People's Party",
+      "de": "Österreichische Volkspartei"
+     },
+     "seats": 79,
+     "bloc": "centre-right",
+     "color": "#000000"
+    },
+    {
+     "id": "social-democratic-party-of-austria",
+     "name": {
+      "en": "Social Democratic Party of Austria",
+      "de": "Sozialdemokratische Partei Österreichs"
+     },
+     "seats": 69,
+     "bloc": "centre-left",
+     "color": "#E42712"
+    },
+    {
+     "id": "freedom-party-of-austria",
+     "name": {
+      "en": "Freedom Party of Austria",
+      "de": "Freiheitliche Partei Österreichs"
+     },
+     "seats": 18,
+     "bloc": "far-right",
+     "color": "#0056A2"
+    },
+    {
+     "id": "the-greens",
+     "name": {
+      "en": "The Greens",
+      "de": "Die Grünen – Die grüne Alternative"
+     },
+     "seats": 17,
+     "bloc": "centre-left",
+     "color": "#87B529"
+    }
+   ]
+  },
+  {
+   "term": "2006–2008",
+   "year": 2007,
+   "pm": "alfred-gusenbauer",
+   "seats": 183,
+   "results": [
+    {
+     "id": "social-democratic-party-of-austria",
+     "name": {
+      "en": "Social Democratic Party of Austria",
+      "de": "Sozialdemokratische Partei Österreichs"
+     },
+     "seats": 68,
+     "bloc": "centre-left",
+     "color": "#E42712"
+    },
+    {
+     "id": "austrian-people-s-party",
+     "name": {
+      "en": "Austrian People's Party",
+      "de": "Österreichische Volkspartei"
+     },
+     "seats": 66,
+     "bloc": "centre-right",
+     "color": "#000000"
+    },
+    {
+     "id": "the-greens",
+     "name": {
+      "en": "The Greens",
+      "de": "Die Grünen – Die grüne Alternative"
+     },
+     "seats": 21,
+     "bloc": "centre-left",
+     "color": "#87B529"
+    },
+    {
+     "id": "freedom-party-of-austria",
+     "name": {
+      "en": "Freedom Party of Austria",
+      "de": "Freiheitliche Partei Österreichs"
+     },
+     "seats": 21,
+     "bloc": "far-right",
+     "color": "#0056A2"
+    },
+    {
+     "id": "alliance-for-the-future-of-austria",
+     "name": {
+      "en": "Alliance for the Future of Austria",
+      "de": "Bündnis Zukunft Österreich"
+     },
+     "seats": 7,
+     "bloc": "right",
+     "color": "#F29400"
+    }
+   ]
+  },
+  {
+   "term": "2008–2013",
+   "year": 2008,
+   "pm": "werner-faymann",
+   "seats": 183,
+   "results": [
+    {
+     "id": "social-democratic-party-of-austria",
+     "name": {
+      "en": "Social Democratic Party of Austria",
+      "de": "Sozialdemokratische Partei Österreichs"
+     },
+     "seats": 57,
+     "bloc": "centre-left",
+     "color": "#E42712"
+    },
+    {
+     "id": "austrian-people-s-party",
+     "name": {
+      "en": "Austrian People's Party",
+      "de": "Österreichische Volkspartei"
+     },
+     "seats": 51,
+     "bloc": "centre-right",
+     "color": "#000000"
+    },
+    {
+     "id": "freedom-party-of-austria",
+     "name": {
+      "en": "Freedom Party of Austria",
+      "de": "Freiheitliche Partei Österreichs"
+     },
+     "seats": 34,
+     "bloc": "far-right",
+     "color": "#0056A2"
+    },
+    {
+     "id": "alliance-for-the-future-of-austria",
+     "name": {
+      "en": "Alliance for the Future of Austria",
+      "de": "Bündnis Zukunft Österreich"
+     },
+     "seats": 21,
+     "bloc": "right",
+     "color": "#F29400"
+    },
+    {
+     "id": "the-greens",
+     "name": {
+      "en": "The Greens",
+      "de": "Die Grünen – Die grüne Alternative"
+     },
+     "seats": 20,
+     "bloc": "centre-left",
+     "color": "#87B529"
+    }
+   ]
+  },
+  {
+   "term": "2013–2017",
+   "year": 2013,
+   "pm": "werner-faymann",
+   "seats": 183,
+   "results": [
+    {
+     "id": "social-democratic-party-of-austria",
+     "name": {
+      "en": "Social Democratic Party of Austria",
+      "de": "Sozialdemokratische Partei Österreichs"
+     },
+     "seats": 52,
+     "bloc": "centre-left",
+     "color": "#E42712"
+    },
+    {
+     "id": "austrian-people-s-party",
+     "name": {
+      "en": "Austrian People's Party",
+      "de": "Österreichische Volkspartei"
+     },
+     "seats": 47,
+     "bloc": "centre-right",
+     "color": "#000000"
+    },
+    {
+     "id": "freedom-party-of-austria",
+     "name": {
+      "en": "Freedom Party of Austria",
+      "de": "Freiheitliche Partei Österreichs"
+     },
+     "seats": 40,
+     "bloc": "far-right",
+     "color": "#0056A2"
+    },
+    {
+     "id": "the-greens",
+     "name": {
+      "en": "The Greens",
+      "de": "Die Grünen – Die grüne Alternative"
+     },
+     "seats": 24,
+     "bloc": "centre-left",
+     "color": "#87B529"
+    },
+    {
+     "id": "team-stronach",
+     "name": {
+      "en": "Team Stronach",
+      "de": "Team Stronach für Österreich"
+     },
+     "seats": 11,
+     "bloc": "centre-right",
+     "color": "#E5CC00"
+    },
+    {
+     "id": "neos",
+     "name": {
+      "en": "NEOS",
+      "de": "NEOS – Das Neue Österreich und Liberales Forum"
+     },
+     "seats": 9,
+     "bloc": "centre",
+     "color": "#CB1667"
+    }
+   ]
+  },
+  {
+   "term": "2013–2017",
+   "year": 2016,
+   "pm": "christian-kern",
+   "seats": 183,
+   "results": [
+    {
+     "id": "social-democratic-party-of-austria",
+     "name": {
+      "en": "Social Democratic Party of Austria",
+      "de": "Sozialdemokratische Partei Österreichs"
+     },
+     "seats": 52,
+     "bloc": "centre-left",
+     "color": "#E42712"
+    },
+    {
+     "id": "austrian-people-s-party",
+     "name": {
+      "en": "Austrian People's Party",
+      "de": "Österreichische Volkspartei"
+     },
+     "seats": 47,
+     "bloc": "centre-right",
+     "color": "#000000"
+    },
+    {
+     "id": "freedom-party-of-austria",
+     "name": {
+      "en": "Freedom Party of Austria",
+      "de": "Freiheitliche Partei Österreichs"
+     },
+     "seats": 40,
+     "bloc": "far-right",
+     "color": "#0056A2"
+    },
+    {
+     "id": "the-greens",
+     "name": {
+      "en": "The Greens",
+      "de": "Die Grünen – Die grüne Alternative"
+     },
+     "seats": 24,
+     "bloc": "centre-left",
+     "color": "#87B529"
+    },
+    {
+     "id": "team-stronach",
+     "name": {
+      "en": "Team Stronach",
+      "de": "Team Stronach für Österreich"
+     },
+     "seats": 11,
+     "bloc": "centre-right",
+     "color": "#E5CC00"
+    },
+    {
+     "id": "neos",
+     "name": {
+      "en": "NEOS",
+      "de": "NEOS – Das Neue Österreich und Liberales Forum"
+     },
+     "seats": 9,
+     "bloc": "centre",
+     "color": "#CB1667"
+    }
+   ]
+  },
+  {
+   "term": "2017–2019",
+   "year": 2017,
+   "pm": "sebastian-kurz",
+   "seats": 183,
+   "results": [
+    {
+     "id": "austrian-people-s-party",
+     "name": {
+      "en": "Austrian People's Party",
+      "de": "Österreichische Volkspartei"
+     },
+     "seats": 62,
+     "bloc": "centre-right",
+     "color": "#000000"
+    },
+    {
+     "id": "social-democratic-party-of-austria",
+     "name": {
+      "en": "Social Democratic Party of Austria",
+      "de": "Sozialdemokratische Partei Österreichs"
+     },
+     "seats": 52,
+     "bloc": "centre-left",
+     "color": "#E42712"
+    },
+    {
+     "id": "freedom-party-of-austria",
+     "name": {
+      "en": "Freedom Party of Austria",
+      "de": "Freiheitliche Partei Österreichs"
+     },
+     "seats": 51,
+     "bloc": "far-right",
+     "color": "#0056A2"
+    },
+    {
+     "id": "neos",
+     "name": {
+      "en": "NEOS",
+      "de": "NEOS – Das Neue Österreich und Liberales Forum"
+     },
+     "seats": 10,
+     "bloc": "centre",
+     "color": "#CB1667"
+    },
+    {
+     "id": "jetzt",
+     "name": {
+      "en": "JETZT",
+      "de": "Jetzt – Liste Pilz"
+     },
+     "seats": 8,
+     "bloc": "left",
+     "color": "#ADADAD"
+    }
+   ]
+  },
+  {
+   "term": "2017–2019",
+   "year": 2019,
+   "pm": "brigitte-bierlein",
+   "seats": 183,
+   "results": [
+    {
+     "id": "austrian-people-s-party",
+     "name": {
+      "en": "Austrian People's Party",
+      "de": "Österreichische Volkspartei"
+     },
+     "seats": 62,
+     "bloc": "centre-right",
+     "color": "#000000"
+    },
+    {
+     "id": "social-democratic-party-of-austria",
+     "name": {
+      "en": "Social Democratic Party of Austria",
+      "de": "Sozialdemokratische Partei Österreichs"
+     },
+     "seats": 52,
+     "bloc": "centre-left",
+     "color": "#E42712"
+    },
+    {
+     "id": "freedom-party-of-austria",
+     "name": {
+      "en": "Freedom Party of Austria",
+      "de": "Freiheitliche Partei Österreichs"
+     },
+     "seats": 51,
+     "bloc": "far-right",
+     "color": "#0056A2"
+    },
+    {
+     "id": "neos",
+     "name": {
+      "en": "NEOS",
+      "de": "NEOS – Das Neue Österreich und Liberales Forum"
+     },
+     "seats": 10,
+     "bloc": "centre",
+     "color": "#CB1667"
+    },
+    {
+     "id": "jetzt",
+     "name": {
+      "en": "JETZT",
+      "de": "Jetzt – Liste Pilz"
+     },
+     "seats": 8,
+     "bloc": "left",
+     "color": "#ADADAD"
+    }
+   ]
+  },
+  {
+   "term": "2019–2024",
+   "year": 2020,
+   "pm": "sebastian-kurz",
+   "seats": 183,
+   "results": [
+    {
+     "id": "austrian-people-s-party",
+     "name": {
+      "en": "Austrian People's Party",
+      "de": "Österreichische Volkspartei"
+     },
+     "seats": 71,
+     "bloc": "centre-right",
+     "color": "#000000"
+    },
+    {
+     "id": "social-democratic-party-of-austria",
+     "name": {
+      "en": "Social Democratic Party of Austria",
+      "de": "Sozialdemokratische Partei Österreichs"
+     },
+     "seats": 40,
+     "bloc": "centre-left",
+     "color": "#E42712"
+    },
+    {
+     "id": "freedom-party-of-austria",
+     "name": {
+      "en": "Freedom Party of Austria",
+      "de": "Freiheitliche Partei Österreichs"
+     },
+     "seats": 31,
+     "bloc": "far-right",
+     "color": "#0056A2"
+    },
+    {
+     "id": "the-greens",
+     "name": {
+      "en": "The Greens",
+      "de": "Die Grünen – Die grüne Alternative"
+     },
+     "seats": 26,
+     "bloc": "centre-left",
+     "color": "#87B529"
+    },
+    {
+     "id": "neos",
+     "name": {
+      "en": "NEOS",
+      "de": "NEOS – Das Neue Österreich und Liberales Forum"
+     },
+     "seats": 15,
+     "bloc": "centre",
+     "color": "#CB1667"
+    }
+   ]
+  },
+  {
+   "term": "2019–2024",
+   "year": 2021,
+   "pm": "alexander-schallenberg",
+   "seats": 183,
+   "results": [
+    {
+     "id": "austrian-people-s-party",
+     "name": {
+      "en": "Austrian People's Party",
+      "de": "Österreichische Volkspartei"
+     },
+     "seats": 71,
+     "bloc": "centre-right",
+     "color": "#000000"
+    },
+    {
+     "id": "social-democratic-party-of-austria",
+     "name": {
+      "en": "Social Democratic Party of Austria",
+      "de": "Sozialdemokratische Partei Österreichs"
+     },
+     "seats": 40,
+     "bloc": "centre-left",
+     "color": "#E42712"
+    },
+    {
+     "id": "freedom-party-of-austria",
+     "name": {
+      "en": "Freedom Party of Austria",
+      "de": "Freiheitliche Partei Österreichs"
+     },
+     "seats": 31,
+     "bloc": "far-right",
+     "color": "#0056A2"
+    },
+    {
+     "id": "the-greens",
+     "name": {
+      "en": "The Greens",
+      "de": "Die Grünen – Die grüne Alternative"
+     },
+     "seats": 26,
+     "bloc": "centre-left",
+     "color": "#87B529"
+    },
+    {
+     "id": "neos",
+     "name": {
+      "en": "NEOS",
+      "de": "NEOS – Das Neue Österreich und Liberales Forum"
+     },
+     "seats": 15,
+     "bloc": "centre",
+     "color": "#CB1667"
+    }
+   ]
+  },
+  {
+   "term": "2019–2024",
+   "year": 2021,
+   "pm": "karl-nehammer",
+   "seats": 183,
+   "results": [
+    {
+     "id": "austrian-people-s-party",
+     "name": {
+      "en": "Austrian People's Party",
+      "de": "Österreichische Volkspartei"
+     },
+     "seats": 71,
+     "bloc": "centre-right",
+     "color": "#000000"
+    },
+    {
+     "id": "social-democratic-party-of-austria",
+     "name": {
+      "en": "Social Democratic Party of Austria",
+      "de": "Sozialdemokratische Partei Österreichs"
+     },
+     "seats": 40,
+     "bloc": "centre-left",
+     "color": "#E42712"
+    },
+    {
+     "id": "freedom-party-of-austria",
+     "name": {
+      "en": "Freedom Party of Austria",
+      "de": "Freiheitliche Partei Österreichs"
+     },
+     "seats": 31,
+     "bloc": "far-right",
+     "color": "#0056A2"
+    },
+    {
+     "id": "the-greens",
+     "name": {
+      "en": "The Greens",
+      "de": "Die Grünen – Die grüne Alternative"
+     },
+     "seats": 26,
+     "bloc": "centre-left",
+     "color": "#87B529"
+    },
+    {
+     "id": "neos",
+     "name": {
+      "en": "NEOS",
+      "de": "NEOS – Das Neue Österreich und Liberales Forum"
+     },
+     "seats": 15,
+     "bloc": "centre",
+     "color": "#CB1667"
+    }
+   ]
+  },
+  {
+   "term": "2024–",
+   "year": 2025,
+   "pm": "alexander-schallenberg",
+   "seats": 183,
+   "results": [
+    {
+     "id": "freedom-party-of-austria",
+     "name": {
+      "en": "Freedom Party of Austria",
+      "de": "Freiheitliche Partei Österreichs"
+     },
+     "seats": 57,
+     "bloc": "far-right",
+     "color": "#0056A2"
+    },
+    {
+     "id": "austrian-people-s-party",
+     "name": {
+      "en": "Austrian People's Party",
+      "de": "Österreichische Volkspartei"
+     },
+     "seats": 51,
+     "bloc": "centre-right",
+     "color": "#000000"
+    },
+    {
+     "id": "social-democratic-party-of-austria",
+     "name": {
+      "en": "Social Democratic Party of Austria",
+      "de": "Sozialdemokratische Partei Österreichs"
+     },
+     "seats": 41,
+     "bloc": "centre-left",
+     "color": "#E42712"
+    },
+    {
+     "id": "neos",
+     "name": {
+      "en": "NEOS",
+      "de": "NEOS – Das Neue Österreich und Liberales Forum"
+     },
+     "seats": 18,
+     "bloc": "centre",
+     "color": "#CB1667"
+    },
+    {
+     "id": "the-greens",
+     "name": {
+      "en": "The Greens",
+      "de": "Die Grünen – Die grüne Alternative"
+     },
+     "seats": 16,
+     "bloc": "centre-left",
+     "color": "#87B529"
+    }
+   ]
+  },
+  {
+   "term": "2024–",
+   "year": 2025,
+   "pm": "christian-stocker",
+   "seats": 183,
+   "results": [
+    {
+     "id": "freedom-party-of-austria",
+     "name": {
+      "en": "Freedom Party of Austria",
+      "de": "Freiheitliche Partei Österreichs"
+     },
+     "seats": 57,
+     "bloc": "far-right",
+     "color": "#0056A2"
+    },
+    {
+     "id": "austrian-people-s-party",
+     "name": {
+      "en": "Austrian People's Party",
+      "de": "Österreichische Volkspartei"
+     },
+     "seats": 51,
+     "bloc": "centre-right",
+     "color": "#000000"
+    },
+    {
+     "id": "social-democratic-party-of-austria",
+     "name": {
+      "en": "Social Democratic Party of Austria",
+      "de": "Sozialdemokratische Partei Österreichs"
+     },
+     "seats": 41,
+     "bloc": "centre-left",
+     "color": "#E42712"
+    },
+    {
+     "id": "neos",
+     "name": {
+      "en": "NEOS",
+      "de": "NEOS – Das Neue Österreich und Liberales Forum"
+     },
+     "seats": 18,
+     "bloc": "centre",
+     "color": "#CB1667"
+    },
+    {
+     "id": "the-greens",
+     "name": {
+      "en": "The Greens",
+      "de": "Die Grünen – Die grüne Alternative"
+     },
+     "seats": 16,
+     "bloc": "centre-left",
+     "color": "#87B529"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/2024_Austrian_legislative_election"
+  }
+ ],
+ "credits": [
+  "Leopold Figl: User:Karl Gruber Owner my family photo after 1962, CC BY-SA 3.0, via Wikimedia Commons",
+  "Alfons Gorbach: Unknown authorUnknown author, CC0, via Wikimedia Commons",
+  "Julius Raab: BKA/BPD, Attribution, via Wikimedia Commons",
+  "Bruno Kreisky: Votava (SPÖ Presse und Kommunikation), CC BY-SA 2.0, via Wikimedia Commons",
+  "Franz Vranitzky: Arne Müseler, CC BY-SA 3.0 de, via Wikimedia Commons",
+  "Viktor Klima: SPÖOÖ/rubra, CC BY 2.0, via Wikimedia Commons",
+  "Wolfgang Schüssel: Christophe Licoppe, CC BY 4.0, via Wikimedia Commons",
+  "Alfred Gusenbauer: Manfred Werner - Tsui, CC BY-SA 3.0, via Wikimedia Commons",
+  "Werner Faymann: Manfred Werner / Tsui, CC BY-SA 3.0, via Wikimedia Commons",
+  "Christian Kern: SPÖ Presse und Kommunikation, CC BY-SA 2.0, via Wikimedia Commons",
+  "Sebastian Kurz: Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons",
+  "Brigitte Bierlein: VfGH/Achim Bieniek, CC BY-SA 3.0 at, via Wikimedia Commons",
+  "Alexander Schallenberg: Bundesministerium für europäische und internationale Angelegenheiten, CC BY 2.0, via Wikimedia Commons",
+  "Karl Nehammer: C.Stadler/Bwag, CC BY-SA 4.0, via Wikimedia Commons",
+  "Christian Stocker: Frédéric Sierakowski / European Council, Attribution, via Wikimedia Commons"
+ ]
+}

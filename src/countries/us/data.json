@@ -1,0 +1,1435 @@
+{
+ "meta": {
+  "code": "us",
+  "slug": "united-states",
+  "name": {
+   "en": "United States"
+  },
+  "languages": [
+   "en"
+  ],
+  "emblem": "/countries/us/emblem.png"
+ },
+ "chamber": {
+  "en": "House of Representatives"
+ },
+ "termLabel": {
+  "en": "Congress"
+ },
+ "leaderTitle": {
+  "en": "President"
+ },
+ "blocs": [
+  {
+   "key": "centre-left",
+   "name": {
+    "en": "Centre-left"
+   },
+   "hue": 220,
+   "color": "#3b82f6"
+  },
+  {
+   "key": "right",
+   "name": {
+    "en": "Right"
+   },
+   "hue": 0,
+   "color": "#ef4444"
+  },
+  {
+   "key": "other",
+   "name": {
+    "en": "Other"
+   },
+   "color": "#94a3b8"
+  }
+ ],
+ "pms": {
+  "harry-s-truman": {
+   "name": {
+    "en": "Harry S. Truman"
+   },
+   "photo": "/countries/us/pm/harry-s-truman.jpg"
+  },
+  "dwight-d-eisenhower": {
+   "name": {
+    "en": "Dwight D. Eisenhower"
+   },
+   "photo": "/countries/us/pm/dwight-d-eisenhower.jpg"
+  },
+  "john-f-kennedy": {
+   "name": {
+    "en": "John F. Kennedy"
+   },
+   "photo": "/countries/us/pm/john-f-kennedy.jpg"
+  },
+  "lyndon-b-johnson": {
+   "name": {
+    "en": "Lyndon B. Johnson"
+   },
+   "photo": "/countries/us/pm/lyndon-b-johnson.jpg"
+  },
+  "richard-nixon": {
+   "name": {
+    "en": "Richard Nixon"
+   },
+   "photo": "/countries/us/pm/richard-nixon.jpg"
+  },
+  "gerald-ford": {
+   "name": {
+    "en": "Gerald Ford"
+   },
+   "photo": "/countries/us/pm/gerald-ford.jpg"
+  },
+  "jimmy-carter": {
+   "name": {
+    "en": "Jimmy Carter"
+   },
+   "photo": "/countries/us/pm/jimmy-carter.jpg"
+  },
+  "ronald-reagan": {
+   "name": {
+    "en": "Ronald Reagan"
+   },
+   "photo": "/countries/us/pm/ronald-reagan.jpg"
+  },
+  "george-h-w-bush": {
+   "name": {
+    "en": "George H. W. Bush"
+   },
+   "photo": "/countries/us/pm/george-h-w-bush.jpg"
+  },
+  "bill-clinton": {
+   "name": {
+    "en": "Bill Clinton"
+   },
+   "photo": "/countries/us/pm/bill-clinton.jpg"
+  },
+  "george-w-bush": {
+   "name": {
+    "en": "George W. Bush"
+   },
+   "photo": "/countries/us/pm/george-w-bush.jpg"
+  },
+  "barack-obama": {
+   "name": {
+    "en": "Barack Obama"
+   },
+   "photo": "/countries/us/pm/barack-obama.jpg"
+  },
+  "donald-trump": {
+   "name": {
+    "en": "Donald Trump"
+   },
+   "photo": "/countries/us/pm/donald-trump.jpg"
+  },
+  "joe-biden": {
+   "name": {
+    "en": "Joe Biden"
+   },
+   "photo": "/countries/us/pm/joe-biden.jpg"
+  }
+ },
+ "terms": [
+  {
+   "term": 80,
+   "year": 1946,
+   "pm": "harry-s-truman",
+   "seats": 435,
+   "results": [
+    {
+     "id": "republican-party",
+     "name": {
+      "en": "Republican Party"
+     },
+     "seats": 246,
+     "bloc": "right",
+     "color": "#E81B23"
+    },
+    {
+     "id": "democratic-party",
+     "name": {
+      "en": "Democratic Party"
+     },
+     "seats": 188,
+     "bloc": "centre-left",
+     "color": "#0044C9"
+    },
+    {
+     "id": "others",
+     "name": {
+      "en": "Others"
+     },
+     "seats": 1,
+     "bloc": "other"
+    }
+   ]
+  },
+  {
+   "term": 81,
+   "year": 1948,
+   "pm": "harry-s-truman",
+   "seats": 435,
+   "results": [
+    {
+     "id": "democratic-party",
+     "name": {
+      "en": "Democratic Party"
+     },
+     "seats": 263,
+     "bloc": "centre-left",
+     "color": "#0044C9"
+    },
+    {
+     "id": "republican-party",
+     "name": {
+      "en": "Republican Party"
+     },
+     "seats": 171,
+     "bloc": "right",
+     "color": "#E81B23"
+    },
+    {
+     "id": "others",
+     "name": {
+      "en": "Others"
+     },
+     "seats": 1,
+     "bloc": "other"
+    }
+   ]
+  },
+  {
+   "term": 82,
+   "year": 1950,
+   "pm": "harry-s-truman",
+   "seats": 435,
+   "results": [
+    {
+     "id": "democratic-party",
+     "name": {
+      "en": "Democratic Party"
+     },
+     "seats": 235,
+     "bloc": "centre-left",
+     "color": "#0044C9"
+    },
+    {
+     "id": "republican-party",
+     "name": {
+      "en": "Republican Party"
+     },
+     "seats": 199,
+     "bloc": "right",
+     "color": "#E81B23"
+    },
+    {
+     "id": "others",
+     "name": {
+      "en": "Others"
+     },
+     "seats": 1,
+     "bloc": "other"
+    }
+   ]
+  },
+  {
+   "term": 83,
+   "year": 1953,
+   "pm": "dwight-d-eisenhower",
+   "seats": 435,
+   "results": [
+    {
+     "id": "republican-party",
+     "name": {
+      "en": "Republican Party"
+     },
+     "seats": 221,
+     "bloc": "right",
+     "color": "#E81B23"
+    },
+    {
+     "id": "democratic-party",
+     "name": {
+      "en": "Democratic Party"
+     },
+     "seats": 213,
+     "bloc": "centre-left",
+     "color": "#0044C9"
+    },
+    {
+     "id": "others",
+     "name": {
+      "en": "Others"
+     },
+     "seats": 1,
+     "bloc": "other"
+    }
+   ]
+  },
+  {
+   "term": 84,
+   "year": 1954,
+   "pm": "dwight-d-eisenhower",
+   "seats": 435,
+   "results": [
+    {
+     "id": "democratic-party",
+     "name": {
+      "en": "Democratic Party"
+     },
+     "seats": 232,
+     "bloc": "centre-left",
+     "color": "#0044C9"
+    },
+    {
+     "id": "republican-party",
+     "name": {
+      "en": "Republican Party"
+     },
+     "seats": 203,
+     "bloc": "right",
+     "color": "#E81B23"
+    }
+   ]
+  },
+  {
+   "term": 85,
+   "year": 1956,
+   "pm": "dwight-d-eisenhower",
+   "seats": 435,
+   "results": [
+    {
+     "id": "democratic-party",
+     "name": {
+      "en": "Democratic Party"
+     },
+     "seats": 234,
+     "bloc": "centre-left",
+     "color": "#0044C9"
+    },
+    {
+     "id": "republican-party",
+     "name": {
+      "en": "Republican Party"
+     },
+     "seats": 201,
+     "bloc": "right",
+     "color": "#E81B23"
+    }
+   ]
+  },
+  {
+   "term": 86,
+   "year": 1958,
+   "pm": "dwight-d-eisenhower",
+   "seats": 436,
+   "results": [
+    {
+     "id": "democratic-party",
+     "name": {
+      "en": "Democratic Party"
+     },
+     "seats": 283,
+     "bloc": "centre-left",
+     "color": "#0044C9"
+    },
+    {
+     "id": "republican-party",
+     "name": {
+      "en": "Republican Party"
+     },
+     "seats": 153,
+     "bloc": "right",
+     "color": "#E81B23"
+    }
+   ]
+  },
+  {
+   "term": 87,
+   "year": 1961,
+   "pm": "john-f-kennedy",
+   "seats": 437,
+   "results": [
+    {
+     "id": "democratic-party",
+     "name": {
+      "en": "Democratic Party"
+     },
+     "seats": 262,
+     "bloc": "centre-left",
+     "color": "#0044C9"
+    },
+    {
+     "id": "republican-party",
+     "name": {
+      "en": "Republican Party"
+     },
+     "seats": 175,
+     "bloc": "right",
+     "color": "#E81B23"
+    }
+   ]
+  },
+  {
+   "term": 88,
+   "year": 1962,
+   "pm": "john-f-kennedy",
+   "seats": 435,
+   "results": [
+    {
+     "id": "democratic-party",
+     "name": {
+      "en": "Democratic Party"
+     },
+     "seats": 259,
+     "bloc": "centre-left",
+     "color": "#0044C9"
+    },
+    {
+     "id": "republican-party",
+     "name": {
+      "en": "Republican Party"
+     },
+     "seats": 176,
+     "bloc": "right",
+     "color": "#E81B23"
+    }
+   ]
+  },
+  {
+   "term": 88,
+   "year": 1963,
+   "pm": "lyndon-b-johnson",
+   "seats": 435,
+   "results": [
+    {
+     "id": "democratic-party",
+     "name": {
+      "en": "Democratic Party"
+     },
+     "seats": 259,
+     "bloc": "centre-left",
+     "color": "#0044C9"
+    },
+    {
+     "id": "republican-party",
+     "name": {
+      "en": "Republican Party"
+     },
+     "seats": 176,
+     "bloc": "right",
+     "color": "#E81B23"
+    }
+   ]
+  },
+  {
+   "term": 89,
+   "year": 1964,
+   "pm": "lyndon-b-johnson",
+   "seats": 435,
+   "results": [
+    {
+     "id": "democratic-party",
+     "name": {
+      "en": "Democratic Party"
+     },
+     "seats": 295,
+     "bloc": "centre-left",
+     "color": "#0044C9"
+    },
+    {
+     "id": "republican-party",
+     "name": {
+      "en": "Republican Party"
+     },
+     "seats": 140,
+     "bloc": "right",
+     "color": "#E81B23"
+    }
+   ]
+  },
+  {
+   "term": 90,
+   "year": 1966,
+   "pm": "lyndon-b-johnson",
+   "seats": 435,
+   "results": [
+    {
+     "id": "democratic-party",
+     "name": {
+      "en": "Democratic Party"
+     },
+     "seats": 248,
+     "bloc": "centre-left",
+     "color": "#0044C9"
+    },
+    {
+     "id": "republican-party",
+     "name": {
+      "en": "Republican Party"
+     },
+     "seats": 187,
+     "bloc": "right",
+     "color": "#E81B23"
+    }
+   ]
+  },
+  {
+   "term": 91,
+   "year": 1969,
+   "pm": "richard-nixon",
+   "seats": 435,
+   "results": [
+    {
+     "id": "democratic-party",
+     "name": {
+      "en": "Democratic Party"
+     },
+     "seats": 243,
+     "bloc": "centre-left",
+     "color": "#0044C9"
+    },
+    {
+     "id": "republican-party",
+     "name": {
+      "en": "Republican Party"
+     },
+     "seats": 192,
+     "bloc": "right",
+     "color": "#E81B23"
+    }
+   ]
+  },
+  {
+   "term": 92,
+   "year": 1970,
+   "pm": "richard-nixon",
+   "seats": 435,
+   "results": [
+    {
+     "id": "democratic-party",
+     "name": {
+      "en": "Democratic Party"
+     },
+     "seats": 255,
+     "bloc": "centre-left",
+     "color": "#0044C9"
+    },
+    {
+     "id": "republican-party",
+     "name": {
+      "en": "Republican Party"
+     },
+     "seats": 180,
+     "bloc": "right",
+     "color": "#E81B23"
+    }
+   ]
+  },
+  {
+   "term": 93,
+   "year": 1972,
+   "pm": "richard-nixon",
+   "seats": 435,
+   "results": [
+    {
+     "id": "democratic-party",
+     "name": {
+      "en": "Democratic Party"
+     },
+     "seats": 242,
+     "bloc": "centre-left",
+     "color": "#0044C9"
+    },
+    {
+     "id": "republican-party",
+     "name": {
+      "en": "Republican Party"
+     },
+     "seats": 192,
+     "bloc": "right",
+     "color": "#E81B23"
+    },
+    {
+     "id": "others",
+     "name": {
+      "en": "Others"
+     },
+     "seats": 1,
+     "bloc": "other"
+    }
+   ]
+  },
+  {
+   "term": 93,
+   "year": 1974,
+   "pm": "gerald-ford",
+   "seats": 435,
+   "results": [
+    {
+     "id": "democratic-party",
+     "name": {
+      "en": "Democratic Party"
+     },
+     "seats": 242,
+     "bloc": "centre-left",
+     "color": "#0044C9"
+    },
+    {
+     "id": "republican-party",
+     "name": {
+      "en": "Republican Party"
+     },
+     "seats": 192,
+     "bloc": "right",
+     "color": "#E81B23"
+    },
+    {
+     "id": "others",
+     "name": {
+      "en": "Others"
+     },
+     "seats": 1,
+     "bloc": "other"
+    }
+   ]
+  },
+  {
+   "term": 94,
+   "year": 1974,
+   "pm": "gerald-ford",
+   "seats": 435,
+   "results": [
+    {
+     "id": "democratic-party",
+     "name": {
+      "en": "Democratic Party"
+     },
+     "seats": 291,
+     "bloc": "centre-left",
+     "color": "#0044C9"
+    },
+    {
+     "id": "republican-party",
+     "name": {
+      "en": "Republican Party"
+     },
+     "seats": 144,
+     "bloc": "right",
+     "color": "#E81B23"
+    }
+   ]
+  },
+  {
+   "term": 95,
+   "year": 1977,
+   "pm": "jimmy-carter",
+   "seats": 435,
+   "results": [
+    {
+     "id": "democratic-party",
+     "name": {
+      "en": "Democratic Party"
+     },
+     "seats": 292,
+     "bloc": "centre-left",
+     "color": "#0044C9"
+    },
+    {
+     "id": "republican-party",
+     "name": {
+      "en": "Republican Party"
+     },
+     "seats": 143,
+     "bloc": "right",
+     "color": "#E81B23"
+    }
+   ]
+  },
+  {
+   "term": 96,
+   "year": 1978,
+   "pm": "jimmy-carter",
+   "seats": 435,
+   "results": [
+    {
+     "id": "democratic-party",
+     "name": {
+      "en": "Democratic Party"
+     },
+     "seats": 277,
+     "bloc": "centre-left",
+     "color": "#0044C9"
+    },
+    {
+     "id": "republican-party",
+     "name": {
+      "en": "Republican Party"
+     },
+     "seats": 157,
+     "bloc": "right",
+     "color": "#E81B23"
+    },
+    {
+     "id": "others",
+     "name": {
+      "en": "Others"
+     },
+     "seats": 1,
+     "bloc": "other"
+    }
+   ]
+  },
+  {
+   "term": 97,
+   "year": 1981,
+   "pm": "ronald-reagan",
+   "seats": 435,
+   "results": [
+    {
+     "id": "democratic-party",
+     "name": {
+      "en": "Democratic Party"
+     },
+     "seats": 242,
+     "bloc": "centre-left",
+     "color": "#0044C9"
+    },
+    {
+     "id": "republican-party",
+     "name": {
+      "en": "Republican Party"
+     },
+     "seats": 191,
+     "bloc": "right",
+     "color": "#E81B23"
+    },
+    {
+     "id": "others",
+     "name": {
+      "en": "Others"
+     },
+     "seats": 2,
+     "bloc": "other"
+    }
+   ]
+  },
+  {
+   "term": 98,
+   "year": 1982,
+   "pm": "ronald-reagan",
+   "seats": 435,
+   "results": [
+    {
+     "id": "democratic-party",
+     "name": {
+      "en": "Democratic Party"
+     },
+     "seats": 269,
+     "bloc": "centre-left",
+     "color": "#0044C9"
+    },
+    {
+     "id": "republican-party",
+     "name": {
+      "en": "Republican Party"
+     },
+     "seats": 165,
+     "bloc": "right",
+     "color": "#E81B23"
+    },
+    {
+     "id": "others",
+     "name": {
+      "en": "Others"
+     },
+     "seats": 1,
+     "bloc": "other"
+    }
+   ]
+  },
+  {
+   "term": 99,
+   "year": 1984,
+   "pm": "ronald-reagan",
+   "seats": 435,
+   "results": [
+    {
+     "id": "democratic-party",
+     "name": {
+      "en": "Democratic Party"
+     },
+     "seats": 253,
+     "bloc": "centre-left",
+     "color": "#0044C9"
+    },
+    {
+     "id": "republican-party",
+     "name": {
+      "en": "Republican Party"
+     },
+     "seats": 181,
+     "bloc": "right",
+     "color": "#E81B23"
+    },
+    {
+     "id": "others",
+     "name": {
+      "en": "Others"
+     },
+     "seats": 1,
+     "bloc": "other"
+    }
+   ]
+  },
+  {
+   "term": 100,
+   "year": 1986,
+   "pm": "ronald-reagan",
+   "seats": 435,
+   "results": [
+    {
+     "id": "democratic-party",
+     "name": {
+      "en": "Democratic Party"
+     },
+     "seats": 258,
+     "bloc": "centre-left",
+     "color": "#0044C9"
+    },
+    {
+     "id": "republican-party",
+     "name": {
+      "en": "Republican Party"
+     },
+     "seats": 177,
+     "bloc": "right",
+     "color": "#E81B23"
+    }
+   ]
+  },
+  {
+   "term": 101,
+   "year": 1989,
+   "pm": "george-h-w-bush",
+   "seats": 435,
+   "results": [
+    {
+     "id": "democratic-party",
+     "name": {
+      "en": "Democratic Party"
+     },
+     "seats": 260,
+     "bloc": "centre-left",
+     "color": "#0044C9"
+    },
+    {
+     "id": "republican-party",
+     "name": {
+      "en": "Republican Party"
+     },
+     "seats": 175,
+     "bloc": "right",
+     "color": "#E81B23"
+    }
+   ]
+  },
+  {
+   "term": 102,
+   "year": 1990,
+   "pm": "george-h-w-bush",
+   "seats": 435,
+   "results": [
+    {
+     "id": "democratic-party",
+     "name": {
+      "en": "Democratic Party"
+     },
+     "seats": 267,
+     "bloc": "centre-left",
+     "color": "#0044C9"
+    },
+    {
+     "id": "republican-party",
+     "name": {
+      "en": "Republican Party"
+     },
+     "seats": 167,
+     "bloc": "right",
+     "color": "#E81B23"
+    },
+    {
+     "id": "others",
+     "name": {
+      "en": "Others"
+     },
+     "seats": 1,
+     "bloc": "other"
+    }
+   ]
+  },
+  {
+   "term": 103,
+   "year": 1993,
+   "pm": "bill-clinton",
+   "seats": 435,
+   "results": [
+    {
+     "id": "democratic-party",
+     "name": {
+      "en": "Democratic Party"
+     },
+     "seats": 258,
+     "bloc": "centre-left",
+     "color": "#0044C9"
+    },
+    {
+     "id": "republican-party",
+     "name": {
+      "en": "Republican Party"
+     },
+     "seats": 176,
+     "bloc": "right",
+     "color": "#E81B23"
+    },
+    {
+     "id": "others",
+     "name": {
+      "en": "Others"
+     },
+     "seats": 1,
+     "bloc": "other"
+    }
+   ]
+  },
+  {
+   "term": 104,
+   "year": 1994,
+   "pm": "bill-clinton",
+   "seats": 435,
+   "results": [
+    {
+     "id": "republican-party",
+     "name": {
+      "en": "Republican Party"
+     },
+     "seats": 230,
+     "bloc": "right",
+     "color": "#E81B23"
+    },
+    {
+     "id": "democratic-party",
+     "name": {
+      "en": "Democratic Party"
+     },
+     "seats": 204,
+     "bloc": "centre-left",
+     "color": "#0044C9"
+    },
+    {
+     "id": "others",
+     "name": {
+      "en": "Others"
+     },
+     "seats": 1,
+     "bloc": "other"
+    }
+   ]
+  },
+  {
+   "term": 105,
+   "year": 1996,
+   "pm": "bill-clinton",
+   "seats": 435,
+   "results": [
+    {
+     "id": "republican-party",
+     "name": {
+      "en": "Republican Party"
+     },
+     "seats": 226,
+     "bloc": "right",
+     "color": "#E81B23"
+    },
+    {
+     "id": "democratic-party",
+     "name": {
+      "en": "Democratic Party"
+     },
+     "seats": 207,
+     "bloc": "centre-left",
+     "color": "#0044C9"
+    },
+    {
+     "id": "others",
+     "name": {
+      "en": "Others"
+     },
+     "seats": 2,
+     "bloc": "other"
+    }
+   ]
+  },
+  {
+   "term": 106,
+   "year": 1998,
+   "pm": "bill-clinton",
+   "seats": 435,
+   "results": [
+    {
+     "id": "republican-party",
+     "name": {
+      "en": "Republican Party"
+     },
+     "seats": 223,
+     "bloc": "right",
+     "color": "#E81B23"
+    },
+    {
+     "id": "democratic-party",
+     "name": {
+      "en": "Democratic Party"
+     },
+     "seats": 211,
+     "bloc": "centre-left",
+     "color": "#0044C9"
+    },
+    {
+     "id": "others",
+     "name": {
+      "en": "Others"
+     },
+     "seats": 1,
+     "bloc": "other"
+    }
+   ]
+  },
+  {
+   "term": 107,
+   "year": 2001,
+   "pm": "george-w-bush",
+   "seats": 435,
+   "results": [
+    {
+     "id": "republican-party",
+     "name": {
+      "en": "Republican Party"
+     },
+     "seats": 221,
+     "bloc": "right",
+     "color": "#E81B23"
+    },
+    {
+     "id": "democratic-party",
+     "name": {
+      "en": "Democratic Party"
+     },
+     "seats": 212,
+     "bloc": "centre-left",
+     "color": "#0044C9"
+    },
+    {
+     "id": "others",
+     "name": {
+      "en": "Others"
+     },
+     "seats": 2,
+     "bloc": "other"
+    }
+   ]
+  },
+  {
+   "term": 108,
+   "year": 2002,
+   "pm": "george-w-bush",
+   "seats": 435,
+   "results": [
+    {
+     "id": "republican-party",
+     "name": {
+      "en": "Republican Party"
+     },
+     "seats": 229,
+     "bloc": "right",
+     "color": "#E81B23"
+    },
+    {
+     "id": "democratic-party",
+     "name": {
+      "en": "Democratic Party"
+     },
+     "seats": 205,
+     "bloc": "centre-left",
+     "color": "#0044C9"
+    },
+    {
+     "id": "others",
+     "name": {
+      "en": "Others"
+     },
+     "seats": 1,
+     "bloc": "other"
+    }
+   ]
+  },
+  {
+   "term": 109,
+   "year": 2004,
+   "pm": "george-w-bush",
+   "seats": 435,
+   "results": [
+    {
+     "id": "republican-party",
+     "name": {
+      "en": "Republican Party"
+     },
+     "seats": 232,
+     "bloc": "right",
+     "color": "#E81B23"
+    },
+    {
+     "id": "democratic-party",
+     "name": {
+      "en": "Democratic Party"
+     },
+     "seats": 202,
+     "bloc": "centre-left",
+     "color": "#0044C9"
+    },
+    {
+     "id": "others",
+     "name": {
+      "en": "Others"
+     },
+     "seats": 1,
+     "bloc": "other"
+    }
+   ]
+  },
+  {
+   "term": 110,
+   "year": 2006,
+   "pm": "george-w-bush",
+   "seats": 435,
+   "results": [
+    {
+     "id": "democratic-party",
+     "name": {
+      "en": "Democratic Party"
+     },
+     "seats": 233,
+     "bloc": "centre-left",
+     "color": "#0044C9"
+    },
+    {
+     "id": "republican-party",
+     "name": {
+      "en": "Republican Party"
+     },
+     "seats": 202,
+     "bloc": "right",
+     "color": "#E81B23"
+    }
+   ]
+  },
+  {
+   "term": 111,
+   "year": 2009,
+   "pm": "barack-obama",
+   "seats": 435,
+   "results": [
+    {
+     "id": "democratic-party",
+     "name": {
+      "en": "Democratic Party"
+     },
+     "seats": 257,
+     "bloc": "centre-left",
+     "color": "#0044C9"
+    },
+    {
+     "id": "republican-party",
+     "name": {
+      "en": "Republican Party"
+     },
+     "seats": 178,
+     "bloc": "right",
+     "color": "#E81B23"
+    }
+   ]
+  },
+  {
+   "term": 112,
+   "year": 2010,
+   "pm": "barack-obama",
+   "seats": 435,
+   "results": [
+    {
+     "id": "republican-party",
+     "name": {
+      "en": "Republican Party"
+     },
+     "seats": 242,
+     "bloc": "right",
+     "color": "#E81B23"
+    },
+    {
+     "id": "democratic-party",
+     "name": {
+      "en": "Democratic Party"
+     },
+     "seats": 193,
+     "bloc": "centre-left",
+     "color": "#0044C9"
+    }
+   ]
+  },
+  {
+   "term": 113,
+   "year": 2012,
+   "pm": "barack-obama",
+   "seats": 435,
+   "results": [
+    {
+     "id": "republican-party",
+     "name": {
+      "en": "Republican Party"
+     },
+     "seats": 234,
+     "bloc": "right",
+     "color": "#E81B23"
+    },
+    {
+     "id": "democratic-party",
+     "name": {
+      "en": "Democratic Party"
+     },
+     "seats": 201,
+     "bloc": "centre-left",
+     "color": "#0044C9"
+    }
+   ]
+  },
+  {
+   "term": 114,
+   "year": 2014,
+   "pm": "barack-obama",
+   "seats": 435,
+   "results": [
+    {
+     "id": "republican-party",
+     "name": {
+      "en": "Republican Party"
+     },
+     "seats": 247,
+     "bloc": "right",
+     "color": "#E81B23"
+    },
+    {
+     "id": "democratic-party",
+     "name": {
+      "en": "Democratic Party"
+     },
+     "seats": 188,
+     "bloc": "centre-left",
+     "color": "#0044C9"
+    }
+   ]
+  },
+  {
+   "term": 115,
+   "year": 2017,
+   "pm": "donald-trump",
+   "seats": 435,
+   "results": [
+    {
+     "id": "republican-party",
+     "name": {
+      "en": "Republican Party"
+     },
+     "seats": 241,
+     "bloc": "right",
+     "color": "#E81B23"
+    },
+    {
+     "id": "democratic-party",
+     "name": {
+      "en": "Democratic Party"
+     },
+     "seats": 194,
+     "bloc": "centre-left",
+     "color": "#0044C9"
+    }
+   ]
+  },
+  {
+   "term": 116,
+   "year": 2018,
+   "pm": "donald-trump",
+   "seats": 435,
+   "results": [
+    {
+     "id": "democratic-party",
+     "name": {
+      "en": "Democratic Party"
+     },
+     "seats": 235,
+     "bloc": "centre-left",
+     "color": "#0044C9"
+    },
+    {
+     "id": "republican-party",
+     "name": {
+      "en": "Republican Party"
+     },
+     "seats": 199,
+     "bloc": "right",
+     "color": "#E81B23"
+    },
+    {
+     "id": "others",
+     "name": {
+      "en": "Others"
+     },
+     "seats": 1,
+     "bloc": "other"
+    }
+   ]
+  },
+  {
+   "term": 117,
+   "year": 2021,
+   "pm": "joe-biden",
+   "seats": 435,
+   "results": [
+    {
+     "id": "democratic-party",
+     "name": {
+      "en": "Democratic Party"
+     },
+     "seats": 222,
+     "bloc": "centre-left",
+     "color": "#0044C9"
+    },
+    {
+     "id": "republican-party",
+     "name": {
+      "en": "Republican Party"
+     },
+     "seats": 213,
+     "bloc": "right",
+     "color": "#E81B23"
+    }
+   ]
+  },
+  {
+   "term": 118,
+   "year": 2022,
+   "pm": "joe-biden",
+   "seats": 435,
+   "results": [
+    {
+     "id": "republican-party",
+     "name": {
+      "en": "Republican Party"
+     },
+     "seats": 222,
+     "bloc": "right",
+     "color": "#E81B23"
+    },
+    {
+     "id": "democratic-party",
+     "name": {
+      "en": "Democratic Party"
+     },
+     "seats": 213,
+     "bloc": "centre-left",
+     "color": "#0044C9"
+    }
+   ]
+  },
+  {
+   "term": 119,
+   "year": 2025,
+   "pm": "donald-trump",
+   "seats": 435,
+   "results": [
+    {
+     "id": "republican-party",
+     "name": {
+      "en": "Republican Party"
+     },
+     "seats": 220,
+     "bloc": "right",
+     "color": "#E81B23"
+    },
+    {
+     "id": "democratic-party",
+     "name": {
+      "en": "Democratic Party"
+     },
+     "seats": 215,
+     "bloc": "centre-left",
+     "color": "#0044C9"
+    }
+   ]
+  },
+  {
+   "term": 120,
+   "year": 2026,
+   "pm": "donald-trump",
+   "seats": 435,
+   "results": [
+    {
+     "id": "democratic-party",
+     "name": {
+      "en": "Democratic Party"
+     },
+     "seats": 259,
+     "bloc": "centre-left",
+     "color": "#0044C9"
+    },
+    {
+     "id": "republican-party",
+     "name": {
+      "en": "Republican Party"
+     },
+     "seats": 173,
+     "bloc": "right",
+     "color": "#E81B23"
+    },
+    {
+     "id": "others",
+     "name": {
+      "en": "Others"
+     },
+     "seats": 3,
+     "bloc": "other"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections"
+  }
+ ],
+ "credits": [
+  "Harry S. Truman: National Archives and Records Administration. Office of Presidential Libraries. Harry S. Truman Library., Public domain, via Wikimedia Commons",
+  "Dwight D. Eisenhower: White House, Public domain, via Wikimedia Commons",
+  "John F. Kennedy: Cecil W. Stoughton, Public domain, via Wikimedia Commons",
+  "Lyndon B. Johnson: Arnold Newman, Public domain, via Wikimedia Commons",
+  "Richard Nixon: Department of Defense. Department of the Army. Office of the Deputy Chief of Staff for Operations. U.S. Army Audiovisual Center. (ca. 1974 - 05/15/1984), Public domain, via Wikimedia Commons",
+  "Gerald Ford: David Hume Kennerly, Public domain, via Wikimedia Commons",
+  "Jimmy Carter: Department of Defense. Department of the Navy. Naval Photographic Center, Public domain, via Wikimedia Commons",
+  "Ronald Reagan: Michael Evans, Public domain, via Wikimedia Commons",
+  "George H. W. Bush: David Valdez, Public domain, via Wikimedia Commons",
+  "George W. Bush: Eric Draper, Public domain, via Wikimedia Commons",
+  "Bill Clinton: Bob McNeely, The White House[1], Public domain, via Wikimedia Commons",
+  "Barack Obama: Official White House Photo by Pete Souza, Public domain, via Wikimedia Commons",
+  "Donald Trump: Daniel Torok, Public domain, via Wikimedia Commons",
+  "Joe Biden: Adam Schultz, Public domain, via Wikimedia Commons"
+ ]
+}

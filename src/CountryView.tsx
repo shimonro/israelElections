@@ -1,5 +1,6 @@
-import { useCallback, useEffect, useMemo, useState } from 'react'
+import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { BarRace, BlocBar, Hemicycle } from './charts'
+import HistoryChart from './HistoryChart'
 import { RTL, termSlugs, tr } from './data'
 import type { Country, Term } from './data'
 import { languageName, ui } from './i18n'
@@ -9,23 +10,30 @@ const SPEEDS = [0.5, 1, 2, 4]
 const SONG_ID = '90WD_ats6eE'
 
 const governmentText = (g: Term['government'], lang: string) =>
-  g === null ? null : typeof g === 'object' ? tr(g, lang) : String(g)
+  g === null || g === undefined ? null : typeof g === 'object' ? tr(g, lang) : String(g)
 
 export default function CountryView({ country }: { country: Country }) {
   const { terms, blocs, pms, meta } = country
   const last = terms.length - 1
   const slugs = useMemo(() => termSlugs(terms), [terms])
-  // Timeline labels: the first term of each parliament, skipping ones too close to the previous label.
-  const ticks = useMemo(
-    () =>
-      terms.reduce<number[]>((acc, term, i) => {
-        const isNew = i === 0 || term.term !== terms[i - 1].term
-        const gap = Math.max(2, Math.round(terms.length / 18))
-        if (isNew && (acc.length === 0 || i - acc[acc.length - 1] >= gap) && (last - i >= gap || i === last)) acc.push(i)
-        return acc
-      }, []),
-    [terms, last],
-  )
+  // Timeline labels: the first term of each parliament, at least about 48px from the previous label.
+  const [timelineWidth, setTimelineWidth] = useState(900)
+  const timelineRef = useRef<HTMLElement>(null)
+  useEffect(() => {
+    const el = timelineRef.current
+    if (!el) return
+    const observer = new ResizeObserver(([entry]) => setTimelineWidth(entry.contentRect.width))
+    observer.observe(el)
+    return () => observer.disconnect()
+  }, [])
+  const ticks = useMemo(() => {
+    const gap = Math.max(2, Math.ceil((48 * last) / Math.max(timelineWidth, 1)))
+    return terms.reduce<number[]>((acc, term, i) => {
+      const isNew = i === 0 || term.term !== terms[i - 1].term
+      if (isNew && (acc.length === 0 || i - acc[acc.length - 1] >= gap) && (last - i >= gap || i === last)) acc.push(i)
+      return acc
+    }, [])
+  }, [terms, last, timelineWidth])
   const indexFromHash = useCallback(() => Math.max(0, slugs.indexOf(location.hash.slice(1))), [slugs])
 
   const [index, setIndex] = useState(indexFromHash)
@@ -103,6 +111,8 @@ export default function CountryView({ country }: { country: Country }) {
     setPlaying(true)
     setMusic(withMusic)
   }
+  // Position on the timeline track, matching the range input's thumb travel (thumb is 16px wide).
+  const pos = (i: number) => `calc(8px + (100% - 16px) * ${i / Math.max(1, last)})`
   const nextLang = meta.languages[(meta.languages.indexOf(lang) + 1) % meta.languages.length]
 
   return (
@@ -153,15 +163,23 @@ export default function CountryView({ country }: { country: Country }) {
               <dt>{tr(country.termLabel, lang)}</dt>
               <dd>{term.term}</dd>
             </div>
-            <div>
-              <dt>{s.government}</dt>
-              <dd>{government ?? s.noGovernment}</dd>
-            </div>
+            {term.government !== undefined && (
+              <div>
+                <dt>{s.government}</dt>
+                <dd>{government ?? s.noGovernment}</dd>
+              </div>
+            )}
           </dl>
           <figure className="pm">
-            <img key={pm.photo} src={pm.photo} alt={tr(pm.name, lang)} width="96" height="120" />
+            {pm.photo ? (
+              <img key={pm.photo} src={pm.photo} alt={tr(pm.name, lang)} width="96" height="120" />
+            ) : (
+              <span className="initials" aria-hidden="true">
+                {tr(pm.name, 'en').split(/\s+/).filter((w) => /^\p{Lu}/u.test(w)).map((w) => w[0]).filter((_, i, a) => i === 0 || i === a.length - 1).join('')}
+              </span>
+            )}
             <figcaption>
-              <small>{s.pm}</small>
+              <small>{country.leaderTitle ? tr(country.leaderTitle, lang) : s.pm}</small>
               <strong>{tr(pm.name, lang)}</strong>
             </figcaption>
           </figure>
@@ -180,7 +198,14 @@ export default function CountryView({ country }: { country: Country }) {
         </section>
       </main>
 
-      <section className="card timeline" aria-label={s.timeline}>
+      <section className="card timeline" aria-label={s.timeline} ref={timelineRef}>
+        <div className="markers" aria-hidden>
+          {terms.map((t, i) =>
+            i === 0 || t.term !== terms[i - 1].term ? (
+              <span key={i} className={i <= index ? 'past' : ''} style={{ insetInlineStart: pos(i) }} />
+            ) : null,
+          )}
+        </div>
         <input
           type="range"
           min={0}
@@ -195,7 +220,7 @@ export default function CountryView({ country }: { country: Country }) {
               key={i}
               tabIndex={-1}
               className={i === index ? 'on' : ''}
-              style={{ insetInlineStart: `${(i / last) * 100}%` }}
+              style={{ insetInlineStart: pos(i) }}
               onClick={() => setIndex(i)}
             >
               {terms[i].year}
@@ -204,6 +229,8 @@ export default function CountryView({ country }: { country: Country }) {
         </div>
         <p className="hint">{touch ? s.tapHint : s.keys}</p>
       </section>
+
+      <HistoryChart country={country} index={index} lang={lang} onSelect={setIndex} />
 
       <footer>
         {s.sources}:{' '}

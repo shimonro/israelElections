@@ -1,0 +1,4897 @@
+{
+ "meta": {
+  "code": "fi",
+  "slug": "finland",
+  "name": {
+   "en": "Finland",
+   "fi": "Suomi",
+   "sv": "Finland"
+  },
+  "languages": [
+   "en",
+   "fi",
+   "sv"
+  ],
+  "emblem": "/countries/fi/emblem.png"
+ },
+ "chamber": {
+  "en": "Parliament of Finland",
+  "fi": "Eduskunta",
+  "sv": "Riksdagen"
+ },
+ "termLabel": {
+  "en": "Term"
+ },
+ "leaderTitle": {
+  "en": "Prime Minister",
+  "fi": "Suomen pääministeri",
+  "sv": "Finlands statsminister"
+ },
+ "blocs": [
+  {
+   "key": "far-left",
+   "name": {
+    "en": "Far-left",
+    "fi": "äärivasemmisto",
+    "sv": "vänsterextremism"
+   },
+   "hue": 340,
+   "color": "#9f1239"
+  },
+  {
+   "key": "left",
+   "name": {
+    "en": "Left",
+    "fi": "vasemmisto",
+    "sv": "politisk vänster"
+   },
+   "hue": 0,
+   "color": "#dc2626"
+  },
+  {
+   "key": "centre-left",
+   "name": {
+    "en": "Centre-left",
+    "fi": "keskusta-vasemmisto",
+    "sv": "Center–vänster-politik"
+   },
+   "hue": 12,
+   "color": "#f87171"
+  },
+  {
+   "key": "centre",
+   "name": {
+    "en": "Centre",
+    "fi": "poliittinen keskusta",
+    "sv": "politisk mitt"
+   },
+   "hue": 48,
+   "color": "#eab308"
+  },
+  {
+   "key": "centre-right",
+   "name": {
+    "en": "Centre-right",
+    "fi": "Keskusta-oikeisto",
+    "sv": "Borgerliga partier"
+   },
+   "hue": 200,
+   "color": "#38bdf8"
+  },
+  {
+   "key": "right",
+   "name": {
+    "en": "Right",
+    "fi": "oikeisto",
+    "sv": "politisk höger"
+   },
+   "hue": 222,
+   "color": "#2563eb"
+  },
+  {
+   "key": "other",
+   "name": {
+    "en": "Other"
+   },
+   "color": "#94a3b8"
+  }
+ ],
+ "pms": {
+  "juho-kusti-paasikivi": {
+   "name": {
+    "en": "Juho Kusti Paasikivi",
+    "fi": "Juho Kusti Paasikivi",
+    "sv": "Juho Kusti Paasikivi"
+   },
+   "photo": "/countries/fi/pm/juho-kusti-paasikivi.jpg"
+  },
+  "mauno-pekkala": {
+   "name": {
+    "en": "Mauno Pekkala",
+    "fi": "Mauno Pekkala",
+    "sv": "Mauno Pekkala"
+   },
+   "photo": "/countries/fi/pm/mauno-pekkala.jpg"
+  },
+  "karl-august-fagerholm": {
+   "name": {
+    "en": "Karl-August Fagerholm",
+    "fi": "K.-A. Fagerholm",
+    "sv": "Karl-August Fagerholm"
+   },
+   "photo": "/countries/fi/pm/karl-august-fagerholm.jpg"
+  },
+  "urho-kekkonen": {
+   "name": {
+    "en": "Urho Kekkonen",
+    "fi": "Urho Kekkonen",
+    "sv": "Urho Kekkonen"
+   },
+   "photo": "/countries/fi/pm/urho-kekkonen.jpg"
+  },
+  "ralf-torngren": {
+   "name": {
+    "en": "Ralf Törngren",
+    "fi": "Ralf Törngren",
+    "sv": "Ralf Törngren"
+   },
+   "photo": "/countries/fi/pm/ralf-torngren.jpg"
+  },
+  "v-j-sukselainen": {
+   "name": {
+    "en": "V. J. Sukselainen",
+    "fi": "V. J. Sukselainen",
+    "sv": "V.J. Sukselainen"
+   },
+   "photo": "/countries/fi/pm/v-j-sukselainen.jpg"
+  },
+  "rainer-von-fieandt": {
+   "name": {
+    "en": "Rainer von Fieandt",
+    "fi": "Rainer von Fieandt",
+    "sv": "Rainer von Fieandt"
+   },
+   "photo": "/countries/fi/pm/rainer-von-fieandt.jpg"
+  },
+  "reino-kuuskoski": {
+   "name": {
+    "en": "Reino Kuuskoski",
+    "fi": "Reino Kuuskoski",
+    "sv": "Reino Kuuskoski"
+   },
+   "photo": "/countries/fi/pm/reino-kuuskoski.jpg"
+  },
+  "martti-miettunen": {
+   "name": {
+    "en": "Martti Miettunen",
+    "fi": "Martti Miettunen",
+    "sv": "Martti Miettunen"
+   },
+   "photo": "/countries/fi/pm/martti-miettunen.jpg"
+  },
+  "ahti-karjalainen": {
+   "name": {
+    "en": "Ahti Karjalainen",
+    "fi": "Ahti Karjalainen",
+    "sv": "Ahti Karjalainen"
+   },
+   "photo": "/countries/fi/pm/ahti-karjalainen.jpg"
+  },
+  "reino-ragnar-lehto": {
+   "name": {
+    "en": "Reino Ragnar Lehto",
+    "fi": "Reino R. Lehto",
+    "sv": "Reino Ragnar Lehto"
+   },
+   "photo": "/countries/fi/pm/reino-ragnar-lehto.jpg"
+  },
+  "johannes-virolainen": {
+   "name": {
+    "en": "Johannes Virolainen",
+    "fi": "Johannes Virolainen",
+    "sv": "Johannes Virolainen"
+   },
+   "photo": "/countries/fi/pm/johannes-virolainen.jpg"
+  },
+  "rafael-paasio": {
+   "name": {
+    "en": "Rafael Paasio",
+    "fi": "Rafael Paasio",
+    "sv": "Rafael Paasio"
+   },
+   "photo": "/countries/fi/pm/rafael-paasio.jpg"
+  },
+  "mauno-koivisto": {
+   "name": {
+    "en": "Mauno Koivisto",
+    "fi": "Mauno Koivisto",
+    "sv": "Mauno Koivisto"
+   },
+   "photo": "/countries/fi/pm/mauno-koivisto.jpg"
+  },
+  "teuvo-aura": {
+   "name": {
+    "en": "Teuvo Aura",
+    "fi": "Teuvo Aura",
+    "sv": "Teuvo Aura"
+   },
+   "photo": "/countries/fi/pm/teuvo-aura.jpg"
+  },
+  "kalevi-sorsa": {
+   "name": {
+    "en": "Kalevi Sorsa",
+    "fi": "Kalevi Sorsa",
+    "sv": "Kalevi Sorsa"
+   },
+   "photo": "/countries/fi/pm/kalevi-sorsa.jpg"
+  },
+  "keijo-liinamaa": {
+   "name": {
+    "en": "Keijo Liinamaa",
+    "fi": "Keijo Liinamaa",
+    "sv": "Keijo Liinamaa"
+   },
+   "photo": "/countries/fi/pm/keijo-liinamaa.jpg"
+  },
+  "harri-holkeri": {
+   "name": {
+    "en": "Harri Holkeri",
+    "fi": "Harri Holkeri",
+    "sv": "Harri Holkeri"
+   },
+   "photo": "/countries/fi/pm/harri-holkeri.jpg"
+  },
+  "esko-aho": {
+   "name": {
+    "en": "Esko Aho",
+    "fi": "Esko Aho",
+    "sv": "Esko Aho"
+   },
+   "photo": "/countries/fi/pm/esko-aho.jpg"
+  },
+  "paavo-lipponen": {
+   "name": {
+    "en": "Paavo Lipponen",
+    "fi": "Paavo Lipponen",
+    "sv": "Paavo Lipponen"
+   },
+   "photo": "/countries/fi/pm/paavo-lipponen.jpg"
+  },
+  "anneli-jaatteenmaki": {
+   "name": {
+    "en": "Anneli Jäätteenmäki",
+    "fi": "Anneli Jäätteenmäki",
+    "sv": "Anneli Jäätteenmäki"
+   },
+   "photo": "/countries/fi/pm/anneli-jaatteenmaki.jpg"
+  },
+  "matti-vanhanen": {
+   "name": {
+    "en": "Matti Vanhanen",
+    "fi": "Matti Vanhanen",
+    "sv": "Matti Vanhanen"
+   },
+   "photo": "/countries/fi/pm/matti-vanhanen.jpg"
+  },
+  "mari-kiviniemi": {
+   "name": {
+    "en": "Mari Kiviniemi",
+    "fi": "Mari Kiviniemi",
+    "sv": "Mari Kiviniemi"
+   },
+   "photo": "/countries/fi/pm/mari-kiviniemi.jpg"
+  },
+  "jyrki-katainen": {
+   "name": {
+    "en": "Jyrki Katainen",
+    "fi": "Jyrki Katainen",
+    "sv": "Jyrki Katainen"
+   },
+   "photo": "/countries/fi/pm/jyrki-katainen.jpg"
+  },
+  "alexander-stubb": {
+   "name": {
+    "en": "Alexander Stubb",
+    "fi": "Alexander Stubb",
+    "sv": "Alexander Stubb"
+   },
+   "photo": "/countries/fi/pm/alexander-stubb.jpg"
+  },
+  "juha-sipila": {
+   "name": {
+    "en": "Juha Sipilä",
+    "fi": "Juha Sipilä",
+    "sv": "Juha Sipilä"
+   },
+   "photo": "/countries/fi/pm/juha-sipila.jpg"
+  },
+  "antti-rinne": {
+   "name": {
+    "en": "Antti Rinne",
+    "fi": "Antti Rinne",
+    "sv": "Antti Rinne"
+   },
+   "photo": "/countries/fi/pm/antti-rinne.jpg"
+  },
+  "sanna-marin": {
+   "name": {
+    "en": "Sanna Marin",
+    "fi": "Sanna Marin",
+    "sv": "Sanna Marin"
+   },
+   "photo": "/countries/fi/pm/sanna-marin.jpg"
+  },
+  "petteri-orpo": {
+   "name": {
+    "en": "Petteri Orpo",
+    "fi": "Petteri Orpo",
+    "sv": "Petteri Orpo"
+   },
+   "photo": "/countries/fi/pm/petteri-orpo.jpg"
+  }
+ },
+ "terms": [
+  {
+   "term": "1945–1948",
+   "year": 1945,
+   "pm": "juho-kusti-paasikivi",
+   "seats": 200,
+   "results": [
+    {
+     "id": "social-democratic-party-of-finland",
+     "name": {
+      "en": "Social Democratic Party of Finland",
+      "fi": "Suomen Sosialidemokraattinen Puolue",
+      "sv": "Finlands Socialdemokratiska parti"
+     },
+     "seats": 50,
+     "bloc": "centre-left",
+     "color": "#F54B4B"
+    },
+    {
+     "id": "finnish-people-s-democratic-league",
+     "name": {
+      "en": "Finnish People's Democratic League",
+      "fi": "Suomen Kansan Demokraattinen Liitto",
+      "sv": "Demokratiska förbundet för Finlands folk"
+     },
+     "seats": 49,
+     "bloc": "left",
+     "color": "#C30B02"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "fi": "Suomen Keskusta",
+      "sv": "Centern i Finland"
+     },
+     "seats": 49,
+     "bloc": "centre",
+     "color": "#3AAD2E"
+    },
+    {
+     "id": "national-coalition-party",
+     "name": {
+      "en": "National Coalition Party",
+      "fi": "Kansallinen Kokoomus",
+      "sv": "Samlingspartiet"
+     },
+     "seats": 28,
+     "bloc": "centre-right",
+     "color": "#006288"
+    },
+    {
+     "id": "swedish-people-s-party-of-finland",
+     "name": {
+      "en": "Swedish People's Party of Finland",
+      "fi": "Suomen ruotsalainen kansanpuolue",
+      "sv": "Svenska folkpartiet i Finland"
+     },
+     "seats": 14,
+     "bloc": "centre",
+     "color": "#ffdd93"
+    },
+    {
+     "id": "national-progressive-party",
+     "name": {
+      "en": "National Progressive Party",
+      "fi": "Kansallinen Edistyspuolue",
+      "sv": "Framstegspartiet"
+     },
+     "seats": 9,
+     "bloc": "right",
+     "color": "#FFD700"
+    },
+    {
+     "id": "liberal-swedish-party",
+     "name": {
+      "en": "Liberal Swedish Party",
+      "fi": "Ruotsalainen vapaamielinen puolue",
+      "sv": "Svensk vänster"
+     },
+     "seats": 1,
+     "bloc": "centre"
+    }
+   ]
+  },
+  {
+   "term": "1945–1948",
+   "year": 1946,
+   "pm": "mauno-pekkala",
+   "seats": 200,
+   "results": [
+    {
+     "id": "social-democratic-party-of-finland",
+     "name": {
+      "en": "Social Democratic Party of Finland",
+      "fi": "Suomen Sosialidemokraattinen Puolue",
+      "sv": "Finlands Socialdemokratiska parti"
+     },
+     "seats": 50,
+     "bloc": "centre-left",
+     "color": "#F54B4B"
+    },
+    {
+     "id": "finnish-people-s-democratic-league",
+     "name": {
+      "en": "Finnish People's Democratic League",
+      "fi": "Suomen Kansan Demokraattinen Liitto",
+      "sv": "Demokratiska förbundet för Finlands folk"
+     },
+     "seats": 49,
+     "bloc": "left",
+     "color": "#C30B02"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "fi": "Suomen Keskusta",
+      "sv": "Centern i Finland"
+     },
+     "seats": 49,
+     "bloc": "centre",
+     "color": "#3AAD2E"
+    },
+    {
+     "id": "national-coalition-party",
+     "name": {
+      "en": "National Coalition Party",
+      "fi": "Kansallinen Kokoomus",
+      "sv": "Samlingspartiet"
+     },
+     "seats": 28,
+     "bloc": "centre-right",
+     "color": "#006288"
+    },
+    {
+     "id": "swedish-people-s-party-of-finland",
+     "name": {
+      "en": "Swedish People's Party of Finland",
+      "fi": "Suomen ruotsalainen kansanpuolue",
+      "sv": "Svenska folkpartiet i Finland"
+     },
+     "seats": 14,
+     "bloc": "centre",
+     "color": "#ffdd93"
+    },
+    {
+     "id": "national-progressive-party",
+     "name": {
+      "en": "National Progressive Party",
+      "fi": "Kansallinen Edistyspuolue",
+      "sv": "Framstegspartiet"
+     },
+     "seats": 9,
+     "bloc": "right",
+     "color": "#FFD700"
+    },
+    {
+     "id": "liberal-swedish-party",
+     "name": {
+      "en": "Liberal Swedish Party",
+      "fi": "Ruotsalainen vapaamielinen puolue",
+      "sv": "Svensk vänster"
+     },
+     "seats": 1,
+     "bloc": "centre"
+    }
+   ]
+  },
+  {
+   "term": "1948–1951",
+   "year": 1948,
+   "pm": "karl-august-fagerholm",
+   "seats": 200,
+   "results": [
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "fi": "Suomen Keskusta",
+      "sv": "Centern i Finland"
+     },
+     "seats": 56,
+     "bloc": "centre",
+     "color": "#3AAD2E"
+    },
+    {
+     "id": "social-democratic-party-of-finland",
+     "name": {
+      "en": "Social Democratic Party of Finland",
+      "fi": "Suomen Sosialidemokraattinen Puolue",
+      "sv": "Finlands Socialdemokratiska parti"
+     },
+     "seats": 54,
+     "bloc": "centre-left",
+     "color": "#F54B4B"
+    },
+    {
+     "id": "finnish-people-s-democratic-league",
+     "name": {
+      "en": "Finnish People's Democratic League",
+      "fi": "Suomen Kansan Demokraattinen Liitto",
+      "sv": "Demokratiska förbundet för Finlands folk"
+     },
+     "seats": 38,
+     "bloc": "left",
+     "color": "#C30B02"
+    },
+    {
+     "id": "national-coalition-party",
+     "name": {
+      "en": "National Coalition Party",
+      "fi": "Kansallinen Kokoomus",
+      "sv": "Samlingspartiet"
+     },
+     "seats": 33,
+     "bloc": "centre-right",
+     "color": "#006288"
+    },
+    {
+     "id": "swedish-people-s-party-of-finland",
+     "name": {
+      "en": "Swedish People's Party of Finland",
+      "fi": "Suomen ruotsalainen kansanpuolue",
+      "sv": "Svenska folkpartiet i Finland"
+     },
+     "seats": 13,
+     "bloc": "centre",
+     "color": "#ffdd93"
+    },
+    {
+     "id": "national-progressive-party",
+     "name": {
+      "en": "National Progressive Party",
+      "fi": "Kansallinen Edistyspuolue",
+      "sv": "Framstegspartiet"
+     },
+     "seats": 5,
+     "bloc": "right",
+     "color": "#FFD700"
+    },
+    {
+     "id": "aland-coalition",
+     "name": {
+      "en": "Åland Coalition",
+      "fi": "Åländsk Samling",
+      "sv": "Åländsk Samling"
+     },
+     "seats": 1,
+     "bloc": "centre",
+     "color": "#D7DB50"
+    }
+   ]
+  },
+  {
+   "term": "1948–1951",
+   "year": 1950,
+   "pm": "urho-kekkonen",
+   "seats": 200,
+   "results": [
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "fi": "Suomen Keskusta",
+      "sv": "Centern i Finland"
+     },
+     "seats": 56,
+     "bloc": "centre",
+     "color": "#3AAD2E"
+    },
+    {
+     "id": "social-democratic-party-of-finland",
+     "name": {
+      "en": "Social Democratic Party of Finland",
+      "fi": "Suomen Sosialidemokraattinen Puolue",
+      "sv": "Finlands Socialdemokratiska parti"
+     },
+     "seats": 54,
+     "bloc": "centre-left",
+     "color": "#F54B4B"
+    },
+    {
+     "id": "finnish-people-s-democratic-league",
+     "name": {
+      "en": "Finnish People's Democratic League",
+      "fi": "Suomen Kansan Demokraattinen Liitto",
+      "sv": "Demokratiska förbundet för Finlands folk"
+     },
+     "seats": 38,
+     "bloc": "left",
+     "color": "#C30B02"
+    },
+    {
+     "id": "national-coalition-party",
+     "name": {
+      "en": "National Coalition Party",
+      "fi": "Kansallinen Kokoomus",
+      "sv": "Samlingspartiet"
+     },
+     "seats": 33,
+     "bloc": "centre-right",
+     "color": "#006288"
+    },
+    {
+     "id": "swedish-people-s-party-of-finland",
+     "name": {
+      "en": "Swedish People's Party of Finland",
+      "fi": "Suomen ruotsalainen kansanpuolue",
+      "sv": "Svenska folkpartiet i Finland"
+     },
+     "seats": 13,
+     "bloc": "centre",
+     "color": "#ffdd93"
+    },
+    {
+     "id": "national-progressive-party",
+     "name": {
+      "en": "National Progressive Party",
+      "fi": "Kansallinen Edistyspuolue",
+      "sv": "Framstegspartiet"
+     },
+     "seats": 5,
+     "bloc": "right",
+     "color": "#FFD700"
+    },
+    {
+     "id": "aland-coalition",
+     "name": {
+      "en": "Åland Coalition",
+      "fi": "Åländsk Samling",
+      "sv": "Åländsk Samling"
+     },
+     "seats": 1,
+     "bloc": "centre",
+     "color": "#D7DB50"
+    }
+   ]
+  },
+  {
+   "term": "1951–1954",
+   "year": 1951,
+   "pm": "urho-kekkonen",
+   "seats": 200,
+   "results": [
+    {
+     "id": "social-democratic-party-of-finland",
+     "name": {
+      "en": "Social Democratic Party of Finland",
+      "fi": "Suomen Sosialidemokraattinen Puolue",
+      "sv": "Finlands Socialdemokratiska parti"
+     },
+     "seats": 53,
+     "bloc": "centre-left",
+     "color": "#F54B4B"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "fi": "Suomen Keskusta",
+      "sv": "Centern i Finland"
+     },
+     "seats": 51,
+     "bloc": "centre",
+     "color": "#3AAD2E"
+    },
+    {
+     "id": "finnish-people-s-democratic-league",
+     "name": {
+      "en": "Finnish People's Democratic League",
+      "fi": "Suomen Kansan Demokraattinen Liitto",
+      "sv": "Demokratiska förbundet för Finlands folk"
+     },
+     "seats": 43,
+     "bloc": "left",
+     "color": "#C30B02"
+    },
+    {
+     "id": "national-coalition-party",
+     "name": {
+      "en": "National Coalition Party",
+      "fi": "Kansallinen Kokoomus",
+      "sv": "Samlingspartiet"
+     },
+     "seats": 28,
+     "bloc": "centre-right",
+     "color": "#006288"
+    },
+    {
+     "id": "swedish-people-s-party-of-finland",
+     "name": {
+      "en": "Swedish People's Party of Finland",
+      "fi": "Suomen ruotsalainen kansanpuolue",
+      "sv": "Svenska folkpartiet i Finland"
+     },
+     "seats": 14,
+     "bloc": "centre",
+     "color": "#ffdd93"
+    },
+    {
+     "id": "people-s-party-of-finland",
+     "name": {
+      "en": "People's Party of Finland",
+      "fi": "Suomen Kansanpuolue",
+      "sv": "Finska folkpartiet"
+     },
+     "seats": 10,
+     "bloc": "centre-right"
+    },
+    {
+     "id": "aland-coalition",
+     "name": {
+      "en": "Åland Coalition",
+      "fi": "Åländsk Samling",
+      "sv": "Åländsk Samling"
+     },
+     "seats": 1,
+     "bloc": "centre",
+     "color": "#D7DB50"
+    }
+   ]
+  },
+  {
+   "term": "1954–1958",
+   "year": 1954,
+   "pm": "ralf-torngren",
+   "seats": 200,
+   "results": [
+    {
+     "id": "social-democratic-party-of-finland",
+     "name": {
+      "en": "Social Democratic Party of Finland",
+      "fi": "Suomen Sosialidemokraattinen Puolue",
+      "sv": "Finlands Socialdemokratiska parti"
+     },
+     "seats": 54,
+     "bloc": "centre-left",
+     "color": "#F54B4B"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "fi": "Suomen Keskusta",
+      "sv": "Centern i Finland"
+     },
+     "seats": 53,
+     "bloc": "centre",
+     "color": "#3AAD2E"
+    },
+    {
+     "id": "finnish-people-s-democratic-league",
+     "name": {
+      "en": "Finnish People's Democratic League",
+      "fi": "Suomen Kansan Demokraattinen Liitto",
+      "sv": "Demokratiska förbundet för Finlands folk"
+     },
+     "seats": 43,
+     "bloc": "left",
+     "color": "#C30B02"
+    },
+    {
+     "id": "national-coalition-party",
+     "name": {
+      "en": "National Coalition Party",
+      "fi": "Kansallinen Kokoomus",
+      "sv": "Samlingspartiet"
+     },
+     "seats": 24,
+     "bloc": "centre-right",
+     "color": "#006288"
+    },
+    {
+     "id": "people-s-party-of-finland",
+     "name": {
+      "en": "People's Party of Finland",
+      "fi": "Suomen Kansanpuolue",
+      "sv": "Finska folkpartiet"
+     },
+     "seats": 13,
+     "bloc": "centre-right"
+    },
+    {
+     "id": "swedish-people-s-party-of-finland",
+     "name": {
+      "en": "Swedish People's Party of Finland",
+      "fi": "Suomen ruotsalainen kansanpuolue",
+      "sv": "Svenska folkpartiet i Finland"
+     },
+     "seats": 12,
+     "bloc": "centre",
+     "color": "#ffdd93"
+    },
+    {
+     "id": "aland-coalition",
+     "name": {
+      "en": "Åland Coalition",
+      "fi": "Åländsk Samling",
+      "sv": "Åländsk Samling"
+     },
+     "seats": 1,
+     "bloc": "centre",
+     "color": "#D7DB50"
+    }
+   ]
+  },
+  {
+   "term": "1954–1958",
+   "year": 1954,
+   "pm": "urho-kekkonen",
+   "seats": 200,
+   "results": [
+    {
+     "id": "social-democratic-party-of-finland",
+     "name": {
+      "en": "Social Democratic Party of Finland",
+      "fi": "Suomen Sosialidemokraattinen Puolue",
+      "sv": "Finlands Socialdemokratiska parti"
+     },
+     "seats": 54,
+     "bloc": "centre-left",
+     "color": "#F54B4B"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "fi": "Suomen Keskusta",
+      "sv": "Centern i Finland"
+     },
+     "seats": 53,
+     "bloc": "centre",
+     "color": "#3AAD2E"
+    },
+    {
+     "id": "finnish-people-s-democratic-league",
+     "name": {
+      "en": "Finnish People's Democratic League",
+      "fi": "Suomen Kansan Demokraattinen Liitto",
+      "sv": "Demokratiska förbundet för Finlands folk"
+     },
+     "seats": 43,
+     "bloc": "left",
+     "color": "#C30B02"
+    },
+    {
+     "id": "national-coalition-party",
+     "name": {
+      "en": "National Coalition Party",
+      "fi": "Kansallinen Kokoomus",
+      "sv": "Samlingspartiet"
+     },
+     "seats": 24,
+     "bloc": "centre-right",
+     "color": "#006288"
+    },
+    {
+     "id": "people-s-party-of-finland",
+     "name": {
+      "en": "People's Party of Finland",
+      "fi": "Suomen Kansanpuolue",
+      "sv": "Finska folkpartiet"
+     },
+     "seats": 13,
+     "bloc": "centre-right"
+    },
+    {
+     "id": "swedish-people-s-party-of-finland",
+     "name": {
+      "en": "Swedish People's Party of Finland",
+      "fi": "Suomen ruotsalainen kansanpuolue",
+      "sv": "Svenska folkpartiet i Finland"
+     },
+     "seats": 12,
+     "bloc": "centre",
+     "color": "#ffdd93"
+    },
+    {
+     "id": "aland-coalition",
+     "name": {
+      "en": "Åland Coalition",
+      "fi": "Åländsk Samling",
+      "sv": "Åländsk Samling"
+     },
+     "seats": 1,
+     "bloc": "centre",
+     "color": "#D7DB50"
+    }
+   ]
+  },
+  {
+   "term": "1954–1958",
+   "year": 1956,
+   "pm": "karl-august-fagerholm",
+   "seats": 200,
+   "results": [
+    {
+     "id": "social-democratic-party-of-finland",
+     "name": {
+      "en": "Social Democratic Party of Finland",
+      "fi": "Suomen Sosialidemokraattinen Puolue",
+      "sv": "Finlands Socialdemokratiska parti"
+     },
+     "seats": 54,
+     "bloc": "centre-left",
+     "color": "#F54B4B"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "fi": "Suomen Keskusta",
+      "sv": "Centern i Finland"
+     },
+     "seats": 53,
+     "bloc": "centre",
+     "color": "#3AAD2E"
+    },
+    {
+     "id": "finnish-people-s-democratic-league",
+     "name": {
+      "en": "Finnish People's Democratic League",
+      "fi": "Suomen Kansan Demokraattinen Liitto",
+      "sv": "Demokratiska förbundet för Finlands folk"
+     },
+     "seats": 43,
+     "bloc": "left",
+     "color": "#C30B02"
+    },
+    {
+     "id": "national-coalition-party",
+     "name": {
+      "en": "National Coalition Party",
+      "fi": "Kansallinen Kokoomus",
+      "sv": "Samlingspartiet"
+     },
+     "seats": 24,
+     "bloc": "centre-right",
+     "color": "#006288"
+    },
+    {
+     "id": "people-s-party-of-finland",
+     "name": {
+      "en": "People's Party of Finland",
+      "fi": "Suomen Kansanpuolue",
+      "sv": "Finska folkpartiet"
+     },
+     "seats": 13,
+     "bloc": "centre-right"
+    },
+    {
+     "id": "swedish-people-s-party-of-finland",
+     "name": {
+      "en": "Swedish People's Party of Finland",
+      "fi": "Suomen ruotsalainen kansanpuolue",
+      "sv": "Svenska folkpartiet i Finland"
+     },
+     "seats": 12,
+     "bloc": "centre",
+     "color": "#ffdd93"
+    },
+    {
+     "id": "aland-coalition",
+     "name": {
+      "en": "Åland Coalition",
+      "fi": "Åländsk Samling",
+      "sv": "Åländsk Samling"
+     },
+     "seats": 1,
+     "bloc": "centre",
+     "color": "#D7DB50"
+    }
+   ]
+  },
+  {
+   "term": "1954–1958",
+   "year": 1957,
+   "pm": "v-j-sukselainen",
+   "seats": 200,
+   "results": [
+    {
+     "id": "social-democratic-party-of-finland",
+     "name": {
+      "en": "Social Democratic Party of Finland",
+      "fi": "Suomen Sosialidemokraattinen Puolue",
+      "sv": "Finlands Socialdemokratiska parti"
+     },
+     "seats": 54,
+     "bloc": "centre-left",
+     "color": "#F54B4B"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "fi": "Suomen Keskusta",
+      "sv": "Centern i Finland"
+     },
+     "seats": 53,
+     "bloc": "centre",
+     "color": "#3AAD2E"
+    },
+    {
+     "id": "finnish-people-s-democratic-league",
+     "name": {
+      "en": "Finnish People's Democratic League",
+      "fi": "Suomen Kansan Demokraattinen Liitto",
+      "sv": "Demokratiska förbundet för Finlands folk"
+     },
+     "seats": 43,
+     "bloc": "left",
+     "color": "#C30B02"
+    },
+    {
+     "id": "national-coalition-party",
+     "name": {
+      "en": "National Coalition Party",
+      "fi": "Kansallinen Kokoomus",
+      "sv": "Samlingspartiet"
+     },
+     "seats": 24,
+     "bloc": "centre-right",
+     "color": "#006288"
+    },
+    {
+     "id": "people-s-party-of-finland",
+     "name": {
+      "en": "People's Party of Finland",
+      "fi": "Suomen Kansanpuolue",
+      "sv": "Finska folkpartiet"
+     },
+     "seats": 13,
+     "bloc": "centre-right"
+    },
+    {
+     "id": "swedish-people-s-party-of-finland",
+     "name": {
+      "en": "Swedish People's Party of Finland",
+      "fi": "Suomen ruotsalainen kansanpuolue",
+      "sv": "Svenska folkpartiet i Finland"
+     },
+     "seats": 12,
+     "bloc": "centre",
+     "color": "#ffdd93"
+    },
+    {
+     "id": "aland-coalition",
+     "name": {
+      "en": "Åland Coalition",
+      "fi": "Åländsk Samling",
+      "sv": "Åländsk Samling"
+     },
+     "seats": 1,
+     "bloc": "centre",
+     "color": "#D7DB50"
+    }
+   ]
+  },
+  {
+   "term": "1954–1958",
+   "year": 1957,
+   "pm": "rainer-von-fieandt",
+   "seats": 200,
+   "results": [
+    {
+     "id": "social-democratic-party-of-finland",
+     "name": {
+      "en": "Social Democratic Party of Finland",
+      "fi": "Suomen Sosialidemokraattinen Puolue",
+      "sv": "Finlands Socialdemokratiska parti"
+     },
+     "seats": 54,
+     "bloc": "centre-left",
+     "color": "#F54B4B"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "fi": "Suomen Keskusta",
+      "sv": "Centern i Finland"
+     },
+     "seats": 53,
+     "bloc": "centre",
+     "color": "#3AAD2E"
+    },
+    {
+     "id": "finnish-people-s-democratic-league",
+     "name": {
+      "en": "Finnish People's Democratic League",
+      "fi": "Suomen Kansan Demokraattinen Liitto",
+      "sv": "Demokratiska förbundet för Finlands folk"
+     },
+     "seats": 43,
+     "bloc": "left",
+     "color": "#C30B02"
+    },
+    {
+     "id": "national-coalition-party",
+     "name": {
+      "en": "National Coalition Party",
+      "fi": "Kansallinen Kokoomus",
+      "sv": "Samlingspartiet"
+     },
+     "seats": 24,
+     "bloc": "centre-right",
+     "color": "#006288"
+    },
+    {
+     "id": "people-s-party-of-finland",
+     "name": {
+      "en": "People's Party of Finland",
+      "fi": "Suomen Kansanpuolue",
+      "sv": "Finska folkpartiet"
+     },
+     "seats": 13,
+     "bloc": "centre-right"
+    },
+    {
+     "id": "swedish-people-s-party-of-finland",
+     "name": {
+      "en": "Swedish People's Party of Finland",
+      "fi": "Suomen ruotsalainen kansanpuolue",
+      "sv": "Svenska folkpartiet i Finland"
+     },
+     "seats": 12,
+     "bloc": "centre",
+     "color": "#ffdd93"
+    },
+    {
+     "id": "aland-coalition",
+     "name": {
+      "en": "Åland Coalition",
+      "fi": "Åländsk Samling",
+      "sv": "Åländsk Samling"
+     },
+     "seats": 1,
+     "bloc": "centre",
+     "color": "#D7DB50"
+    }
+   ]
+  },
+  {
+   "term": "1954–1958",
+   "year": 1958,
+   "pm": "reino-kuuskoski",
+   "seats": 200,
+   "results": [
+    {
+     "id": "social-democratic-party-of-finland",
+     "name": {
+      "en": "Social Democratic Party of Finland",
+      "fi": "Suomen Sosialidemokraattinen Puolue",
+      "sv": "Finlands Socialdemokratiska parti"
+     },
+     "seats": 54,
+     "bloc": "centre-left",
+     "color": "#F54B4B"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "fi": "Suomen Keskusta",
+      "sv": "Centern i Finland"
+     },
+     "seats": 53,
+     "bloc": "centre",
+     "color": "#3AAD2E"
+    },
+    {
+     "id": "finnish-people-s-democratic-league",
+     "name": {
+      "en": "Finnish People's Democratic League",
+      "fi": "Suomen Kansan Demokraattinen Liitto",
+      "sv": "Demokratiska förbundet för Finlands folk"
+     },
+     "seats": 43,
+     "bloc": "left",
+     "color": "#C30B02"
+    },
+    {
+     "id": "national-coalition-party",
+     "name": {
+      "en": "National Coalition Party",
+      "fi": "Kansallinen Kokoomus",
+      "sv": "Samlingspartiet"
+     },
+     "seats": 24,
+     "bloc": "centre-right",
+     "color": "#006288"
+    },
+    {
+     "id": "people-s-party-of-finland",
+     "name": {
+      "en": "People's Party of Finland",
+      "fi": "Suomen Kansanpuolue",
+      "sv": "Finska folkpartiet"
+     },
+     "seats": 13,
+     "bloc": "centre-right"
+    },
+    {
+     "id": "swedish-people-s-party-of-finland",
+     "name": {
+      "en": "Swedish People's Party of Finland",
+      "fi": "Suomen ruotsalainen kansanpuolue",
+      "sv": "Svenska folkpartiet i Finland"
+     },
+     "seats": 12,
+     "bloc": "centre",
+     "color": "#ffdd93"
+    },
+    {
+     "id": "aland-coalition",
+     "name": {
+      "en": "Åland Coalition",
+      "fi": "Åländsk Samling",
+      "sv": "Åländsk Samling"
+     },
+     "seats": 1,
+     "bloc": "centre",
+     "color": "#D7DB50"
+    }
+   ]
+  },
+  {
+   "term": "1958–1962",
+   "year": 1958,
+   "pm": "karl-august-fagerholm",
+   "seats": 200,
+   "results": [
+    {
+     "id": "finnish-people-s-democratic-league",
+     "name": {
+      "en": "Finnish People's Democratic League",
+      "fi": "Suomen Kansan Demokraattinen Liitto",
+      "sv": "Demokratiska förbundet för Finlands folk"
+     },
+     "seats": 50,
+     "bloc": "left",
+     "color": "#C30B02"
+    },
+    {
+     "id": "social-democratic-party-of-finland",
+     "name": {
+      "en": "Social Democratic Party of Finland",
+      "fi": "Suomen Sosialidemokraattinen Puolue",
+      "sv": "Finlands Socialdemokratiska parti"
+     },
+     "seats": 48,
+     "bloc": "centre-left",
+     "color": "#F54B4B"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "fi": "Suomen Keskusta",
+      "sv": "Centern i Finland"
+     },
+     "seats": 48,
+     "bloc": "centre",
+     "color": "#3AAD2E"
+    },
+    {
+     "id": "national-coalition-party",
+     "name": {
+      "en": "National Coalition Party",
+      "fi": "Kansallinen Kokoomus",
+      "sv": "Samlingspartiet"
+     },
+     "seats": 29,
+     "bloc": "centre-right",
+     "color": "#006288"
+    },
+    {
+     "id": "swedish-people-s-party-of-finland",
+     "name": {
+      "en": "Swedish People's Party of Finland",
+      "fi": "Suomen ruotsalainen kansanpuolue",
+      "sv": "Svenska folkpartiet i Finland"
+     },
+     "seats": 13,
+     "bloc": "centre",
+     "color": "#ffdd93"
+    },
+    {
+     "id": "people-s-party-of-finland",
+     "name": {
+      "en": "People's Party of Finland",
+      "fi": "Suomen Kansanpuolue",
+      "sv": "Finska folkpartiet"
+     },
+     "seats": 8,
+     "bloc": "centre-right"
+    },
+    {
+     "id": "social-democratic-union-of-workers-and-smallholders",
+     "name": {
+      "en": "Social Democratic Union of Workers and Smallholders",
+      "fi": "Työväen ja Pienviljelijäin Sosialidemokraattinen Liitto",
+      "sv": "Arbetarnas och småbrukarnas socialdemokratiska förbund"
+     },
+     "seats": 3,
+     "bloc": "centre-left",
+     "color": "#A41C37"
+    },
+    {
+     "id": "aland-coalition",
+     "name": {
+      "en": "Åland Coalition",
+      "fi": "Åländsk Samling",
+      "sv": "Åländsk Samling"
+     },
+     "seats": 1,
+     "bloc": "centre",
+     "color": "#D7DB50"
+    }
+   ]
+  },
+  {
+   "term": "1958–1962",
+   "year": 1959,
+   "pm": "v-j-sukselainen",
+   "seats": 200,
+   "results": [
+    {
+     "id": "finnish-people-s-democratic-league",
+     "name": {
+      "en": "Finnish People's Democratic League",
+      "fi": "Suomen Kansan Demokraattinen Liitto",
+      "sv": "Demokratiska förbundet för Finlands folk"
+     },
+     "seats": 50,
+     "bloc": "left",
+     "color": "#C30B02"
+    },
+    {
+     "id": "social-democratic-party-of-finland",
+     "name": {
+      "en": "Social Democratic Party of Finland",
+      "fi": "Suomen Sosialidemokraattinen Puolue",
+      "sv": "Finlands Socialdemokratiska parti"
+     },
+     "seats": 48,
+     "bloc": "centre-left",
+     "color": "#F54B4B"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "fi": "Suomen Keskusta",
+      "sv": "Centern i Finland"
+     },
+     "seats": 48,
+     "bloc": "centre",
+     "color": "#3AAD2E"
+    },
+    {
+     "id": "national-coalition-party",
+     "name": {
+      "en": "National Coalition Party",
+      "fi": "Kansallinen Kokoomus",
+      "sv": "Samlingspartiet"
+     },
+     "seats": 29,
+     "bloc": "centre-right",
+     "color": "#006288"
+    },
+    {
+     "id": "swedish-people-s-party-of-finland",
+     "name": {
+      "en": "Swedish People's Party of Finland",
+      "fi": "Suomen ruotsalainen kansanpuolue",
+      "sv": "Svenska folkpartiet i Finland"
+     },
+     "seats": 13,
+     "bloc": "centre",
+     "color": "#ffdd93"
+    },
+    {
+     "id": "people-s-party-of-finland",
+     "name": {
+      "en": "People's Party of Finland",
+      "fi": "Suomen Kansanpuolue",
+      "sv": "Finska folkpartiet"
+     },
+     "seats": 8,
+     "bloc": "centre-right"
+    },
+    {
+     "id": "social-democratic-union-of-workers-and-smallholders",
+     "name": {
+      "en": "Social Democratic Union of Workers and Smallholders",
+      "fi": "Työväen ja Pienviljelijäin Sosialidemokraattinen Liitto",
+      "sv": "Arbetarnas och småbrukarnas socialdemokratiska förbund"
+     },
+     "seats": 3,
+     "bloc": "centre-left",
+     "color": "#A41C37"
+    },
+    {
+     "id": "aland-coalition",
+     "name": {
+      "en": "Åland Coalition",
+      "fi": "Åländsk Samling",
+      "sv": "Åländsk Samling"
+     },
+     "seats": 1,
+     "bloc": "centre",
+     "color": "#D7DB50"
+    }
+   ]
+  },
+  {
+   "term": "1958–1962",
+   "year": 1961,
+   "pm": "martti-miettunen",
+   "seats": 200,
+   "results": [
+    {
+     "id": "finnish-people-s-democratic-league",
+     "name": {
+      "en": "Finnish People's Democratic League",
+      "fi": "Suomen Kansan Demokraattinen Liitto",
+      "sv": "Demokratiska förbundet för Finlands folk"
+     },
+     "seats": 50,
+     "bloc": "left",
+     "color": "#C30B02"
+    },
+    {
+     "id": "social-democratic-party-of-finland",
+     "name": {
+      "en": "Social Democratic Party of Finland",
+      "fi": "Suomen Sosialidemokraattinen Puolue",
+      "sv": "Finlands Socialdemokratiska parti"
+     },
+     "seats": 48,
+     "bloc": "centre-left",
+     "color": "#F54B4B"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "fi": "Suomen Keskusta",
+      "sv": "Centern i Finland"
+     },
+     "seats": 48,
+     "bloc": "centre",
+     "color": "#3AAD2E"
+    },
+    {
+     "id": "national-coalition-party",
+     "name": {
+      "en": "National Coalition Party",
+      "fi": "Kansallinen Kokoomus",
+      "sv": "Samlingspartiet"
+     },
+     "seats": 29,
+     "bloc": "centre-right",
+     "color": "#006288"
+    },
+    {
+     "id": "swedish-people-s-party-of-finland",
+     "name": {
+      "en": "Swedish People's Party of Finland",
+      "fi": "Suomen ruotsalainen kansanpuolue",
+      "sv": "Svenska folkpartiet i Finland"
+     },
+     "seats": 13,
+     "bloc": "centre",
+     "color": "#ffdd93"
+    },
+    {
+     "id": "people-s-party-of-finland",
+     "name": {
+      "en": "People's Party of Finland",
+      "fi": "Suomen Kansanpuolue",
+      "sv": "Finska folkpartiet"
+     },
+     "seats": 8,
+     "bloc": "centre-right"
+    },
+    {
+     "id": "social-democratic-union-of-workers-and-smallholders",
+     "name": {
+      "en": "Social Democratic Union of Workers and Smallholders",
+      "fi": "Työväen ja Pienviljelijäin Sosialidemokraattinen Liitto",
+      "sv": "Arbetarnas och småbrukarnas socialdemokratiska förbund"
+     },
+     "seats": 3,
+     "bloc": "centre-left",
+     "color": "#A41C37"
+    },
+    {
+     "id": "aland-coalition",
+     "name": {
+      "en": "Åland Coalition",
+      "fi": "Åländsk Samling",
+      "sv": "Åländsk Samling"
+     },
+     "seats": 1,
+     "bloc": "centre",
+     "color": "#D7DB50"
+    }
+   ]
+  },
+  {
+   "term": "1962–1966",
+   "year": 1962,
+   "pm": "ahti-karjalainen",
+   "seats": 200,
+   "results": [
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "fi": "Suomen Keskusta",
+      "sv": "Centern i Finland"
+     },
+     "seats": 53,
+     "bloc": "centre",
+     "color": "#3AAD2E"
+    },
+    {
+     "id": "finnish-people-s-democratic-league",
+     "name": {
+      "en": "Finnish People's Democratic League",
+      "fi": "Suomen Kansan Demokraattinen Liitto",
+      "sv": "Demokratiska förbundet för Finlands folk"
+     },
+     "seats": 47,
+     "bloc": "left",
+     "color": "#C30B02"
+    },
+    {
+     "id": "social-democratic-party-of-finland",
+     "name": {
+      "en": "Social Democratic Party of Finland",
+      "fi": "Suomen Sosialidemokraattinen Puolue",
+      "sv": "Finlands Socialdemokratiska parti"
+     },
+     "seats": 38,
+     "bloc": "centre-left",
+     "color": "#F54B4B"
+    },
+    {
+     "id": "national-coalition-party",
+     "name": {
+      "en": "National Coalition Party",
+      "fi": "Kansallinen Kokoomus",
+      "sv": "Samlingspartiet"
+     },
+     "seats": 32,
+     "bloc": "centre-right",
+     "color": "#006288"
+    },
+    {
+     "id": "people-s-party-of-finland",
+     "name": {
+      "en": "People's Party of Finland",
+      "fi": "Suomen Kansanpuolue",
+      "sv": "Finska folkpartiet"
+     },
+     "seats": 13,
+     "bloc": "centre-right"
+    },
+    {
+     "id": "swedish-people-s-party-of-finland",
+     "name": {
+      "en": "Swedish People's Party of Finland",
+      "fi": "Suomen ruotsalainen kansanpuolue",
+      "sv": "Svenska folkpartiet i Finland"
+     },
+     "seats": 13,
+     "bloc": "centre",
+     "color": "#ffdd93"
+    },
+    {
+     "id": "social-democratic-union-of-workers-and-smallholders",
+     "name": {
+      "en": "Social Democratic Union of Workers and Smallholders",
+      "fi": "Työväen ja Pienviljelijäin Sosialidemokraattinen Liitto",
+      "sv": "Arbetarnas och småbrukarnas socialdemokratiska förbund"
+     },
+     "seats": 2,
+     "bloc": "centre-left",
+     "color": "#A41C37"
+    },
+    {
+     "id": "liberal-league",
+     "name": {
+      "en": "Liberal League",
+      "fi": "Vapaamielisten Liitto",
+      "sv": "De Frisinnades Förbund"
+     },
+     "seats": 1,
+     "bloc": "centre"
+    },
+    {
+     "id": "aland-coalition",
+     "name": {
+      "en": "Åland Coalition",
+      "fi": "Åländsk Samling",
+      "sv": "Åländsk Samling"
+     },
+     "seats": 1,
+     "bloc": "centre",
+     "color": "#D7DB50"
+    }
+   ]
+  },
+  {
+   "term": "1962–1966",
+   "year": 1963,
+   "pm": "reino-ragnar-lehto",
+   "seats": 200,
+   "results": [
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "fi": "Suomen Keskusta",
+      "sv": "Centern i Finland"
+     },
+     "seats": 53,
+     "bloc": "centre",
+     "color": "#3AAD2E"
+    },
+    {
+     "id": "finnish-people-s-democratic-league",
+     "name": {
+      "en": "Finnish People's Democratic League",
+      "fi": "Suomen Kansan Demokraattinen Liitto",
+      "sv": "Demokratiska förbundet för Finlands folk"
+     },
+     "seats": 47,
+     "bloc": "left",
+     "color": "#C30B02"
+    },
+    {
+     "id": "social-democratic-party-of-finland",
+     "name": {
+      "en": "Social Democratic Party of Finland",
+      "fi": "Suomen Sosialidemokraattinen Puolue",
+      "sv": "Finlands Socialdemokratiska parti"
+     },
+     "seats": 38,
+     "bloc": "centre-left",
+     "color": "#F54B4B"
+    },
+    {
+     "id": "national-coalition-party",
+     "name": {
+      "en": "National Coalition Party",
+      "fi": "Kansallinen Kokoomus",
+      "sv": "Samlingspartiet"
+     },
+     "seats": 32,
+     "bloc": "centre-right",
+     "color": "#006288"
+    },
+    {
+     "id": "people-s-party-of-finland",
+     "name": {
+      "en": "People's Party of Finland",
+      "fi": "Suomen Kansanpuolue",
+      "sv": "Finska folkpartiet"
+     },
+     "seats": 13,
+     "bloc": "centre-right"
+    },
+    {
+     "id": "swedish-people-s-party-of-finland",
+     "name": {
+      "en": "Swedish People's Party of Finland",
+      "fi": "Suomen ruotsalainen kansanpuolue",
+      "sv": "Svenska folkpartiet i Finland"
+     },
+     "seats": 13,
+     "bloc": "centre",
+     "color": "#ffdd93"
+    },
+    {
+     "id": "social-democratic-union-of-workers-and-smallholders",
+     "name": {
+      "en": "Social Democratic Union of Workers and Smallholders",
+      "fi": "Työväen ja Pienviljelijäin Sosialidemokraattinen Liitto",
+      "sv": "Arbetarnas och småbrukarnas socialdemokratiska förbund"
+     },
+     "seats": 2,
+     "bloc": "centre-left",
+     "color": "#A41C37"
+    },
+    {
+     "id": "liberal-league",
+     "name": {
+      "en": "Liberal League",
+      "fi": "Vapaamielisten Liitto",
+      "sv": "De Frisinnades Förbund"
+     },
+     "seats": 1,
+     "bloc": "centre"
+    },
+    {
+     "id": "aland-coalition",
+     "name": {
+      "en": "Åland Coalition",
+      "fi": "Åländsk Samling",
+      "sv": "Åländsk Samling"
+     },
+     "seats": 1,
+     "bloc": "centre",
+     "color": "#D7DB50"
+    }
+   ]
+  },
+  {
+   "term": "1962–1966",
+   "year": 1964,
+   "pm": "johannes-virolainen",
+   "seats": 200,
+   "results": [
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "fi": "Suomen Keskusta",
+      "sv": "Centern i Finland"
+     },
+     "seats": 53,
+     "bloc": "centre",
+     "color": "#3AAD2E"
+    },
+    {
+     "id": "finnish-people-s-democratic-league",
+     "name": {
+      "en": "Finnish People's Democratic League",
+      "fi": "Suomen Kansan Demokraattinen Liitto",
+      "sv": "Demokratiska förbundet för Finlands folk"
+     },
+     "seats": 47,
+     "bloc": "left",
+     "color": "#C30B02"
+    },
+    {
+     "id": "social-democratic-party-of-finland",
+     "name": {
+      "en": "Social Democratic Party of Finland",
+      "fi": "Suomen Sosialidemokraattinen Puolue",
+      "sv": "Finlands Socialdemokratiska parti"
+     },
+     "seats": 38,
+     "bloc": "centre-left",
+     "color": "#F54B4B"
+    },
+    {
+     "id": "national-coalition-party",
+     "name": {
+      "en": "National Coalition Party",
+      "fi": "Kansallinen Kokoomus",
+      "sv": "Samlingspartiet"
+     },
+     "seats": 32,
+     "bloc": "centre-right",
+     "color": "#006288"
+    },
+    {
+     "id": "people-s-party-of-finland",
+     "name": {
+      "en": "People's Party of Finland",
+      "fi": "Suomen Kansanpuolue",
+      "sv": "Finska folkpartiet"
+     },
+     "seats": 13,
+     "bloc": "centre-right"
+    },
+    {
+     "id": "swedish-people-s-party-of-finland",
+     "name": {
+      "en": "Swedish People's Party of Finland",
+      "fi": "Suomen ruotsalainen kansanpuolue",
+      "sv": "Svenska folkpartiet i Finland"
+     },
+     "seats": 13,
+     "bloc": "centre",
+     "color": "#ffdd93"
+    },
+    {
+     "id": "social-democratic-union-of-workers-and-smallholders",
+     "name": {
+      "en": "Social Democratic Union of Workers and Smallholders",
+      "fi": "Työväen ja Pienviljelijäin Sosialidemokraattinen Liitto",
+      "sv": "Arbetarnas och småbrukarnas socialdemokratiska förbund"
+     },
+     "seats": 2,
+     "bloc": "centre-left",
+     "color": "#A41C37"
+    },
+    {
+     "id": "liberal-league",
+     "name": {
+      "en": "Liberal League",
+      "fi": "Vapaamielisten Liitto",
+      "sv": "De Frisinnades Förbund"
+     },
+     "seats": 1,
+     "bloc": "centre"
+    },
+    {
+     "id": "aland-coalition",
+     "name": {
+      "en": "Åland Coalition",
+      "fi": "Åländsk Samling",
+      "sv": "Åländsk Samling"
+     },
+     "seats": 1,
+     "bloc": "centre",
+     "color": "#D7DB50"
+    }
+   ]
+  },
+  {
+   "term": "1966–1970",
+   "year": 1966,
+   "pm": "rafael-paasio",
+   "seats": 200,
+   "results": [
+    {
+     "id": "social-democratic-party-of-finland",
+     "name": {
+      "en": "Social Democratic Party of Finland",
+      "fi": "Suomen Sosialidemokraattinen Puolue",
+      "sv": "Finlands Socialdemokratiska parti"
+     },
+     "seats": 55,
+     "bloc": "centre-left",
+     "color": "#F54B4B"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "fi": "Suomen Keskusta",
+      "sv": "Centern i Finland"
+     },
+     "seats": 49,
+     "bloc": "centre",
+     "color": "#3AAD2E"
+    },
+    {
+     "id": "finnish-people-s-democratic-league",
+     "name": {
+      "en": "Finnish People's Democratic League",
+      "fi": "Suomen Kansan Demokraattinen Liitto",
+      "sv": "Demokratiska förbundet för Finlands folk"
+     },
+     "seats": 41,
+     "bloc": "left",
+     "color": "#C30B02"
+    },
+    {
+     "id": "national-coalition-party",
+     "name": {
+      "en": "National Coalition Party",
+      "fi": "Kansallinen Kokoomus",
+      "sv": "Samlingspartiet"
+     },
+     "seats": 26,
+     "bloc": "centre-right",
+     "color": "#006288"
+    },
+    {
+     "id": "swedish-people-s-party-of-finland",
+     "name": {
+      "en": "Swedish People's Party of Finland",
+      "fi": "Suomen ruotsalainen kansanpuolue",
+      "sv": "Svenska folkpartiet i Finland"
+     },
+     "seats": 11,
+     "bloc": "centre",
+     "color": "#ffdd93"
+    },
+    {
+     "id": "liberals",
+     "name": {
+      "en": "Liberals",
+      "fi": "Liberaalinen Kansanpuolue",
+      "sv": "Liberala folkpartiet"
+     },
+     "seats": 9,
+     "bloc": "centre",
+     "color": "#ECB04E"
+    },
+    {
+     "id": "social-democratic-union-of-workers-and-smallholders",
+     "name": {
+      "en": "Social Democratic Union of Workers and Smallholders",
+      "fi": "Työväen ja Pienviljelijäin Sosialidemokraattinen Liitto",
+      "sv": "Arbetarnas och småbrukarnas socialdemokratiska förbund"
+     },
+     "seats": 7,
+     "bloc": "centre-left",
+     "color": "#A41C37"
+    },
+    {
+     "id": "finnish-rural-party",
+     "name": {
+      "en": "Finnish Rural Party",
+      "fi": "Suomen Maaseudun Puolue",
+      "sv": "Finlands landsbygdsparti"
+     },
+     "seats": 1,
+     "bloc": "centre",
+     "color": "#0032CA"
+    },
+    {
+     "id": "aland-coalition",
+     "name": {
+      "en": "Åland Coalition",
+      "fi": "Åländsk Samling",
+      "sv": "Åländsk Samling"
+     },
+     "seats": 1,
+     "bloc": "centre",
+     "color": "#D7DB50"
+    }
+   ]
+  },
+  {
+   "term": "1966–1970",
+   "year": 1968,
+   "pm": "mauno-koivisto",
+   "seats": 200,
+   "results": [
+    {
+     "id": "social-democratic-party-of-finland",
+     "name": {
+      "en": "Social Democratic Party of Finland",
+      "fi": "Suomen Sosialidemokraattinen Puolue",
+      "sv": "Finlands Socialdemokratiska parti"
+     },
+     "seats": 55,
+     "bloc": "centre-left",
+     "color": "#F54B4B"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "fi": "Suomen Keskusta",
+      "sv": "Centern i Finland"
+     },
+     "seats": 49,
+     "bloc": "centre",
+     "color": "#3AAD2E"
+    },
+    {
+     "id": "finnish-people-s-democratic-league",
+     "name": {
+      "en": "Finnish People's Democratic League",
+      "fi": "Suomen Kansan Demokraattinen Liitto",
+      "sv": "Demokratiska förbundet för Finlands folk"
+     },
+     "seats": 41,
+     "bloc": "left",
+     "color": "#C30B02"
+    },
+    {
+     "id": "national-coalition-party",
+     "name": {
+      "en": "National Coalition Party",
+      "fi": "Kansallinen Kokoomus",
+      "sv": "Samlingspartiet"
+     },
+     "seats": 26,
+     "bloc": "centre-right",
+     "color": "#006288"
+    },
+    {
+     "id": "swedish-people-s-party-of-finland",
+     "name": {
+      "en": "Swedish People's Party of Finland",
+      "fi": "Suomen ruotsalainen kansanpuolue",
+      "sv": "Svenska folkpartiet i Finland"
+     },
+     "seats": 11,
+     "bloc": "centre",
+     "color": "#ffdd93"
+    },
+    {
+     "id": "liberals",
+     "name": {
+      "en": "Liberals",
+      "fi": "Liberaalinen Kansanpuolue",
+      "sv": "Liberala folkpartiet"
+     },
+     "seats": 9,
+     "bloc": "centre",
+     "color": "#ECB04E"
+    },
+    {
+     "id": "social-democratic-union-of-workers-and-smallholders",
+     "name": {
+      "en": "Social Democratic Union of Workers and Smallholders",
+      "fi": "Työväen ja Pienviljelijäin Sosialidemokraattinen Liitto",
+      "sv": "Arbetarnas och småbrukarnas socialdemokratiska förbund"
+     },
+     "seats": 7,
+     "bloc": "centre-left",
+     "color": "#A41C37"
+    },
+    {
+     "id": "finnish-rural-party",
+     "name": {
+      "en": "Finnish Rural Party",
+      "fi": "Suomen Maaseudun Puolue",
+      "sv": "Finlands landsbygdsparti"
+     },
+     "seats": 1,
+     "bloc": "centre",
+     "color": "#0032CA"
+    },
+    {
+     "id": "aland-coalition",
+     "name": {
+      "en": "Åland Coalition",
+      "fi": "Åländsk Samling",
+      "sv": "Åländsk Samling"
+     },
+     "seats": 1,
+     "bloc": "centre",
+     "color": "#D7DB50"
+    }
+   ]
+  },
+  {
+   "term": "1970–1972",
+   "year": 1970,
+   "pm": "teuvo-aura",
+   "seats": 200,
+   "results": [
+    {
+     "id": "social-democratic-party-of-finland",
+     "name": {
+      "en": "Social Democratic Party of Finland",
+      "fi": "Suomen Sosialidemokraattinen Puolue",
+      "sv": "Finlands Socialdemokratiska parti"
+     },
+     "seats": 52,
+     "bloc": "centre-left",
+     "color": "#F54B4B"
+    },
+    {
+     "id": "national-coalition-party",
+     "name": {
+      "en": "National Coalition Party",
+      "fi": "Kansallinen Kokoomus",
+      "sv": "Samlingspartiet"
+     },
+     "seats": 37,
+     "bloc": "centre-right",
+     "color": "#006288"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "fi": "Suomen Keskusta",
+      "sv": "Centern i Finland"
+     },
+     "seats": 36,
+     "bloc": "centre",
+     "color": "#3AAD2E"
+    },
+    {
+     "id": "finnish-people-s-democratic-league",
+     "name": {
+      "en": "Finnish People's Democratic League",
+      "fi": "Suomen Kansan Demokraattinen Liitto",
+      "sv": "Demokratiska förbundet för Finlands folk"
+     },
+     "seats": 36,
+     "bloc": "left",
+     "color": "#C30B02"
+    },
+    {
+     "id": "finnish-rural-party",
+     "name": {
+      "en": "Finnish Rural Party",
+      "fi": "Suomen Maaseudun Puolue",
+      "sv": "Finlands landsbygdsparti"
+     },
+     "seats": 18,
+     "bloc": "centre",
+     "color": "#0032CA"
+    },
+    {
+     "id": "swedish-people-s-party-of-finland",
+     "name": {
+      "en": "Swedish People's Party of Finland",
+      "fi": "Suomen ruotsalainen kansanpuolue",
+      "sv": "Svenska folkpartiet i Finland"
+     },
+     "seats": 11,
+     "bloc": "centre",
+     "color": "#ffdd93"
+    },
+    {
+     "id": "liberals",
+     "name": {
+      "en": "Liberals",
+      "fi": "Liberaalinen Kansanpuolue",
+      "sv": "Liberala folkpartiet"
+     },
+     "seats": 8,
+     "bloc": "centre",
+     "color": "#ECB04E"
+    },
+    {
+     "id": "christian-democrats",
+     "name": {
+      "en": "Christian Democrats",
+      "fi": "Suomen Kristillisdemokraatit",
+      "sv": "Kristdemokraterna i Finland (KD)"
+     },
+     "seats": 1,
+     "bloc": "centre-right",
+     "color": "#2B67C9"
+    },
+    {
+     "id": "aland-coalition",
+     "name": {
+      "en": "Åland Coalition",
+      "fi": "Åländsk Samling",
+      "sv": "Åländsk Samling"
+     },
+     "seats": 1,
+     "bloc": "centre",
+     "color": "#D7DB50"
+    }
+   ]
+  },
+  {
+   "term": "1970–1972",
+   "year": 1970,
+   "pm": "ahti-karjalainen",
+   "seats": 200,
+   "results": [
+    {
+     "id": "social-democratic-party-of-finland",
+     "name": {
+      "en": "Social Democratic Party of Finland",
+      "fi": "Suomen Sosialidemokraattinen Puolue",
+      "sv": "Finlands Socialdemokratiska parti"
+     },
+     "seats": 52,
+     "bloc": "centre-left",
+     "color": "#F54B4B"
+    },
+    {
+     "id": "national-coalition-party",
+     "name": {
+      "en": "National Coalition Party",
+      "fi": "Kansallinen Kokoomus",
+      "sv": "Samlingspartiet"
+     },
+     "seats": 37,
+     "bloc": "centre-right",
+     "color": "#006288"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "fi": "Suomen Keskusta",
+      "sv": "Centern i Finland"
+     },
+     "seats": 36,
+     "bloc": "centre",
+     "color": "#3AAD2E"
+    },
+    {
+     "id": "finnish-people-s-democratic-league",
+     "name": {
+      "en": "Finnish People's Democratic League",
+      "fi": "Suomen Kansan Demokraattinen Liitto",
+      "sv": "Demokratiska förbundet för Finlands folk"
+     },
+     "seats": 36,
+     "bloc": "left",
+     "color": "#C30B02"
+    },
+    {
+     "id": "finnish-rural-party",
+     "name": {
+      "en": "Finnish Rural Party",
+      "fi": "Suomen Maaseudun Puolue",
+      "sv": "Finlands landsbygdsparti"
+     },
+     "seats": 18,
+     "bloc": "centre",
+     "color": "#0032CA"
+    },
+    {
+     "id": "swedish-people-s-party-of-finland",
+     "name": {
+      "en": "Swedish People's Party of Finland",
+      "fi": "Suomen ruotsalainen kansanpuolue",
+      "sv": "Svenska folkpartiet i Finland"
+     },
+     "seats": 11,
+     "bloc": "centre",
+     "color": "#ffdd93"
+    },
+    {
+     "id": "liberals",
+     "name": {
+      "en": "Liberals",
+      "fi": "Liberaalinen Kansanpuolue",
+      "sv": "Liberala folkpartiet"
+     },
+     "seats": 8,
+     "bloc": "centre",
+     "color": "#ECB04E"
+    },
+    {
+     "id": "christian-democrats",
+     "name": {
+      "en": "Christian Democrats",
+      "fi": "Suomen Kristillisdemokraatit",
+      "sv": "Kristdemokraterna i Finland (KD)"
+     },
+     "seats": 1,
+     "bloc": "centre-right",
+     "color": "#2B67C9"
+    },
+    {
+     "id": "aland-coalition",
+     "name": {
+      "en": "Åland Coalition",
+      "fi": "Åländsk Samling",
+      "sv": "Åländsk Samling"
+     },
+     "seats": 1,
+     "bloc": "centre",
+     "color": "#D7DB50"
+    }
+   ]
+  },
+  {
+   "term": "1970–1972",
+   "year": 1971,
+   "pm": "teuvo-aura",
+   "seats": 200,
+   "results": [
+    {
+     "id": "social-democratic-party-of-finland",
+     "name": {
+      "en": "Social Democratic Party of Finland",
+      "fi": "Suomen Sosialidemokraattinen Puolue",
+      "sv": "Finlands Socialdemokratiska parti"
+     },
+     "seats": 52,
+     "bloc": "centre-left",
+     "color": "#F54B4B"
+    },
+    {
+     "id": "national-coalition-party",
+     "name": {
+      "en": "National Coalition Party",
+      "fi": "Kansallinen Kokoomus",
+      "sv": "Samlingspartiet"
+     },
+     "seats": 37,
+     "bloc": "centre-right",
+     "color": "#006288"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "fi": "Suomen Keskusta",
+      "sv": "Centern i Finland"
+     },
+     "seats": 36,
+     "bloc": "centre",
+     "color": "#3AAD2E"
+    },
+    {
+     "id": "finnish-people-s-democratic-league",
+     "name": {
+      "en": "Finnish People's Democratic League",
+      "fi": "Suomen Kansan Demokraattinen Liitto",
+      "sv": "Demokratiska förbundet för Finlands folk"
+     },
+     "seats": 36,
+     "bloc": "left",
+     "color": "#C30B02"
+    },
+    {
+     "id": "finnish-rural-party",
+     "name": {
+      "en": "Finnish Rural Party",
+      "fi": "Suomen Maaseudun Puolue",
+      "sv": "Finlands landsbygdsparti"
+     },
+     "seats": 18,
+     "bloc": "centre",
+     "color": "#0032CA"
+    },
+    {
+     "id": "swedish-people-s-party-of-finland",
+     "name": {
+      "en": "Swedish People's Party of Finland",
+      "fi": "Suomen ruotsalainen kansanpuolue",
+      "sv": "Svenska folkpartiet i Finland"
+     },
+     "seats": 11,
+     "bloc": "centre",
+     "color": "#ffdd93"
+    },
+    {
+     "id": "liberals",
+     "name": {
+      "en": "Liberals",
+      "fi": "Liberaalinen Kansanpuolue",
+      "sv": "Liberala folkpartiet"
+     },
+     "seats": 8,
+     "bloc": "centre",
+     "color": "#ECB04E"
+    },
+    {
+     "id": "christian-democrats",
+     "name": {
+      "en": "Christian Democrats",
+      "fi": "Suomen Kristillisdemokraatit",
+      "sv": "Kristdemokraterna i Finland (KD)"
+     },
+     "seats": 1,
+     "bloc": "centre-right",
+     "color": "#2B67C9"
+    },
+    {
+     "id": "aland-coalition",
+     "name": {
+      "en": "Åland Coalition",
+      "fi": "Åländsk Samling",
+      "sv": "Åländsk Samling"
+     },
+     "seats": 1,
+     "bloc": "centre",
+     "color": "#D7DB50"
+    }
+   ]
+  },
+  {
+   "term": "1972–1975",
+   "year": 1972,
+   "pm": "rafael-paasio",
+   "seats": 200,
+   "results": [
+    {
+     "id": "social-democratic-party-of-finland",
+     "name": {
+      "en": "Social Democratic Party of Finland",
+      "fi": "Suomen Sosialidemokraattinen Puolue",
+      "sv": "Finlands Socialdemokratiska parti"
+     },
+     "seats": 55,
+     "bloc": "centre-left",
+     "color": "#F54B4B"
+    },
+    {
+     "id": "finnish-people-s-democratic-league",
+     "name": {
+      "en": "Finnish People's Democratic League",
+      "fi": "Suomen Kansan Demokraattinen Liitto",
+      "sv": "Demokratiska förbundet för Finlands folk"
+     },
+     "seats": 37,
+     "bloc": "left",
+     "color": "#C30B02"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "fi": "Suomen Keskusta",
+      "sv": "Centern i Finland"
+     },
+     "seats": 35,
+     "bloc": "centre",
+     "color": "#3AAD2E"
+    },
+    {
+     "id": "national-coalition-party",
+     "name": {
+      "en": "National Coalition Party",
+      "fi": "Kansallinen Kokoomus",
+      "sv": "Samlingspartiet"
+     },
+     "seats": 34,
+     "bloc": "centre-right",
+     "color": "#006288"
+    },
+    {
+     "id": "finnish-rural-party",
+     "name": {
+      "en": "Finnish Rural Party",
+      "fi": "Suomen Maaseudun Puolue",
+      "sv": "Finlands landsbygdsparti"
+     },
+     "seats": 18,
+     "bloc": "centre",
+     "color": "#0032CA"
+    },
+    {
+     "id": "swedish-people-s-party-of-finland",
+     "name": {
+      "en": "Swedish People's Party of Finland",
+      "fi": "Suomen ruotsalainen kansanpuolue",
+      "sv": "Svenska folkpartiet i Finland"
+     },
+     "seats": 9,
+     "bloc": "centre",
+     "color": "#ffdd93"
+    },
+    {
+     "id": "liberals",
+     "name": {
+      "en": "Liberals",
+      "fi": "Liberaalinen Kansanpuolue",
+      "sv": "Liberala folkpartiet"
+     },
+     "seats": 7,
+     "bloc": "centre",
+     "color": "#ECB04E"
+    },
+    {
+     "id": "christian-democrats",
+     "name": {
+      "en": "Christian Democrats",
+      "fi": "Suomen Kristillisdemokraatit",
+      "sv": "Kristdemokraterna i Finland (KD)"
+     },
+     "seats": 4,
+     "bloc": "centre-right",
+     "color": "#2B67C9"
+    },
+    {
+     "id": "aland-coalition",
+     "name": {
+      "en": "Åland Coalition",
+      "fi": "Åländsk Samling",
+      "sv": "Åländsk Samling"
+     },
+     "seats": 1,
+     "bloc": "centre",
+     "color": "#D7DB50"
+    }
+   ]
+  },
+  {
+   "term": "1972–1975",
+   "year": 1972,
+   "pm": "kalevi-sorsa",
+   "seats": 200,
+   "results": [
+    {
+     "id": "social-democratic-party-of-finland",
+     "name": {
+      "en": "Social Democratic Party of Finland",
+      "fi": "Suomen Sosialidemokraattinen Puolue",
+      "sv": "Finlands Socialdemokratiska parti"
+     },
+     "seats": 55,
+     "bloc": "centre-left",
+     "color": "#F54B4B"
+    },
+    {
+     "id": "finnish-people-s-democratic-league",
+     "name": {
+      "en": "Finnish People's Democratic League",
+      "fi": "Suomen Kansan Demokraattinen Liitto",
+      "sv": "Demokratiska förbundet för Finlands folk"
+     },
+     "seats": 37,
+     "bloc": "left",
+     "color": "#C30B02"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "fi": "Suomen Keskusta",
+      "sv": "Centern i Finland"
+     },
+     "seats": 35,
+     "bloc": "centre",
+     "color": "#3AAD2E"
+    },
+    {
+     "id": "national-coalition-party",
+     "name": {
+      "en": "National Coalition Party",
+      "fi": "Kansallinen Kokoomus",
+      "sv": "Samlingspartiet"
+     },
+     "seats": 34,
+     "bloc": "centre-right",
+     "color": "#006288"
+    },
+    {
+     "id": "finnish-rural-party",
+     "name": {
+      "en": "Finnish Rural Party",
+      "fi": "Suomen Maaseudun Puolue",
+      "sv": "Finlands landsbygdsparti"
+     },
+     "seats": 18,
+     "bloc": "centre",
+     "color": "#0032CA"
+    },
+    {
+     "id": "swedish-people-s-party-of-finland",
+     "name": {
+      "en": "Swedish People's Party of Finland",
+      "fi": "Suomen ruotsalainen kansanpuolue",
+      "sv": "Svenska folkpartiet i Finland"
+     },
+     "seats": 9,
+     "bloc": "centre",
+     "color": "#ffdd93"
+    },
+    {
+     "id": "liberals",
+     "name": {
+      "en": "Liberals",
+      "fi": "Liberaalinen Kansanpuolue",
+      "sv": "Liberala folkpartiet"
+     },
+     "seats": 7,
+     "bloc": "centre",
+     "color": "#ECB04E"
+    },
+    {
+     "id": "christian-democrats",
+     "name": {
+      "en": "Christian Democrats",
+      "fi": "Suomen Kristillisdemokraatit",
+      "sv": "Kristdemokraterna i Finland (KD)"
+     },
+     "seats": 4,
+     "bloc": "centre-right",
+     "color": "#2B67C9"
+    },
+    {
+     "id": "aland-coalition",
+     "name": {
+      "en": "Åland Coalition",
+      "fi": "Åländsk Samling",
+      "sv": "Åländsk Samling"
+     },
+     "seats": 1,
+     "bloc": "centre",
+     "color": "#D7DB50"
+    }
+   ]
+  },
+  {
+   "term": "1972–1975",
+   "year": 1975,
+   "pm": "keijo-liinamaa",
+   "seats": 200,
+   "results": [
+    {
+     "id": "social-democratic-party-of-finland",
+     "name": {
+      "en": "Social Democratic Party of Finland",
+      "fi": "Suomen Sosialidemokraattinen Puolue",
+      "sv": "Finlands Socialdemokratiska parti"
+     },
+     "seats": 55,
+     "bloc": "centre-left",
+     "color": "#F54B4B"
+    },
+    {
+     "id": "finnish-people-s-democratic-league",
+     "name": {
+      "en": "Finnish People's Democratic League",
+      "fi": "Suomen Kansan Demokraattinen Liitto",
+      "sv": "Demokratiska förbundet för Finlands folk"
+     },
+     "seats": 37,
+     "bloc": "left",
+     "color": "#C30B02"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "fi": "Suomen Keskusta",
+      "sv": "Centern i Finland"
+     },
+     "seats": 35,
+     "bloc": "centre",
+     "color": "#3AAD2E"
+    },
+    {
+     "id": "national-coalition-party",
+     "name": {
+      "en": "National Coalition Party",
+      "fi": "Kansallinen Kokoomus",
+      "sv": "Samlingspartiet"
+     },
+     "seats": 34,
+     "bloc": "centre-right",
+     "color": "#006288"
+    },
+    {
+     "id": "finnish-rural-party",
+     "name": {
+      "en": "Finnish Rural Party",
+      "fi": "Suomen Maaseudun Puolue",
+      "sv": "Finlands landsbygdsparti"
+     },
+     "seats": 18,
+     "bloc": "centre",
+     "color": "#0032CA"
+    },
+    {
+     "id": "swedish-people-s-party-of-finland",
+     "name": {
+      "en": "Swedish People's Party of Finland",
+      "fi": "Suomen ruotsalainen kansanpuolue",
+      "sv": "Svenska folkpartiet i Finland"
+     },
+     "seats": 9,
+     "bloc": "centre",
+     "color": "#ffdd93"
+    },
+    {
+     "id": "liberals",
+     "name": {
+      "en": "Liberals",
+      "fi": "Liberaalinen Kansanpuolue",
+      "sv": "Liberala folkpartiet"
+     },
+     "seats": 7,
+     "bloc": "centre",
+     "color": "#ECB04E"
+    },
+    {
+     "id": "christian-democrats",
+     "name": {
+      "en": "Christian Democrats",
+      "fi": "Suomen Kristillisdemokraatit",
+      "sv": "Kristdemokraterna i Finland (KD)"
+     },
+     "seats": 4,
+     "bloc": "centre-right",
+     "color": "#2B67C9"
+    },
+    {
+     "id": "aland-coalition",
+     "name": {
+      "en": "Åland Coalition",
+      "fi": "Åländsk Samling",
+      "sv": "Åländsk Samling"
+     },
+     "seats": 1,
+     "bloc": "centre",
+     "color": "#D7DB50"
+    }
+   ]
+  },
+  {
+   "term": "1975–1979",
+   "year": 1975,
+   "pm": "martti-miettunen",
+   "seats": 200,
+   "results": [
+    {
+     "id": "social-democratic-party-of-finland",
+     "name": {
+      "en": "Social Democratic Party of Finland",
+      "fi": "Suomen Sosialidemokraattinen Puolue",
+      "sv": "Finlands Socialdemokratiska parti"
+     },
+     "seats": 54,
+     "bloc": "centre-left",
+     "color": "#F54B4B"
+    },
+    {
+     "id": "finnish-people-s-democratic-league",
+     "name": {
+      "en": "Finnish People's Democratic League",
+      "fi": "Suomen Kansan Demokraattinen Liitto",
+      "sv": "Demokratiska förbundet för Finlands folk"
+     },
+     "seats": 40,
+     "bloc": "left",
+     "color": "#C30B02"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "fi": "Suomen Keskusta",
+      "sv": "Centern i Finland"
+     },
+     "seats": 39,
+     "bloc": "centre",
+     "color": "#3AAD2E"
+    },
+    {
+     "id": "national-coalition-party",
+     "name": {
+      "en": "National Coalition Party",
+      "fi": "Kansallinen Kokoomus",
+      "sv": "Samlingspartiet"
+     },
+     "seats": 35,
+     "bloc": "centre-right",
+     "color": "#006288"
+    },
+    {
+     "id": "swedish-people-s-party-of-finland",
+     "name": {
+      "en": "Swedish People's Party of Finland",
+      "fi": "Suomen ruotsalainen kansanpuolue",
+      "sv": "Svenska folkpartiet i Finland"
+     },
+     "seats": 9,
+     "bloc": "centre",
+     "color": "#ffdd93"
+    },
+    {
+     "id": "liberals",
+     "name": {
+      "en": "Liberals",
+      "fi": "Liberaalinen Kansanpuolue",
+      "sv": "Liberala folkpartiet"
+     },
+     "seats": 9,
+     "bloc": "centre",
+     "color": "#ECB04E"
+    },
+    {
+     "id": "christian-democrats",
+     "name": {
+      "en": "Christian Democrats",
+      "fi": "Suomen Kristillisdemokraatit",
+      "sv": "Kristdemokraterna i Finland (KD)"
+     },
+     "seats": 9,
+     "bloc": "centre-right",
+     "color": "#2B67C9"
+    },
+    {
+     "id": "finnish-rural-party",
+     "name": {
+      "en": "Finnish Rural Party",
+      "fi": "Suomen Maaseudun Puolue",
+      "sv": "Finlands landsbygdsparti"
+     },
+     "seats": 2,
+     "bloc": "centre",
+     "color": "#0032CA"
+    },
+    {
+     "id": "finnish-people-s-unity-party",
+     "name": {
+      "en": "Finnish People's Unity Party",
+      "fi": "Suomen Kansan Yhtenäisyyden Puolue",
+      "sv": "Finlands folks enhetsparti"
+     },
+     "seats": 1,
+     "bloc": "centre"
+    },
+    {
+     "id": "constitutional-right-party",
+     "name": {
+      "en": "Constitutional Right Party",
+      "fi": "Perustuslaillinen oikeistopuolue",
+      "sv": "Konstitutionella högerpartiet"
+     },
+     "seats": 1,
+     "bloc": "right"
+    },
+    {
+     "id": "aland-coalition",
+     "name": {
+      "en": "Åland Coalition",
+      "fi": "Åländsk Samling",
+      "sv": "Åländsk Samling"
+     },
+     "seats": 1,
+     "bloc": "centre",
+     "color": "#D7DB50"
+    }
+   ]
+  },
+  {
+   "term": "1975–1979",
+   "year": 1977,
+   "pm": "kalevi-sorsa",
+   "seats": 200,
+   "results": [
+    {
+     "id": "social-democratic-party-of-finland",
+     "name": {
+      "en": "Social Democratic Party of Finland",
+      "fi": "Suomen Sosialidemokraattinen Puolue",
+      "sv": "Finlands Socialdemokratiska parti"
+     },
+     "seats": 54,
+     "bloc": "centre-left",
+     "color": "#F54B4B"
+    },
+    {
+     "id": "finnish-people-s-democratic-league",
+     "name": {
+      "en": "Finnish People's Democratic League",
+      "fi": "Suomen Kansan Demokraattinen Liitto",
+      "sv": "Demokratiska förbundet för Finlands folk"
+     },
+     "seats": 40,
+     "bloc": "left",
+     "color": "#C30B02"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "fi": "Suomen Keskusta",
+      "sv": "Centern i Finland"
+     },
+     "seats": 39,
+     "bloc": "centre",
+     "color": "#3AAD2E"
+    },
+    {
+     "id": "national-coalition-party",
+     "name": {
+      "en": "National Coalition Party",
+      "fi": "Kansallinen Kokoomus",
+      "sv": "Samlingspartiet"
+     },
+     "seats": 35,
+     "bloc": "centre-right",
+     "color": "#006288"
+    },
+    {
+     "id": "swedish-people-s-party-of-finland",
+     "name": {
+      "en": "Swedish People's Party of Finland",
+      "fi": "Suomen ruotsalainen kansanpuolue",
+      "sv": "Svenska folkpartiet i Finland"
+     },
+     "seats": 9,
+     "bloc": "centre",
+     "color": "#ffdd93"
+    },
+    {
+     "id": "liberals",
+     "name": {
+      "en": "Liberals",
+      "fi": "Liberaalinen Kansanpuolue",
+      "sv": "Liberala folkpartiet"
+     },
+     "seats": 9,
+     "bloc": "centre",
+     "color": "#ECB04E"
+    },
+    {
+     "id": "christian-democrats",
+     "name": {
+      "en": "Christian Democrats",
+      "fi": "Suomen Kristillisdemokraatit",
+      "sv": "Kristdemokraterna i Finland (KD)"
+     },
+     "seats": 9,
+     "bloc": "centre-right",
+     "color": "#2B67C9"
+    },
+    {
+     "id": "finnish-rural-party",
+     "name": {
+      "en": "Finnish Rural Party",
+      "fi": "Suomen Maaseudun Puolue",
+      "sv": "Finlands landsbygdsparti"
+     },
+     "seats": 2,
+     "bloc": "centre",
+     "color": "#0032CA"
+    },
+    {
+     "id": "finnish-people-s-unity-party",
+     "name": {
+      "en": "Finnish People's Unity Party",
+      "fi": "Suomen Kansan Yhtenäisyyden Puolue",
+      "sv": "Finlands folks enhetsparti"
+     },
+     "seats": 1,
+     "bloc": "centre"
+    },
+    {
+     "id": "constitutional-right-party",
+     "name": {
+      "en": "Constitutional Right Party",
+      "fi": "Perustuslaillinen oikeistopuolue",
+      "sv": "Konstitutionella högerpartiet"
+     },
+     "seats": 1,
+     "bloc": "right"
+    },
+    {
+     "id": "aland-coalition",
+     "name": {
+      "en": "Åland Coalition",
+      "fi": "Åländsk Samling",
+      "sv": "Åländsk Samling"
+     },
+     "seats": 1,
+     "bloc": "centre",
+     "color": "#D7DB50"
+    }
+   ]
+  },
+  {
+   "term": "1979–1983",
+   "year": 1979,
+   "pm": "mauno-koivisto",
+   "seats": 200,
+   "results": [
+    {
+     "id": "social-democratic-party-of-finland",
+     "name": {
+      "en": "Social Democratic Party of Finland",
+      "fi": "Suomen Sosialidemokraattinen Puolue",
+      "sv": "Finlands Socialdemokratiska parti"
+     },
+     "seats": 52,
+     "bloc": "centre-left",
+     "color": "#F54B4B"
+    },
+    {
+     "id": "national-coalition-party",
+     "name": {
+      "en": "National Coalition Party",
+      "fi": "Kansallinen Kokoomus",
+      "sv": "Samlingspartiet"
+     },
+     "seats": 47,
+     "bloc": "centre-right",
+     "color": "#006288"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "fi": "Suomen Keskusta",
+      "sv": "Centern i Finland"
+     },
+     "seats": 36,
+     "bloc": "centre",
+     "color": "#3AAD2E"
+    },
+    {
+     "id": "finnish-people-s-democratic-league",
+     "name": {
+      "en": "Finnish People's Democratic League",
+      "fi": "Suomen Kansan Demokraattinen Liitto",
+      "sv": "Demokratiska förbundet för Finlands folk"
+     },
+     "seats": 35,
+     "bloc": "left",
+     "color": "#C30B02"
+    },
+    {
+     "id": "christian-democrats",
+     "name": {
+      "en": "Christian Democrats",
+      "fi": "Suomen Kristillisdemokraatit",
+      "sv": "Kristdemokraterna i Finland (KD)"
+     },
+     "seats": 9,
+     "bloc": "centre-right",
+     "color": "#2B67C9"
+    },
+    {
+     "id": "swedish-people-s-party-of-finland",
+     "name": {
+      "en": "Swedish People's Party of Finland",
+      "fi": "Suomen ruotsalainen kansanpuolue",
+      "sv": "Svenska folkpartiet i Finland"
+     },
+     "seats": 9,
+     "bloc": "centre",
+     "color": "#ffdd93"
+    },
+    {
+     "id": "finnish-rural-party",
+     "name": {
+      "en": "Finnish Rural Party",
+      "fi": "Suomen Maaseudun Puolue",
+      "sv": "Finlands landsbygdsparti"
+     },
+     "seats": 7,
+     "bloc": "centre",
+     "color": "#0032CA"
+    },
+    {
+     "id": "liberals",
+     "name": {
+      "en": "Liberals",
+      "fi": "Liberaalinen Kansanpuolue",
+      "sv": "Liberala folkpartiet"
+     },
+     "seats": 4,
+     "bloc": "centre",
+     "color": "#ECB04E"
+    },
+    {
+     "id": "aland-coalition",
+     "name": {
+      "en": "Åland Coalition",
+      "fi": "Åländsk Samling",
+      "sv": "Åländsk Samling"
+     },
+     "seats": 1,
+     "bloc": "centre",
+     "color": "#D7DB50"
+    }
+   ]
+  },
+  {
+   "term": "1979–1983",
+   "year": 1982,
+   "pm": "kalevi-sorsa",
+   "seats": 200,
+   "results": [
+    {
+     "id": "social-democratic-party-of-finland",
+     "name": {
+      "en": "Social Democratic Party of Finland",
+      "fi": "Suomen Sosialidemokraattinen Puolue",
+      "sv": "Finlands Socialdemokratiska parti"
+     },
+     "seats": 52,
+     "bloc": "centre-left",
+     "color": "#F54B4B"
+    },
+    {
+     "id": "national-coalition-party",
+     "name": {
+      "en": "National Coalition Party",
+      "fi": "Kansallinen Kokoomus",
+      "sv": "Samlingspartiet"
+     },
+     "seats": 47,
+     "bloc": "centre-right",
+     "color": "#006288"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "fi": "Suomen Keskusta",
+      "sv": "Centern i Finland"
+     },
+     "seats": 36,
+     "bloc": "centre",
+     "color": "#3AAD2E"
+    },
+    {
+     "id": "finnish-people-s-democratic-league",
+     "name": {
+      "en": "Finnish People's Democratic League",
+      "fi": "Suomen Kansan Demokraattinen Liitto",
+      "sv": "Demokratiska förbundet för Finlands folk"
+     },
+     "seats": 35,
+     "bloc": "left",
+     "color": "#C30B02"
+    },
+    {
+     "id": "christian-democrats",
+     "name": {
+      "en": "Christian Democrats",
+      "fi": "Suomen Kristillisdemokraatit",
+      "sv": "Kristdemokraterna i Finland (KD)"
+     },
+     "seats": 9,
+     "bloc": "centre-right",
+     "color": "#2B67C9"
+    },
+    {
+     "id": "swedish-people-s-party-of-finland",
+     "name": {
+      "en": "Swedish People's Party of Finland",
+      "fi": "Suomen ruotsalainen kansanpuolue",
+      "sv": "Svenska folkpartiet i Finland"
+     },
+     "seats": 9,
+     "bloc": "centre",
+     "color": "#ffdd93"
+    },
+    {
+     "id": "finnish-rural-party",
+     "name": {
+      "en": "Finnish Rural Party",
+      "fi": "Suomen Maaseudun Puolue",
+      "sv": "Finlands landsbygdsparti"
+     },
+     "seats": 7,
+     "bloc": "centre",
+     "color": "#0032CA"
+    },
+    {
+     "id": "liberals",
+     "name": {
+      "en": "Liberals",
+      "fi": "Liberaalinen Kansanpuolue",
+      "sv": "Liberala folkpartiet"
+     },
+     "seats": 4,
+     "bloc": "centre",
+     "color": "#ECB04E"
+    },
+    {
+     "id": "aland-coalition",
+     "name": {
+      "en": "Åland Coalition",
+      "fi": "Åländsk Samling",
+      "sv": "Åländsk Samling"
+     },
+     "seats": 1,
+     "bloc": "centre",
+     "color": "#D7DB50"
+    }
+   ]
+  },
+  {
+   "term": "1983–1987",
+   "year": 1983,
+   "pm": "kalevi-sorsa",
+   "seats": 200,
+   "results": [
+    {
+     "id": "social-democratic-party-of-finland",
+     "name": {
+      "en": "Social Democratic Party of Finland",
+      "fi": "Suomen Sosialidemokraattinen Puolue",
+      "sv": "Finlands Socialdemokratiska parti"
+     },
+     "seats": 57,
+     "bloc": "centre-left",
+     "color": "#F54B4B"
+    },
+    {
+     "id": "national-coalition-party",
+     "name": {
+      "en": "National Coalition Party",
+      "fi": "Kansallinen Kokoomus",
+      "sv": "Samlingspartiet"
+     },
+     "seats": 44,
+     "bloc": "centre-right",
+     "color": "#006288"
+    },
+    {
+     "id": "centre-party-liberal-people-s-party",
+     "name": {
+      "en": "Centre Party–Liberal People's Party"
+     },
+     "seats": 38,
+     "bloc": "centre"
+    },
+    {
+     "id": "finnish-people-s-democratic-league",
+     "name": {
+      "en": "Finnish People's Democratic League",
+      "fi": "Suomen Kansan Demokraattinen Liitto",
+      "sv": "Demokratiska förbundet för Finlands folk"
+     },
+     "seats": 26,
+     "bloc": "left",
+     "color": "#C30B02"
+    },
+    {
+     "id": "finnish-rural-party",
+     "name": {
+      "en": "Finnish Rural Party",
+      "fi": "Suomen Maaseudun Puolue",
+      "sv": "Finlands landsbygdsparti"
+     },
+     "seats": 17,
+     "bloc": "centre",
+     "color": "#0032CA"
+    },
+    {
+     "id": "swedish-people-s-party-of-finland",
+     "name": {
+      "en": "Swedish People's Party of Finland",
+      "fi": "Suomen ruotsalainen kansanpuolue",
+      "sv": "Svenska folkpartiet i Finland"
+     },
+     "seats": 10,
+     "bloc": "centre",
+     "color": "#ffdd93"
+    },
+    {
+     "id": "christian-democrats",
+     "name": {
+      "en": "Christian Democrats",
+      "fi": "Suomen Kristillisdemokraatit",
+      "sv": "Kristdemokraterna i Finland (KD)"
+     },
+     "seats": 3,
+     "bloc": "centre-right",
+     "color": "#2B67C9"
+    },
+    {
+     "id": "green-league",
+     "name": {
+      "en": "Green League",
+      "fi": "Vihreä liitto",
+      "sv": "De Gröna"
+     },
+     "seats": 2,
+     "bloc": "centre-left",
+     "color": "#006845"
+    },
+    {
+     "id": "constitutional-right-party",
+     "name": {
+      "en": "Constitutional Right Party",
+      "fi": "Perustuslaillinen oikeistopuolue",
+      "sv": "Konstitutionella högerpartiet"
+     },
+     "seats": 1,
+     "bloc": "right"
+    },
+    {
+     "id": "aland-coalition",
+     "name": {
+      "en": "Åland Coalition",
+      "fi": "Åländsk Samling",
+      "sv": "Åländsk Samling"
+     },
+     "seats": 1,
+     "bloc": "centre",
+     "color": "#D7DB50"
+    },
+    {
+     "id": "others",
+     "name": {
+      "en": "Others"
+     },
+     "seats": 1,
+     "bloc": "other",
+     "color": "#DDDDBB"
+    }
+   ]
+  },
+  {
+   "term": "1987–1991",
+   "year": 1987,
+   "pm": "harri-holkeri",
+   "seats": 200,
+   "results": [
+    {
+     "id": "social-democratic-party-of-finland",
+     "name": {
+      "en": "Social Democratic Party of Finland",
+      "fi": "Suomen Sosialidemokraattinen Puolue",
+      "sv": "Finlands Socialdemokratiska parti"
+     },
+     "seats": 56,
+     "bloc": "centre-left",
+     "color": "#F54B4B"
+    },
+    {
+     "id": "national-coalition-party",
+     "name": {
+      "en": "National Coalition Party",
+      "fi": "Kansallinen Kokoomus",
+      "sv": "Samlingspartiet"
+     },
+     "seats": 53,
+     "bloc": "centre-right",
+     "color": "#006288"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "fi": "Suomen Keskusta",
+      "sv": "Centern i Finland"
+     },
+     "seats": 40,
+     "bloc": "centre",
+     "color": "#3AAD2E"
+    },
+    {
+     "id": "finnish-people-s-democratic-league",
+     "name": {
+      "en": "Finnish People's Democratic League",
+      "fi": "Suomen Kansan Demokraattinen Liitto",
+      "sv": "Demokratiska förbundet för Finlands folk"
+     },
+     "seats": 16,
+     "bloc": "left",
+     "color": "#C30B02"
+    },
+    {
+     "id": "swedish-people-s-party-of-finland",
+     "name": {
+      "en": "Swedish People's Party of Finland",
+      "fi": "Suomen ruotsalainen kansanpuolue",
+      "sv": "Svenska folkpartiet i Finland"
+     },
+     "seats": 12,
+     "bloc": "centre",
+     "color": "#ffdd93"
+    },
+    {
+     "id": "finnish-rural-party",
+     "name": {
+      "en": "Finnish Rural Party",
+      "fi": "Suomen Maaseudun Puolue",
+      "sv": "Finlands landsbygdsparti"
+     },
+     "seats": 9,
+     "bloc": "centre",
+     "color": "#0032CA"
+    },
+    {
+     "id": "christian-democrats",
+     "name": {
+      "en": "Christian Democrats",
+      "fi": "Suomen Kristillisdemokraatit",
+      "sv": "Kristdemokraterna i Finland (KD)"
+     },
+     "seats": 5,
+     "bloc": "centre-right",
+     "color": "#2B67C9"
+    },
+    {
+     "id": "democratic-alternative",
+     "name": {
+      "en": "Democratic Alternative",
+      "fi": "Demokraattinen Vaihtoehto",
+      "sv": "Demokratiskt Alternativ"
+     },
+     "seats": 4,
+     "bloc": "far-left",
+     "color": "#FF4D00"
+    },
+    {
+     "id": "green-league",
+     "name": {
+      "en": "Green League",
+      "fi": "Vihreä liitto",
+      "sv": "De Gröna"
+     },
+     "seats": 4,
+     "bloc": "centre-left",
+     "color": "#006845"
+    },
+    {
+     "id": "liberals-for-aland-social-democrats",
+     "name": {
+      "en": "Liberals for Åland–Social Democrats"
+     },
+     "seats": 1,
+     "bloc": "centre"
+    }
+   ]
+  },
+  {
+   "term": "1991–1995",
+   "year": 1991,
+   "pm": "esko-aho",
+   "seats": 200,
+   "results": [
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "fi": "Suomen Keskusta",
+      "sv": "Centern i Finland"
+     },
+     "seats": 55,
+     "bloc": "centre",
+     "color": "#3AAD2E"
+    },
+    {
+     "id": "social-democratic-party-of-finland",
+     "name": {
+      "en": "Social Democratic Party of Finland",
+      "fi": "Suomen Sosialidemokraattinen Puolue",
+      "sv": "Finlands Socialdemokratiska parti"
+     },
+     "seats": 48,
+     "bloc": "centre-left",
+     "color": "#F54B4B"
+    },
+    {
+     "id": "national-coalition-party",
+     "name": {
+      "en": "National Coalition Party",
+      "fi": "Kansallinen Kokoomus",
+      "sv": "Samlingspartiet"
+     },
+     "seats": 40,
+     "bloc": "centre-right",
+     "color": "#006288"
+    },
+    {
+     "id": "left-alliance",
+     "name": {
+      "en": "Left Alliance",
+      "fi": "Vasemmistoliitto",
+      "sv": "Vänsterförbundet"
+     },
+     "seats": 19,
+     "bloc": "left",
+     "color": "#F00A64"
+    },
+    {
+     "id": "swedish-people-s-party-of-finland",
+     "name": {
+      "en": "Swedish People's Party of Finland",
+      "fi": "Suomen ruotsalainen kansanpuolue",
+      "sv": "Svenska folkpartiet i Finland"
+     },
+     "seats": 11,
+     "bloc": "centre",
+     "color": "#ffdd93"
+    },
+    {
+     "id": "green-league",
+     "name": {
+      "en": "Green League",
+      "fi": "Vihreä liitto",
+      "sv": "De Gröna"
+     },
+     "seats": 10,
+     "bloc": "centre-left",
+     "color": "#006845"
+    },
+    {
+     "id": "christian-democrats",
+     "name": {
+      "en": "Christian Democrats",
+      "fi": "Suomen Kristillisdemokraatit",
+      "sv": "Kristdemokraterna i Finland (KD)"
+     },
+     "seats": 8,
+     "bloc": "centre-right",
+     "color": "#2B67C9"
+    },
+    {
+     "id": "finnish-rural-party",
+     "name": {
+      "en": "Finnish Rural Party",
+      "fi": "Suomen Maaseudun Puolue",
+      "sv": "Finlands landsbygdsparti"
+     },
+     "seats": 7,
+     "bloc": "centre",
+     "color": "#0032CA"
+    },
+    {
+     "id": "liberals",
+     "name": {
+      "en": "Liberals",
+      "fi": "Liberaalinen Kansanpuolue",
+      "sv": "Liberala folkpartiet"
+     },
+     "seats": 1,
+     "bloc": "centre",
+     "color": "#ECB04E"
+    },
+    {
+     "id": "liberals-for-aland-freeminded-greens",
+     "name": {
+      "en": "Liberals for Åland–Freeminded–Greens"
+     },
+     "seats": 1,
+     "bloc": "centre"
+    }
+   ]
+  },
+  {
+   "term": "1995–1999",
+   "year": 1995,
+   "pm": "paavo-lipponen",
+   "seats": 200,
+   "results": [
+    {
+     "id": "social-democratic-party-of-finland",
+     "name": {
+      "en": "Social Democratic Party of Finland",
+      "fi": "Suomen Sosialidemokraattinen Puolue",
+      "sv": "Finlands Socialdemokratiska parti"
+     },
+     "seats": 63,
+     "bloc": "centre-left",
+     "color": "#F54B4B"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "fi": "Suomen Keskusta",
+      "sv": "Centern i Finland"
+     },
+     "seats": 44,
+     "bloc": "centre",
+     "color": "#3AAD2E"
+    },
+    {
+     "id": "national-coalition-party",
+     "name": {
+      "en": "National Coalition Party",
+      "fi": "Kansallinen Kokoomus",
+      "sv": "Samlingspartiet"
+     },
+     "seats": 39,
+     "bloc": "centre-right",
+     "color": "#006288"
+    },
+    {
+     "id": "left-alliance",
+     "name": {
+      "en": "Left Alliance",
+      "fi": "Vasemmistoliitto",
+      "sv": "Vänsterförbundet"
+     },
+     "seats": 22,
+     "bloc": "left",
+     "color": "#F00A64"
+    },
+    {
+     "id": "swedish-people-s-party-of-finland",
+     "name": {
+      "en": "Swedish People's Party of Finland",
+      "fi": "Suomen ruotsalainen kansanpuolue",
+      "sv": "Svenska folkpartiet i Finland"
+     },
+     "seats": 11,
+     "bloc": "centre",
+     "color": "#ffdd93"
+    },
+    {
+     "id": "green-league",
+     "name": {
+      "en": "Green League",
+      "fi": "Vihreä liitto",
+      "sv": "De Gröna"
+     },
+     "seats": 9,
+     "bloc": "centre-left",
+     "color": "#006845"
+    },
+    {
+     "id": "christian-democrats",
+     "name": {
+      "en": "Christian Democrats",
+      "fi": "Suomen Kristillisdemokraatit",
+      "sv": "Kristdemokraterna i Finland (KD)"
+     },
+     "seats": 7,
+     "bloc": "centre-right",
+     "color": "#2B67C9"
+    },
+    {
+     "id": "young-finns",
+     "name": {
+      "en": "Young Finns",
+      "fi": "Nuorsuomalaiset",
+      "sv": "Ungfinnarna"
+     },
+     "seats": 2,
+     "bloc": "centre-right",
+     "color": "#109473"
+    },
+    {
+     "id": "finnish-rural-party",
+     "name": {
+      "en": "Finnish Rural Party",
+      "fi": "Suomen Maaseudun Puolue",
+      "sv": "Finlands landsbygdsparti"
+     },
+     "seats": 1,
+     "bloc": "centre",
+     "color": "#0032CA"
+    },
+    {
+     "id": "kirjava-puolue-elonkehan-puolesta",
+     "name": {
+      "en": "Kirjava ”Puolue” – Elonkehän Puolesta",
+      "fi": "Kirjava ”Puolue” – Elonkehän Puolesta",
+      "sv": "Ekologiska partiet (Finland)"
+     },
+     "seats": 1,
+     "bloc": "left"
+    },
+    {
+     "id": "liberals-for-aland",
+     "name": {
+      "en": "Liberals for Åland",
+      "fi": "Ahvenanmaan liberaalit",
+      "sv": "Liberalerna på Åland"
+     },
+     "seats": 1,
+     "bloc": "centre",
+     "color": "#1F66CA"
+    }
+   ]
+  },
+  {
+   "term": "1999–2003",
+   "year": 1999,
+   "pm": "paavo-lipponen",
+   "seats": 200,
+   "results": [
+    {
+     "id": "social-democratic-party-of-finland",
+     "name": {
+      "en": "Social Democratic Party of Finland",
+      "fi": "Suomen Sosialidemokraattinen Puolue",
+      "sv": "Finlands Socialdemokratiska parti"
+     },
+     "seats": 51,
+     "bloc": "centre-left",
+     "color": "#F54B4B"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "fi": "Suomen Keskusta",
+      "sv": "Centern i Finland"
+     },
+     "seats": 48,
+     "bloc": "centre",
+     "color": "#3AAD2E"
+    },
+    {
+     "id": "national-coalition-party",
+     "name": {
+      "en": "National Coalition Party",
+      "fi": "Kansallinen Kokoomus",
+      "sv": "Samlingspartiet"
+     },
+     "seats": 46,
+     "bloc": "centre-right",
+     "color": "#006288"
+    },
+    {
+     "id": "left-alliance",
+     "name": {
+      "en": "Left Alliance",
+      "fi": "Vasemmistoliitto",
+      "sv": "Vänsterförbundet"
+     },
+     "seats": 20,
+     "bloc": "left",
+     "color": "#F00A64"
+    },
+    {
+     "id": "green-league",
+     "name": {
+      "en": "Green League",
+      "fi": "Vihreä liitto",
+      "sv": "De Gröna"
+     },
+     "seats": 11,
+     "bloc": "centre-left",
+     "color": "#006845"
+    },
+    {
+     "id": "swedish-people-s-party-of-finland",
+     "name": {
+      "en": "Swedish People's Party of Finland",
+      "fi": "Suomen ruotsalainen kansanpuolue",
+      "sv": "Svenska folkpartiet i Finland"
+     },
+     "seats": 11,
+     "bloc": "centre",
+     "color": "#ffdd93"
+    },
+    {
+     "id": "christian-democrats",
+     "name": {
+      "en": "Christian Democrats",
+      "fi": "Suomen Kristillisdemokraatit",
+      "sv": "Kristdemokraterna i Finland (KD)"
+     },
+     "seats": 10,
+     "bloc": "centre-right",
+     "color": "#2B67C9"
+    },
+    {
+     "id": "reform-group",
+     "name": {
+      "en": "Reform Group",
+      "fi": "Remonttiryhmä",
+      "sv": "Remonttiryhmä"
+     },
+     "seats": 1,
+     "bloc": "right",
+     "color": "#E6E600"
+    },
+    {
+     "id": "finns-party",
+     "name": {
+      "en": "Finns Party",
+      "fi": "Perussuomalaiset",
+      "sv": "Sannfinländarna"
+     },
+     "seats": 1,
+     "bloc": "right",
+     "color": "#FFDE55"
+    },
+    {
+     "id": "liberals-for-aland",
+     "name": {
+      "en": "Liberals for Åland",
+      "fi": "Ahvenanmaan liberaalit",
+      "sv": "Liberalerna på Åland"
+     },
+     "seats": 1,
+     "bloc": "centre",
+     "color": "#1F66CA"
+    }
+   ]
+  },
+  {
+   "term": "2003–2007",
+   "year": 2003,
+   "pm": "anneli-jaatteenmaki",
+   "seats": 200,
+   "results": [
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "fi": "Suomen Keskusta",
+      "sv": "Centern i Finland"
+     },
+     "seats": 55,
+     "bloc": "centre",
+     "color": "#3AAD2E"
+    },
+    {
+     "id": "social-democratic-party-of-finland",
+     "name": {
+      "en": "Social Democratic Party of Finland",
+      "fi": "Suomen Sosialidemokraattinen Puolue",
+      "sv": "Finlands Socialdemokratiska parti"
+     },
+     "seats": 53,
+     "bloc": "centre-left",
+     "color": "#F54B4B"
+    },
+    {
+     "id": "national-coalition-party",
+     "name": {
+      "en": "National Coalition Party",
+      "fi": "Kansallinen Kokoomus",
+      "sv": "Samlingspartiet"
+     },
+     "seats": 40,
+     "bloc": "centre-right",
+     "color": "#006288"
+    },
+    {
+     "id": "left-alliance",
+     "name": {
+      "en": "Left Alliance",
+      "fi": "Vasemmistoliitto",
+      "sv": "Vänsterförbundet"
+     },
+     "seats": 19,
+     "bloc": "left",
+     "color": "#F00A64"
+    },
+    {
+     "id": "green-league",
+     "name": {
+      "en": "Green League",
+      "fi": "Vihreä liitto",
+      "sv": "De Gröna"
+     },
+     "seats": 14,
+     "bloc": "centre-left",
+     "color": "#006845"
+    },
+    {
+     "id": "swedish-people-s-party-of-finland",
+     "name": {
+      "en": "Swedish People's Party of Finland",
+      "fi": "Suomen ruotsalainen kansanpuolue",
+      "sv": "Svenska folkpartiet i Finland"
+     },
+     "seats": 8,
+     "bloc": "centre",
+     "color": "#ffdd93"
+    },
+    {
+     "id": "christian-democrats",
+     "name": {
+      "en": "Christian Democrats",
+      "fi": "Suomen Kristillisdemokraatit",
+      "sv": "Kristdemokraterna i Finland (KD)"
+     },
+     "seats": 7,
+     "bloc": "centre-right",
+     "color": "#2B67C9"
+    },
+    {
+     "id": "finns-party",
+     "name": {
+      "en": "Finns Party",
+      "fi": "Perussuomalaiset",
+      "sv": "Sannfinländarna"
+     },
+     "seats": 3,
+     "bloc": "right",
+     "color": "#FFDE55"
+    },
+    {
+     "id": "freeminded-cooperation-non-aligned-coalition",
+     "name": {
+      "en": "Freeminded Cooperation–Non-aligned Coalition"
+     },
+     "seats": 1,
+     "bloc": "centre-right"
+    }
+   ]
+  },
+  {
+   "term": "2003–2007",
+   "year": 2003,
+   "pm": "matti-vanhanen",
+   "seats": 200,
+   "results": [
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "fi": "Suomen Keskusta",
+      "sv": "Centern i Finland"
+     },
+     "seats": 55,
+     "bloc": "centre",
+     "color": "#3AAD2E"
+    },
+    {
+     "id": "social-democratic-party-of-finland",
+     "name": {
+      "en": "Social Democratic Party of Finland",
+      "fi": "Suomen Sosialidemokraattinen Puolue",
+      "sv": "Finlands Socialdemokratiska parti"
+     },
+     "seats": 53,
+     "bloc": "centre-left",
+     "color": "#F54B4B"
+    },
+    {
+     "id": "national-coalition-party",
+     "name": {
+      "en": "National Coalition Party",
+      "fi": "Kansallinen Kokoomus",
+      "sv": "Samlingspartiet"
+     },
+     "seats": 40,
+     "bloc": "centre-right",
+     "color": "#006288"
+    },
+    {
+     "id": "left-alliance",
+     "name": {
+      "en": "Left Alliance",
+      "fi": "Vasemmistoliitto",
+      "sv": "Vänsterförbundet"
+     },
+     "seats": 19,
+     "bloc": "left",
+     "color": "#F00A64"
+    },
+    {
+     "id": "green-league",
+     "name": {
+      "en": "Green League",
+      "fi": "Vihreä liitto",
+      "sv": "De Gröna"
+     },
+     "seats": 14,
+     "bloc": "centre-left",
+     "color": "#006845"
+    },
+    {
+     "id": "swedish-people-s-party-of-finland",
+     "name": {
+      "en": "Swedish People's Party of Finland",
+      "fi": "Suomen ruotsalainen kansanpuolue",
+      "sv": "Svenska folkpartiet i Finland"
+     },
+     "seats": 8,
+     "bloc": "centre",
+     "color": "#ffdd93"
+    },
+    {
+     "id": "christian-democrats",
+     "name": {
+      "en": "Christian Democrats",
+      "fi": "Suomen Kristillisdemokraatit",
+      "sv": "Kristdemokraterna i Finland (KD)"
+     },
+     "seats": 7,
+     "bloc": "centre-right",
+     "color": "#2B67C9"
+    },
+    {
+     "id": "finns-party",
+     "name": {
+      "en": "Finns Party",
+      "fi": "Perussuomalaiset",
+      "sv": "Sannfinländarna"
+     },
+     "seats": 3,
+     "bloc": "right",
+     "color": "#FFDE55"
+    },
+    {
+     "id": "freeminded-cooperation-non-aligned-coalition",
+     "name": {
+      "en": "Freeminded Cooperation–Non-aligned Coalition"
+     },
+     "seats": 1,
+     "bloc": "centre-right"
+    }
+   ]
+  },
+  {
+   "term": "2007–2011",
+   "year": 2007,
+   "pm": "matti-vanhanen",
+   "seats": 200,
+   "results": [
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "fi": "Suomen Keskusta",
+      "sv": "Centern i Finland"
+     },
+     "seats": 51,
+     "bloc": "centre",
+     "color": "#3AAD2E"
+    },
+    {
+     "id": "national-coalition-party",
+     "name": {
+      "en": "National Coalition Party",
+      "fi": "Kansallinen Kokoomus",
+      "sv": "Samlingspartiet"
+     },
+     "seats": 50,
+     "bloc": "centre-right",
+     "color": "#006288"
+    },
+    {
+     "id": "social-democratic-party-of-finland",
+     "name": {
+      "en": "Social Democratic Party of Finland",
+      "fi": "Suomen Sosialidemokraattinen Puolue",
+      "sv": "Finlands Socialdemokratiska parti"
+     },
+     "seats": 45,
+     "bloc": "centre-left",
+     "color": "#F54B4B"
+    },
+    {
+     "id": "left-alliance",
+     "name": {
+      "en": "Left Alliance",
+      "fi": "Vasemmistoliitto",
+      "sv": "Vänsterförbundet"
+     },
+     "seats": 17,
+     "bloc": "left",
+     "color": "#F00A64"
+    },
+    {
+     "id": "green-league",
+     "name": {
+      "en": "Green League",
+      "fi": "Vihreä liitto",
+      "sv": "De Gröna"
+     },
+     "seats": 15,
+     "bloc": "centre-left",
+     "color": "#006845"
+    },
+    {
+     "id": "swedish-people-s-party-of-finland",
+     "name": {
+      "en": "Swedish People's Party of Finland",
+      "fi": "Suomen ruotsalainen kansanpuolue",
+      "sv": "Svenska folkpartiet i Finland"
+     },
+     "seats": 9,
+     "bloc": "centre",
+     "color": "#ffdd93"
+    },
+    {
+     "id": "christian-democrats",
+     "name": {
+      "en": "Christian Democrats",
+      "fi": "Suomen Kristillisdemokraatit",
+      "sv": "Kristdemokraterna i Finland (KD)"
+     },
+     "seats": 7,
+     "bloc": "centre-right",
+     "color": "#2B67C9"
+    },
+    {
+     "id": "finns-party",
+     "name": {
+      "en": "Finns Party",
+      "fi": "Perussuomalaiset",
+      "sv": "Sannfinländarna"
+     },
+     "seats": 5,
+     "bloc": "right",
+     "color": "#FFDE55"
+    },
+    {
+     "id": "civic-alliance",
+     "name": {
+      "en": "Civic Alliance"
+     },
+     "seats": 1,
+     "bloc": "centre-right"
+    }
+   ]
+  },
+  {
+   "term": "2007–2011",
+   "year": 2010,
+   "pm": "mari-kiviniemi",
+   "seats": 200,
+   "results": [
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "fi": "Suomen Keskusta",
+      "sv": "Centern i Finland"
+     },
+     "seats": 51,
+     "bloc": "centre",
+     "color": "#3AAD2E"
+    },
+    {
+     "id": "national-coalition-party",
+     "name": {
+      "en": "National Coalition Party",
+      "fi": "Kansallinen Kokoomus",
+      "sv": "Samlingspartiet"
+     },
+     "seats": 50,
+     "bloc": "centre-right",
+     "color": "#006288"
+    },
+    {
+     "id": "social-democratic-party-of-finland",
+     "name": {
+      "en": "Social Democratic Party of Finland",
+      "fi": "Suomen Sosialidemokraattinen Puolue",
+      "sv": "Finlands Socialdemokratiska parti"
+     },
+     "seats": 45,
+     "bloc": "centre-left",
+     "color": "#F54B4B"
+    },
+    {
+     "id": "left-alliance",
+     "name": {
+      "en": "Left Alliance",
+      "fi": "Vasemmistoliitto",
+      "sv": "Vänsterförbundet"
+     },
+     "seats": 17,
+     "bloc": "left",
+     "color": "#F00A64"
+    },
+    {
+     "id": "green-league",
+     "name": {
+      "en": "Green League",
+      "fi": "Vihreä liitto",
+      "sv": "De Gröna"
+     },
+     "seats": 15,
+     "bloc": "centre-left",
+     "color": "#006845"
+    },
+    {
+     "id": "swedish-people-s-party-of-finland",
+     "name": {
+      "en": "Swedish People's Party of Finland",
+      "fi": "Suomen ruotsalainen kansanpuolue",
+      "sv": "Svenska folkpartiet i Finland"
+     },
+     "seats": 9,
+     "bloc": "centre",
+     "color": "#ffdd93"
+    },
+    {
+     "id": "christian-democrats",
+     "name": {
+      "en": "Christian Democrats",
+      "fi": "Suomen Kristillisdemokraatit",
+      "sv": "Kristdemokraterna i Finland (KD)"
+     },
+     "seats": 7,
+     "bloc": "centre-right",
+     "color": "#2B67C9"
+    },
+    {
+     "id": "finns-party",
+     "name": {
+      "en": "Finns Party",
+      "fi": "Perussuomalaiset",
+      "sv": "Sannfinländarna"
+     },
+     "seats": 5,
+     "bloc": "right",
+     "color": "#FFDE55"
+    },
+    {
+     "id": "civic-alliance",
+     "name": {
+      "en": "Civic Alliance"
+     },
+     "seats": 1,
+     "bloc": "centre-right"
+    }
+   ]
+  },
+  {
+   "term": "2011–2015",
+   "year": 2011,
+   "pm": "jyrki-katainen",
+   "seats": 200,
+   "results": [
+    {
+     "id": "national-coalition-party",
+     "name": {
+      "en": "National Coalition Party",
+      "fi": "Kansallinen Kokoomus",
+      "sv": "Samlingspartiet"
+     },
+     "seats": 44,
+     "bloc": "centre-right",
+     "color": "#006288"
+    },
+    {
+     "id": "social-democratic-party-of-finland",
+     "name": {
+      "en": "Social Democratic Party of Finland",
+      "fi": "Suomen Sosialidemokraattinen Puolue",
+      "sv": "Finlands Socialdemokratiska parti"
+     },
+     "seats": 42,
+     "bloc": "centre-left",
+     "color": "#F54B4B"
+    },
+    {
+     "id": "finns-party",
+     "name": {
+      "en": "True Finns",
+      "fi": "Perussuomalaiset",
+      "sv": "Sannfinländarna"
+     },
+     "seats": 39,
+     "bloc": "right",
+     "color": "#FFDE55"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "fi": "Suomen Keskusta",
+      "sv": "Centern i Finland"
+     },
+     "seats": 35,
+     "bloc": "centre",
+     "color": "#3AAD2E"
+    },
+    {
+     "id": "left-alliance",
+     "name": {
+      "en": "Left Alliance",
+      "fi": "Vasemmistoliitto",
+      "sv": "Vänsterförbundet"
+     },
+     "seats": 14,
+     "bloc": "left",
+     "color": "#F00A64"
+    },
+    {
+     "id": "green-league",
+     "name": {
+      "en": "Green League",
+      "fi": "Vihreä liitto",
+      "sv": "De Gröna"
+     },
+     "seats": 10,
+     "bloc": "centre-left",
+     "color": "#006845"
+    },
+    {
+     "id": "swedish-people-s-party-of-finland",
+     "name": {
+      "en": "Swedish People's Party of Finland",
+      "fi": "Suomen ruotsalainen kansanpuolue",
+      "sv": "Svenska folkpartiet i Finland"
+     },
+     "seats": 9,
+     "bloc": "centre",
+     "color": "#ffdd93"
+    },
+    {
+     "id": "christian-democrats",
+     "name": {
+      "en": "Christian Democrats",
+      "fi": "Suomen Kristillisdemokraatit",
+      "sv": "Kristdemokraterna i Finland (KD)"
+     },
+     "seats": 6,
+     "bloc": "centre-right",
+     "color": "#2B67C9"
+    },
+    {
+     "id": "aland-coalition-2011",
+     "name": {
+      "en": "Åland Coalition 2011"
+     },
+     "seats": 1,
+     "bloc": "centre"
+    }
+   ]
+  },
+  {
+   "term": "2011–2015",
+   "year": 2014,
+   "pm": "alexander-stubb",
+   "seats": 200,
+   "results": [
+    {
+     "id": "national-coalition-party",
+     "name": {
+      "en": "National Coalition Party",
+      "fi": "Kansallinen Kokoomus",
+      "sv": "Samlingspartiet"
+     },
+     "seats": 44,
+     "bloc": "centre-right",
+     "color": "#006288"
+    },
+    {
+     "id": "social-democratic-party-of-finland",
+     "name": {
+      "en": "Social Democratic Party of Finland",
+      "fi": "Suomen Sosialidemokraattinen Puolue",
+      "sv": "Finlands Socialdemokratiska parti"
+     },
+     "seats": 42,
+     "bloc": "centre-left",
+     "color": "#F54B4B"
+    },
+    {
+     "id": "finns-party",
+     "name": {
+      "en": "True Finns",
+      "fi": "Perussuomalaiset",
+      "sv": "Sannfinländarna"
+     },
+     "seats": 39,
+     "bloc": "right",
+     "color": "#FFDE55"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "fi": "Suomen Keskusta",
+      "sv": "Centern i Finland"
+     },
+     "seats": 35,
+     "bloc": "centre",
+     "color": "#3AAD2E"
+    },
+    {
+     "id": "left-alliance",
+     "name": {
+      "en": "Left Alliance",
+      "fi": "Vasemmistoliitto",
+      "sv": "Vänsterförbundet"
+     },
+     "seats": 14,
+     "bloc": "left",
+     "color": "#F00A64"
+    },
+    {
+     "id": "green-league",
+     "name": {
+      "en": "Green League",
+      "fi": "Vihreä liitto",
+      "sv": "De Gröna"
+     },
+     "seats": 10,
+     "bloc": "centre-left",
+     "color": "#006845"
+    },
+    {
+     "id": "swedish-people-s-party-of-finland",
+     "name": {
+      "en": "Swedish People's Party of Finland",
+      "fi": "Suomen ruotsalainen kansanpuolue",
+      "sv": "Svenska folkpartiet i Finland"
+     },
+     "seats": 9,
+     "bloc": "centre",
+     "color": "#ffdd93"
+    },
+    {
+     "id": "christian-democrats",
+     "name": {
+      "en": "Christian Democrats",
+      "fi": "Suomen Kristillisdemokraatit",
+      "sv": "Kristdemokraterna i Finland (KD)"
+     },
+     "seats": 6,
+     "bloc": "centre-right",
+     "color": "#2B67C9"
+    },
+    {
+     "id": "aland-coalition-2011",
+     "name": {
+      "en": "Åland Coalition 2011"
+     },
+     "seats": 1,
+     "bloc": "centre"
+    }
+   ]
+  },
+  {
+   "term": "2015–2019",
+   "year": 2015,
+   "pm": "juha-sipila",
+   "seats": 200,
+   "results": [
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "fi": "Suomen Keskusta",
+      "sv": "Centern i Finland"
+     },
+     "seats": 49,
+     "bloc": "centre",
+     "color": "#3AAD2E"
+    },
+    {
+     "id": "finns-party",
+     "name": {
+      "en": "Finns Party",
+      "fi": "Perussuomalaiset",
+      "sv": "Sannfinländarna"
+     },
+     "seats": 38,
+     "bloc": "right",
+     "color": "#FFDE55"
+    },
+    {
+     "id": "national-coalition-party",
+     "name": {
+      "en": "National Coalition Party",
+      "fi": "Kansallinen Kokoomus",
+      "sv": "Samlingspartiet"
+     },
+     "seats": 37,
+     "bloc": "centre-right",
+     "color": "#006288"
+    },
+    {
+     "id": "social-democratic-party-of-finland",
+     "name": {
+      "en": "Social Democratic Party of Finland",
+      "fi": "Suomen Sosialidemokraattinen Puolue",
+      "sv": "Finlands Socialdemokratiska parti"
+     },
+     "seats": 34,
+     "bloc": "centre-left",
+     "color": "#F54B4B"
+    },
+    {
+     "id": "green-league",
+     "name": {
+      "en": "Green League",
+      "fi": "Vihreä liitto",
+      "sv": "De Gröna"
+     },
+     "seats": 15,
+     "bloc": "centre-left",
+     "color": "#006845"
+    },
+    {
+     "id": "left-alliance",
+     "name": {
+      "en": "Left Alliance",
+      "fi": "Vasemmistoliitto",
+      "sv": "Vänsterförbundet"
+     },
+     "seats": 12,
+     "bloc": "left",
+     "color": "#F00A64"
+    },
+    {
+     "id": "swedish-people-s-party-of-finland",
+     "name": {
+      "en": "Swedish People's Party of Finland",
+      "fi": "Suomen ruotsalainen kansanpuolue",
+      "sv": "Svenska folkpartiet i Finland"
+     },
+     "seats": 9,
+     "bloc": "centre",
+     "color": "#ffdd93"
+    },
+    {
+     "id": "christian-democrats",
+     "name": {
+      "en": "Christian Democrats",
+      "fi": "Suomen Kristillisdemokraatit",
+      "sv": "Kristdemokraterna i Finland (KD)"
+     },
+     "seats": 5,
+     "bloc": "centre-right",
+     "color": "#2B67C9"
+    },
+    {
+     "id": "aland-coalition-2015",
+     "name": {
+      "en": "Åland Coalition 2015"
+     },
+     "seats": 1,
+     "bloc": "centre"
+    }
+   ]
+  },
+  {
+   "term": "2019–2023",
+   "year": 2019,
+   "pm": "antti-rinne",
+   "seats": 200,
+   "results": [
+    {
+     "id": "social-democratic-party-of-finland",
+     "name": {
+      "en": "Social Democratic Party of Finland",
+      "fi": "Suomen Sosialidemokraattinen Puolue",
+      "sv": "Finlands Socialdemokratiska parti"
+     },
+     "seats": 40,
+     "bloc": "centre-left",
+     "color": "#F54B4B"
+    },
+    {
+     "id": "finns-party",
+     "name": {
+      "en": "Finns Party",
+      "fi": "Perussuomalaiset",
+      "sv": "Sannfinländarna"
+     },
+     "seats": 39,
+     "bloc": "right",
+     "color": "#FFDE55"
+    },
+    {
+     "id": "national-coalition-party",
+     "name": {
+      "en": "National Coalition Party",
+      "fi": "Kansallinen Kokoomus",
+      "sv": "Samlingspartiet"
+     },
+     "seats": 38,
+     "bloc": "centre-right",
+     "color": "#006288"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "fi": "Suomen Keskusta",
+      "sv": "Centern i Finland"
+     },
+     "seats": 31,
+     "bloc": "centre",
+     "color": "#3AAD2E"
+    },
+    {
+     "id": "green-league",
+     "name": {
+      "en": "Green League",
+      "fi": "Vihreä liitto",
+      "sv": "De Gröna"
+     },
+     "seats": 20,
+     "bloc": "centre-left",
+     "color": "#006845"
+    },
+    {
+     "id": "left-alliance",
+     "name": {
+      "en": "Left Alliance",
+      "fi": "Vasemmistoliitto",
+      "sv": "Vänsterförbundet"
+     },
+     "seats": 16,
+     "bloc": "left",
+     "color": "#F00A64"
+    },
+    {
+     "id": "swedish-people-s-party-of-finland",
+     "name": {
+      "en": "Swedish People's Party of Finland",
+      "fi": "Suomen ruotsalainen kansanpuolue",
+      "sv": "Svenska folkpartiet i Finland"
+     },
+     "seats": 9,
+     "bloc": "centre",
+     "color": "#ffdd93"
+    },
+    {
+     "id": "christian-democrats",
+     "name": {
+      "en": "Christian Democrats",
+      "fi": "Suomen Kristillisdemokraatit",
+      "sv": "Kristdemokraterna i Finland (KD)"
+     },
+     "seats": 5,
+     "bloc": "centre-right",
+     "color": "#2B67C9"
+    },
+    {
+     "id": "movement-now",
+     "name": {
+      "en": "Movement Now",
+      "fi": "Liike Nyt",
+      "sv": "Rörelse Nu"
+     },
+     "seats": 1,
+     "bloc": "centre-right",
+     "color": "#ae2375"
+    },
+    {
+     "id": "for-aland",
+     "name": {
+      "en": "For Åland"
+     },
+     "seats": 1,
+     "bloc": "centre"
+    }
+   ]
+  },
+  {
+   "term": "2019–2023",
+   "year": 2019,
+   "pm": "sanna-marin",
+   "seats": 200,
+   "results": [
+    {
+     "id": "social-democratic-party-of-finland",
+     "name": {
+      "en": "Social Democratic Party of Finland",
+      "fi": "Suomen Sosialidemokraattinen Puolue",
+      "sv": "Finlands Socialdemokratiska parti"
+     },
+     "seats": 40,
+     "bloc": "centre-left",
+     "color": "#F54B4B"
+    },
+    {
+     "id": "finns-party",
+     "name": {
+      "en": "Finns Party",
+      "fi": "Perussuomalaiset",
+      "sv": "Sannfinländarna"
+     },
+     "seats": 39,
+     "bloc": "right",
+     "color": "#FFDE55"
+    },
+    {
+     "id": "national-coalition-party",
+     "name": {
+      "en": "National Coalition Party",
+      "fi": "Kansallinen Kokoomus",
+      "sv": "Samlingspartiet"
+     },
+     "seats": 38,
+     "bloc": "centre-right",
+     "color": "#006288"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "fi": "Suomen Keskusta",
+      "sv": "Centern i Finland"
+     },
+     "seats": 31,
+     "bloc": "centre",
+     "color": "#3AAD2E"
+    },
+    {
+     "id": "green-league",
+     "name": {
+      "en": "Green League",
+      "fi": "Vihreä liitto",
+      "sv": "De Gröna"
+     },
+     "seats": 20,
+     "bloc": "centre-left",
+     "color": "#006845"
+    },
+    {
+     "id": "left-alliance",
+     "name": {
+      "en": "Left Alliance",
+      "fi": "Vasemmistoliitto",
+      "sv": "Vänsterförbundet"
+     },
+     "seats": 16,
+     "bloc": "left",
+     "color": "#F00A64"
+    },
+    {
+     "id": "swedish-people-s-party-of-finland",
+     "name": {
+      "en": "Swedish People's Party of Finland",
+      "fi": "Suomen ruotsalainen kansanpuolue",
+      "sv": "Svenska folkpartiet i Finland"
+     },
+     "seats": 9,
+     "bloc": "centre",
+     "color": "#ffdd93"
+    },
+    {
+     "id": "christian-democrats",
+     "name": {
+      "en": "Christian Democrats",
+      "fi": "Suomen Kristillisdemokraatit",
+      "sv": "Kristdemokraterna i Finland (KD)"
+     },
+     "seats": 5,
+     "bloc": "centre-right",
+     "color": "#2B67C9"
+    },
+    {
+     "id": "movement-now",
+     "name": {
+      "en": "Movement Now",
+      "fi": "Liike Nyt",
+      "sv": "Rörelse Nu"
+     },
+     "seats": 1,
+     "bloc": "centre-right",
+     "color": "#ae2375"
+    },
+    {
+     "id": "for-aland",
+     "name": {
+      "en": "For Åland"
+     },
+     "seats": 1,
+     "bloc": "centre"
+    }
+   ]
+  },
+  {
+   "term": "2023–",
+   "year": 2023,
+   "pm": "petteri-orpo",
+   "seats": 200,
+   "results": [
+    {
+     "id": "national-coalition-party",
+     "name": {
+      "en": "National Coalition Party",
+      "fi": "Kansallinen Kokoomus",
+      "sv": "Samlingspartiet"
+     },
+     "seats": 48,
+     "bloc": "centre-right",
+     "color": "#006288"
+    },
+    {
+     "id": "finns-party",
+     "name": {
+      "en": "Finns Party",
+      "fi": "Perussuomalaiset",
+      "sv": "Sannfinländarna"
+     },
+     "seats": 46,
+     "bloc": "right",
+     "color": "#FFDE55"
+    },
+    {
+     "id": "social-democratic-party-of-finland",
+     "name": {
+      "en": "Social Democratic Party of Finland",
+      "fi": "Suomen Sosialidemokraattinen Puolue",
+      "sv": "Finlands Socialdemokratiska parti"
+     },
+     "seats": 43,
+     "bloc": "centre-left",
+     "color": "#F54B4B"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "fi": "Suomen Keskusta",
+      "sv": "Centern i Finland"
+     },
+     "seats": 23,
+     "bloc": "centre",
+     "color": "#3AAD2E"
+    },
+    {
+     "id": "green-league",
+     "name": {
+      "en": "Green League",
+      "fi": "Vihreä liitto",
+      "sv": "De Gröna"
+     },
+     "seats": 13,
+     "bloc": "centre-left",
+     "color": "#006845"
+    },
+    {
+     "id": "left-alliance",
+     "name": {
+      "en": "Left Alliance",
+      "fi": "Vasemmistoliitto",
+      "sv": "Vänsterförbundet"
+     },
+     "seats": 11,
+     "bloc": "left",
+     "color": "#F00A64"
+    },
+    {
+     "id": "swedish-people-s-party-of-finland",
+     "name": {
+      "en": "Swedish People's Party of Finland",
+      "fi": "Suomen ruotsalainen kansanpuolue",
+      "sv": "Svenska folkpartiet i Finland"
+     },
+     "seats": 9,
+     "bloc": "centre",
+     "color": "#ffdd93"
+    },
+    {
+     "id": "christian-democrats",
+     "name": {
+      "en": "Christian Democrats",
+      "fi": "Suomen Kristillisdemokraatit",
+      "sv": "Kristdemokraterna i Finland (KD)"
+     },
+     "seats": 5,
+     "bloc": "centre-right",
+     "color": "#2B67C9"
+    },
+    {
+     "id": "movement-now",
+     "name": {
+      "en": "Movement Now",
+      "fi": "Liike Nyt",
+      "sv": "Rörelse Nu"
+     },
+     "seats": 1,
+     "bloc": "centre-right",
+     "color": "#ae2375"
+    },
+    {
+     "id": "aland-coalition",
+     "name": {
+      "en": "Åland Coalition",
+      "fi": "Åländsk Samling",
+      "sv": "Åländsk Samling"
+     },
+     "seats": 1,
+     "bloc": "centre",
+     "color": "#D7DB50"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/2023_Finnish_parliamentary_election"
+  }
+ ],
+ "credits": [
+  "Juho Kusti Paasikivi: Unknown, Public domain, via Wikimedia Commons",
+  "Mauno Pekkala: Aarne Pietinen, Public domain, via Wikimedia Commons",
+  "Urho Kekkonen: AnonymousUnknown author / Kuvasiskot studio, CC BY 4.0, via Wikimedia Commons",
+  "Karl-August Fagerholm: Moshe Pridan, Public domain, via Wikimedia Commons",
+  "Ralf Törngren: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
+  "V. J. Sukselainen: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
+  "Rainer von Fieandt: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
+  "Reino Kuuskoski: AnonymousUnknown author, Public domain, via Wikimedia Commons",
+  "Martti Miettunen: AnonymousUnknown author, Public domain, via Wikimedia Commons",
+  "Ahti Karjalainen: Kuvasiskot, CC BY 4.0, via Wikimedia Commons",
+  "Reino Ragnar Lehto: AnonymousUnknown author / Museovirasto, Public domain, via Wikimedia Commons",
+  "Johannes Virolainen: Kuvasiskot, CC BY 4.0, via Wikimedia Commons",
+  "Rafael Paasio: Jarmo Hietaranta, Public domain, via Wikimedia Commons",
+  "Mauno Koivisto: Kuvasiskot, CC BY 4.0, via Wikimedia Commons",
+  "Teuvo Aura: Kari Hakli, CC BY 4.0, via Wikimedia Commons",
+  "Kalevi Sorsa: Kuvasiskot, CC BY 4.0, via Wikimedia Commons",
+  "Keijo Liinamaa: Tapio Korpisaari, CC BY 4.0, via Wikimedia Commons",
+  "Harri Holkeri: Unknown authorUnknown author, CC BY-SA 3.0, via Wikimedia Commons",
+  "Esko Aho: Stina Virkamäki / Prime Minister's Office Finland, CC BY 2.0, via Wikimedia Commons",
+  "Paavo Lipponen: Johannes Jansson, CC BY 2.5 dk, via Wikimedia Commons",
+  "Anneli Jäätteenmäki: Isiwal, CC BY-SA 3.0, via Wikimedia Commons",
+  "Matti Vanhanen: council.gov.ru, CC BY 4.0, via Wikimedia Commons",
+  "Mari Kiviniemi: Johannes Jansson/norden.org, CC BY 2.5, via Wikimedia Commons",
+  "Jyrki Katainen: European People's Party, CC BY 2.0, via Wikimedia Commons",
+  "Alexander Stubb: Kynnap, CC BY 4.0, via Wikimedia Commons",
+  "Juha Sipilä: Prime Minister's Office, GODL-India, via Wikimedia Commons",
+  "Antti Rinne: Teemu Rajala, CC BY 4.0, via Wikimedia Commons",
+  "Sanna Marin: Rami Kurth, valtioneuvoston kanslia - FinnishGovernment, CC BY 2.0, via Wikimedia Commons",
+  "Petteri Orpo: Lauri Heikkinen, valtioneuvoston kanslia, CC BY 4.0, via Wikimedia Commons"
+ ]
+}

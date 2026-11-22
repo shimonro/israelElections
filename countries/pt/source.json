@@ -1,0 +1,749 @@
+{
+  "code": "pt",
+  "slug": "portugal",
+  "name": {
+    "en": "Portugal",
+    "pt": "Portugal"
+  },
+  "languages": [
+    "en",
+    "pt"
+  ],
+  "from": 1975,
+  "wikidata": "Q45",
+  "office": "Q1723031",
+  "chamber": {
+    "en": "Assembly of the Republic",
+    "pt": "Assembleia da República"
+  },
+  "termLabel": {
+    "en": "Term"
+  },
+  "leaderTitle": {
+    "en": "Prime Minister",
+    "pt": "Primeiro-Ministro"
+  },
+  "blocs": [
+    {
+      "key": "far-left",
+      "name": {
+        "en": "Far-left",
+        "pt": "extrema-esquerda"
+      },
+      "hue": 340,
+      "color": "#9f1239"
+    },
+    {
+      "key": "left",
+      "name": {
+        "en": "Left",
+        "pt": "esquerda política"
+      },
+      "hue": 0,
+      "color": "#dc2626"
+    },
+    {
+      "key": "centre-left",
+      "name": {
+        "en": "Centre-left",
+        "pt": "centro-esquerda"
+      },
+      "hue": 12,
+      "color": "#f87171"
+    },
+    {
+      "key": "centre",
+      "name": {
+        "en": "Centre",
+        "pt": "centro"
+      },
+      "hue": 48,
+      "color": "#eab308"
+    },
+    {
+      "key": "centre-right",
+      "name": {
+        "en": "Centre-right",
+        "pt": "centro-direita"
+      },
+      "hue": 200,
+      "color": "#38bdf8"
+    },
+    {
+      "key": "far-right",
+      "name": {
+        "en": "Far-right",
+        "pt": "extrema-direita"
+      },
+      "hue": 262,
+      "color": "#7c3aed"
+    },
+    {
+      "key": "other",
+      "name": {
+        "en": "Other"
+      },
+      "color": "#94a3b8"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2025_Portuguese_legislative_election"
+    }
+  ],
+  "elections": [
+    {
+      "year": 1975,
+      "wiki": "1975 Portuguese Constituent Assembly election",
+      "date": "1975-04-25",
+      "key": "1975"
+    },
+    {
+      "year": 1976,
+      "wiki": "1976 Portuguese legislative election",
+      "date": "1976-04-25",
+      "key": "1976"
+    },
+    {
+      "year": 1979,
+      "wiki": "1979 Portuguese legislative election",
+      "date": "1979-12-02",
+      "key": "1979"
+    },
+    {
+      "year": 1980,
+      "wiki": "1980 Portuguese legislative election",
+      "date": "1980-10-05",
+      "key": "1980"
+    },
+    {
+      "year": 1983,
+      "wiki": "1983 Portuguese legislative election",
+      "date": "1983-04-25",
+      "key": "1983"
+    },
+    {
+      "year": 1985,
+      "wiki": "1985 Portuguese legislative election",
+      "date": "1985-10-06",
+      "key": "1985"
+    },
+    {
+      "year": 1987,
+      "wiki": "1987 Portuguese legislative election",
+      "date": "1987-07-19",
+      "key": "1987"
+    },
+    {
+      "year": 1991,
+      "wiki": "1991 Portuguese legislative election",
+      "date": "1991-10-06",
+      "key": "1991"
+    },
+    {
+      "year": 1995,
+      "wiki": "1995 Portuguese legislative election",
+      "date": "1995-10-01",
+      "key": "1995"
+    },
+    {
+      "year": 1999,
+      "wiki": "1999 Portuguese legislative election",
+      "date": "1999-10-10",
+      "key": "1999"
+    },
+    {
+      "year": 2002,
+      "wiki": "2002 Portuguese legislative election",
+      "date": "2002-03-17",
+      "key": "2002"
+    },
+    {
+      "year": 2005,
+      "wiki": "2005 Portuguese legislative election",
+      "date": "2005-02-20",
+      "key": "2005"
+    },
+    {
+      "year": 2009,
+      "wiki": "2009 Portuguese legislative election",
+      "date": "2009-09-27",
+      "key": "2009"
+    },
+    {
+      "year": 2011,
+      "wiki": "2011 Portuguese legislative election",
+      "date": "2011-06-05",
+      "key": "2011"
+    },
+    {
+      "year": 2015,
+      "wiki": "2015 Portuguese legislative election",
+      "date": "2015-10-04",
+      "key": "2015"
+    },
+    {
+      "year": 2019,
+      "wiki": "2019 Portuguese legislative election",
+      "date": "2019-10-06",
+      "key": "2019"
+    },
+    {
+      "year": 2022,
+      "wiki": "2022 Portuguese legislative election",
+      "date": "2022-01-30",
+      "key": "2022"
+    },
+    {
+      "year": 2024,
+      "wiki": "2024 Portuguese legislative election",
+      "date": "2024-03-10",
+      "key": "2024"
+    },
+    {
+      "year": 2025,
+      "wiki": "2025 Portuguese legislative election",
+      "date": "2025-05-18",
+      "key": "2025"
+    }
+  ],
+  "pms": {
+    "vasco-goncalves": {
+      "wiki": "Vasco Gonçalves",
+      "wikidata": "Q712532",
+      "image": "Vasco Goncalves 1982 Henrique Matos 01.jpg",
+      "name": {
+        "en": "Vasco Gonçalves",
+        "pt": "Vasco Gonçalves"
+      }
+    },
+    "jose-baptista-pinheiro-de-azevedo": {
+      "wiki": "José Baptista Pinheiro de Azevedo",
+      "wikidata": "Q722270",
+      "name": {
+        "en": "José Baptista Pinheiro de Azevedo",
+        "pt": "José Pinheiro de Azevedo"
+      }
+    },
+    "mario-soares": {
+      "wiki": "Mário Soares",
+      "wikidata": "Q156781",
+      "image": "Mário Soares - Claude Truong-Ngoc 1978 (cropped).jpg",
+      "name": {
+        "en": "Mário Soares",
+        "pt": "Mário Soares"
+      }
+    },
+    "alfredo-nobre-da-costa": {
+      "wiki": "Alfredo Nobre da Costa",
+      "wikidata": "Q720915",
+      "name": {
+        "en": "Alfredo Nobre da Costa",
+        "pt": "Alfredo Nobre da Costa"
+      }
+    },
+    "carlos-mota-pinto": {
+      "wiki": "Carlos Mota Pinto",
+      "wikidata": "Q388965",
+      "name": {
+        "en": "Carlos Mota Pinto",
+        "pt": "Carlos Mota Pinto"
+      }
+    },
+    "maria-de-lourdes-pintasilgo": {
+      "wiki": "Maria de Lourdes Pintasilgo",
+      "wikidata": "Q235916",
+      "image": "1657533607333 NPC0001 Maria de Lourdes PINTASILGO 001 MOBILE.jpg",
+      "name": {
+        "en": "Maria de Lourdes Pintasilgo",
+        "pt": "Maria de Lourdes Pintasilgo"
+      }
+    },
+    "francisco-de-sa-carneiro": {
+      "wiki": "Francisco Sá Carneiro",
+      "wikidata": "Q367010",
+      "image": "Francisco Sá Carneiro.jpg",
+      "name": {
+        "en": "Francisco de Sá Carneiro",
+        "pt": "Francisco Sá Carneiro"
+      }
+    },
+    "diogo-de-freitas-do-amaral": {
+      "wiki": "Diogo Freitas do Amaral",
+      "wikidata": "Q438868",
+      "image": "Professor Doutor Diogo Freitas do Amaral.png",
+      "name": {
+        "en": "Diogo de Freitas do Amaral",
+        "pt": "Diogo Freitas do Amaral"
+      }
+    },
+    "francisco-pinto-balsemao": {
+      "wiki": "Francisco Pinto Balsemão",
+      "wikidata": "Q381029",
+      "image": "Pinto Balsemao.jpg",
+      "name": {
+        "en": "Francisco Pinto Balsemão",
+        "pt": "Francisco Pinto Balsemão"
+      }
+    },
+    "anibal-cavaco-silva": {
+      "wiki": "Aníbal Cavaco Silva",
+      "wikidata": "Q57398",
+      "image": "Aníbal Cavaco Silva (cropped).jpg",
+      "name": {
+        "en": "Aníbal Cavaco Silva",
+        "pt": "Aníbal Cavaco Silva"
+      }
+    },
+    "antonio-guterres": {
+      "wiki": "António Guterres",
+      "wikidata": "Q311440",
+      "image": "António Guterres United Nations Secretary-General in 2024 (cropped).jpg",
+      "name": {
+        "en": "António Guterres",
+        "pt": "António Guterres"
+      }
+    },
+    "pedro-santana-lopes": {
+      "wiki": "Pedro Santana Lopes",
+      "wikidata": "Q239248",
+      "image": "Pedro Santana Lopes.jpg",
+      "name": {
+        "en": "Pedro Santana Lopes",
+        "pt": "Pedro Santana Lopes"
+      }
+    },
+    "jose-socrates": {
+      "wiki": "José Sócrates",
+      "wikidata": "Q182367",
+      "image": "Josesocrates09082006.jpg",
+      "name": {
+        "en": "José Sócrates",
+        "pt": "José Sócrates"
+      }
+    },
+    "pedro-passos-coelho": {
+      "wiki": "Pedro Passos Coelho",
+      "wikidata": "Q57615",
+      "image": "Pedro Passos Coelho 1.jpg",
+      "name": {
+        "en": "Pedro Passos Coelho",
+        "pt": "Pedro Passos Coelho"
+      }
+    },
+    "luis-montenegro": {
+      "wiki": "Luís Montenegro",
+      "wikidata": "Q11764394",
+      "image": "Luís Montenegro, 2025.06.26 (05) (cropped).jpg",
+      "name": {
+        "en": "Luís Montenegro",
+        "pt": "Luís Montenegro"
+      }
+    },
+    "jose-manuel-durao-barroso": {
+      "wiki": "José Manuel Barroso",
+      "wikidata": "Q15849",
+      "image": "José Manuel Barroso (cropped).jpg",
+      "name": {
+        "en": "José Manuel Durão Barroso",
+        "pt": "José Manuel Durão Barroso"
+      }
+    },
+    "antonio-costa": {
+      "wiki": "António Costa",
+      "wikidata": "Q610788",
+      "image": "Antonio Costa Portrait 2024 (cropped).jpg",
+      "name": {
+        "en": "António Costa",
+        "pt": "António Costa"
+      }
+    }
+  },
+  "parties": {
+    "Socialist Party (Portugal)": {
+      "key": "socialist-party",
+      "wikidata": "Q847263",
+      "name": {
+        "en": "Socialist Party",
+        "pt": "Partido Socialista"
+      },
+      "bloc": "centre-left",
+      "color": "#FF66FF"
+    },
+    "Social Democratic Party (Portugal)": {
+      "key": "social-democratic-party",
+      "wikidata": "Q595575",
+      "name": {
+        "en": "Social Democratic Party",
+        "pt": "Partido Social Democrata"
+      },
+      "bloc": "centre-right",
+      "color": "#FF9900"
+    },
+    "Portuguese Communist Party": {
+      "key": "portuguese-communist-party",
+      "wikidata": "Q769829",
+      "name": {
+        "en": "Portuguese Communist Party",
+        "pt": "Partido Comunista Português"
+      },
+      "bloc": "far-left",
+      "color": "#FF0000"
+    },
+    "Democratic and Social Centre – People's Party": {
+      "key": "democratic-and-social-centre-people-s-party",
+      "wikidata": "Q1054298",
+      "name": {
+        "en": "Democratic and Social Centre – People's Party",
+        "pt": "CDS - Partido Popular"
+      },
+      "bloc": "centre-right",
+      "color": "#0093DD"
+    },
+    "Portuguese Democratic Movement": {
+      "key": "portuguese-democratic-movement",
+      "wikidata": "Q613464",
+      "name": {
+        "en": "Portuguese Democratic Movement",
+        "pt": "Movimento Democrático Português / Comissão Democrática Eleitoral"
+      },
+      "bloc": "left",
+      "color": "#AA1111"
+    },
+    "Popular Democratic Union (Portugal)": {
+      "key": "popular-democratic-union",
+      "wikidata": "Q2119074",
+      "name": {
+        "en": "Popular Democratic Union",
+        "pt": "União Democrática Popular (UDP)"
+      },
+      "bloc": "far-left",
+      "color": "#E2062C"
+    },
+    "Association for the Defense of Macau Interests": {
+      "key": "association-for-the-defense-of-macau-interests",
+      "wikidata": "Q9635257",
+      "name": {
+        "en": "Association for the Defense of Macau Interests",
+        "pt": "Associação para a Defesa dos Interesses de Macau"
+      },
+      "bloc": "other",
+      "color": "#000080"
+    },
+    "United People Alliance": {
+      "key": "united-people-alliance",
+      "wikidata": "Q1892305",
+      "name": {
+        "en": "United People Alliance",
+        "pt": "Aliança Povo Unido"
+      },
+      "bloc": "far-left",
+      "color": "#EB3D43"
+    },
+    "Republican and Socialist Front": {
+      "key": "republican-and-socialist-front",
+      "wikidata": "Q3052424",
+      "name": {
+        "en": "Republican and Socialist Front",
+        "pt": "Frente Republicana e Socialista"
+      },
+      "bloc": "left",
+      "color": "#FF2E3F"
+    },
+    "CDS – People's Party": {
+      "key": "democratic-and-social-centre-people-s-party",
+      "wikidata": "Q1054298",
+      "name": {
+        "en": "CDS – People's Party",
+        "pt": "CDS - Partido Popular"
+      },
+      "bloc": "centre-right",
+      "color": "#0093DD"
+    },
+    "Democratic Renewal Party (Portugal)": {
+      "key": "democratic-renewal-party",
+      "wikidata": "Q980864",
+      "name": {
+        "en": "Democratic Renewal Party",
+        "pt": "Partido Renovador Democrático"
+      },
+      "bloc": "centre-left",
+      "color": "#008000"
+    },
+    "Unitary Democratic Coalition": {
+      "key": "unitary-democratic-coalition",
+      "wikidata": "Q572998",
+      "name": {
+        "en": "Unitary Democratic Coalition",
+        "pt": "Coligação Democrática Unitária"
+      },
+      "bloc": "far-left",
+      "color": "#FF0000"
+    },
+    "National Solidarity Party (Portugal)": {
+      "key": "national-solidarity-party",
+      "wikidata": "Q10345705",
+      "name": {
+        "en": "National Solidarity Party",
+        "pt": "Partido da Solidariedade Nacional"
+      },
+      "bloc": "centre",
+      "color": "#000080"
+    },
+    "Left Bloc": {
+      "key": "left-bloc",
+      "wikidata": "Q884840",
+      "name": {
+        "en": "Left Bloc",
+        "pt": "Bloco de Esquerda"
+      },
+      "bloc": "far-left",
+      "color": "#8B0000"
+    },
+    "Coalition PSD/CDS": {
+      "key": "coalition-psd-cds",
+      "wikidata": "Q18166125",
+      "name": {
+        "en": "Coalition PSD/CDS",
+        "pt": "Coligação PSD/CDS"
+      },
+      "bloc": "centre-right",
+      "color": "#00AAAA"
+    },
+    "People Animals Nature": {
+      "key": "people-animals-nature",
+      "wikidata": "Q2054840",
+      "name": {
+        "en": "People Animals Nature",
+        "pt": "Pessoas–Animais–Natureza"
+      },
+      "bloc": "centre",
+      "color": "#008080"
+    },
+    "Chega": {
+      "key": "chega",
+      "wikidata": "Q63645885",
+      "name": {
+        "en": "Chega",
+        "pt": "CHEGA"
+      },
+      "bloc": "far-right",
+      "color": "#222256"
+    },
+    "Liberal Initiative": {
+      "key": "liberal-initiative",
+      "wikidata": "Q46122950",
+      "name": {
+        "en": "Liberal Initiative",
+        "pt": "Iniciativa Liberal"
+      },
+      "bloc": "centre-right",
+      "color": "#00ADEF"
+    },
+    "LIVRE": {
+      "key": "livre",
+      "wikidata": "Q16947563",
+      "name": {
+        "en": "LIVRE",
+        "pt": "LIVRE"
+      },
+      "bloc": "centre-left",
+      "color": "#C2D216"
+    },
+    "Madeira First": {
+      "key": "coalition-psd-cds",
+      "wikidata": "Q18166125",
+      "name": {
+        "en": "Madeira First",
+        "pt": "Coligação PSD/CDS"
+      },
+      "bloc": "centre-right",
+      "color": "#00AAAA"
+    },
+    "Together for the People": {
+      "key": "together-for-the-people",
+      "wikidata": "Q19694667",
+      "name": {
+        "en": "Together for the People",
+        "pt": "Juntos pelo Povo"
+      },
+      "bloc": "centre",
+      "color": "#00A28B"
+    },
+    "Democratic Alliance (Portugal, 1979)": {
+      "key": "democratic-alliance",
+      "wikidata": "Q377349",
+      "name": {
+        "en": "Democratic Alliance",
+        "pt": "Aliança Democrática"
+      },
+      "bloc": "centre-right",
+      "color": "#2A52BE"
+    },
+    "Democratic Alliance": {
+      "key": "democratic-alliance-2",
+      "wikidata": "Q1173834",
+      "name": {
+        "en": "Democratic Alliance"
+      },
+      "bloc": "centre-right"
+    },
+    "Democratic Alliance (Portugal, 2024)": {
+      "key": "democratic-alliance-portugal-2024",
+      "wikidata": "Q124334159",
+      "name": {
+        "en": "Democratic Alliance",
+        "pt": "Aliança Democrática"
+      },
+      "bloc": "centre-right",
+      "color": "#3777BC"
+    }
+  },
+  "governments": [
+    {
+      "year": 1975,
+      "date": "1975-09-19",
+      "election": "1975",
+      "pm": "jose-baptista-pinheiro-de-azevedo"
+    },
+    {
+      "year": 1976,
+      "date": "1976-07-23",
+      "election": "1976",
+      "pm": "mario-soares"
+    },
+    {
+      "year": 1978,
+      "date": "1978-08-28",
+      "election": "1976",
+      "pm": "alfredo-nobre-da-costa"
+    },
+    {
+      "year": 1978,
+      "date": "1978-11-22",
+      "election": "1976",
+      "pm": "carlos-mota-pinto"
+    },
+    {
+      "year": 1979,
+      "date": "1979-08-01",
+      "election": "1976",
+      "pm": "maria-de-lourdes-pintasilgo"
+    },
+    {
+      "year": 1980,
+      "date": "1980-01-03",
+      "election": "1979",
+      "pm": "francisco-de-sa-carneiro"
+    },
+    {
+      "year": 1980,
+      "date": "1980-12-04",
+      "election": "1980",
+      "pm": "diogo-de-freitas-do-amaral"
+    },
+    {
+      "year": 1981,
+      "date": "1981-01-09",
+      "election": "1980",
+      "pm": "francisco-pinto-balsemao"
+    },
+    {
+      "year": 1983,
+      "date": "1983-06-09",
+      "election": "1983",
+      "pm": "mario-soares"
+    },
+    {
+      "year": 1985,
+      "date": "1985-11-06",
+      "election": "1985",
+      "pm": "anibal-cavaco-silva"
+    },
+    {
+      "year": 1987,
+      "date": "1987-07-19",
+      "election": "1987",
+      "pm": "anibal-cavaco-silva"
+    },
+    {
+      "year": 1991,
+      "date": "1991-10-06",
+      "election": "1991",
+      "pm": "anibal-cavaco-silva"
+    },
+    {
+      "year": 1995,
+      "date": "1995-10-28",
+      "election": "1995",
+      "pm": "antonio-guterres"
+    },
+    {
+      "year": 1999,
+      "date": "1999-10-10",
+      "election": "1999",
+      "pm": "antonio-guterres"
+    },
+    {
+      "year": 2002,
+      "date": "2002-04-06",
+      "election": "2002",
+      "pm": "jose-manuel-durao-barroso"
+    },
+    {
+      "year": 2004,
+      "date": "2004-07-17",
+      "election": "2002",
+      "pm": "pedro-santana-lopes"
+    },
+    {
+      "year": 2005,
+      "date": "2005-03-12",
+      "election": "2005",
+      "pm": "jose-socrates"
+    },
+    {
+      "year": 2009,
+      "date": "2009-09-27",
+      "election": "2009",
+      "pm": "jose-socrates"
+    },
+    {
+      "year": 2011,
+      "date": "2011-06-21",
+      "election": "2011",
+      "pm": "pedro-passos-coelho"
+    },
+    {
+      "year": 2015,
+      "date": "2015-11-26",
+      "election": "2015",
+      "pm": "antonio-costa"
+    },
+    {
+      "year": 2019,
+      "date": "2019-10-06",
+      "election": "2019",
+      "pm": "antonio-costa"
+    },
+    {
+      "year": 2022,
+      "date": "2022-01-30",
+      "election": "2022",
+      "pm": "antonio-costa"
+    },
+    {
+      "year": 2024,
+      "date": "2024-04-02",
+      "election": "2024",
+      "pm": "luis-montenegro"
+    },
+    {
+      "year": 2025,
+      "date": "2025-05-18",
+      "election": "2025",
+      "pm": "luis-montenegro"
+    }
+  ]
+}

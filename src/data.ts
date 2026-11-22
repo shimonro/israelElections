@@ -13,8 +13,8 @@ export interface Party {
 export interface Term {
   /** Parliament number (such as Knesset 26) or span (such as "2022–2026"). */
   term: number | string
-  /** Government number or name; null when none was formed after the election. */
-  government: number | string | Text | null
+  /** Government number or name; null when none was formed; absent for countries that do not name governments. */
+  government?: number | string | Text | null
   year: number
   pm: string
   note?: Text
@@ -45,9 +45,11 @@ export interface Country {
   meta: Omit<CountryMeta, 'years' | 'chamber' | 'blocs' | 'latest'>
   chamber: Text
   termLabel: Text
+  /** Title of the head of government, such as "Chancellor"; defaults to Prime Minister. */
+  leaderTitle?: Text
   /** Ordered across the political spectrum, as seated in the hemicycle. */
   blocs: Bloc[]
-  pms: Record<string, { name: Text; photo: string }>
+  pms: Record<string, { name: Text; photo?: string }>
   terms: Term[]
   sources: { label: string; url: string }[]
   credits: string[]
@@ -74,7 +76,7 @@ export function blocColor(blocs: Bloc[], key: string) {
 
 /** A party keeps one color in every term: its own, or a stable shade of its bloc's hue. */
 export function partyColor(blocs: Bloc[], p: Party) {
-  if (p.color) return p.color
+  if (p.color) return readable(p.color)
   const b = blocs.find((x) => x.key === p.bloc)
   if (b?.color && b.hue === undefined) return b.color
   let h = typeof p.id === 'number' ? (p.id * 2654435761) >>> 0 : 0
@@ -83,6 +85,17 @@ export function partyColor(blocs: Bloc[], p: Party) {
     h = Math.imul(h ^ (h >>> 15), 2246822519) >>> 0
   }
   return `hsl(${(b?.hue ?? 0) + ((h >>> 16) % 17) - 8} ${58 + ((h >>> 8) % 28)}% ${38 + (h % 29)}%)`
+}
+
+/** Lightens colors too dark to see on the dark background, such as the CDU's black. */
+function readable(color: string) {
+  const m = color.match(/^#([0-9a-f]{2})([0-9a-f]{2})([0-9a-f]{2})$/i)
+  if (!m) return color
+  const [r, g, b] = m.slice(1).map((h) => parseInt(h, 16))
+  const luminance = (0.2126 * r + 0.7152 * g + 0.0722 * b) / 255
+  if (luminance >= 0.18) return color
+  const mix = (c: number) => Math.round(c + (255 - c) * 0.45)
+  return `rgb(${mix(r)} ${mix(g)} ${mix(b)})`
 }
 
 export function bySpectrum(blocs: Bloc[], results: Party[]) {

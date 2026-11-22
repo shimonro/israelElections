@@ -1,0 +1,918 @@
+{
+ "results": {
+  "1949": {
+   "wiki": "1949 West German federal election",
+   "date": "1949-08-14",
+   "seats": 402,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party of Germany",
+     "seats": 131
+    },
+    {
+     "name": "Christian Democratic Union",
+     "link": "Christian Democratic Union of Germany",
+     "seats": 115
+    },
+    {
+     "name": "Free Democratic Party",
+     "link": "Free Democratic Party (Germany)",
+     "seats": 52
+    },
+    {
+     "name": "Christian Social Union",
+     "link": "Christian Social Union in Bavaria",
+     "seats": 24
+    },
+    {
+     "name": "Communist Party of Germany",
+     "link": "Communist Party of Germany",
+     "seats": 15
+    },
+    {
+     "name": "Bavaria Party",
+     "link": "Bavaria Party",
+     "seats": 17
+    },
+    {
+     "name": "German Party",
+     "link": "German Party (1947)",
+     "seats": 17
+    },
+    {
+     "name": "Centre Party",
+     "link": "Centre Party (Germany, 1945)",
+     "seats": 10
+    },
+    {
+     "name": "Economic Reconstruction Union",
+     "link": "Economic Reconstruction Union",
+     "seats": 12
+    },
+    {
+     "name": "Deutsche Rechtspartei",
+     "link": "Deutsche Rechtspartei",
+     "seats": 5
+    },
+    {
+     "name": "South Schleswig Voters' Association",
+     "link": "South Schleswig Voters' Association",
+     "seats": 1
+    },
+    {
+     "name": "Independents",
+     "link": "Independents",
+     "seats": 3
+    }
+   ],
+   "chamber": {
+    "link": "Bundestag",
+    "text": "Bundestag"
+   }
+  },
+  "1953": {
+   "wiki": "1953 West German federal election",
+   "date": "1953-09-06",
+   "seats": 487,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Christian Democratic Union",
+     "link": "Christian Democratic Union of Germany",
+     "seats": 197
+    },
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party of Germany",
+     "seats": 162
+    },
+    {
+     "name": "Free Democratic Party",
+     "link": "Free Democratic Party (Germany)",
+     "seats": 53
+    },
+    {
+     "name": "Christian Social Union",
+     "link": "Christian Social Union in Bavaria",
+     "seats": 52
+    },
+    {
+     "name": "All-German Bloc/League of Expellees and Deprived of Rights",
+     "link": "All-German Bloc/League of Expellees and Deprived of Rights",
+     "seats": 27
+    },
+    {
+     "name": "German Party",
+     "link": "German Party (1947)",
+     "seats": 15
+    },
+    {
+     "name": "Centre Party",
+     "link": "Centre Party (Germany, 1945)",
+     "seats": 3
+    }
+   ],
+   "chamber": {
+    "link": "Bundestag",
+    "text": "Bundestag"
+   }
+  },
+  "1957": {
+   "wiki": "1957 West German federal election",
+   "date": "1957-09-15",
+   "seats": 497,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Christian Democratic Union",
+     "link": "Christian Democratic Union of Germany",
+     "seats": 222
+    },
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party of Germany",
+     "seats": 181
+    },
+    {
+     "name": "Christian Social Union",
+     "link": "Christian Social Union in Bavaria",
+     "seats": 55
+    },
+    {
+     "name": "Free Democratic Party",
+     "link": "Free Democratic Party (Germany)",
+     "seats": 43
+    },
+    {
+     "name": "German Party",
+     "link": "German Party (1947)",
+     "seats": 17
+    },
+    {
+     "name": "Free German People's Party",
+     "link": "Free People's Party (Germany)",
+     "seats": 1
+    }
+   ],
+   "chamber": {
+    "link": "Bundestag",
+    "text": "Bundestag"
+   }
+  },
+  "1961": {
+   "wiki": "1961 West German federal election",
+   "date": "1961-09-17",
+   "seats": 499,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party of Germany",
+     "seats": 203
+    },
+    {
+     "name": "Christian Democratic Union",
+     "link": "Christian Democratic Union of Germany",
+     "seats": 201
+    },
+    {
+     "name": "Free Democratic Party",
+     "link": "Free Democratic Party (Germany)",
+     "seats": 67
+    },
+    {
+     "name": "Christian Social Union",
+     "link": "Christian Social Union in Bavaria",
+     "seats": 50
+    }
+   ],
+   "chamber": {
+    "link": "Bundestag",
+    "text": "Bundestag"
+   }
+  },
+  "1965": {
+   "wiki": "1965 West German federal election",
+   "date": "1965-09-19",
+   "seats": 496,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party of Germany",
+     "seats": 217
+    },
+    {
+     "name": "Christian Democratic Union",
+     "link": "Christian Democratic Union of Germany",
+     "seats": 202
+    },
+    {
+     "name": "Christian Social Union",
+     "link": "Christian Social Union in Bavaria",
+     "seats": 49
+    },
+    {
+     "name": "Free Democratic Party",
+     "link": "Free Democratic Party (Germany)",
+     "seats": 50
+    }
+   ],
+   "chamber": {
+    "link": "Bundestag",
+    "text": "Bundestag"
+   }
+  },
+  "1969": {
+   "wiki": "1969 West German federal election",
+   "date": "1969-09-28",
+   "seats": 496,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party of Germany",
+     "seats": 237
+    },
+    {
+     "name": "Christian Democratic Union",
+     "link": "Christian Democratic Union of Germany",
+     "seats": 201
+    },
+    {
+     "name": "Christian Social Union",
+     "link": "Christian Social Union in Bavaria",
+     "seats": 49
+    },
+    {
+     "name": "Free Democratic Party",
+     "link": "Free Democratic Party (Germany)",
+     "seats": 31
+    }
+   ],
+   "chamber": {
+    "link": "Bundestag",
+    "text": "Bundestag"
+   }
+  },
+  "1972": {
+   "wiki": "1972 West German federal election",
+   "date": "1972-11-19",
+   "seats": 496,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party of Germany",
+     "seats": 242
+    },
+    {
+     "name": "Christian Democratic Union",
+     "link": "Christian Democratic Union of Germany",
+     "seats": 186
+    },
+    {
+     "name": "Christian Social Union",
+     "link": "Christian Social Union in Bavaria",
+     "seats": 48
+    },
+    {
+     "name": "Free Democratic Party",
+     "link": "Free Democratic Party (Germany)",
+     "seats": 42
+    }
+   ],
+   "chamber": {
+    "link": "Bundestag",
+    "text": "Bundestag"
+   }
+  },
+  "1976": {
+   "wiki": "1976 West German federal election",
+   "date": "1976-10-03",
+   "seats": 496,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party of Germany",
+     "seats": 224
+    },
+    {
+     "name": "Christian Democratic Union",
+     "link": "Christian Democratic Union of Germany",
+     "seats": 201
+    },
+    {
+     "name": "Christian Social Union",
+     "link": "Christian Social Union in Bavaria",
+     "seats": 53
+    },
+    {
+     "name": "Free Democratic Party",
+     "link": "Free Democratic Party (Germany)",
+     "seats": 40
+    }
+   ],
+   "chamber": {
+    "link": "Bundestag",
+    "text": "Bundestag"
+   }
+  },
+  "1980": {
+   "wiki": "1980 West German federal election",
+   "date": "1980-10-05",
+   "seats": 497,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party of Germany",
+     "seats": 228
+    },
+    {
+     "name": "Christian Democratic Union",
+     "link": "Christian Democratic Union of Germany",
+     "seats": 185
+    },
+    {
+     "name": "Free Democratic Party",
+     "link": "Free Democratic Party (Germany)",
+     "seats": 54
+    },
+    {
+     "name": "Christian Social Union",
+     "link": "Christian Social Union in Bavaria",
+     "seats": 52
+    }
+   ],
+   "chamber": {
+    "link": "Bundestag",
+    "text": "Bundestag"
+   }
+  },
+  "1983": {
+   "wiki": "1983 West German federal election",
+   "date": "1983-03-06",
+   "seats": 498,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party of Germany",
+     "seats": 202
+    },
+    {
+     "name": "Christian Democratic Union",
+     "link": "Christian Democratic Union of Germany",
+     "seats": 202
+    },
+    {
+     "name": "Christian Social Union",
+     "link": "Christian Social Union in Bavaria",
+     "seats": 53
+    },
+    {
+     "name": "Free Democratic Party",
+     "link": "Free Democratic Party (Germany)",
+     "seats": 35
+    },
+    {
+     "name": "The Greens",
+     "link": "Alliance 90/The Greens",
+     "seats": 28
+    }
+   ],
+   "chamber": {
+    "link": "Bundestag",
+    "text": "Bundestag"
+   }
+  },
+  "1987": {
+   "wiki": "1987 West German federal election",
+   "date": "1987-01-25",
+   "seats": 497,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party of Germany",
+     "seats": 193
+    },
+    {
+     "name": "Christian Democratic Union",
+     "link": "Christian Democratic Union of Germany",
+     "seats": 185
+    },
+    {
+     "name": "Christian Social Union",
+     "link": "Christian Social Union in Bavaria",
+     "seats": 49
+    },
+    {
+     "name": "Free Democratic Party",
+     "link": "Free Democratic Party (Germany)",
+     "seats": 48
+    },
+    {
+     "name": "The Greens",
+     "link": "Alliance 90/The Greens",
+     "seats": 44
+    }
+   ],
+   "chamber": {
+    "link": "Bundestag",
+    "text": "Bundestag"
+   }
+  },
+  "1990": {
+   "wiki": "1990 German federal election",
+   "date": "1990-12-02",
+   "seats": 662,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Christian Democratic Union",
+     "link": "Christian Democratic Union of Germany",
+     "seats": 268
+    },
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party of Germany",
+     "seats": 239
+    },
+    {
+     "name": "Free Democratic Party",
+     "link": "Free Democratic Party (Germany)",
+     "seats": 79
+    },
+    {
+     "name": "Christian Social Union",
+     "link": "Christian Social Union in Bavaria",
+     "seats": 51
+    },
+    {
+     "name": "Party of Democratic Socialism",
+     "link": "Party of Democratic Socialism (Germany)",
+     "seats": 17
+    },
+    {
+     "name": "Alliance 90/Greens – Citizens' Movement (East)",
+     "link": "Alliance 90",
+     "seats": 8
+    }
+   ],
+   "chamber": {
+    "link": "Bundestag",
+    "text": "Bundestag"
+   }
+  },
+  "1994": {
+   "wiki": "1994 German federal election",
+   "date": "1994-10-16",
+   "seats": 672,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party of Germany",
+     "seats": 252
+    },
+    {
+     "name": "Christian Democratic Union",
+     "link": "Christian Democratic Union of Germany",
+     "seats": 244
+    },
+    {
+     "name": "Christian Social Union",
+     "link": "Christian Social Union in Bavaria",
+     "seats": 50
+    },
+    {
+     "name": "Alliance 90/The Greens",
+     "link": "Alliance 90/The Greens",
+     "seats": 49
+    },
+    {
+     "name": "Free Democratic Party",
+     "link": "Free Democratic Party (Germany)",
+     "seats": 47
+    },
+    {
+     "name": "Party of Democratic Socialism",
+     "link": "Party of Democratic Socialism (Germany)",
+     "seats": 30
+    }
+   ],
+   "chamber": {
+    "link": "Bundestag",
+    "text": "Bundestag"
+   }
+  },
+  "1998": {
+   "wiki": "1998 German federal election",
+   "date": "1998-09-27",
+   "seats": 669,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party of Germany",
+     "seats": 298
+    },
+    {
+     "name": "Christian Democratic Union",
+     "link": "Christian Democratic Union of Germany",
+     "seats": 198
+    },
+    {
+     "name": "Christian Social Union",
+     "link": "Christian Social Union in Bavaria",
+     "seats": 47
+    },
+    {
+     "name": "Alliance 90/The Greens",
+     "link": "Alliance 90/The Greens",
+     "seats": 47
+    },
+    {
+     "name": "Free Democratic Party",
+     "link": "Free Democratic Party (Germany)",
+     "seats": 43
+    },
+    {
+     "name": "Party of Democratic Socialism",
+     "link": "Party of Democratic Socialism (Germany)",
+     "seats": 36
+    }
+   ],
+   "chamber": {
+    "link": "Bundestag",
+    "text": "Bundestag"
+   }
+  },
+  "2002": {
+   "wiki": "2002 German federal election",
+   "date": "2002-09-22",
+   "seats": 603,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party of Germany",
+     "seats": 251
+    },
+    {
+     "name": "Christian Democratic Union",
+     "link": "Christian Democratic Union of Germany",
+     "seats": 190
+    },
+    {
+     "name": "Christian Social Union",
+     "link": "Christian Social Union in Bavaria",
+     "seats": 58
+    },
+    {
+     "name": "Alliance 90/The Greens",
+     "link": "Alliance 90/The Greens",
+     "seats": 55
+    },
+    {
+     "name": "Free Democratic Party",
+     "link": "Free Democratic Party (Germany)",
+     "seats": 47
+    },
+    {
+     "name": "Party of Democratic Socialism",
+     "link": "Party of Democratic Socialism (Germany)",
+     "seats": 2
+    }
+   ],
+   "chamber": {
+    "link": "Bundestag",
+    "text": "Bundestag"
+   }
+  },
+  "2005": {
+   "wiki": "2005 German federal election",
+   "date": "2005-09-18",
+   "seats": 614,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party of Germany",
+     "seats": 222
+    },
+    {
+     "name": "Christian Democratic Union",
+     "link": "Christian Democratic Union of Germany",
+     "seats": 180
+    },
+    {
+     "name": "Free Democratic Party",
+     "link": "Free Democratic Party (Germany)",
+     "seats": 61
+    },
+    {
+     "name": "The Left Party.PDS",
+     "link": "Die Linke",
+     "seats": 54
+    },
+    {
+     "name": "Alliance 90/The Greens",
+     "link": "Alliance 90/The Greens",
+     "seats": 51
+    },
+    {
+     "name": "Christian Social Union",
+     "link": "Christian Social Union in Bavaria",
+     "seats": 46
+    }
+   ],
+   "chamber": {
+    "link": "Bundestag",
+    "text": "Bundestag"
+   }
+  },
+  "2009": {
+   "wiki": "2009 German federal election",
+   "date": "2009-09-27",
+   "seats": 622,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Christian Democratic Union",
+     "link": "Christian Democratic Union of Germany",
+     "seats": 194
+    },
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party of Germany",
+     "seats": 146
+    },
+    {
+     "name": "Free Democratic Party",
+     "link": "Free Democratic Party (Germany)",
+     "seats": 93
+    },
+    {
+     "name": "The Left",
+     "link": "The Left (Germany)",
+     "seats": 76
+    },
+    {
+     "name": "Alliance 90/The Greens",
+     "link": "Alliance 90/The Greens",
+     "seats": 68
+    },
+    {
+     "name": "Christian Social Union",
+     "link": "Christian Social Union in Bavaria",
+     "seats": 45
+    }
+   ],
+   "chamber": {
+    "link": "Bundestag",
+    "text": "Bundestag"
+   }
+  },
+  "2013": {
+   "wiki": "2013 German federal election",
+   "date": "2013-09-22",
+   "seats": 631,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Christian Democratic Union",
+     "link": "Christian Democratic Union of Germany",
+     "seats": 255
+    },
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party of Germany",
+     "seats": 193
+    },
+    {
+     "name": "The Left",
+     "link": "The Left (Germany)",
+     "seats": 64
+    },
+    {
+     "name": "Alliance 90/The Greens",
+     "link": "Alliance 90/The Greens",
+     "seats": 63
+    },
+    {
+     "name": "Christian Social Union",
+     "link": "Christian Social Union in Bavaria",
+     "seats": 56
+    }
+   ],
+   "chamber": {
+    "link": "Bundestag",
+    "text": "Bundestag"
+   }
+  },
+  "2017": {
+   "wiki": "2017 German federal election",
+   "date": "2017-09-24",
+   "seats": 709,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Christian Democratic Union",
+     "link": "Christian Democratic Union of Germany",
+     "seats": 200
+    },
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party of Germany",
+     "seats": 153
+    },
+    {
+     "name": "Alternative for Germany",
+     "link": "Alternative for Germany",
+     "seats": 94
+    },
+    {
+     "name": "Free Democratic Party",
+     "link": "Free Democratic Party (Germany)",
+     "seats": 80
+    },
+    {
+     "name": "The Left",
+     "link": "The Left (Germany)",
+     "seats": 69
+    },
+    {
+     "name": "Alliance 90/The Greens",
+     "link": "Alliance 90/The Greens",
+     "seats": 67
+    },
+    {
+     "name": "Christian Social Union",
+     "link": "Christian Social Union in Bavaria",
+     "seats": 46
+    }
+   ],
+   "chamber": {
+    "link": "Bundestag",
+    "text": "Bundestag"
+   }
+  },
+  "2021": {
+   "wiki": "2021 German federal election",
+   "date": "2021-09-26",
+   "seats": 735,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party of Germany",
+     "seats": 206
+    },
+    {
+     "name": "Christian Democratic Union",
+     "link": "Christian Democratic Union of Germany",
+     "seats": 152
+    },
+    {
+     "name": "Alliance 90/The Greens",
+     "link": "Alliance 90/The Greens",
+     "seats": 118
+    },
+    {
+     "name": "Free Democratic Party",
+     "link": "Free Democratic Party (Germany)",
+     "seats": 91
+    },
+    {
+     "name": "Alternative for Germany",
+     "link": "Alternative for Germany",
+     "seats": 83
+    },
+    {
+     "name": "Christian Social Union",
+     "link": "Christian Social Union in Bavaria",
+     "seats": 45
+    },
+    {
+     "name": "The Left",
+     "link": "The Left (Germany)",
+     "seats": 39
+    },
+    {
+     "name": "South Schleswig Voters' Association",
+     "link": "South Schleswig Voters' Association",
+     "seats": 1
+    }
+   ],
+   "chamber": {
+    "link": "Bundestag",
+    "text": "Bundestag"
+   }
+  },
+  "2025": {
+   "wiki": "2025 German federal election",
+   "date": "2025-02-23",
+   "seats": 630,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Christian Democratic Union",
+     "link": "Christian Democratic Union of Germany",
+     "seats": 164
+    },
+    {
+     "name": "Alternative for Germany",
+     "link": "Alternative for Germany",
+     "seats": 152
+    },
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party of Germany",
+     "seats": 120
+    },
+    {
+     "name": "Alliance 90/The Greens",
+     "link": "Alliance 90/The Greens",
+     "seats": 85
+    },
+    {
+     "name": "The Left",
+     "link": "The Left (Germany)",
+     "seats": 64
+    },
+    {
+     "name": "Christian Social Union",
+     "link": "Christian Social Union in Bavaria",
+     "seats": 44
+    },
+    {
+     "name": "South Schleswig Voters' Association",
+     "link": "South Schleswig Voters' Association",
+     "seats": 1
+    }
+   ],
+   "chamber": {
+    "link": "Bundestag",
+    "text": "Bundestag"
+   }
+  }
+ },
+ "credits": {
+  "konrad-adenauer": {
+   "file": "Konrad Adenauer - 14. CDU-Bundesparteitag-kasf0095.JPG",
+   "author": "CDU, Fotograf: Peter Bouserath",
+   "license": "CC BY-SA 3.0 de"
+  },
+  "ludwig-erhard": {
+   "file": "Bundesarchiv B 145 Bild-F004204-0003, Ludwig Erhard mit seinem Buch.jpg",
+   "author": "Adrian, Doris",
+   "license": "CC BY-SA 3.0 de"
+  },
+  "kurt-georg-kiesinger": {
+   "file": "Bundesarchiv B 145 Bild-F029561-0008, Essen, CDU-Bundestagswahlkongress (cropped).jpg",
+   "author": "Lothar Schaack",
+   "license": "CC BY-SA 3.0 de"
+  },
+  "willy-brandt": {
+   "file": "Bundesarchiv B 145 Bild-F057884-0009, Willy Brandt.jpg",
+   "author": "Engelbert Reineke",
+   "license": "CC BY-SA 3.0 de"
+  },
+  "helmut-schmidt": {
+   "file": "Bundeskanzler Helmut Schmidt.jpg",
+   "author": "Hans Schafgans",
+   "license": "CC BY-SA 2.0"
+  },
+  "helmut-kohl": {
+   "file": "Helmut Kohl (1996).jpg",
+   "author": "Christian Lambiotte",
+   "license": "CC BY 4.0"
+  },
+  "gerhard-schroder": {
+   "file": "Герхард Шредер (05-12-2019) (cropped).jpg",
+   "author": "Пресс-служба Президента Республики Казахстан",
+   "license": "CC BY 4.0"
+  },
+  "angela-merkel": {
+   "file": "Angela Merkel. Tallinn Digital Summit.jpg",
+   "author": "EU2017EE Estonian Presidency",
+   "license": "CC BY 2.0"
+  },
+  "olaf-scholz": {
+   "file": "Olaf Scholz 2025.jpg",
+   "author": "Steffen Prößdorf",
+   "license": "CC BY-SA 4.0"
+  },
+  "friedrich-merz": {
+   "file": "2025-02-23 Bundestagswahl – Wahlabend CDU by Sandro Halank–070.jpg",
+   "author": "Sandro Halank, Wikimedia Commons",
+   "license": "CC BY-SA 4.0"
+  }
+ }
+}

@@ -27,10 +27,11 @@ describe.each(codes)('%s', (code) => {
     expect(years).toEqual([...years].sort((a, b) => a - b))
   })
 
-  test('every prime minister has a photo', () => {
+  test('every prime minister exists, and their photo if they have one', () => {
     for (const t of data.terms) {
-      expect(data.pms[t.pm], `${t.year} ${t.pm}`).toBeDefined()
-      expect(existsSync(`public${data.pms[t.pm].photo}`), data.pms[t.pm].photo).toBe(true)
+      const pm = data.pms[t.pm]
+      expect(pm, `${t.year} ${t.pm}`).toBeDefined()
+      if (pm.photo) expect(existsSync(`public${pm.photo}`), pm.photo).toBe(true)
     }
   })
 

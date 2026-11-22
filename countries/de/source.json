@@ -1,0 +1,670 @@
+{
+  "code": "de",
+  "slug": "germany",
+  "name": {
+    "en": "Germany",
+    "de": "Deutschland"
+  },
+  "languages": [
+    "en",
+    "de"
+  ],
+  "from": 1949,
+  "wikidata": "Q183",
+  "office": "Q4970706",
+  "chamber": {
+    "en": "Bundestag",
+    "de": "Deutscher Bundestag"
+  },
+  "termLabel": {
+    "en": "Bundestag",
+    "de": "Bundestag"
+  },
+  "leaderTitle": {
+    "en": "Federal Chancellor",
+    "de": "Bundeskanzler"
+  },
+  "blocs": [
+    {
+      "key": "far-left",
+      "name": {
+        "en": "Far-left",
+        "de": "Linksextremismus"
+      },
+      "hue": 340,
+      "color": "#9f1239"
+    },
+    {
+      "key": "left",
+      "name": {
+        "en": "Left",
+        "de": "politische Linke"
+      },
+      "hue": 0,
+      "color": "#dc2626"
+    },
+    {
+      "key": "centre-left",
+      "name": {
+        "en": "Centre-left",
+        "de": "Mitte-links"
+      },
+      "hue": 12,
+      "color": "#f87171"
+    },
+    {
+      "key": "centre-right",
+      "name": {
+        "en": "Centre-right",
+        "de": "Mitte-rechts"
+      },
+      "hue": 200,
+      "color": "#38bdf8"
+    },
+    {
+      "key": "right",
+      "name": {
+        "en": "Right",
+        "de": "politische Rechte"
+      },
+      "hue": 222,
+      "color": "#2563eb"
+    },
+    {
+      "key": "far-right",
+      "name": {
+        "en": "Far-right",
+        "de": "Rechtsextremismus"
+      },
+      "hue": 262,
+      "color": "#7c3aed"
+    },
+    {
+      "key": "other",
+      "name": {
+        "en": "Other"
+      },
+      "color": "#94a3b8"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2025_German_federal_election"
+    }
+  ],
+  "elections": [
+    {
+      "year": 1949,
+      "wiki": "1949 West German federal election",
+      "date": "1949-08-14",
+      "key": "1949"
+    },
+    {
+      "year": 1953,
+      "wiki": "1953 West German federal election",
+      "date": "1953-09-06",
+      "key": "1953"
+    },
+    {
+      "year": 1957,
+      "wiki": "1957 West German federal election",
+      "date": "1957-09-15",
+      "key": "1957"
+    },
+    {
+      "year": 1961,
+      "wiki": "1961 West German federal election",
+      "date": "1961-09-17",
+      "key": "1961"
+    },
+    {
+      "year": 1965,
+      "wiki": "1965 West German federal election",
+      "date": "1965-09-19",
+      "key": "1965"
+    },
+    {
+      "year": 1969,
+      "wiki": "1969 West German federal election",
+      "date": "1969-09-28",
+      "key": "1969"
+    },
+    {
+      "year": 1972,
+      "wiki": "1972 West German federal election",
+      "date": "1972-11-19",
+      "key": "1972"
+    },
+    {
+      "year": 1976,
+      "wiki": "1976 West German federal election",
+      "date": "1976-10-03",
+      "key": "1976"
+    },
+    {
+      "year": 1980,
+      "wiki": "1980 West German federal election",
+      "date": "1980-10-05",
+      "key": "1980"
+    },
+    {
+      "year": 1983,
+      "wiki": "1983 West German federal election",
+      "date": "1983-03-06",
+      "key": "1983"
+    },
+    {
+      "year": 1987,
+      "wiki": "1987 West German federal election",
+      "date": "1987-01-25",
+      "key": "1987"
+    },
+    {
+      "year": 1990,
+      "wiki": "1990 German federal election",
+      "date": "1990-12-02",
+      "key": "1990"
+    },
+    {
+      "year": 1994,
+      "wiki": "1994 German federal election",
+      "date": "1994-10-16",
+      "key": "1994"
+    },
+    {
+      "year": 1998,
+      "wiki": "1998 German federal election",
+      "date": "1998-09-27",
+      "key": "1998"
+    },
+    {
+      "year": 2002,
+      "wiki": "2002 German federal election",
+      "date": "2002-09-22",
+      "key": "2002"
+    },
+    {
+      "year": 2005,
+      "wiki": "2005 German federal election",
+      "date": "2005-09-18",
+      "key": "2005"
+    },
+    {
+      "year": 2009,
+      "wiki": "2009 German federal election",
+      "date": "2009-09-27",
+      "key": "2009"
+    },
+    {
+      "year": 2013,
+      "wiki": "2013 German federal election",
+      "date": "2013-09-22",
+      "key": "2013"
+    },
+    {
+      "year": 2017,
+      "wiki": "2017 German federal election",
+      "date": "2017-09-24",
+      "key": "2017"
+    },
+    {
+      "year": 2021,
+      "wiki": "2021 German federal election",
+      "date": "2021-09-26",
+      "key": "2021"
+    },
+    {
+      "year": 2025,
+      "wiki": "2025 German federal election",
+      "date": "2025-02-23",
+      "key": "2025"
+    }
+  ],
+  "governments": [
+    {
+      "year": 1949,
+      "date": "1949-09-15",
+      "election": "1949",
+      "pm": "konrad-adenauer"
+    },
+    {
+      "year": 1953,
+      "date": "1953-09-06",
+      "election": "1953",
+      "pm": "konrad-adenauer"
+    },
+    {
+      "year": 1957,
+      "date": "1957-09-15",
+      "election": "1957",
+      "pm": "konrad-adenauer"
+    },
+    {
+      "year": 1961,
+      "date": "1961-09-17",
+      "election": "1961",
+      "pm": "konrad-adenauer"
+    },
+    {
+      "year": 1963,
+      "date": "1963-10-16",
+      "election": "1961",
+      "pm": "ludwig-erhard"
+    },
+    {
+      "year": 1965,
+      "date": "1965-09-19",
+      "election": "1965",
+      "pm": "ludwig-erhard"
+    },
+    {
+      "year": 1966,
+      "date": "1966-12-01",
+      "election": "1965",
+      "pm": "kurt-georg-kiesinger"
+    },
+    {
+      "year": 1969,
+      "date": "1969-10-22",
+      "election": "1969",
+      "pm": "willy-brandt"
+    },
+    {
+      "year": 1972,
+      "date": "1972-11-19",
+      "election": "1972",
+      "pm": "willy-brandt"
+    },
+    {
+      "year": 1974,
+      "date": "1974-05-16",
+      "election": "1972",
+      "pm": "helmut-schmidt"
+    },
+    {
+      "year": 1976,
+      "date": "1976-10-03",
+      "election": "1976",
+      "pm": "helmut-schmidt"
+    },
+    {
+      "year": 1980,
+      "date": "1980-10-05",
+      "election": "1980",
+      "pm": "helmut-schmidt"
+    },
+    {
+      "year": 1982,
+      "date": "1982-10-01",
+      "election": "1980",
+      "pm": "helmut-kohl"
+    },
+    {
+      "year": 1983,
+      "date": "1983-03-06",
+      "election": "1983",
+      "pm": "helmut-kohl"
+    },
+    {
+      "year": 1987,
+      "date": "1987-01-25",
+      "election": "1987",
+      "pm": "helmut-kohl"
+    },
+    {
+      "year": 1990,
+      "date": "1990-12-02",
+      "election": "1990",
+      "pm": "helmut-kohl"
+    },
+    {
+      "year": 1994,
+      "date": "1994-10-16",
+      "election": "1994",
+      "pm": "helmut-kohl"
+    },
+    {
+      "year": 1998,
+      "date": "1998-10-27",
+      "election": "1998",
+      "pm": "gerhard-schroder"
+    },
+    {
+      "year": 2002,
+      "date": "2002-09-22",
+      "election": "2002",
+      "pm": "gerhard-schroder"
+    },
+    {
+      "year": 2005,
+      "date": "2005-11-22",
+      "election": "2005",
+      "pm": "angela-merkel"
+    },
+    {
+      "year": 2009,
+      "date": "2009-09-27",
+      "election": "2009",
+      "pm": "angela-merkel"
+    },
+    {
+      "year": 2013,
+      "date": "2013-09-22",
+      "election": "2013",
+      "pm": "angela-merkel"
+    },
+    {
+      "year": 2017,
+      "date": "2017-09-24",
+      "election": "2017",
+      "pm": "angela-merkel"
+    },
+    {
+      "year": 2021,
+      "date": "2021-12-08",
+      "election": "2021",
+      "pm": "olaf-scholz"
+    },
+    {
+      "year": 2025,
+      "date": "2025-05-06",
+      "election": "2025",
+      "pm": "friedrich-merz"
+    }
+  ],
+  "pms": {
+    "konrad-adenauer": {
+      "wiki": "Konrad Adenauer",
+      "wikidata": "Q2492",
+      "image": "Konrad Adenauer - 14. CDU-Bundesparteitag-kasf0095.JPG",
+      "name": {
+        "en": "Konrad Adenauer",
+        "de": "Konrad Adenauer"
+      }
+    },
+    "ludwig-erhard": {
+      "wiki": "Ludwig Erhard",
+      "wikidata": "Q2496",
+      "image": "Bundesarchiv B 145 Bild-F004204-0003, Ludwig Erhard mit seinem Buch.jpg",
+      "name": {
+        "en": "Ludwig Erhard",
+        "de": "Ludwig Erhard"
+      }
+    },
+    "kurt-georg-kiesinger": {
+      "wiki": "Kurt Georg Kiesinger",
+      "wikidata": "Q2512",
+      "image": "Bundesarchiv B 145 Bild-F029561-0008, Essen, CDU-Bundestagswahlkongress (cropped).jpg",
+      "name": {
+        "en": "Kurt Georg Kiesinger",
+        "de": "Kurt Georg Kiesinger"
+      }
+    },
+    "willy-brandt": {
+      "wiki": "Willy Brandt",
+      "wikidata": "Q2514",
+      "image": "Bundesarchiv B 145 Bild-F057884-0009, Willy Brandt.jpg",
+      "name": {
+        "en": "Willy Brandt",
+        "de": "Willy Brandt"
+      }
+    },
+    "helmut-schmidt": {
+      "wiki": "Helmut Schmidt",
+      "wikidata": "Q2516",
+      "image": "Bundeskanzler Helmut Schmidt.jpg",
+      "name": {
+        "en": "Helmut Schmidt",
+        "de": "Helmut Schmidt"
+      }
+    },
+    "helmut-kohl": {
+      "wiki": "Helmut Kohl",
+      "wikidata": "Q2518",
+      "image": "Helmut Kohl (1996).jpg",
+      "name": {
+        "en": "Helmut Kohl",
+        "de": "Helmut Kohl"
+      }
+    },
+    "gerhard-schroder": {
+      "wiki": "Gerhard Schröder",
+      "wikidata": "Q2530",
+      "image": "Герхард Шредер (05-12-2019) (cropped).jpg",
+      "name": {
+        "en": "Gerhard Schröder",
+        "de": "Gerhard Schröder"
+      }
+    },
+    "angela-merkel": {
+      "wiki": "Angela Merkel",
+      "wikidata": "Q567",
+      "image": "Angela Merkel. Tallinn Digital Summit.jpg",
+      "name": {
+        "en": "Angela Merkel",
+        "de": "Angela Merkel"
+      }
+    },
+    "olaf-scholz": {
+      "wiki": "Olaf Scholz",
+      "wikidata": "Q61053",
+      "image": "Olaf Scholz 2025.jpg",
+      "name": {
+        "en": "Olaf Scholz",
+        "de": "Olaf Scholz"
+      }
+    },
+    "friedrich-merz": {
+      "wiki": "Friedrich Merz",
+      "wikidata": "Q566257",
+      "image": "2025-02-23 Bundestagswahl – Wahlabend CDU by Sandro Halank–070.jpg",
+      "name": {
+        "en": "Friedrich Merz",
+        "de": "Friedrich Merz"
+      }
+    }
+  },
+  "parties": {
+    "Social Democratic Party of Germany": {
+      "key": "social-democratic-party-of-germany",
+      "wikidata": "Q49768",
+      "name": {
+        "en": "Social Democratic Party of Germany",
+        "de": "Sozialdemokratische Partei Deutschlands"
+      },
+      "bloc": "centre-left",
+      "color": "#E3000F"
+    },
+    "Christian Democratic Union of Germany": {
+      "key": "christian-democratic-union-of-germany",
+      "wikidata": "Q49762",
+      "name": {
+        "en": "Christian Democratic Union of Germany",
+        "de": "Christlich Demokratische Union Deutschlands"
+      },
+      "bloc": "centre-right",
+      "color": "#151518"
+    },
+    "Free Democratic Party (Germany)": {
+      "key": "free-democratic-party",
+      "wikidata": "Q13124",
+      "name": {
+        "en": "Free Democratic Party",
+        "de": "Freie Demokratische Partei"
+      },
+      "bloc": "centre-right",
+      "color": "#FFED00"
+    },
+    "Christian Social Union in Bavaria": {
+      "key": "christian-social-union-in-bavaria",
+      "wikidata": "Q49763",
+      "name": {
+        "en": "Christian Social Union in Bavaria",
+        "de": "Christlich-Soziale Union in Bayern"
+      },
+      "bloc": "centre-right",
+      "color": "#008AC5"
+    },
+    "Communist Party of Germany": {
+      "key": "communist-party-of-germany",
+      "wikidata": "Q153401",
+      "name": {
+        "en": "Communist Party of Germany",
+        "de": "Kommunistische Partei Deutschlands"
+      },
+      "bloc": "far-left",
+      "color": "#8B0000"
+    },
+    "Bavaria Party": {
+      "key": "bavaria-party",
+      "wikidata": "Q255857",
+      "name": {
+        "en": "Bavaria Party",
+        "de": "Bayernpartei"
+      },
+      "bloc": "right",
+      "color": "#386ABC"
+    },
+    "German Party (1947)": {
+      "key": "german-party",
+      "wikidata": "Q674695",
+      "name": {
+        "en": "German Party",
+        "de": "Deutsche Partei"
+      },
+      "bloc": "right",
+      "color": "#66B67F"
+    },
+    "Centre Party (Germany, 1945)": {
+      "key": "centre-party",
+      "wikidata": "Q157537",
+      "name": {
+        "en": "Centre Party",
+        "de": "Deutsche Zentrumspartei"
+      },
+      "bloc": "centre-right",
+      "color": "#004C90"
+    },
+    "Economic Reconstruction Union": {
+      "key": "economic-reconstruction-union",
+      "wikidata": "Q895674",
+      "name": {
+        "en": "Economic Reconstruction Union",
+        "de": "Wirtschaftliche Aufbau-Vereinigung"
+      },
+      "bloc": "right",
+      "color": "#D5AC2F"
+    },
+    "Deutsche Rechtspartei": {
+      "key": "deutsche-rechtspartei",
+      "wikidata": "Q584965",
+      "name": {
+        "en": "Deutsche Rechtspartei",
+        "de": "Deutsche Konservative Partei – Deutsche Rechtspartei"
+      },
+      "bloc": "far-right",
+      "color": "#85553D"
+    },
+    "South Schleswig Voters' Association": {
+      "key": "south-schleswig-voters-association",
+      "wikidata": "Q161545",
+      "name": {
+        "en": "South Schleswig Voters' Association",
+        "de": "Südschleswigscher Wählerverband"
+      },
+      "bloc": "centre-left",
+      "color": "#003C8F"
+    },
+    "Independents": {
+      "key": "independents",
+      "wikidata": "Q1223303",
+      "name": {
+        "en": "Independents",
+        "de": "Independent"
+      },
+      "bloc": "other",
+      "color": "#DCDCDC"
+    },
+    "All-German Bloc/League of Expellees and Deprived of Rights": {
+      "key": "all-german-bloc-league-of-expellees-and-deprived-of-rights",
+      "wikidata": "Q707844",
+      "name": {
+        "en": "All-German Bloc/League of Expellees and Deprived of Rights",
+        "de": "Gesamtdeutscher Block/Bund der Heimatvertriebenen und Entrechteten"
+      },
+      "bloc": "right",
+      "color": "#C3C318"
+    },
+    "Free People's Party (Germany)": {
+      "key": "free-people-s-party",
+      "wikidata": "Q882711",
+      "name": {
+        "en": "Free People's Party",
+        "de": "Freie Volkspartei"
+      },
+      "bloc": "centre-right",
+      "color": "#FFED00"
+    },
+    "Alliance 90/The Greens": {
+      "key": "alliance-90-the-greens",
+      "wikidata": "Q49766",
+      "name": {
+        "en": "Alliance 90/The Greens",
+        "de": "Bündnis 90/Die Grünen"
+      },
+      "bloc": "centre-left",
+      "color": "#409A3C"
+    },
+    "Party of Democratic Socialism (Germany)": {
+      "key": "party-of-democratic-socialism",
+      "wikidata": "Q152554",
+      "name": {
+        "en": "Party of Democratic Socialism",
+        "de": "Partei des Demokratischen Sozialismus"
+      },
+      "bloc": "left",
+      "color": "#FF0000"
+    },
+    "Alliance 90": {
+      "key": "alliance-90",
+      "wikidata": "Q446007",
+      "name": {
+        "en": "Alliance 90",
+        "de": "Bündnis 90"
+      },
+      "bloc": "centre-left"
+    },
+    "Die Linke": {
+      "key": "die-linke",
+      "wikidata": "Q49764",
+      "name": {
+        "en": "Die Linke",
+        "de": "Die Linke"
+      },
+      "bloc": "left",
+      "color": "#BE3075"
+    },
+    "The Left (Germany)": {
+      "key": "die-linke",
+      "wikidata": "Q49764",
+      "name": {
+        "en": "The Left",
+        "de": "Die Linke"
+      },
+      "bloc": "left",
+      "color": "#BE3075"
+    },
+    "Alternative for Germany": {
+      "key": "alternative-for-germany",
+      "wikidata": "Q6721203",
+      "name": {
+        "en": "Alternative for Germany",
+        "de": "Alternative für Deutschland"
+      },
+      "bloc": "far-right",
+      "color": "#00A2DE"
+    }
+  },
+  "termStart": 1
+}

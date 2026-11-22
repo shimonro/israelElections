@@ -1,0 +1,1020 @@
+{
+  "code": "nl",
+  "slug": "netherlands",
+  "name": {
+    "en": "Netherlands",
+    "nl": "Nederland"
+  },
+  "languages": [
+    "en",
+    "nl"
+  ],
+  "from": 1946,
+  "wikidata": "Q55",
+  "office": "Q3058109",
+  "chamber": {
+    "en": "House of Representatives",
+    "nl": "Tweede Kamer der Staten-Generaal"
+  },
+  "termLabel": {
+    "en": "Term"
+  },
+  "leaderTitle": {
+    "en": "Prime Minister",
+    "nl": "Minister-president"
+  },
+  "blocs": [
+    {
+      "key": "left",
+      "name": {
+        "en": "Left",
+        "nl": "links"
+      },
+      "hue": 0,
+      "color": "#dc2626"
+    },
+    {
+      "key": "centre-left",
+      "name": {
+        "en": "Centre-left",
+        "nl": "centrumlinks"
+      },
+      "hue": 12,
+      "color": "#f87171"
+    },
+    {
+      "key": "centre",
+      "name": {
+        "en": "Centre",
+        "nl": "centrumpolitiek"
+      },
+      "hue": 48,
+      "color": "#eab308"
+    },
+    {
+      "key": "centre-right",
+      "name": {
+        "en": "Centre-right",
+        "nl": "centrumrechts"
+      },
+      "hue": 200,
+      "color": "#38bdf8"
+    },
+    {
+      "key": "right",
+      "name": {
+        "en": "Right",
+        "nl": "rechts"
+      },
+      "hue": 222,
+      "color": "#2563eb"
+    },
+    {
+      "key": "far-right",
+      "name": {
+        "en": "Far-right",
+        "nl": "extreemrechts"
+      },
+      "hue": 262,
+      "color": "#7c3aed"
+    },
+    {
+      "key": "other",
+      "name": {
+        "en": "Other"
+      },
+      "color": "#94a3b8"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2025_Dutch_general_election"
+    }
+  ],
+  "elections": [
+    {
+      "year": 1946,
+      "wiki": "1946 Dutch general election",
+      "date": "1946-05-17",
+      "key": "1946"
+    },
+    {
+      "year": 1948,
+      "wiki": "1948 Dutch general election",
+      "date": "1948-07-07",
+      "key": "1948"
+    },
+    {
+      "year": 1952,
+      "wiki": "1952 Dutch general election",
+      "date": "1952-06-25",
+      "key": "1952"
+    },
+    {
+      "year": 1956,
+      "wiki": "1956 Dutch general election",
+      "date": "1956-06-13",
+      "key": "1956"
+    },
+    {
+      "year": 1959,
+      "wiki": "1959 Dutch general election",
+      "date": "1959-03-12",
+      "key": "1959"
+    },
+    {
+      "year": 1963,
+      "wiki": "1963 Dutch general election",
+      "date": "1963-05-15",
+      "key": "1963"
+    },
+    {
+      "year": 1967,
+      "wiki": "1967 Dutch general election",
+      "date": "1967-02-15",
+      "key": "1967"
+    },
+    {
+      "year": 1971,
+      "wiki": "1971 Dutch general election",
+      "date": "1971-04-28",
+      "key": "1971"
+    },
+    {
+      "year": 1972,
+      "wiki": "1972 Dutch general election",
+      "date": "1972-11-29",
+      "key": "1972"
+    },
+    {
+      "year": 1977,
+      "wiki": "1977 Dutch general election",
+      "date": "1977-05-25",
+      "key": "1977"
+    },
+    {
+      "year": 1981,
+      "wiki": "1981 Dutch general election",
+      "date": "1981-05-26",
+      "key": "1981"
+    },
+    {
+      "year": 1982,
+      "wiki": "1982 Dutch general election",
+      "date": "1982-09-08",
+      "key": "1982"
+    },
+    {
+      "year": 1986,
+      "wiki": "1986 Dutch general election",
+      "date": "1986-05-21",
+      "key": "1986"
+    },
+    {
+      "year": 1989,
+      "wiki": "1989 Dutch general election",
+      "date": "1989-09-06",
+      "key": "1989"
+    },
+    {
+      "year": 1994,
+      "wiki": "1994 Dutch general election",
+      "date": "1994-05-03",
+      "key": "1994"
+    },
+    {
+      "year": 1998,
+      "wiki": "1998 Dutch general election",
+      "date": "1998-05-06",
+      "key": "1998"
+    },
+    {
+      "year": 2002,
+      "wiki": "2002 Dutch general election",
+      "date": "2002-05-15",
+      "key": "2002"
+    },
+    {
+      "year": 2003,
+      "wiki": "2003 Dutch general election",
+      "date": "2003-01-22",
+      "key": "2003"
+    },
+    {
+      "year": 2006,
+      "wiki": "2006 Dutch general election",
+      "date": "2006-11-22",
+      "key": "2006"
+    },
+    {
+      "year": 2010,
+      "wiki": "2010 Dutch general election",
+      "date": "2010-06-09",
+      "key": "2010"
+    },
+    {
+      "year": 2012,
+      "wiki": "2012 Dutch general election",
+      "date": "2012-09-12",
+      "key": "2012"
+    },
+    {
+      "year": 2017,
+      "wiki": "2017 Dutch general election",
+      "date": "2017-03-15",
+      "key": "2017"
+    },
+    {
+      "year": 2021,
+      "wiki": "2021 Dutch general election",
+      "date": "2021-03-15",
+      "key": "2021"
+    },
+    {
+      "year": 2023,
+      "wiki": "2023 Dutch general election",
+      "date": "2023-11-22",
+      "key": "2023"
+    },
+    {
+      "year": 2025,
+      "wiki": "2025 Dutch general election",
+      "date": "2025-10-29",
+      "key": "2025"
+    }
+  ],
+  "governments": [
+    {
+      "year": 1946,
+      "date": "1946-07-03",
+      "election": "1946",
+      "pm": "louis-beel"
+    },
+    {
+      "year": 1948,
+      "date": "1948-08-07",
+      "election": "1948",
+      "pm": "willem-drees"
+    },
+    {
+      "year": 1952,
+      "date": "1952-06-25",
+      "election": "1952",
+      "pm": "willem-drees"
+    },
+    {
+      "year": 1956,
+      "date": "1956-06-13",
+      "election": "1956",
+      "pm": "willem-drees"
+    },
+    {
+      "year": 1958,
+      "date": "1958-12-22",
+      "election": "1956",
+      "pm": "louis-beel"
+    },
+    {
+      "year": 1959,
+      "date": "1959-05-19",
+      "election": "1959",
+      "pm": "jan-eduard-de-quay"
+    },
+    {
+      "year": 1963,
+      "date": "1963-07-24",
+      "election": "1963",
+      "pm": "victor-marijnen"
+    },
+    {
+      "year": 1965,
+      "date": "1965-04-14",
+      "election": "1963",
+      "pm": "jo-cals"
+    },
+    {
+      "year": 1966,
+      "date": "1966-11-22",
+      "election": "1963",
+      "pm": "jelle-zijlstra"
+    },
+    {
+      "year": 1967,
+      "date": "1967-04-05",
+      "election": "1967",
+      "pm": "piet-de-jong"
+    },
+    {
+      "year": 1971,
+      "date": "1971-07-06",
+      "election": "1971",
+      "pm": "barend-biesheuvel"
+    },
+    {
+      "year": 1972,
+      "date": "1972-11-29",
+      "election": "1972",
+      "pm": "barend-biesheuvel"
+    },
+    {
+      "year": 1973,
+      "date": "1973-05-11",
+      "election": "1972",
+      "pm": "joop-den-uyl"
+    },
+    {
+      "year": 1977,
+      "date": "1977-05-25",
+      "election": "1977",
+      "pm": "joop-den-uyl"
+    },
+    {
+      "year": 1977,
+      "date": "1977-12-19",
+      "election": "1977",
+      "pm": "dries-van-agt"
+    },
+    {
+      "year": 1981,
+      "date": "1981-05-26",
+      "election": "1981",
+      "pm": "dries-van-agt"
+    },
+    {
+      "year": 1982,
+      "date": "1982-11-04",
+      "election": "1982",
+      "pm": "ruud-lubbers"
+    },
+    {
+      "year": 1986,
+      "date": "1986-05-21",
+      "election": "1986",
+      "pm": "ruud-lubbers"
+    },
+    {
+      "year": 1989,
+      "date": "1989-09-06",
+      "election": "1989",
+      "pm": "ruud-lubbers"
+    },
+    {
+      "year": 1994,
+      "date": "1994-08-22",
+      "election": "1994",
+      "pm": "wim-kok"
+    },
+    {
+      "year": 1998,
+      "date": "1998-05-06",
+      "election": "1998",
+      "pm": "wim-kok"
+    },
+    {
+      "year": 2002,
+      "date": "2002-07-22",
+      "election": "2002",
+      "pm": "jan-peter-balkenende"
+    },
+    {
+      "year": 2003,
+      "date": "2003-01-22",
+      "election": "2003",
+      "pm": "jan-peter-balkenende"
+    },
+    {
+      "year": 2006,
+      "date": "2006-11-22",
+      "election": "2006",
+      "pm": "jan-peter-balkenende"
+    },
+    {
+      "year": 2010,
+      "date": "2010-10-14",
+      "election": "2010",
+      "pm": "mark-rutte"
+    },
+    {
+      "year": 2012,
+      "date": "2012-09-12",
+      "election": "2012",
+      "pm": "mark-rutte"
+    },
+    {
+      "year": 2017,
+      "date": "2017-03-15",
+      "election": "2017",
+      "pm": "mark-rutte"
+    },
+    {
+      "year": 2021,
+      "date": "2021-03-15",
+      "election": "2021",
+      "pm": "mark-rutte"
+    },
+    {
+      "year": 2023,
+      "date": "2023-11-22",
+      "election": "2023",
+      "pm": "mark-rutte"
+    },
+    {
+      "year": 2024,
+      "date": "2024-07-02",
+      "election": "2023",
+      "pm": "dick-schoof"
+    },
+    {
+      "year": 2026,
+      "date": "2026-02-23",
+      "election": "2025",
+      "pm": "rob-jetten"
+    }
+  ],
+  "pms": {
+    "wim-schermerhorn": {
+      "wiki": "Willem Schermerhorn",
+      "wikidata": "Q634025",
+      "image": "Schermerhorn, W. - SFA008007277.jpg",
+      "name": {
+        "en": "Wim Schermerhorn",
+        "nl": "Wim Schermerhorn"
+      }
+    },
+    "louis-beel": {
+      "wiki": "Louis Beel",
+      "wikidata": "Q735519",
+      "image": "Beel, L.J.M. - SFA008007058.jpg",
+      "name": {
+        "en": "Louis Beel",
+        "nl": "Louis Beel"
+      }
+    },
+    "willem-drees": {
+      "wiki": "Willem Drees",
+      "wikidata": "Q12769",
+      "image": "Dr. willem Drees sr. wordt 5 juli aanstaande 98 jaar, kop, Bestanddeelnr 933-0214.jpg",
+      "name": {
+        "en": "Willem Drees",
+        "nl": "Willem Drees"
+      }
+    },
+    "jan-eduard-de-quay": {
+      "wiki": "Jan de Quay",
+      "wikidata": "Q781813",
+      "image": "Jan de Quay 1962.jpg",
+      "name": {
+        "en": "Jan Eduard de Quay",
+        "nl": "Jan de Quay"
+      }
+    },
+    "victor-marijnen": {
+      "wiki": "Victor Marijnen",
+      "wikidata": "Q719701",
+      "image": "Victor Marijnen 1963.jpg",
+      "name": {
+        "en": "Victor Marijnen",
+        "nl": "Victor Marijnen"
+      }
+    },
+    "jo-cals": {
+      "wiki": "Jo Cals",
+      "wikidata": "Q736026",
+      "image": "Jo Cals 1966.jpg",
+      "name": {
+        "en": "Jo Cals",
+        "nl": "Jo Cals"
+      }
+    },
+    "jelle-zijlstra": {
+      "wiki": "Jelle Zijlstra",
+      "wikidata": "Q380970",
+      "image": "Jelle Zijlstra 1966.jpg",
+      "name": {
+        "en": "Jelle Zijlstra",
+        "nl": "Jelle Zijlstra"
+      }
+    },
+    "piet-de-jong": {
+      "wiki": "Piet de Jong",
+      "wikidata": "Q345481",
+      "image": "Piet de Jong 1970.jpg",
+      "name": {
+        "en": "Piet de Jong",
+        "nl": "Piet de Jong"
+      }
+    },
+    "barend-biesheuvel": {
+      "wiki": "Barend Biesheuvel",
+      "wikidata": "Q471204",
+      "image": "Aankomst op Schiphol drie leden van de gemengde comm. toekomst Antillen in verb…, Bestanddeelnr 932-1019.jpg",
+      "name": {
+        "en": "Barend Biesheuvel",
+        "nl": "Barend Biesheuvel"
+      }
+    },
+    "joop-den-uyl": {
+      "wiki": "Joop den Uyl",
+      "wikidata": "Q318320",
+      "image": "Joop den Uyl, Bestanddeelnr 933-6094.jpg",
+      "name": {
+        "en": "Joop den Uyl",
+        "nl": "Joop den Uyl"
+      }
+    },
+    "dries-van-agt": {
+      "wiki": "Dries van Agt",
+      "wikidata": "Q318334",
+      "image": "Dries van Agt 1980.jpg",
+      "name": {
+        "en": "Dries van Agt",
+        "nl": "Dries van Agt"
+      }
+    },
+    "ruud-lubbers": {
+      "wiki": "Ruud Lubbers",
+      "wikidata": "Q159840",
+      "image": "Ruud Lubbers 1985.jpg",
+      "name": {
+        "en": "Ruud Lubbers",
+        "nl": "Ruud Lubbers"
+      }
+    },
+    "wim-kok": {
+      "wiki": "Wim Kok",
+      "wikidata": "Q221411",
+      "image": "Wim Kok 1994.jpg",
+      "name": {
+        "en": "Wim Kok",
+        "nl": "Wim Kok"
+      }
+    },
+    "jan-peter-balkenende": {
+      "wiki": "Jan Peter Balkenende",
+      "wikidata": "Q133386",
+      "image": "Jan Peter Balkenende 2006.jpg",
+      "name": {
+        "en": "Jan Peter Balkenende",
+        "nl": "Jan Peter Balkenende"
+      }
+    },
+    "mark-rutte": {
+      "wiki": "Mark Rutte",
+      "wikidata": "Q57792",
+      "image": "Mark Rutte, 23.03.23 (cropped).jpg",
+      "name": {
+        "en": "Mark Rutte",
+        "nl": "Mark Rutte"
+      }
+    },
+    "dick-schoof": {
+      "wiki": "Dick Schoof",
+      "wikidata": "Q22338116",
+      "image": "Dick Schoof in 2025.jpg",
+      "name": {
+        "en": "Dick Schoof",
+        "nl": "Dick Schoof"
+      }
+    },
+    "rob-jetten": {
+      "wiki": "Rob Jetten",
+      "wikidata": "Q28860866",
+      "image": "Rob Jetten, March 2026 - 02.jpg",
+      "name": {
+        "en": "Rob Jetten",
+        "nl": "Rob Jetten"
+      }
+    }
+  },
+  "parties": {
+    "Catholic People's Party": {
+      "key": "catholic-people-s-party",
+      "wikidata": "Q1548365",
+      "name": {
+        "en": "Catholic People's Party",
+        "nl": "Katholieke Volkspartij"
+      },
+      "bloc": "centre-right",
+      "color": "#F0CB47"
+    },
+    "Labour Party (Netherlands)": {
+      "key": "labour-party",
+      "wikidata": "Q275441",
+      "name": {
+        "en": "Labour Party",
+        "nl": "Partij van de Arbeid"
+      },
+      "bloc": "centre-left",
+      "color": "#DF111A"
+    },
+    "Anti-Revolutionary Party": {
+      "key": "anti-revolutionary-party",
+      "wikidata": "Q574747",
+      "name": {
+        "en": "Anti-Revolutionary Party",
+        "nl": "Anti-Revolutionaire Partij"
+      },
+      "bloc": "centre-right",
+      "color": "#008F90"
+    },
+    "Communist Party of the Netherlands": {
+      "key": "communist-party-of-the-netherlands",
+      "wikidata": "Q385543",
+      "name": {
+        "en": "Communist Party of the Netherlands",
+        "nl": "Communistische Partij van Nederland"
+      },
+      "bloc": "far-left",
+      "color": "#BB5555"
+    },
+    "Christian Historical Union": {
+      "key": "christian-historical-union",
+      "wikidata": "Q143058",
+      "name": {
+        "en": "Christian Historical Union",
+        "nl": "Christelijk-Historische Unie"
+      },
+      "bloc": "centre-right",
+      "color": "#006F70"
+    },
+    "Freedom Party (Netherlands)": {
+      "key": "freedom-party",
+      "wikidata": "Q3251841",
+      "name": {
+        "en": "Freedom Party",
+        "nl": "Partij van de Vrijheid"
+      },
+      "bloc": "centre-right",
+      "color": "#2D4A6A"
+    },
+    "Reformed Political Party": {
+      "key": "reformed-political-party",
+      "wikidata": "Q60172",
+      "name": {
+        "en": "Reformed Political Party",
+        "nl": "Staatkundig Gereformeerde Partij"
+      },
+      "bloc": "right",
+      "color": "#EA5B0B"
+    },
+    "People's Party for Freedom and Democracy": {
+      "key": "people-s-party-for-freedom-and-democracy",
+      "wikidata": "Q239333",
+      "name": {
+        "en": "People's Party for Freedom and Democracy",
+        "nl": "Volkspartij voor Vrijheid en Democratie"
+      },
+      "bloc": "centre-right",
+      "color": "#0A2CCA"
+    },
+    "Catholic National Party": {
+      "key": "catholic-national-party",
+      "wikidata": "Q1925742",
+      "name": {
+        "en": "Catholic National Party",
+        "nl": "Katholiek Nationale Partij"
+      },
+      "bloc": "right",
+      "color": "#47B26B"
+    },
+    "Pacifist Socialist Party": {
+      "key": "pacifist-socialist-party",
+      "wikidata": "Q574732",
+      "name": {
+        "en": "Pacifist Socialist Party",
+        "nl": "Pacifistisch Socialistische Partij"
+      },
+      "bloc": "left",
+      "color": "#FF3366"
+    },
+    "Farmers' Party (Netherlands)": {
+      "key": "farmers-party",
+      "wikidata": "Q890275",
+      "name": {
+        "en": "Farmers' Party",
+        "nl": "Boerenpartij"
+      },
+      "bloc": "right",
+      "color": "#7AA300"
+    },
+    "Reformed Political League": {
+      "key": "reformed-political-league",
+      "wikidata": "Q3329377",
+      "name": {
+        "en": "Reformed Political League",
+        "nl": "Gereformeerd Politiek Verbond"
+      },
+      "bloc": "right",
+      "color": "#6CBFD9"
+    },
+    "Democrats 66": {
+      "key": "democrats-66",
+      "wikidata": "Q747910",
+      "name": {
+        "en": "Democrats 66",
+        "nl": "Democraten 66"
+      },
+      "bloc": "centre",
+      "color": "#00AE41"
+    },
+    "Democratic Socialists '70": {
+      "key": "democratic-socialists-70",
+      "wikidata": "Q1185905",
+      "name": {
+        "en": "Democratic Socialists '70",
+        "nl": "Democratisch Socialisten '70"
+      },
+      "bloc": "centre-left",
+      "color": "#A21756"
+    },
+    "Political Party of Radicals": {
+      "key": "political-party-of-radicals",
+      "wikidata": "Q617261",
+      "name": {
+        "en": "Political Party of Radicals",
+        "nl": "Politieke Partij Radikalen"
+      },
+      "bloc": "left",
+      "color": "#15803C"
+    },
+    "New Middle Party": {
+      "key": "new-middle-party",
+      "wikidata": "Q2425987",
+      "name": {
+        "en": "New Middle Party",
+        "nl": "Nederlandse Middenstands Partij"
+      },
+      "bloc": "centre-right",
+      "color": "#0033EE"
+    },
+    "Roman Catholic Party of the Netherlands": {
+      "key": "roman-catholic-party-of-the-netherlands",
+      "wikidata": "Q1923234",
+      "name": {
+        "en": "Roman Catholic Party of the Netherlands",
+        "nl": "Rooms Katholieke Partij Nederland"
+      },
+      "bloc": "right",
+      "color": "#0033BB"
+    },
+    "Christian Democratic Appeal": {
+      "key": "christian-democratic-appeal",
+      "wikidata": "Q273749",
+      "name": {
+        "en": "Christian Democratic Appeal",
+        "nl": "Christen-Democratisch Appèl"
+      },
+      "bloc": "centre-right",
+      "color": "#1f9359"
+    },
+    "Reformatory Political Federation": {
+      "key": "reformatory-political-federation",
+      "wikidata": "Q1988184",
+      "name": {
+        "en": "Reformatory Political Federation",
+        "nl": "Reformatorische Politieke Federatie"
+      },
+      "bloc": "right",
+      "color": "#7FD3E9"
+    },
+    "Centre Party (Netherlands)": {
+      "key": "centre-party",
+      "wikidata": "Q1054422",
+      "name": {
+        "en": "Centre Party",
+        "nl": "Centrumpartij"
+      },
+      "bloc": "far-right"
+    },
+    "Evangelical People's Party (Netherlands)": {
+      "key": "evangelical-people-s-party",
+      "wikidata": "Q1341225",
+      "name": {
+        "en": "Evangelical People's Party",
+        "nl": "Evangelische Volkspartij"
+      },
+      "bloc": "centre-left"
+    },
+    "GroenLinks": {
+      "key": "groenlinks",
+      "wikidata": "Q667680",
+      "name": {
+        "en": "GroenLinks",
+        "nl": "GroenLinks"
+      },
+      "bloc": "left",
+      "color": "#5BC422"
+    },
+    "Centre Democrats (Netherlands)": {
+      "key": "centre-democrats",
+      "wikidata": "Q1054387",
+      "name": {
+        "en": "Centre Democrats",
+        "nl": "Centrumdemocraten"
+      },
+      "bloc": "far-right",
+      "color": "#7F663D"
+    },
+    "General Elderly Alliance": {
+      "key": "general-elderly-alliance",
+      "wikidata": "Q1914664",
+      "name": {
+        "en": "General Elderly Alliance",
+        "nl": "Algemeen Ouderen Verbond"
+      },
+      "bloc": "centre",
+      "color": "#972C95"
+    },
+    "Socialist Party (Netherlands)": {
+      "key": "socialist-party",
+      "wikidata": "Q849580",
+      "name": {
+        "en": "Socialist Party",
+        "nl": "Socialistische Partij"
+      },
+      "bloc": "left",
+      "color": "#F60000"
+    },
+    "Union 55+": {
+      "key": "union-55",
+      "wikidata": "Q3149069",
+      "name": {
+        "en": "Union 55+",
+        "nl": "Unie 55+"
+      },
+      "bloc": "centre",
+      "color": "#C373B1"
+    },
+    "Pim Fortuyn List": {
+      "key": "pim-fortuyn-list",
+      "wikidata": "Q1573190",
+      "name": {
+        "en": "Pim Fortuyn List",
+        "nl": "Lijst Pim Fortuyn"
+      },
+      "bloc": "right",
+      "color": "#FCE11F"
+    },
+    "Christian Union (Netherlands)": {
+      "key": "christian-union",
+      "wikidata": "Q239539",
+      "name": {
+        "en": "Christian Union",
+        "nl": "ChristenUnie"
+      },
+      "bloc": "centre",
+      "color": "#00A7EB"
+    },
+    "Livable Netherlands": {
+      "key": "livable-netherlands",
+      "wikidata": "Q1416031",
+      "name": {
+        "en": "Livable Netherlands",
+        "nl": "Leefbaar Nederland"
+      },
+      "bloc": "right",
+      "color": "#FF4400"
+    },
+    "Party for Freedom": {
+      "key": "party-for-freedom",
+      "wikidata": "Q332739",
+      "name": {
+        "en": "Party for Freedom",
+        "nl": "Partij voor de Vrijheid"
+      },
+      "bloc": "far-right",
+      "color": "#0b2f65"
+    },
+    "Party for the Animals": {
+      "key": "party-for-the-animals",
+      "wikidata": "Q663535",
+      "name": {
+        "en": "Party for the Animals",
+        "nl": "Partij voor de Dieren"
+      },
+      "bloc": "left",
+      "color": "#006B2D"
+    },
+    "GreenLeft": {
+      "key": "groenlinks",
+      "wikidata": "Q667680",
+      "name": {
+        "en": "GreenLeft",
+        "nl": "GroenLinks"
+      },
+      "bloc": "left",
+      "color": "#5BC422"
+    },
+    "ChristianUnion": {
+      "key": "christian-union",
+      "wikidata": "Q239539",
+      "name": {
+        "en": "ChristianUnion",
+        "nl": "ChristenUnie"
+      },
+      "bloc": "centre",
+      "color": "#00A7EB"
+    },
+    "50PLUS": {
+      "key": "50plus",
+      "wikidata": "Q59574",
+      "name": {
+        "en": "50PLUS",
+        "nl": "50PLUS"
+      },
+      "bloc": "centre",
+      "color": "#92107D"
+    },
+    "DENK (political party)": {
+      "key": "denk",
+      "wikidata": "Q28147283",
+      "name": {
+        "en": "DENK",
+        "nl": "DENK"
+      },
+      "bloc": "centre-left",
+      "color": "#00B7B2"
+    },
+    "Forum for Democracy": {
+      "key": "forum-for-democracy",
+      "wikidata": "Q28163962",
+      "name": {
+        "en": "Forum for Democracy",
+        "nl": "Forum voor Democratie"
+      },
+      "bloc": "far-right",
+      "color": "#841818"
+    },
+    "Volt Netherlands": {
+      "key": "volt-netherlands",
+      "wikidata": "Q105412880",
+      "name": {
+        "en": "Volt Netherlands",
+        "nl": "Volt Nederland"
+      },
+      "bloc": "centre-left",
+      "color": "#502379"
+    },
+    "JA21": {
+      "key": "ja21",
+      "wikidata": "Q104244010",
+      "name": {
+        "en": "JA21",
+        "nl": "JA21"
+      },
+      "bloc": "centre-right",
+      "color": "#263573"
+    },
+    "Denk (political party)": {
+      "key": "denk",
+      "wikidata": "Q28147283",
+      "name": {
+        "en": "Denk",
+        "nl": "DENK"
+      },
+      "bloc": "centre-left",
+      "color": "#00B7B2"
+    },
+    "Farmer–Citizen Movement": {
+      "key": "farmer-citizen-movement",
+      "wikidata": "Q101083924",
+      "name": {
+        "en": "Farmer–Citizen Movement",
+        "nl": "BoerBurgerBeweging"
+      },
+      "bloc": "centre-right",
+      "color": "#94C11F"
+    },
+    "BIJ1": {
+      "key": "bij1",
+      "wikidata": "Q28857892",
+      "name": {
+        "en": "BIJ1",
+        "nl": "BIJ1"
+      },
+      "bloc": "left",
+      "color": "#fdfd00"
+    },
+    "GroenLinks–PvdA": {
+      "key": "groenlinks-pvda",
+      "wikidata": "Q110853869",
+      "name": {
+        "en": "GroenLinks–PvdA",
+        "nl": "GroenLinks-PvdA"
+      },
+      "bloc": "centre-left",
+      "color": "#DC1F26"
+    },
+    "New Social Contract": {
+      "key": "new-social-contract",
+      "wikidata": "Q121705847",
+      "name": {
+        "en": "New Social Contract",
+        "nl": "Nieuw Sociaal Contract"
+      },
+      "bloc": "centre-right",
+      "color": "#F0C400"
+    }
+  }
+}

@@ -28,6 +28,13 @@ const en = {
   sources: 'Sources',
   photos: 'Photos',
   allCountries: 'All countries',
+  history: 'Over time',
+  byBloc: 'By bloc',
+  byParty: 'By party',
+  lines: 'Lines',
+  stacked: '100% stacked',
+  share: 'share of seats',
+  otherParties: 'Other parties',
   latest: (year: number) => `Latest: ${year}`,
 }
 
@@ -60,6 +67,13 @@ const he: Strings = {
   sources: 'מקורות',
   photos: 'תמונות',
   allCountries: 'כל המדינות',
+  history: 'לאורך השנים',
+  byBloc: 'לפי גוש',
+  byParty: 'לפי מפלגה',
+  lines: 'קווים',
+  stacked: '100% מוערם',
+  share: 'אחוז מהמושבים',
+  otherParties: 'מפלגות אחרות',
   latest: (year) => `אחרונות: ${year}`,
 }
 
@@ -90,10 +104,21 @@ const hu: Strings = {
   sources: 'Források',
   photos: 'Fotók',
   allCountries: 'Összes ország',
+  history: 'Időben',
+  byBloc: 'Tömbönként',
+  byParty: 'Pártonként',
+  lines: 'Vonalak',
+  stacked: '100%-os halmozott',
+  share: 'mandátumarány',
+  otherParties: 'Egyéb pártok',
   latest: (year) => `Legutóbbi: ${year}`,
 }
 
 const strings: Record<string, Strings> = { en, he, hu }
 
 export const ui = (lang: string) => strings[lang] ?? en
-export const languageName = (lang: string) => strings[lang]?.langName ?? lang
+export function languageName(lang: string) {
+  if (strings[lang]) return strings[lang].langName
+  const name = new Intl.DisplayNames([lang], { type: 'language' }).of(lang) ?? lang
+  return name[0].toLocaleUpperCase(lang) + name.slice(1)
+}

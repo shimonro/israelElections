@@ -1,0 +1,862 @@
+{
+ "results": {
+  "1945": {
+   "wiki": "1945 Austrian legislative election",
+   "date": "1945-11-25",
+   "seats": 165,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Austrian People's Party",
+     "link": "Austrian People's Party",
+     "seats": 85
+    },
+    {
+     "name": "Socialist Party of Austria",
+     "link": "Social Democratic Party of Austria",
+     "seats": 76
+    },
+    {
+     "name": "Communist Party of Austria",
+     "link": "Communist Party of Austria",
+     "seats": 4
+    }
+   ],
+   "chamber": {
+    "link": "National Council of Austria",
+    "text": "National Council of Austria"
+   }
+  },
+  "1949": {
+   "wiki": "1949 Austrian legislative election",
+   "date": "1949-10-09",
+   "seats": 165,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Austrian People's Party",
+     "link": "Austrian People's Party",
+     "seats": 77
+    },
+    {
+     "name": "Socialist Party of Austria",
+     "link": "Social Democratic Party of Austria",
+     "seats": 67
+    },
+    {
+     "name": "Electoral Party of Independents",
+     "link": "Federation of Independents",
+     "seats": 16
+    },
+    {
+     "name": "Communist Party of Austria and Left Socialists",
+     "link": "Communist Party of Austria",
+     "seats": 5
+    }
+   ],
+   "chamber": {
+    "link": "National Council of Austria",
+    "text": "National Council of Austria"
+   }
+  },
+  "1953": {
+   "wiki": "1953 Austrian legislative election",
+   "date": "1953-02-22",
+   "seats": 165,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Socialist Party of Austria",
+     "link": "Social Democratic Party of Austria",
+     "seats": 73
+    },
+    {
+     "name": "Austrian People's Party",
+     "link": "Austrian People's Party",
+     "seats": 74
+    },
+    {
+     "name": "Electoral Party of Independents",
+     "link": "Federation of Independents",
+     "seats": 14
+    },
+    {
+     "name": "Austrian People's Opposition",
+     "link": "Communist Party of Austria",
+     "seats": 4
+    }
+   ],
+   "chamber": {
+    "link": "National Council of Austria",
+    "text": "National Council of Austria"
+   }
+  },
+  "1956": {
+   "wiki": "1956 Austrian legislative election",
+   "date": "1956-05-13",
+   "seats": 165,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Austrian People's Party",
+     "link": "Austrian People's Party",
+     "seats": 82
+    },
+    {
+     "name": "Socialist Party of Austria",
+     "link": "Social Democratic Party of Austria",
+     "seats": 74
+    },
+    {
+     "name": "Freedom Party of Austria",
+     "link": "Freedom Party of Austria",
+     "seats": 6
+    },
+    {
+     "name": "Communists and Left Socialists",
+     "link": "Communist Party of Austria",
+     "seats": 3
+    }
+   ],
+   "chamber": {
+    "link": "National Council of Austria",
+    "text": "National Council of Austria"
+   }
+  },
+  "1959": {
+   "wiki": "1959 Austrian legislative election",
+   "date": "1959-05-10",
+   "seats": 165,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Socialist Party of Austria",
+     "link": "Social Democratic Party of Austria",
+     "seats": 78
+    },
+    {
+     "name": "Austrian People's Party",
+     "link": "Austrian People's Party",
+     "seats": 79
+    },
+    {
+     "name": "Freedom Party of Austria",
+     "link": "Freedom Party of Austria",
+     "seats": 8
+    }
+   ],
+   "chamber": {
+    "link": "National Council (Austria)",
+    "text": "National Council"
+   }
+  },
+  "1962": {
+   "wiki": "1962 Austrian legislative election",
+   "date": "1962-11-18",
+   "seats": 165,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Austrian People's Party",
+     "link": "Austrian People's Party",
+     "seats": 81
+    },
+    {
+     "name": "Socialist Party of Austria",
+     "link": "Social Democratic Party of Austria",
+     "seats": 76
+    },
+    {
+     "name": "Freedom Party of Austria",
+     "link": "Freedom Party of Austria",
+     "seats": 8
+    }
+   ],
+   "chamber": {
+    "link": "National Council of Austria",
+    "text": "National Council of Austria"
+   }
+  },
+  "1966": {
+   "wiki": "1966 Austrian legislative election",
+   "date": "1966-03-06",
+   "seats": 165,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Austrian People's Party",
+     "link": "Austrian People's Party",
+     "seats": 85
+    },
+    {
+     "name": "Socialist Party of Austria",
+     "link": "Social Democratic Party of Austria",
+     "seats": 74
+    },
+    {
+     "name": "Freedom Party of Austria",
+     "link": "Freedom Party of Austria",
+     "seats": 6
+    }
+   ],
+   "chamber": {
+    "link": "National Council (Austria)",
+    "text": "National Council"
+   }
+  },
+  "1970": {
+   "wiki": "1970 Austrian legislative election",
+   "date": "1970-03-01",
+   "seats": 165,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Socialist Party of Austria",
+     "link": "Social Democratic Party of Austria",
+     "seats": 81
+    },
+    {
+     "name": "Austrian People's Party",
+     "link": "Austrian People's Party",
+     "seats": 78
+    },
+    {
+     "name": "Freedom Party of Austria",
+     "link": "Freedom Party of Austria",
+     "seats": 6
+    }
+   ],
+   "chamber": {
+    "link": "National Council (Austria)",
+    "text": "National Council"
+   }
+  },
+  "1971": {
+   "wiki": "1971 Austrian legislative election",
+   "date": "1971-10-10",
+   "seats": 183,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Socialist Party of Austria",
+     "link": "Social Democratic Party of Austria",
+     "seats": 93
+    },
+    {
+     "name": "Austrian People's Party",
+     "link": "Austrian People's Party",
+     "seats": 80
+    },
+    {
+     "name": "Freedom Party of Austria",
+     "link": "Freedom Party of Austria",
+     "seats": 10
+    }
+   ],
+   "chamber": {
+    "link": "National Council (Austria)",
+    "text": "National Council"
+   }
+  },
+  "1975": {
+   "wiki": "1975 Austrian legislative election",
+   "date": "1975-10-05",
+   "seats": 183,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Socialist Party of Austria",
+     "link": "Social Democratic Party of Austria",
+     "seats": 93
+    },
+    {
+     "name": "Austrian People's Party",
+     "link": "Austrian People's Party",
+     "seats": 80
+    },
+    {
+     "name": "Freedom Party of Austria",
+     "link": "Freedom Party of Austria",
+     "seats": 10
+    }
+   ],
+   "chamber": {
+    "link": "National Council (Austria)",
+    "text": "National Council"
+   }
+  },
+  "1979": {
+   "wiki": "1979 Austrian legislative election",
+   "date": "1979-05-06",
+   "seats": 183,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Social Democratic Party of Austria",
+     "link": "Social Democratic Party of Austria",
+     "seats": 95
+    },
+    {
+     "name": "Austrian People's Party",
+     "link": "Austrian People's Party",
+     "seats": 77
+    },
+    {
+     "name": "Freedom Party of Austria",
+     "link": "Freedom Party of Austria",
+     "seats": 11
+    }
+   ],
+   "chamber": {
+    "link": "National Council (Austria)",
+    "text": "National Council"
+   }
+  },
+  "1983": {
+   "wiki": "1983 Austrian legislative election",
+   "date": "1983-04-24",
+   "seats": 183,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Socialist Party of Austria",
+     "link": "Social Democratic Party of Austria",
+     "seats": 90
+    },
+    {
+     "name": "Austrian People's Party",
+     "link": "Austrian People's Party",
+     "seats": 81
+    },
+    {
+     "name": "Freedom Party of Austria",
+     "link": "Freedom Party of Austria",
+     "seats": 12
+    }
+   ],
+   "chamber": {
+    "link": "National Council (Austria)",
+    "text": "National Council"
+   }
+  },
+  "1986": {
+   "wiki": "1986 Austrian legislative election",
+   "date": "1986-11-23",
+   "seats": 183,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Socialist Party of Austria",
+     "link": "Social Democratic Party of Austria",
+     "seats": 80
+    },
+    {
+     "name": "Austrian People's Party",
+     "link": "Austrian People's Party",
+     "seats": 77
+    },
+    {
+     "name": "Freedom Party of Austria",
+     "link": "Freedom Party of Austria",
+     "seats": 18
+    },
+    {
+     "name": "Green Alternative–Freda Meissner-Blau List",
+     "link": "Green Alternative–Freda Meissner-Blau List",
+     "seats": 8,
+     "parts": [
+      "The Greens – The Green Alternative",
+      "Freda Meissner-Blau"
+     ]
+    }
+   ],
+   "chamber": {
+    "link": "National Council (Austria)",
+    "text": "National Council"
+   }
+  },
+  "1990": {
+   "wiki": "1990 Austrian legislative election",
+   "date": "1990-10-07",
+   "seats": 183,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Socialist Party of Austria",
+     "link": "Social Democratic Party of Austria",
+     "seats": 80
+    },
+    {
+     "name": "Austrian People's Party",
+     "link": "Austrian People's Party",
+     "seats": 60
+    },
+    {
+     "name": "Freedom Party of Austria",
+     "link": "Freedom Party of Austria",
+     "seats": 33
+    },
+    {
+     "name": "Green Alternative–Freda Meissner-Blau List",
+     "link": "Green Alternative–Freda Meissner-Blau List",
+     "seats": 10,
+     "parts": [
+      "The Greens – The Green Alternative",
+      "Freda Meissner-Blau"
+     ]
+    }
+   ],
+   "chamber": {
+    "link": "National Council (Austria)",
+    "text": "National Council"
+   }
+  },
+  "1994": {
+   "wiki": "1994 Austrian legislative election",
+   "date": "1994-10-09",
+   "seats": 183,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Social Democratic Party of Austria",
+     "link": "Social Democratic Party of Austria",
+     "seats": 65
+    },
+    {
+     "name": "Austrian People's Party",
+     "link": "Austrian People's Party",
+     "seats": 52
+    },
+    {
+     "name": "Freedom Party of Austria",
+     "link": "Freedom Party of Austria",
+     "seats": 42
+    },
+    {
+     "name": "The Greens",
+     "link": "The Greens (Austria)",
+     "seats": 13
+    },
+    {
+     "name": "Liberal Forum",
+     "link": "Liberal Forum",
+     "seats": 11
+    }
+   ],
+   "chamber": {
+    "link": "National Council (Austria)",
+    "text": "National Council"
+   }
+  },
+  "1995": {
+   "wiki": "1995 Austrian legislative election",
+   "date": "1995-12-17",
+   "seats": 183,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Social Democratic Party of Austria",
+     "link": "Social Democratic Party of Austria",
+     "seats": 71
+    },
+    {
+     "name": "Austrian People's Party",
+     "link": "Austrian People's Party",
+     "seats": 52
+    },
+    {
+     "name": "Freedom Party of Austria",
+     "link": "Freedom Party of Austria",
+     "seats": 41
+    },
+    {
+     "name": "Liberal Forum",
+     "link": "Liberal Forum",
+     "seats": 10
+    },
+    {
+     "name": "The Greens",
+     "link": "The Greens (Austria)",
+     "seats": 9
+    }
+   ],
+   "chamber": {
+    "link": "National Council (Austria)",
+    "text": "National Council"
+   }
+  },
+  "1999": {
+   "wiki": "1999 Austrian legislative election",
+   "date": "1999-10-03",
+   "seats": 183,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Social Democratic Party of Austria",
+     "link": "Social Democratic Party of Austria",
+     "seats": 65
+    },
+    {
+     "name": "Freedom Party of Austria",
+     "link": "Freedom Party of Austria",
+     "seats": 52
+    },
+    {
+     "name": "Austrian People's Party",
+     "link": "Austrian People's Party",
+     "seats": 52
+    },
+    {
+     "name": "The Greens",
+     "link": "The Greens (Austria)",
+     "seats": 14
+    }
+   ],
+   "chamber": {
+    "link": "National Council (Austria)",
+    "text": "National Council"
+   }
+  },
+  "2002": {
+   "wiki": "2002 Austrian legislative election",
+   "date": "2002-11-24",
+   "seats": 183,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Austrian People's Party",
+     "link": "Austrian People's Party",
+     "seats": 79
+    },
+    {
+     "name": "Social Democratic Party of Austria",
+     "link": "Social Democratic Party of Austria",
+     "seats": 69
+    },
+    {
+     "name": "Freedom Party of Austria",
+     "link": "Freedom Party of Austria",
+     "seats": 18
+    },
+    {
+     "name": "The Greens",
+     "link": "The Greens (Austria)",
+     "seats": 17
+    }
+   ],
+   "chamber": {
+    "link": "National Council (Austria)",
+    "text": "National Council"
+   }
+  },
+  "2006": {
+   "wiki": "2006 Austrian legislative election",
+   "date": "2006-10-01",
+   "seats": 183,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Social Democratic Party of Austria",
+     "link": "Social Democratic Party of Austria",
+     "seats": 68
+    },
+    {
+     "name": "Austrian People's Party",
+     "link": "Austrian People's Party",
+     "seats": 66
+    },
+    {
+     "name": "The Greens",
+     "link": "The Greens (Austria)",
+     "seats": 21
+    },
+    {
+     "name": "Freedom Party of Austria",
+     "link": "Freedom Party of Austria",
+     "seats": 21
+    },
+    {
+     "name": "Alliance for the Future of Austria",
+     "link": "Alliance for the Future of Austria",
+     "seats": 7
+    }
+   ],
+   "chamber": {
+    "link": "National Council (Austria)",
+    "text": "National Council"
+   }
+  },
+  "2008": {
+   "wiki": "2008 Austrian legislative election",
+   "date": "2008-09-28",
+   "seats": 183,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Social Democratic Party of Austria",
+     "link": "Social Democratic Party of Austria",
+     "seats": 57
+    },
+    {
+     "name": "Austrian People's Party",
+     "link": "Austrian People's Party",
+     "seats": 51
+    },
+    {
+     "name": "Freedom Party of Austria",
+     "link": "Freedom Party of Austria",
+     "seats": 34
+    },
+    {
+     "name": "Alliance for the Future of Austria",
+     "link": "Alliance for the Future of Austria",
+     "seats": 21
+    },
+    {
+     "name": "The Greens",
+     "link": "The Greens (Austria)",
+     "seats": 20
+    }
+   ],
+   "chamber": {
+    "link": "National Council (Austria)",
+    "text": "National Council"
+   }
+  },
+  "2013": {
+   "wiki": "2013 Austrian legislative election",
+   "date": "2013-09-29",
+   "seats": 183,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Social Democratic Party of Austria",
+     "link": "Social Democratic Party of Austria",
+     "seats": 52
+    },
+    {
+     "name": "Austrian People's Party",
+     "link": "Austrian People's Party",
+     "seats": 47
+    },
+    {
+     "name": "Freedom Party of Austria",
+     "link": "Freedom Party of Austria",
+     "seats": 40
+    },
+    {
+     "name": "The Greens",
+     "link": "The Greens (Austria)",
+     "seats": 24
+    },
+    {
+     "name": "Team Stronach",
+     "link": "Team Stronach",
+     "seats": 11
+    },
+    {
+     "name": "NEOS",
+     "link": "NEOS (Austria)",
+     "seats": 9
+    }
+   ],
+   "chamber": {
+    "link": "National Council (Austria)",
+    "text": "National Council"
+   }
+  },
+  "2017": {
+   "wiki": "2017 Austrian legislative election",
+   "date": "2017-10-15",
+   "seats": 183,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Austrian People's Party",
+     "link": "Austrian People's Party",
+     "seats": 62
+    },
+    {
+     "name": "Social Democratic Party of Austria",
+     "link": "Social Democratic Party of Austria",
+     "seats": 52
+    },
+    {
+     "name": "Freedom Party of Austria",
+     "link": "Freedom Party of Austria",
+     "seats": 51
+    },
+    {
+     "name": "NEOS",
+     "link": "NEOS (Austria)",
+     "seats": 10
+    },
+    {
+     "name": "Peter Pilz List",
+     "link": "JETZT (party)",
+     "seats": 8
+    }
+   ],
+   "chamber": {
+    "link": "National Council (Austria)",
+    "text": "National Council"
+   }
+  },
+  "2019": {
+   "wiki": "2019 Austrian legislative election",
+   "date": "2019-09-29",
+   "seats": 183,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Austrian People's Party",
+     "link": "Austrian People's Party",
+     "seats": 71
+    },
+    {
+     "name": "Social Democratic Party of Austria",
+     "link": "Social Democratic Party of Austria",
+     "seats": 40
+    },
+    {
+     "name": "Freedom Party of Austria",
+     "link": "Freedom Party of Austria",
+     "seats": 31
+    },
+    {
+     "name": "The Greens",
+     "link": "The Greens (Austria)",
+     "seats": 26
+    },
+    {
+     "name": "NEOS",
+     "link": "NEOS (Austria)",
+     "seats": 15
+    }
+   ],
+   "chamber": {
+    "link": "National Council (Austria)",
+    "text": "National Council"
+   }
+  },
+  "2024": {
+   "wiki": "2024 Austrian legislative election",
+   "date": "2024-09-29",
+   "seats": 183,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Freedom Party of Austria",
+     "link": "Freedom Party of Austria",
+     "seats": 57
+    },
+    {
+     "name": "Austrian People's Party",
+     "link": "Austrian People's Party",
+     "seats": 51
+    },
+    {
+     "name": "Social Democratic Party of Austria",
+     "link": "Social Democratic Party of Austria",
+     "seats": 41
+    },
+    {
+     "name": "NEOS",
+     "link": "NEOS (Austria)",
+     "seats": 18
+    },
+    {
+     "name": "The Greens",
+     "link": "The Greens (Austria)",
+     "seats": 16
+    }
+   ],
+   "chamber": {
+    "link": "National Council (Austria)",
+    "text": "National Council"
+   }
+  }
+ },
+ "credits": {
+  "karl-renner": {
+   "file": "Karl Renner 1905.jpg",
+   "author": "Unknown authorUnknown author",
+   "license": "Public domain"
+  },
+  "leopold-figl": {
+   "file": "Figl leopold 01b.jpg",
+   "author": "User:Karl Gruber Owner my family photo after 1962",
+   "license": "CC BY-SA 3.0"
+  },
+  "alfons-gorbach": {
+   "file": "Alfons Gorbach 1965.jpg",
+   "author": "Unknown authorUnknown author",
+   "license": "CC0"
+  },
+  "julius-raab": {
+   "file": "Julius-Raab-1961.jpg",
+   "author": "BKA/BPD",
+   "license": "Attribution"
+  },
+  "bruno-kreisky": {
+   "file": "Bruno Kreisky 1983.jpg",
+   "author": "Votava (SPÖ Presse und Kommunikation)",
+   "license": "CC BY-SA 2.0"
+  },
+  "franz-vranitzky": {
+   "file": "Franz Vranitzky.jpg",
+   "author": "Arne Müseler",
+   "license": "CC BY-SA 3.0 de"
+  },
+  "viktor-klima": {
+   "file": "Bundeskanzler Viktor Klima.JPG",
+   "author": "SPÖOÖ/rubra",
+   "license": "CC BY 2.0"
+  },
+  "wolfgang-schussel": {
+   "file": "Schüssel 2024.jpg",
+   "author": "Christophe Licoppe",
+   "license": "CC BY 4.0"
+  },
+  "alfred-gusenbauer": {
+   "file": "Alfred Gusenbauer 26.10.2008.jpg",
+   "author": "Manfred Werner - Tsui",
+   "license": "CC BY-SA 3.0"
+  },
+  "werner-faymann": {
+   "file": "Werner Faymann Wien08-2008a.jpg",
+   "author": "Manfred Werner / Tsui",
+   "license": "CC BY-SA 3.0"
+  },
+  "christian-kern": {
+   "file": "Christian Kern 2016 (portrait).jpg",
+   "author": "SPÖ Presse und Kommunikation",
+   "license": "CC BY-SA 2.0"
+  },
+  "sebastian-kurz": {
+   "file": "Maischberger 2024-12-17-8605.jpg",
+   "author": "Raimond Spekking",
+   "license": "CC BY-SA 4.0"
+  },
+  "brigitte-bierlein": {
+   "file": "Brigitte Bierlein.jpg",
+   "author": "VfGH/Achim Bieniek",
+   "license": "CC BY-SA 3.0 at"
+  },
+  "alexander-schallenberg": {
+   "file": "Alexander Schallenberg 20230913.jpg",
+   "author": "Bundesministerium für europäische und internationale Angelegenheiten",
+   "license": "CC BY 2.0"
+  },
+  "karl-nehammer": {
+   "file": "Karl Nehammer - Buch Wien 2025.JPG",
+   "author": "C.Stadler/Bwag",
+   "license": "CC BY-SA 4.0"
+  },
+  "christian-stocker": {
+   "file": "Christian Stocker EuCo 2026.jpg",
+   "author": "Frédéric Sierakowski / European Council",
+   "license": "Attribution"
+  }
+ }
+}

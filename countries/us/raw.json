@@ -1,0 +1,978 @@
+{
+ "results": {
+  "1946": {
+   "wiki": "1946 United States House of Representatives elections",
+   "date": "1946-11-05",
+   "seats": 435,
+   "table": "Infobox election",
+   "rows": [
+    {
+     "name": "Republican Party (US)",
+     "link": "Republican Party (US)",
+     "seats": 246
+    },
+    {
+     "name": "Democratic Party (US)",
+     "link": "Democratic Party (US)",
+     "seats": 188
+    }
+   ],
+   "chamber": {
+    "link": "United States House of Representatives",
+    "text": "United States House of Representatives"
+   }
+  },
+  "1948": {
+   "wiki": "1948 United States House of Representatives elections",
+   "date": "1948-11-02",
+   "seats": 435,
+   "table": "Infobox election",
+   "rows": [
+    {
+     "name": "Democratic Party (US)",
+     "link": "Democratic Party (US)",
+     "seats": 263
+    },
+    {
+     "name": "Republican Party (US)",
+     "link": "Republican Party (US)",
+     "seats": 171
+    }
+   ],
+   "chamber": {
+    "link": "United States House of Representatives",
+    "text": "United States House of Representatives"
+   }
+  },
+  "1950": {
+   "wiki": "1950 United States House of Representatives elections",
+   "date": "1950-11-07",
+   "seats": 435,
+   "table": "Infobox election",
+   "rows": [
+    {
+     "name": "Democratic Party (US)",
+     "link": "Democratic Party (US)",
+     "seats": 235
+    },
+    {
+     "name": "Republican Party (US)",
+     "link": "Republican Party (US)",
+     "seats": 199
+    }
+   ],
+   "chamber": {
+    "link": "United States House of Representatives",
+    "text": "United States House of Representatives"
+   }
+  },
+  "1952": {
+   "wiki": "1952 United States House of Representatives elections",
+   "date": "1952-11-04",
+   "seats": 435,
+   "table": "Infobox election",
+   "rows": [
+    {
+     "name": "Republican Party (US)",
+     "link": "Republican Party (US)",
+     "seats": 221
+    },
+    {
+     "name": "Democratic Party (US)",
+     "link": "Democratic Party (US)",
+     "seats": 213
+    }
+   ],
+   "chamber": {
+    "link": "United States House of Representatives",
+    "text": "United States House of Representatives"
+   }
+  },
+  "1954": {
+   "wiki": "1954 United States House of Representatives elections",
+   "date": "1954-11-02",
+   "seats": 435,
+   "table": "Infobox election",
+   "rows": [
+    {
+     "name": "Democratic Party (United States)",
+     "link": "Democratic Party (United States)",
+     "seats": 232
+    },
+    {
+     "name": "Republican Party (United States)",
+     "link": "Republican Party (United States)",
+     "seats": 203
+    }
+   ],
+   "chamber": {
+    "link": "United States House of Representatives",
+    "text": "United States House of Representatives"
+   }
+  },
+  "1956": {
+   "wiki": "1956 United States House of Representatives elections",
+   "date": "1956-11-06",
+   "seats": 435,
+   "table": "Infobox election",
+   "rows": [
+    {
+     "name": "Democratic Party (US)",
+     "link": "Democratic Party (US)",
+     "seats": 234
+    },
+    {
+     "name": "Republican Party (US)",
+     "link": "Republican Party (US)",
+     "seats": 201
+    }
+   ],
+   "chamber": {
+    "link": "United States House of Representatives",
+    "text": "United States House of Representatives"
+   }
+  },
+  "1958": {
+   "wiki": "1958 United States House of Representatives elections",
+   "date": "1958-11-04",
+   "seats": 436,
+   "table": "Infobox election",
+   "rows": [
+    {
+     "name": "Democratic Party (US)",
+     "link": "Democratic Party (US)",
+     "seats": 283
+    },
+    {
+     "name": "Republican Party (US)",
+     "link": "Republican Party (US)",
+     "seats": 153
+    }
+   ],
+   "chamber": {
+    "link": "United States House of Representatives",
+    "text": "United States House of Representatives"
+   }
+  },
+  "1960": {
+   "wiki": "1960 United States House of Representatives elections",
+   "date": "1960-11-08",
+   "seats": 437,
+   "table": "Infobox election",
+   "rows": [
+    {
+     "name": "Democratic Party (US)",
+     "link": "Democratic Party (US)",
+     "seats": 262
+    },
+    {
+     "name": "Republican Party (US)",
+     "link": "Republican Party (US)",
+     "seats": 175
+    }
+   ],
+   "chamber": {
+    "link": "United States House of Representatives",
+    "text": "United States House of Representatives"
+   }
+  },
+  "1962": {
+   "wiki": "1962 United States House of Representatives elections",
+   "date": "1962-11-06",
+   "seats": 435,
+   "table": "Infobox election",
+   "rows": [
+    {
+     "name": "Democratic Party (US)",
+     "link": "Democratic Party (US)",
+     "seats": 259
+    },
+    {
+     "name": "Republican Party (US)",
+     "link": "Republican Party (US)",
+     "seats": 176
+    }
+   ],
+   "chamber": {
+    "link": "United States House of Representatives",
+    "text": "United States House of Representatives"
+   }
+  },
+  "1964": {
+   "wiki": "1964 United States House of Representatives elections",
+   "date": "1964-11-03",
+   "seats": 435,
+   "table": "Infobox election",
+   "rows": [
+    {
+     "name": "Democratic Party (US)",
+     "link": "Democratic Party (US)",
+     "seats": 295
+    },
+    {
+     "name": "Republican Party (US)",
+     "link": "Republican Party (US)",
+     "seats": 140
+    }
+   ],
+   "chamber": {
+    "link": "United States House of Representatives",
+    "text": "United States House of Representatives"
+   }
+  },
+  "1966": {
+   "wiki": "1966 United States House of Representatives elections",
+   "date": "1966-11-08",
+   "seats": 435,
+   "table": "Infobox election",
+   "rows": [
+    {
+     "name": "Democratic Party (US)",
+     "link": "Democratic Party (US)",
+     "seats": 248
+    },
+    {
+     "name": "Republican Party (US)",
+     "link": "Republican Party (US)",
+     "seats": 187
+    }
+   ],
+   "chamber": {
+    "link": "United States House of Representatives",
+    "text": "United States House of Representatives"
+   }
+  },
+  "1968": {
+   "wiki": "1968 United States House of Representatives elections",
+   "date": "1968-11-05",
+   "seats": 435,
+   "table": "Infobox election",
+   "rows": [
+    {
+     "name": "Democratic Party (United States)",
+     "link": "Democratic Party (United States)",
+     "seats": 243
+    },
+    {
+     "name": "Republican Party (United States)",
+     "link": "Republican Party (United States)",
+     "seats": 192
+    }
+   ],
+   "chamber": {
+    "link": "United States House of Representatives",
+    "text": "United States House of Representatives"
+   }
+  },
+  "1970": {
+   "wiki": "1970 United States House of Representatives elections",
+   "date": "1970-11-03",
+   "seats": 435,
+   "table": "Infobox election",
+   "rows": [
+    {
+     "name": "Democratic Party (US)",
+     "link": "Democratic Party (US)",
+     "seats": 255
+    },
+    {
+     "name": "Republican Party (US)",
+     "link": "Republican Party (US)",
+     "seats": 180
+    }
+   ],
+   "chamber": {
+    "link": "United States House of Representatives",
+    "text": "United States House of Representatives"
+   }
+  },
+  "1972": {
+   "wiki": "1972 United States House of Representatives elections",
+   "date": "1972-11-07",
+   "seats": 435,
+   "table": "Infobox election",
+   "rows": [
+    {
+     "name": "Democratic Party (US)",
+     "link": "Democratic Party (US)",
+     "seats": 242
+    },
+    {
+     "name": "Republican Party (US)",
+     "link": "Republican Party (US)",
+     "seats": 192
+    }
+   ],
+   "chamber": {
+    "link": "United States House of Representatives",
+    "text": "United States House of Representatives"
+   }
+  },
+  "1974": {
+   "wiki": "1974 United States House of Representatives elections",
+   "date": "1974-11-05",
+   "seats": 435,
+   "table": "Infobox election",
+   "rows": [
+    {
+     "name": "Democratic Party (US)",
+     "link": "Democratic Party (US)",
+     "seats": 291
+    },
+    {
+     "name": "Republican Party (US)",
+     "link": "Republican Party (US)",
+     "seats": 144
+    }
+   ],
+   "chamber": {
+    "link": "United States House of Representatives",
+    "text": "United States House of Representatives"
+   }
+  },
+  "1976": {
+   "wiki": "1976 United States House of Representatives elections",
+   "date": "1976-11-02",
+   "seats": 435,
+   "table": "Infobox election",
+   "rows": [
+    {
+     "name": "Democratic Party (US)",
+     "link": "Democratic Party (US)",
+     "seats": 292
+    },
+    {
+     "name": "Republican Party (US)",
+     "link": "Republican Party (US)",
+     "seats": 143
+    }
+   ],
+   "chamber": {
+    "link": "United States House of Representatives",
+    "text": "United States House of Representatives"
+   }
+  },
+  "1978": {
+   "wiki": "1978 United States House of Representatives elections",
+   "date": "1978-11-07",
+   "seats": 435,
+   "table": "Infobox election",
+   "rows": [
+    {
+     "name": "Democratic Party (United States)",
+     "link": "Democratic Party (United States)",
+     "seats": 277
+    },
+    {
+     "name": "Republican Party (United States)",
+     "link": "Republican Party (United States)",
+     "seats": 157
+    }
+   ],
+   "chamber": {
+    "link": "United States House of Representatives",
+    "text": "United States House of Representatives"
+   }
+  },
+  "1980": {
+   "wiki": "1980 United States House of Representatives elections",
+   "date": "1980-11-04",
+   "seats": 435,
+   "table": "Infobox election",
+   "rows": [
+    {
+     "name": "Democratic Party (US)",
+     "link": "Democratic Party (US)",
+     "seats": 242
+    },
+    {
+     "name": "Republican Party (US)",
+     "link": "Republican Party (US)",
+     "seats": 191
+    }
+   ],
+   "chamber": {
+    "link": "United States House of Representatives",
+    "text": "United States House of Representatives"
+   }
+  },
+  "1982": {
+   "wiki": "1982 United States House of Representatives elections",
+   "date": "1982-11-02",
+   "seats": 435,
+   "table": "Infobox election",
+   "rows": [
+    {
+     "name": "Democratic Party (US)",
+     "link": "Democratic Party (US)",
+     "seats": 269
+    },
+    {
+     "name": "Republican Party (US)",
+     "link": "Republican Party (US)",
+     "seats": 165
+    }
+   ],
+   "chamber": {
+    "link": "United States House of Representatives",
+    "text": "United States House of Representatives"
+   }
+  },
+  "1984": {
+   "wiki": "1984 United States House of Representatives elections",
+   "date": "1984-11-06",
+   "seats": 435,
+   "table": "Infobox election",
+   "rows": [
+    {
+     "name": "Democratic Party (US)",
+     "link": "Democratic Party (US)",
+     "seats": 253
+    },
+    {
+     "name": "Republican Party (US)",
+     "link": "Republican Party (US)",
+     "seats": 181
+    }
+   ],
+   "chamber": {
+    "link": "United States House of Representatives",
+    "text": "United States House of Representatives"
+   }
+  },
+  "1986": {
+   "wiki": "1986 United States House of Representatives elections",
+   "date": "1986-11-04",
+   "seats": 435,
+   "table": "Infobox election",
+   "rows": [
+    {
+     "name": "Democratic Party (United States)",
+     "link": "Democratic Party (United States)",
+     "seats": 258
+    },
+    {
+     "name": "Republican Party (United States)",
+     "link": "Republican Party (United States)",
+     "seats": 177
+    }
+   ],
+   "chamber": {
+    "link": "United States House of Representatives",
+    "text": "United States House of Representatives"
+   }
+  },
+  "1988": {
+   "wiki": "1988 United States House of Representatives elections",
+   "date": "1988-11-08",
+   "seats": 435,
+   "table": "Infobox election",
+   "rows": [
+    {
+     "name": "Democratic Party (US)",
+     "link": "Democratic Party (US)",
+     "seats": 260
+    },
+    {
+     "name": "Republican Party (US)",
+     "link": "Republican Party (US)",
+     "seats": 175
+    }
+   ],
+   "chamber": {
+    "link": "United States House of Representatives",
+    "text": "United States House of Representatives"
+   }
+  },
+  "1990": {
+   "wiki": "1990 United States House of Representatives elections",
+   "date": "1990-11-06",
+   "seats": 435,
+   "table": "Infobox election",
+   "rows": [
+    {
+     "name": "Democratic Party (US)",
+     "link": "Democratic Party (US)",
+     "seats": 267
+    },
+    {
+     "name": "Republican Party (US)",
+     "link": "Republican Party (US)",
+     "seats": 167
+    }
+   ],
+   "chamber": {
+    "link": "United States House of Representatives",
+    "text": "United States House of Representatives"
+   }
+  },
+  "1992": {
+   "wiki": "1992 United States House of Representatives elections",
+   "date": "1992-11-03",
+   "seats": 435,
+   "table": "Infobox election",
+   "rows": [
+    {
+     "name": "Democratic Party (US)",
+     "link": "Democratic Party (US)",
+     "seats": 258
+    },
+    {
+     "name": "Republican Party (US)",
+     "link": "Republican Party (US)",
+     "seats": 176
+    }
+   ],
+   "chamber": {
+    "link": "United States House of Representatives",
+    "text": "United States House of Representatives"
+   }
+  },
+  "1994": {
+   "wiki": "1994 United States House of Representatives elections",
+   "date": "1994-11-08",
+   "seats": 435,
+   "table": "Infobox election",
+   "rows": [
+    {
+     "name": "Republican Party (US)",
+     "link": "Republican Party (US)",
+     "seats": 230
+    },
+    {
+     "name": "Democratic Party (US)",
+     "link": "Democratic Party (US)",
+     "seats": 204
+    }
+   ],
+   "chamber": {
+    "link": "United States House of Representatives",
+    "text": "United States House of Representatives"
+   }
+  },
+  "1996": {
+   "wiki": "1996 United States House of Representatives elections",
+   "date": "1996-11-05",
+   "seats": 435,
+   "table": "Infobox election",
+   "rows": [
+    {
+     "name": "Republican Party (US)",
+     "link": "Republican Party (US)",
+     "seats": 226
+    },
+    {
+     "name": "Democratic Party (US)",
+     "link": "Democratic Party (US)",
+     "seats": 207
+    }
+   ],
+   "chamber": {
+    "link": "United States House of Representatives",
+    "text": "United States House of Representatives"
+   }
+  },
+  "1998": {
+   "wiki": "1998 United States House of Representatives elections",
+   "date": "1998-11-03",
+   "seats": 435,
+   "table": "Infobox election",
+   "rows": [
+    {
+     "name": "Republican Party (US)",
+     "link": "Republican Party (US)",
+     "seats": 223
+    },
+    {
+     "name": "Democratic Party (US)",
+     "link": "Democratic Party (US)",
+     "seats": 211
+    }
+   ],
+   "chamber": {
+    "link": "United States House of Representatives",
+    "text": "United States House of Representatives"
+   }
+  },
+  "2000": {
+   "wiki": "2000 United States House of Representatives elections",
+   "date": "2000-11-07",
+   "seats": 435,
+   "table": "Infobox election",
+   "rows": [
+    {
+     "name": "Republican Party (US)",
+     "link": "Republican Party (US)",
+     "seats": 221
+    },
+    {
+     "name": "Democratic Party (US)",
+     "link": "Democratic Party (US)",
+     "seats": 212
+    }
+   ],
+   "chamber": {
+    "link": "United States House of Representatives",
+    "text": "United States House of Representatives"
+   }
+  },
+  "2002": {
+   "wiki": "2002 United States House of Representatives elections",
+   "date": "2002-11-05",
+   "seats": 435,
+   "table": "Infobox election",
+   "rows": [
+    {
+     "name": "Republican Party (US)",
+     "link": "Republican Party (US)",
+     "seats": 229
+    },
+    {
+     "name": "Democratic Party (US)",
+     "link": "Democratic Party (US)",
+     "seats": 205
+    }
+   ],
+   "chamber": {
+    "link": "United States House of Representatives",
+    "text": "United States House of Representatives"
+   }
+  },
+  "2004": {
+   "wiki": "2004 United States House of Representatives elections",
+   "date": "2004-11-02",
+   "seats": 435,
+   "table": "Infobox election",
+   "rows": [
+    {
+     "name": "Republican Party (US)",
+     "link": "Republican Party (US)",
+     "seats": 232
+    },
+    {
+     "name": "Democratic Party (US)",
+     "link": "Democratic Party (US)",
+     "seats": 202
+    }
+   ],
+   "chamber": {
+    "link": "United States House of Representatives",
+    "text": "United States House of Representatives"
+   }
+  },
+  "2006": {
+   "wiki": "2006 United States House of Representatives elections",
+   "date": "2006-11-07",
+   "seats": 435,
+   "table": "Infobox election",
+   "rows": [
+    {
+     "name": "Democratic Party (US)",
+     "link": "Democratic Party (US)",
+     "seats": 233
+    },
+    {
+     "name": "Republican Party (US)",
+     "link": "Republican Party (US)",
+     "seats": 202
+    }
+   ],
+   "chamber": {
+    "link": "United States House of Representatives",
+    "text": "United States House of Representatives"
+   }
+  },
+  "2008": {
+   "wiki": "2008 United States House of Representatives elections",
+   "date": "2008-11-04",
+   "seats": 435,
+   "table": "Infobox election",
+   "rows": [
+    {
+     "name": "Democratic Party (US)",
+     "link": "Democratic Party (US)",
+     "seats": 257
+    },
+    {
+     "name": "Republican Party (US)",
+     "link": "Republican Party (US)",
+     "seats": 178
+    }
+   ],
+   "chamber": {
+    "link": "United States House of Representatives",
+    "text": "United States House of Representatives"
+   }
+  },
+  "2010": {
+   "wiki": "2010 United States House of Representatives elections",
+   "date": "2010-11-02",
+   "seats": 435,
+   "table": "Infobox election",
+   "rows": [
+    {
+     "name": "Republican Party (US)",
+     "link": "Republican Party (US)",
+     "seats": 242
+    },
+    {
+     "name": "Democratic Party (US)",
+     "link": "Democratic Party (US)",
+     "seats": 193
+    }
+   ],
+   "chamber": {
+    "link": "United States House of Representatives",
+    "text": "United States House of Representatives"
+   }
+  },
+  "2012": {
+   "wiki": "2012 United States House of Representatives elections",
+   "date": "2012-11-06",
+   "seats": 435,
+   "table": "Infobox election",
+   "rows": [
+    {
+     "name": "Republican Party (US)",
+     "link": "Republican Party (US)",
+     "seats": 234
+    },
+    {
+     "name": "Democratic Party (US)",
+     "link": "Democratic Party (US)",
+     "seats": 201
+    }
+   ],
+   "chamber": {
+    "link": "United States House of Representatives",
+    "text": "United States House of Representatives"
+   }
+  },
+  "2014": {
+   "wiki": "2014 United States House of Representatives elections",
+   "date": "2014-11-04",
+   "seats": 435,
+   "table": "Infobox election",
+   "rows": [
+    {
+     "name": "Republican Party (US)",
+     "link": "Republican Party (US)",
+     "seats": 247
+    },
+    {
+     "name": "Democratic Party (US)",
+     "link": "Democratic Party (US)",
+     "seats": 188
+    }
+   ],
+   "chamber": {
+    "link": "United States House of Representatives",
+    "text": "United States House of Representatives"
+   }
+  },
+  "2016": {
+   "wiki": "2016 United States House of Representatives elections",
+   "date": "2016-11-08",
+   "seats": 435,
+   "table": "Infobox election",
+   "rows": [
+    {
+     "name": "Republican Party (US)",
+     "link": "Republican Party (US)",
+     "seats": 241
+    },
+    {
+     "name": "Democratic Party (US)",
+     "link": "Democratic Party (US)",
+     "seats": 194
+    }
+   ],
+   "chamber": {
+    "link": "United States House of Representatives",
+    "text": "United States House of Representatives"
+   }
+  },
+  "2018": {
+   "wiki": "2018 United States House of Representatives elections",
+   "date": "2018-11-06",
+   "seats": 435,
+   "table": "Infobox election",
+   "rows": [
+    {
+     "name": "Democratic Party (US)",
+     "link": "Democratic Party (US)",
+     "seats": 235
+    },
+    {
+     "name": "Republican Party (US)",
+     "link": "Republican Party (US)",
+     "seats": 199
+    }
+   ],
+   "chamber": {
+    "link": "United States House of Representatives",
+    "text": "United States House of Representatives"
+   }
+  },
+  "2020": {
+   "wiki": "2020 United States House of Representatives elections",
+   "date": "2020-11-03",
+   "seats": 435,
+   "table": "Infobox election",
+   "rows": [
+    {
+     "name": "Democratic Party (US)",
+     "link": "Democratic Party (US)",
+     "seats": 222
+    },
+    {
+     "name": "Republican Party (US)",
+     "link": "Republican Party (US)",
+     "seats": 213
+    }
+   ],
+   "chamber": {
+    "link": "United States House of Representatives",
+    "text": "United States House of Representatives"
+   }
+  },
+  "2022": {
+   "wiki": "2022 United States House of Representatives elections",
+   "date": "2022-11-08",
+   "seats": 435,
+   "table": "Infobox election",
+   "rows": [
+    {
+     "name": "Republican Party (US)",
+     "link": "Republican Party (US)",
+     "seats": 222
+    },
+    {
+     "name": "Democratic Party (US)",
+     "link": "Democratic Party (US)",
+     "seats": 213
+    }
+   ],
+   "chamber": {
+    "link": "United States House of Representatives",
+    "text": "United States House of Representatives"
+   }
+  },
+  "2024": {
+   "wiki": "2024 United States House of Representatives elections",
+   "date": "2024-11-05",
+   "seats": 435,
+   "table": "Infobox election",
+   "rows": [
+    {
+     "name": "Republican Party (US)",
+     "link": "Republican Party (US)",
+     "seats": 220
+    },
+    {
+     "name": "Democratic Party (US)",
+     "link": "Democratic Party (US)",
+     "seats": 215
+    }
+   ],
+   "chamber": {
+    "link": "United States House of Representatives",
+    "text": "United States House of Representatives"
+   }
+  },
+  "2026": {
+   "wiki": "2026 United States House of Representatives elections",
+   "date": "2026-11-03",
+   "seats": 435,
+   "table": "Infobox election",
+   "rows": [
+    {
+     "name": "Democratic Party (United States)",
+     "link": "Democratic Party (United States)",
+     "seats": 259
+    },
+    {
+     "name": "Republican Party (United States)",
+     "link": "Republican Party (United States)",
+     "seats": 173
+    }
+   ],
+   "chamber": {
+    "link": "United States House of Representatives",
+    "text": "United States House of Representatives"
+   }
+  }
+ },
+ "credits": {
+  "harry-s-truman": {
+   "file": "TRUMAN 58-766-06 (cropped).jpg",
+   "author": "National Archives and Records Administration. Office of Presidential Libraries. Harry S. Truman Library.",
+   "license": "Public domain"
+  },
+  "dwight-d-eisenhower": {
+   "file": "Dwight D. Eisenhower, official photo portrait, May 29, 1959.jpg",
+   "author": "White House",
+   "license": "Public domain"
+  },
+  "john-f-kennedy": {
+   "file": "John F. Kennedy, White House color photo portrait.jpg",
+   "author": "Cecil W. Stoughton",
+   "license": "Public domain"
+  },
+  "lyndon-b-johnson": {
+   "file": "Lyndon B. Johnson, photo portrait, leaning on chair, color cropped.jpg",
+   "author": "Arnold Newman",
+   "license": "Public domain"
+  },
+  "richard-nixon": {
+   "file": "Richard Nixon presidential portrait.jpg",
+   "author": "Department of Defense. Department of the Army. Office of the Deputy Chief of Staff for Operations. U.S. Army Audiovisual Center. (ca. 1974 - 05/15/1984)",
+   "license": "Public domain"
+  },
+  "gerald-ford": {
+   "file": "Gerald Ford presidential portrait (cropped).jpg",
+   "author": "David Hume Kennerly",
+   "license": "Public domain"
+  },
+  "jimmy-carter": {
+   "file": "JimmyCarterPortrait2.jpg",
+   "author": "Department of Defense. Department of the Navy. Naval Photographic Center",
+   "license": "Public domain"
+  },
+  "ronald-reagan": {
+   "file": "Ronald Reagan 1981 presidential portrait.jpg",
+   "author": "Michael Evans",
+   "license": "Public domain"
+  },
+  "george-h-w-bush": {
+   "file": "George H. W. Bush presidential portrait (cropped).jpg",
+   "author": "David Valdez",
+   "license": "Public domain"
+  },
+  "george-w-bush": {
+   "file": "George-W-Bush.jpeg",
+   "author": "Eric Draper",
+   "license": "Public domain"
+  },
+  "bill-clinton": {
+   "file": "Bill Clinton.jpg",
+   "author": "Bob McNeely, The White House[1]",
+   "license": "Public domain"
+  },
+  "barack-obama": {
+   "file": "President Barack Obama.jpg",
+   "author": "Official White House Photo by Pete Souza",
+   "license": "Public domain"
+  },
+  "donald-trump": {
+   "file": "Official Presidential Portrait of President Donald J. Trump (2025) (3x4).jpg",
+   "author": "Daniel Torok",
+   "license": "Public domain"
+  },
+  "joe-biden": {
+   "file": "Joe Biden presidential portrait.jpg",
+   "author": "Adam Schultz",
+   "license": "Public domain"
+  }
+ }
+}

@@ -1,0 +1,2196 @@
+{
+ "meta": {
+  "code": "se",
+  "slug": "sweden",
+  "name": {
+   "en": "Sweden",
+   "sv": "Sverige"
+  },
+  "languages": [
+   "en",
+   "sv"
+  ],
+  "emblem": "/countries/se/emblem.png"
+ },
+ "chamber": {
+  "en": "Riksdag",
+  "sv": "Sveriges riksdag"
+ },
+ "termLabel": {
+  "en": "Term"
+ },
+ "leaderTitle": {
+  "en": "Prime Minister",
+  "sv": "Sveriges statsminister"
+ },
+ "blocs": [
+  {
+   "key": "left",
+   "name": {
+    "en": "Left",
+    "sv": "politisk vänster"
+   },
+   "hue": 0,
+   "color": "#dc2626"
+  },
+  {
+   "key": "centre-left",
+   "name": {
+    "en": "Centre-left",
+    "sv": "Center–vänster-politik"
+   },
+   "hue": 12,
+   "color": "#f87171"
+  },
+  {
+   "key": "centre",
+   "name": {
+    "en": "Centre",
+    "sv": "politisk mitt"
+   },
+   "hue": 48,
+   "color": "#eab308"
+  },
+  {
+   "key": "centre-right",
+   "name": {
+    "en": "Centre-right",
+    "sv": "Borgerliga partier"
+   },
+   "hue": 200,
+   "color": "#38bdf8"
+  },
+  {
+   "key": "right",
+   "name": {
+    "en": "Right",
+    "sv": "politisk höger"
+   },
+   "hue": 222,
+   "color": "#2563eb"
+  },
+  {
+   "key": "far-right",
+   "name": {
+    "en": "Far-right",
+    "sv": "högerextremism"
+   },
+   "hue": 262,
+   "color": "#7c3aed"
+  }
+ ],
+ "pms": {
+  "tage-erlander": {
+   "name": {
+    "en": "Tage Erlander",
+    "sv": "Tage Erlander"
+   },
+   "photo": "/countries/se/pm/tage-erlander.jpg"
+  },
+  "olof-palme": {
+   "name": {
+    "en": "Olof Palme",
+    "sv": "Olof Palme"
+   },
+   "photo": "/countries/se/pm/olof-palme.jpg"
+  },
+  "thorbjorn-falldin": {
+   "name": {
+    "en": "Thorbjörn Fälldin",
+    "sv": "Thorbjörn Fälldin"
+   },
+   "photo": "/countries/se/pm/thorbjorn-falldin.jpg"
+  },
+  "ola-ullsten": {
+   "name": {
+    "en": "Ola Ullsten",
+    "sv": "Ola Ullsten"
+   },
+   "photo": "/countries/se/pm/ola-ullsten.jpg"
+  },
+  "ingvar-carlsson": {
+   "name": {
+    "en": "Ingvar Carlsson",
+    "sv": "Ingvar Carlsson"
+   },
+   "photo": "/countries/se/pm/ingvar-carlsson.jpg"
+  },
+  "carl-bildt": {
+   "name": {
+    "en": "Carl Bildt",
+    "sv": "Carl Bildt"
+   },
+   "photo": "/countries/se/pm/carl-bildt.jpg"
+  },
+  "goran-persson": {
+   "name": {
+    "en": "Göran Persson",
+    "sv": "Göran Persson"
+   },
+   "photo": "/countries/se/pm/goran-persson.jpg"
+  },
+  "fredrik-reinfeldt": {
+   "name": {
+    "en": "Fredrik Reinfeldt",
+    "sv": "Fredrik Reinfeldt"
+   },
+   "photo": "/countries/se/pm/fredrik-reinfeldt.jpg"
+  },
+  "stefan-lofven": {
+   "name": {
+    "en": "Stefan Löfven",
+    "sv": "Stefan Löfven"
+   },
+   "photo": "/countries/se/pm/stefan-lofven.jpg"
+  },
+  "magdalena-andersson": {
+   "name": {
+    "en": "Magdalena Andersson",
+    "sv": "Magdalena Andersson"
+   },
+   "photo": "/countries/se/pm/magdalena-andersson.jpg"
+  },
+  "ulf-kristersson": {
+   "name": {
+    "en": "Ulf Kristersson"
+   },
+   "photo": "/countries/se/pm/ulf-kristersson.jpg"
+  }
+ },
+ "terms": [
+  {
+   "term": "1948–1952",
+   "year": 1948,
+   "pm": "tage-erlander",
+   "seats": 230,
+   "results": [
+    {
+     "id": "swedish-social-democratic-party",
+     "name": {
+      "en": "Swedish Social Democratic Party",
+      "sv": "Socialdemokraterna"
+     },
+     "seats": 112,
+     "bloc": "centre-left",
+     "color": "#ED1B34"
+    },
+    {
+     "id": "liberals",
+     "name": {
+      "en": "Liberals",
+      "sv": "Liberalerna"
+     },
+     "seats": 57,
+     "bloc": "centre-right",
+     "color": "#006AB3"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "sv": "Centerpartiet"
+     },
+     "seats": 30,
+     "bloc": "centre",
+     "color": "#114838"
+    },
+    {
+     "id": "moderate-party",
+     "name": {
+      "en": "Moderate Party",
+      "sv": "Moderaterna"
+     },
+     "seats": 23,
+     "bloc": "centre-right",
+     "color": "#019CDB"
+    },
+    {
+     "id": "left-party",
+     "name": {
+      "en": "Left Party",
+      "sv": "Vänsterpartiet"
+     },
+     "seats": 8,
+     "bloc": "left",
+     "color": "#B00000"
+    }
+   ]
+  },
+  {
+   "term": "1952–1956",
+   "year": 1952,
+   "pm": "tage-erlander",
+   "seats": 230,
+   "results": [
+    {
+     "id": "swedish-social-democratic-party",
+     "name": {
+      "en": "Swedish Social Democratic Party",
+      "sv": "Socialdemokraterna"
+     },
+     "seats": 110,
+     "bloc": "centre-left",
+     "color": "#ED1B34"
+    },
+    {
+     "id": "liberals",
+     "name": {
+      "en": "Liberals",
+      "sv": "Liberalerna"
+     },
+     "seats": 58,
+     "bloc": "centre-right",
+     "color": "#006AB3"
+    },
+    {
+     "id": "moderate-party",
+     "name": {
+      "en": "Moderate Party",
+      "sv": "Moderaterna"
+     },
+     "seats": 31,
+     "bloc": "centre-right",
+     "color": "#019CDB"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "sv": "Centerpartiet"
+     },
+     "seats": 26,
+     "bloc": "centre",
+     "color": "#114838"
+    },
+    {
+     "id": "left-party",
+     "name": {
+      "en": "Left Party",
+      "sv": "Vänsterpartiet"
+     },
+     "seats": 5,
+     "bloc": "left",
+     "color": "#B00000"
+    }
+   ]
+  },
+  {
+   "term": "1956–1958",
+   "year": 1956,
+   "pm": "tage-erlander",
+   "seats": 231,
+   "results": [
+    {
+     "id": "swedish-social-democratic-party",
+     "name": {
+      "en": "Swedish Social Democratic Party",
+      "sv": "Socialdemokraterna"
+     },
+     "seats": 106,
+     "bloc": "centre-left",
+     "color": "#ED1B34"
+    },
+    {
+     "id": "liberals",
+     "name": {
+      "en": "Liberals",
+      "sv": "Liberalerna"
+     },
+     "seats": 58,
+     "bloc": "centre-right",
+     "color": "#006AB3"
+    },
+    {
+     "id": "moderate-party",
+     "name": {
+      "en": "Moderate Party",
+      "sv": "Moderaterna"
+     },
+     "seats": 42,
+     "bloc": "centre-right",
+     "color": "#019CDB"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "sv": "Centerpartiet"
+     },
+     "seats": 19,
+     "bloc": "centre",
+     "color": "#114838"
+    },
+    {
+     "id": "left-party",
+     "name": {
+      "en": "Left Party",
+      "sv": "Vänsterpartiet"
+     },
+     "seats": 6,
+     "bloc": "left",
+     "color": "#B00000"
+    }
+   ]
+  },
+  {
+   "term": "1958–1960",
+   "year": 1958,
+   "pm": "tage-erlander",
+   "seats": 231,
+   "results": [
+    {
+     "id": "swedish-social-democratic-party",
+     "name": {
+      "en": "Swedish Social Democratic Party",
+      "sv": "Socialdemokraterna"
+     },
+     "seats": 111,
+     "bloc": "centre-left",
+     "color": "#ED1B34"
+    },
+    {
+     "id": "moderate-party",
+     "name": {
+      "en": "Moderate Party",
+      "sv": "Moderaterna"
+     },
+     "seats": 45,
+     "bloc": "centre-right",
+     "color": "#019CDB"
+    },
+    {
+     "id": "liberals",
+     "name": {
+      "en": "Liberals",
+      "sv": "Liberalerna"
+     },
+     "seats": 38,
+     "bloc": "centre-right",
+     "color": "#006AB3"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "sv": "Centerpartiet"
+     },
+     "seats": 32,
+     "bloc": "centre",
+     "color": "#114838"
+    },
+    {
+     "id": "left-party",
+     "name": {
+      "en": "Left Party",
+      "sv": "Vänsterpartiet"
+     },
+     "seats": 5,
+     "bloc": "left",
+     "color": "#B00000"
+    }
+   ]
+  },
+  {
+   "term": "1960–1964",
+   "year": 1960,
+   "pm": "tage-erlander",
+   "seats": 232,
+   "results": [
+    {
+     "id": "swedish-social-democratic-party",
+     "name": {
+      "en": "Swedish Social Democratic Party",
+      "sv": "Socialdemokraterna"
+     },
+     "seats": 114,
+     "bloc": "centre-left",
+     "color": "#ED1B34"
+    },
+    {
+     "id": "liberals",
+     "name": {
+      "en": "Liberals",
+      "sv": "Liberalerna"
+     },
+     "seats": 40,
+     "bloc": "centre-right",
+     "color": "#006AB3"
+    },
+    {
+     "id": "moderate-party",
+     "name": {
+      "en": "Moderate Party",
+      "sv": "Moderaterna"
+     },
+     "seats": 39,
+     "bloc": "centre-right",
+     "color": "#019CDB"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "sv": "Centerpartiet"
+     },
+     "seats": 34,
+     "bloc": "centre",
+     "color": "#114838"
+    },
+    {
+     "id": "left-party",
+     "name": {
+      "en": "Left Party",
+      "sv": "Vänsterpartiet"
+     },
+     "seats": 5,
+     "bloc": "left",
+     "color": "#B00000"
+    }
+   ]
+  },
+  {
+   "term": "1964–1968",
+   "year": 1964,
+   "pm": "tage-erlander",
+   "seats": 233,
+   "results": [
+    {
+     "id": "swedish-social-democratic-party",
+     "name": {
+      "en": "Swedish Social Democratic Party",
+      "sv": "Socialdemokraterna"
+     },
+     "seats": 113,
+     "bloc": "centre-left",
+     "color": "#ED1B34"
+    },
+    {
+     "id": "liberals",
+     "name": {
+      "en": "Liberals",
+      "sv": "Liberalerna"
+     },
+     "seats": 43,
+     "bloc": "centre-right",
+     "color": "#006AB3"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "sv": "Centerpartiet"
+     },
+     "seats": 35,
+     "bloc": "centre",
+     "color": "#114838"
+    },
+    {
+     "id": "moderate-party",
+     "name": {
+      "en": "Moderate Party",
+      "sv": "Moderaterna"
+     },
+     "seats": 33,
+     "bloc": "centre-right",
+     "color": "#019CDB"
+    },
+    {
+     "id": "left-party",
+     "name": {
+      "en": "Left Party",
+      "sv": "Vänsterpartiet"
+     },
+     "seats": 8,
+     "bloc": "left",
+     "color": "#B00000"
+    },
+    {
+     "id": "civic-unity",
+     "name": {
+      "en": "Civic Unity"
+     },
+     "seats": 1,
+     "bloc": "centre-right"
+    }
+   ]
+  },
+  {
+   "term": "1968–1970",
+   "year": 1968,
+   "pm": "tage-erlander",
+   "seats": 233,
+   "results": [
+    {
+     "id": "swedish-social-democratic-party",
+     "name": {
+      "en": "Swedish Social Democratic Party",
+      "sv": "Socialdemokraterna"
+     },
+     "seats": 125,
+     "bloc": "centre-left",
+     "color": "#ED1B34"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "sv": "Centerpartiet"
+     },
+     "seats": 39,
+     "bloc": "centre",
+     "color": "#114838"
+    },
+    {
+     "id": "liberals",
+     "name": {
+      "en": "Liberals",
+      "sv": "Liberalerna"
+     },
+     "seats": 34,
+     "bloc": "centre-right",
+     "color": "#006AB3"
+    },
+    {
+     "id": "moderate-party",
+     "name": {
+      "en": "Moderate Party",
+      "sv": "Moderaterna"
+     },
+     "seats": 32,
+     "bloc": "centre-right",
+     "color": "#019CDB"
+    },
+    {
+     "id": "left-party",
+     "name": {
+      "en": "Left Party",
+      "sv": "Vänsterpartiet"
+     },
+     "seats": 3,
+     "bloc": "left",
+     "color": "#B00000"
+    }
+   ]
+  },
+  {
+   "term": "1968–1970",
+   "year": 1969,
+   "pm": "olof-palme",
+   "seats": 233,
+   "results": [
+    {
+     "id": "swedish-social-democratic-party",
+     "name": {
+      "en": "Swedish Social Democratic Party",
+      "sv": "Socialdemokraterna"
+     },
+     "seats": 125,
+     "bloc": "centre-left",
+     "color": "#ED1B34"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "sv": "Centerpartiet"
+     },
+     "seats": 39,
+     "bloc": "centre",
+     "color": "#114838"
+    },
+    {
+     "id": "liberals",
+     "name": {
+      "en": "Liberals",
+      "sv": "Liberalerna"
+     },
+     "seats": 34,
+     "bloc": "centre-right",
+     "color": "#006AB3"
+    },
+    {
+     "id": "moderate-party",
+     "name": {
+      "en": "Moderate Party",
+      "sv": "Moderaterna"
+     },
+     "seats": 32,
+     "bloc": "centre-right",
+     "color": "#019CDB"
+    },
+    {
+     "id": "left-party",
+     "name": {
+      "en": "Left Party",
+      "sv": "Vänsterpartiet"
+     },
+     "seats": 3,
+     "bloc": "left",
+     "color": "#B00000"
+    }
+   ]
+  },
+  {
+   "term": "1970–1973",
+   "year": 1970,
+   "pm": "olof-palme",
+   "seats": 350,
+   "results": [
+    {
+     "id": "swedish-social-democratic-party",
+     "name": {
+      "en": "Swedish Social Democratic Party",
+      "sv": "Socialdemokraterna"
+     },
+     "seats": 163,
+     "bloc": "centre-left",
+     "color": "#ED1B34"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "sv": "Centerpartiet"
+     },
+     "seats": 71,
+     "bloc": "centre",
+     "color": "#114838"
+    },
+    {
+     "id": "liberals",
+     "name": {
+      "en": "Liberals",
+      "sv": "Liberalerna"
+     },
+     "seats": 58,
+     "bloc": "centre-right",
+     "color": "#006AB3"
+    },
+    {
+     "id": "moderate-party",
+     "name": {
+      "en": "Moderate Party",
+      "sv": "Moderaterna"
+     },
+     "seats": 41,
+     "bloc": "centre-right",
+     "color": "#019CDB"
+    },
+    {
+     "id": "left-party",
+     "name": {
+      "en": "Left Party",
+      "sv": "Vänsterpartiet"
+     },
+     "seats": 17,
+     "bloc": "left",
+     "color": "#B00000"
+    }
+   ]
+  },
+  {
+   "term": "1973–1976",
+   "year": 1973,
+   "pm": "olof-palme",
+   "seats": 350,
+   "results": [
+    {
+     "id": "swedish-social-democratic-party",
+     "name": {
+      "en": "Swedish Social Democratic Party",
+      "sv": "Socialdemokraterna"
+     },
+     "seats": 156,
+     "bloc": "centre-left",
+     "color": "#ED1B34"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "sv": "Centerpartiet"
+     },
+     "seats": 90,
+     "bloc": "centre",
+     "color": "#114838"
+    },
+    {
+     "id": "moderate-party",
+     "name": {
+      "en": "Moderate Party",
+      "sv": "Moderaterna"
+     },
+     "seats": 51,
+     "bloc": "centre-right",
+     "color": "#019CDB"
+    },
+    {
+     "id": "liberals",
+     "name": {
+      "en": "Liberals",
+      "sv": "Liberalerna"
+     },
+     "seats": 34,
+     "bloc": "centre-right",
+     "color": "#006AB3"
+    },
+    {
+     "id": "left-party",
+     "name": {
+      "en": "Left Party",
+      "sv": "Vänsterpartiet"
+     },
+     "seats": 19,
+     "bloc": "left",
+     "color": "#B00000"
+    }
+   ]
+  },
+  {
+   "term": "1976–1979",
+   "year": 1976,
+   "pm": "thorbjorn-falldin",
+   "seats": 349,
+   "results": [
+    {
+     "id": "swedish-social-democratic-party",
+     "name": {
+      "en": "Swedish Social Democratic Party",
+      "sv": "Socialdemokraterna"
+     },
+     "seats": 152,
+     "bloc": "centre-left",
+     "color": "#ED1B34"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "sv": "Centerpartiet"
+     },
+     "seats": 86,
+     "bloc": "centre",
+     "color": "#114838"
+    },
+    {
+     "id": "moderate-party",
+     "name": {
+      "en": "Moderate Party",
+      "sv": "Moderaterna"
+     },
+     "seats": 55,
+     "bloc": "centre-right",
+     "color": "#019CDB"
+    },
+    {
+     "id": "liberals",
+     "name": {
+      "en": "Liberals",
+      "sv": "Liberalerna"
+     },
+     "seats": 39,
+     "bloc": "centre-right",
+     "color": "#006AB3"
+    },
+    {
+     "id": "left-party",
+     "name": {
+      "en": "Left Party",
+      "sv": "Vänsterpartiet"
+     },
+     "seats": 17,
+     "bloc": "left",
+     "color": "#B00000"
+    }
+   ]
+  },
+  {
+   "term": "1976–1979",
+   "year": 1978,
+   "pm": "ola-ullsten",
+   "seats": 349,
+   "results": [
+    {
+     "id": "swedish-social-democratic-party",
+     "name": {
+      "en": "Swedish Social Democratic Party",
+      "sv": "Socialdemokraterna"
+     },
+     "seats": 152,
+     "bloc": "centre-left",
+     "color": "#ED1B34"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "sv": "Centerpartiet"
+     },
+     "seats": 86,
+     "bloc": "centre",
+     "color": "#114838"
+    },
+    {
+     "id": "moderate-party",
+     "name": {
+      "en": "Moderate Party",
+      "sv": "Moderaterna"
+     },
+     "seats": 55,
+     "bloc": "centre-right",
+     "color": "#019CDB"
+    },
+    {
+     "id": "liberals",
+     "name": {
+      "en": "Liberals",
+      "sv": "Liberalerna"
+     },
+     "seats": 39,
+     "bloc": "centre-right",
+     "color": "#006AB3"
+    },
+    {
+     "id": "left-party",
+     "name": {
+      "en": "Left Party",
+      "sv": "Vänsterpartiet"
+     },
+     "seats": 17,
+     "bloc": "left",
+     "color": "#B00000"
+    }
+   ]
+  },
+  {
+   "term": "1979–1982",
+   "year": 1979,
+   "pm": "thorbjorn-falldin",
+   "seats": 349,
+   "results": [
+    {
+     "id": "swedish-social-democratic-party",
+     "name": {
+      "en": "Swedish Social Democratic Party",
+      "sv": "Socialdemokraterna"
+     },
+     "seats": 154,
+     "bloc": "centre-left",
+     "color": "#ED1B34"
+    },
+    {
+     "id": "moderate-party",
+     "name": {
+      "en": "Moderate Party",
+      "sv": "Moderaterna"
+     },
+     "seats": 73,
+     "bloc": "centre-right",
+     "color": "#019CDB"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "sv": "Centerpartiet"
+     },
+     "seats": 64,
+     "bloc": "centre",
+     "color": "#114838"
+    },
+    {
+     "id": "liberals",
+     "name": {
+      "en": "Liberals",
+      "sv": "Liberalerna"
+     },
+     "seats": 38,
+     "bloc": "centre-right",
+     "color": "#006AB3"
+    },
+    {
+     "id": "left-party",
+     "name": {
+      "en": "Left Party",
+      "sv": "Vänsterpartiet"
+     },
+     "seats": 20,
+     "bloc": "left",
+     "color": "#B00000"
+    }
+   ]
+  },
+  {
+   "term": "1982–1985",
+   "year": 1982,
+   "pm": "olof-palme",
+   "seats": 349,
+   "results": [
+    {
+     "id": "swedish-social-democratic-party",
+     "name": {
+      "en": "Swedish Social Democratic Party",
+      "sv": "Socialdemokraterna"
+     },
+     "seats": 166,
+     "bloc": "centre-left",
+     "color": "#ED1B34"
+    },
+    {
+     "id": "moderate-party",
+     "name": {
+      "en": "Moderate Party",
+      "sv": "Moderaterna"
+     },
+     "seats": 86,
+     "bloc": "centre-right",
+     "color": "#019CDB"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "sv": "Centerpartiet"
+     },
+     "seats": 56,
+     "bloc": "centre",
+     "color": "#114838"
+    },
+    {
+     "id": "liberals",
+     "name": {
+      "en": "Liberals",
+      "sv": "Liberalerna"
+     },
+     "seats": 21,
+     "bloc": "centre-right",
+     "color": "#006AB3"
+    },
+    {
+     "id": "left-party",
+     "name": {
+      "en": "Left Party",
+      "sv": "Vänsterpartiet"
+     },
+     "seats": 20,
+     "bloc": "left",
+     "color": "#B00000"
+    }
+   ]
+  },
+  {
+   "term": "1985–1988",
+   "year": 1985,
+   "pm": "olof-palme",
+   "seats": 349,
+   "results": [
+    {
+     "id": "swedish-social-democratic-party",
+     "name": {
+      "en": "Swedish Social Democratic Party",
+      "sv": "Socialdemokraterna"
+     },
+     "seats": 159,
+     "bloc": "centre-left",
+     "color": "#ED1B34"
+    },
+    {
+     "id": "moderate-party",
+     "name": {
+      "en": "Moderate Party",
+      "sv": "Moderaterna"
+     },
+     "seats": 76,
+     "bloc": "centre-right",
+     "color": "#019CDB"
+    },
+    {
+     "id": "liberals",
+     "name": {
+      "en": "Liberals",
+      "sv": "Liberalerna"
+     },
+     "seats": 51,
+     "bloc": "centre-right",
+     "color": "#006AB3"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "sv": "Centerpartiet"
+     },
+     "seats": 43,
+     "bloc": "centre",
+     "color": "#114838"
+    },
+    {
+     "id": "left-party",
+     "name": {
+      "en": "Left Party",
+      "sv": "Vänsterpartiet"
+     },
+     "seats": 19,
+     "bloc": "left",
+     "color": "#B00000"
+    },
+    {
+     "id": "centre",
+     "name": {
+      "en": "Centre"
+     },
+     "seats": 1,
+     "bloc": "centre-right"
+    }
+   ]
+  },
+  {
+   "term": "1985–1988",
+   "year": 1986,
+   "pm": "ingvar-carlsson",
+   "seats": 349,
+   "results": [
+    {
+     "id": "swedish-social-democratic-party",
+     "name": {
+      "en": "Swedish Social Democratic Party",
+      "sv": "Socialdemokraterna"
+     },
+     "seats": 159,
+     "bloc": "centre-left",
+     "color": "#ED1B34"
+    },
+    {
+     "id": "moderate-party",
+     "name": {
+      "en": "Moderate Party",
+      "sv": "Moderaterna"
+     },
+     "seats": 76,
+     "bloc": "centre-right",
+     "color": "#019CDB"
+    },
+    {
+     "id": "liberals",
+     "name": {
+      "en": "Liberals",
+      "sv": "Liberalerna"
+     },
+     "seats": 51,
+     "bloc": "centre-right",
+     "color": "#006AB3"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "sv": "Centerpartiet"
+     },
+     "seats": 43,
+     "bloc": "centre",
+     "color": "#114838"
+    },
+    {
+     "id": "left-party",
+     "name": {
+      "en": "Left Party",
+      "sv": "Vänsterpartiet"
+     },
+     "seats": 19,
+     "bloc": "left",
+     "color": "#B00000"
+    },
+    {
+     "id": "centre",
+     "name": {
+      "en": "Centre"
+     },
+     "seats": 1,
+     "bloc": "centre-right"
+    }
+   ]
+  },
+  {
+   "term": "1988–1991",
+   "year": 1988,
+   "pm": "ingvar-carlsson",
+   "seats": 349,
+   "results": [
+    {
+     "id": "swedish-social-democratic-party",
+     "name": {
+      "en": "Swedish Social Democratic Party",
+      "sv": "Socialdemokraterna"
+     },
+     "seats": 156,
+     "bloc": "centre-left",
+     "color": "#ED1B34"
+    },
+    {
+     "id": "moderate-party",
+     "name": {
+      "en": "Moderate Party",
+      "sv": "Moderaterna"
+     },
+     "seats": 66,
+     "bloc": "centre-right",
+     "color": "#019CDB"
+    },
+    {
+     "id": "liberals",
+     "name": {
+      "en": "Liberals",
+      "sv": "Liberalerna"
+     },
+     "seats": 44,
+     "bloc": "centre-right",
+     "color": "#006AB3"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "sv": "Centerpartiet"
+     },
+     "seats": 42,
+     "bloc": "centre",
+     "color": "#114838"
+    },
+    {
+     "id": "left-party",
+     "name": {
+      "en": "Left Party",
+      "sv": "Vänsterpartiet"
+     },
+     "seats": 21,
+     "bloc": "left",
+     "color": "#B00000"
+    },
+    {
+     "id": "green-party",
+     "name": {
+      "en": "Green Party",
+      "sv": "Miljöpartiet"
+     },
+     "seats": 20,
+     "bloc": "centre-left",
+     "color": "#2B912C"
+    }
+   ]
+  },
+  {
+   "term": "1991–1994",
+   "year": 1991,
+   "pm": "carl-bildt",
+   "seats": 349,
+   "results": [
+    {
+     "id": "swedish-social-democratic-party",
+     "name": {
+      "en": "Swedish Social Democratic Party",
+      "sv": "Socialdemokraterna"
+     },
+     "seats": 138,
+     "bloc": "centre-left",
+     "color": "#ED1B34"
+    },
+    {
+     "id": "moderate-party",
+     "name": {
+      "en": "Moderate Party",
+      "sv": "Moderaterna"
+     },
+     "seats": 80,
+     "bloc": "centre-right",
+     "color": "#019CDB"
+    },
+    {
+     "id": "liberals",
+     "name": {
+      "en": "Liberals",
+      "sv": "Liberalerna"
+     },
+     "seats": 33,
+     "bloc": "centre-right",
+     "color": "#006AB3"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "sv": "Centerpartiet"
+     },
+     "seats": 31,
+     "bloc": "centre",
+     "color": "#114838"
+    },
+    {
+     "id": "christian-democrats",
+     "name": {
+      "en": "Christian Democrats",
+      "sv": "Kristdemokraterna"
+     },
+     "seats": 26,
+     "bloc": "centre-right",
+     "color": "#231977"
+    },
+    {
+     "id": "new-democracy",
+     "name": {
+      "en": "New Democracy",
+      "sv": "Ny demokrati"
+     },
+     "seats": 25,
+     "bloc": "right"
+    },
+    {
+     "id": "left-party",
+     "name": {
+      "en": "Left Party",
+      "sv": "Vänsterpartiet"
+     },
+     "seats": 16,
+     "bloc": "left",
+     "color": "#B00000"
+    }
+   ]
+  },
+  {
+   "term": "1994–1998",
+   "year": 1994,
+   "pm": "ingvar-carlsson",
+   "seats": 349,
+   "results": [
+    {
+     "id": "swedish-social-democratic-party",
+     "name": {
+      "en": "Swedish Social Democratic Party",
+      "sv": "Socialdemokraterna"
+     },
+     "seats": 161,
+     "bloc": "centre-left",
+     "color": "#ED1B34"
+    },
+    {
+     "id": "moderate-party",
+     "name": {
+      "en": "Moderate Party",
+      "sv": "Moderaterna"
+     },
+     "seats": 80,
+     "bloc": "centre-right",
+     "color": "#019CDB"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "sv": "Centerpartiet"
+     },
+     "seats": 27,
+     "bloc": "centre",
+     "color": "#114838"
+    },
+    {
+     "id": "liberals",
+     "name": {
+      "en": "Liberals",
+      "sv": "Liberalerna"
+     },
+     "seats": 26,
+     "bloc": "centre-right",
+     "color": "#006AB3"
+    },
+    {
+     "id": "left-party",
+     "name": {
+      "en": "Left Party",
+      "sv": "Vänsterpartiet"
+     },
+     "seats": 22,
+     "bloc": "left",
+     "color": "#B00000"
+    },
+    {
+     "id": "green-party",
+     "name": {
+      "en": "Green Party",
+      "sv": "Miljöpartiet"
+     },
+     "seats": 18,
+     "bloc": "centre-left",
+     "color": "#2B912C"
+    },
+    {
+     "id": "christian-democrats",
+     "name": {
+      "en": "Christian Democrats",
+      "sv": "Kristdemokraterna"
+     },
+     "seats": 15,
+     "bloc": "centre-right",
+     "color": "#231977"
+    }
+   ]
+  },
+  {
+   "term": "1994–1998",
+   "year": 1996,
+   "pm": "goran-persson",
+   "seats": 349,
+   "results": [
+    {
+     "id": "swedish-social-democratic-party",
+     "name": {
+      "en": "Swedish Social Democratic Party",
+      "sv": "Socialdemokraterna"
+     },
+     "seats": 161,
+     "bloc": "centre-left",
+     "color": "#ED1B34"
+    },
+    {
+     "id": "moderate-party",
+     "name": {
+      "en": "Moderate Party",
+      "sv": "Moderaterna"
+     },
+     "seats": 80,
+     "bloc": "centre-right",
+     "color": "#019CDB"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "sv": "Centerpartiet"
+     },
+     "seats": 27,
+     "bloc": "centre",
+     "color": "#114838"
+    },
+    {
+     "id": "liberals",
+     "name": {
+      "en": "Liberals",
+      "sv": "Liberalerna"
+     },
+     "seats": 26,
+     "bloc": "centre-right",
+     "color": "#006AB3"
+    },
+    {
+     "id": "left-party",
+     "name": {
+      "en": "Left Party",
+      "sv": "Vänsterpartiet"
+     },
+     "seats": 22,
+     "bloc": "left",
+     "color": "#B00000"
+    },
+    {
+     "id": "green-party",
+     "name": {
+      "en": "Green Party",
+      "sv": "Miljöpartiet"
+     },
+     "seats": 18,
+     "bloc": "centre-left",
+     "color": "#2B912C"
+    },
+    {
+     "id": "christian-democrats",
+     "name": {
+      "en": "Christian Democrats",
+      "sv": "Kristdemokraterna"
+     },
+     "seats": 15,
+     "bloc": "centre-right",
+     "color": "#231977"
+    }
+   ]
+  },
+  {
+   "term": "1998–2002",
+   "year": 1998,
+   "pm": "goran-persson",
+   "seats": 349,
+   "results": [
+    {
+     "id": "swedish-social-democratic-party",
+     "name": {
+      "en": "Swedish Social Democratic Party",
+      "sv": "Socialdemokraterna"
+     },
+     "seats": 131,
+     "bloc": "centre-left",
+     "color": "#ED1B34"
+    },
+    {
+     "id": "moderate-party",
+     "name": {
+      "en": "Moderate Party",
+      "sv": "Moderaterna"
+     },
+     "seats": 82,
+     "bloc": "centre-right",
+     "color": "#019CDB"
+    },
+    {
+     "id": "left-party",
+     "name": {
+      "en": "Left Party",
+      "sv": "Vänsterpartiet"
+     },
+     "seats": 43,
+     "bloc": "left",
+     "color": "#B00000"
+    },
+    {
+     "id": "christian-democrats",
+     "name": {
+      "en": "Christian Democrats",
+      "sv": "Kristdemokraterna"
+     },
+     "seats": 42,
+     "bloc": "centre-right",
+     "color": "#231977"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "sv": "Centerpartiet"
+     },
+     "seats": 18,
+     "bloc": "centre",
+     "color": "#114838"
+    },
+    {
+     "id": "liberals",
+     "name": {
+      "en": "Liberals",
+      "sv": "Liberalerna"
+     },
+     "seats": 17,
+     "bloc": "centre-right",
+     "color": "#006AB3"
+    },
+    {
+     "id": "green-party",
+     "name": {
+      "en": "Green Party",
+      "sv": "Miljöpartiet"
+     },
+     "seats": 16,
+     "bloc": "centre-left",
+     "color": "#2B912C"
+    }
+   ]
+  },
+  {
+   "term": "2002–2006",
+   "year": 2002,
+   "pm": "goran-persson",
+   "seats": 349,
+   "results": [
+    {
+     "id": "swedish-social-democratic-party",
+     "name": {
+      "en": "Swedish Social Democratic Party",
+      "sv": "Socialdemokraterna"
+     },
+     "seats": 144,
+     "bloc": "centre-left",
+     "color": "#ED1B34"
+    },
+    {
+     "id": "moderate-party",
+     "name": {
+      "en": "Moderate Party",
+      "sv": "Moderaterna"
+     },
+     "seats": 55,
+     "bloc": "centre-right",
+     "color": "#019CDB"
+    },
+    {
+     "id": "liberals",
+     "name": {
+      "en": "Liberals",
+      "sv": "Liberalerna"
+     },
+     "seats": 48,
+     "bloc": "centre-right",
+     "color": "#006AB3"
+    },
+    {
+     "id": "christian-democrats",
+     "name": {
+      "en": "Christian Democrats",
+      "sv": "Kristdemokraterna"
+     },
+     "seats": 33,
+     "bloc": "centre-right",
+     "color": "#231977"
+    },
+    {
+     "id": "left-party",
+     "name": {
+      "en": "Left Party",
+      "sv": "Vänsterpartiet"
+     },
+     "seats": 30,
+     "bloc": "left",
+     "color": "#B00000"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "sv": "Centerpartiet"
+     },
+     "seats": 22,
+     "bloc": "centre",
+     "color": "#114838"
+    },
+    {
+     "id": "green-party",
+     "name": {
+      "en": "Green Party",
+      "sv": "Miljöpartiet"
+     },
+     "seats": 17,
+     "bloc": "centre-left",
+     "color": "#2B912C"
+    }
+   ]
+  },
+  {
+   "term": "2006–2010",
+   "year": 2006,
+   "pm": "fredrik-reinfeldt",
+   "seats": 349,
+   "results": [
+    {
+     "id": "swedish-social-democratic-party",
+     "name": {
+      "en": "Swedish Social Democratic Party",
+      "sv": "Socialdemokraterna"
+     },
+     "seats": 130,
+     "bloc": "centre-left",
+     "color": "#ED1B34"
+    },
+    {
+     "id": "moderate-party",
+     "name": {
+      "en": "Moderate Party",
+      "sv": "Moderaterna"
+     },
+     "seats": 97,
+     "bloc": "centre-right",
+     "color": "#019CDB"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "sv": "Centerpartiet"
+     },
+     "seats": 29,
+     "bloc": "centre",
+     "color": "#114838"
+    },
+    {
+     "id": "liberals",
+     "name": {
+      "en": "Liberals",
+      "sv": "Liberalerna"
+     },
+     "seats": 28,
+     "bloc": "centre-right",
+     "color": "#006AB3"
+    },
+    {
+     "id": "christian-democrats",
+     "name": {
+      "en": "Christian Democrats",
+      "sv": "Kristdemokraterna"
+     },
+     "seats": 24,
+     "bloc": "centre-right",
+     "color": "#231977"
+    },
+    {
+     "id": "left-party",
+     "name": {
+      "en": "Left Party",
+      "sv": "Vänsterpartiet"
+     },
+     "seats": 22,
+     "bloc": "left",
+     "color": "#B00000"
+    },
+    {
+     "id": "green-party",
+     "name": {
+      "en": "Green Party",
+      "sv": "Miljöpartiet"
+     },
+     "seats": 19,
+     "bloc": "centre-left",
+     "color": "#2B912C"
+    }
+   ]
+  },
+  {
+   "term": "2010–2014",
+   "year": 2010,
+   "pm": "fredrik-reinfeldt",
+   "seats": 349,
+   "results": [
+    {
+     "id": "swedish-social-democratic-party",
+     "name": {
+      "en": "Swedish Social Democratic Party",
+      "sv": "Socialdemokraterna"
+     },
+     "seats": 112,
+     "bloc": "centre-left",
+     "color": "#ED1B34"
+    },
+    {
+     "id": "moderate-party",
+     "name": {
+      "en": "Moderate Party",
+      "sv": "Moderaterna"
+     },
+     "seats": 107,
+     "bloc": "centre-right",
+     "color": "#019CDB"
+    },
+    {
+     "id": "green-party",
+     "name": {
+      "en": "Green Party",
+      "sv": "Miljöpartiet"
+     },
+     "seats": 25,
+     "bloc": "centre-left",
+     "color": "#2B912C"
+    },
+    {
+     "id": "liberals",
+     "name": {
+      "en": "Liberals",
+      "sv": "Liberalerna"
+     },
+     "seats": 24,
+     "bloc": "centre-right",
+     "color": "#006AB3"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "sv": "Centerpartiet"
+     },
+     "seats": 23,
+     "bloc": "centre",
+     "color": "#114838"
+    },
+    {
+     "id": "sweden-democrats",
+     "name": {
+      "en": "Sweden Democrats",
+      "sv": "Sverigedemokraterna"
+     },
+     "seats": 20,
+     "bloc": "far-right",
+     "color": "#FEDF09"
+    },
+    {
+     "id": "left-party",
+     "name": {
+      "en": "Left Party",
+      "sv": "Vänsterpartiet"
+     },
+     "seats": 19,
+     "bloc": "left",
+     "color": "#B00000"
+    },
+    {
+     "id": "christian-democrats",
+     "name": {
+      "en": "Christian Democrats",
+      "sv": "Kristdemokraterna"
+     },
+     "seats": 19,
+     "bloc": "centre-right",
+     "color": "#231977"
+    }
+   ]
+  },
+  {
+   "term": "2014–2018",
+   "year": 2014,
+   "pm": "stefan-lofven",
+   "seats": 349,
+   "results": [
+    {
+     "id": "swedish-social-democratic-party",
+     "name": {
+      "en": "Swedish Social Democratic Party",
+      "sv": "Socialdemokraterna"
+     },
+     "seats": 113,
+     "bloc": "centre-left",
+     "color": "#ED1B34"
+    },
+    {
+     "id": "moderate-party",
+     "name": {
+      "en": "Moderate Party",
+      "sv": "Moderaterna"
+     },
+     "seats": 84,
+     "bloc": "centre-right",
+     "color": "#019CDB"
+    },
+    {
+     "id": "sweden-democrats",
+     "name": {
+      "en": "Sweden Democrats",
+      "sv": "Sverigedemokraterna"
+     },
+     "seats": 49,
+     "bloc": "far-right",
+     "color": "#FEDF09"
+    },
+    {
+     "id": "green-party",
+     "name": {
+      "en": "Green Party",
+      "sv": "Miljöpartiet"
+     },
+     "seats": 25,
+     "bloc": "centre-left",
+     "color": "#2B912C"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "sv": "Centerpartiet"
+     },
+     "seats": 22,
+     "bloc": "centre",
+     "color": "#114838"
+    },
+    {
+     "id": "left-party",
+     "name": {
+      "en": "Left Party",
+      "sv": "Vänsterpartiet"
+     },
+     "seats": 21,
+     "bloc": "left",
+     "color": "#B00000"
+    },
+    {
+     "id": "liberals",
+     "name": {
+      "en": "Liberals",
+      "sv": "Liberalerna"
+     },
+     "seats": 19,
+     "bloc": "centre-right",
+     "color": "#006AB3"
+    },
+    {
+     "id": "christian-democrats",
+     "name": {
+      "en": "Christian Democrats",
+      "sv": "Kristdemokraterna"
+     },
+     "seats": 16,
+     "bloc": "centre-right",
+     "color": "#231977"
+    }
+   ]
+  },
+  {
+   "term": "2018–2022",
+   "year": 2018,
+   "pm": "stefan-lofven",
+   "seats": 349,
+   "results": [
+    {
+     "id": "swedish-social-democratic-party",
+     "name": {
+      "en": "Swedish Social Democratic Party",
+      "sv": "Socialdemokraterna"
+     },
+     "seats": 100,
+     "bloc": "centre-left",
+     "color": "#ED1B34"
+    },
+    {
+     "id": "moderate-party",
+     "name": {
+      "en": "Moderate Party",
+      "sv": "Moderaterna"
+     },
+     "seats": 70,
+     "bloc": "centre-right",
+     "color": "#019CDB"
+    },
+    {
+     "id": "sweden-democrats",
+     "name": {
+      "en": "Sweden Democrats",
+      "sv": "Sverigedemokraterna"
+     },
+     "seats": 62,
+     "bloc": "far-right",
+     "color": "#FEDF09"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "sv": "Centerpartiet"
+     },
+     "seats": 31,
+     "bloc": "centre",
+     "color": "#114838"
+    },
+    {
+     "id": "left-party",
+     "name": {
+      "en": "Left Party",
+      "sv": "Vänsterpartiet"
+     },
+     "seats": 28,
+     "bloc": "left",
+     "color": "#B00000"
+    },
+    {
+     "id": "christian-democrats",
+     "name": {
+      "en": "Christian Democrats",
+      "sv": "Kristdemokraterna"
+     },
+     "seats": 22,
+     "bloc": "centre-right",
+     "color": "#231977"
+    },
+    {
+     "id": "liberals",
+     "name": {
+      "en": "Liberals",
+      "sv": "Liberalerna"
+     },
+     "seats": 20,
+     "bloc": "centre-right",
+     "color": "#006AB3"
+    },
+    {
+     "id": "green-party",
+     "name": {
+      "en": "Green Party",
+      "sv": "Miljöpartiet"
+     },
+     "seats": 16,
+     "bloc": "centre-left",
+     "color": "#2B912C"
+    }
+   ]
+  },
+  {
+   "term": "2018–2022",
+   "year": 2021,
+   "pm": "magdalena-andersson",
+   "seats": 349,
+   "results": [
+    {
+     "id": "swedish-social-democratic-party",
+     "name": {
+      "en": "Swedish Social Democratic Party",
+      "sv": "Socialdemokraterna"
+     },
+     "seats": 100,
+     "bloc": "centre-left",
+     "color": "#ED1B34"
+    },
+    {
+     "id": "moderate-party",
+     "name": {
+      "en": "Moderate Party",
+      "sv": "Moderaterna"
+     },
+     "seats": 70,
+     "bloc": "centre-right",
+     "color": "#019CDB"
+    },
+    {
+     "id": "sweden-democrats",
+     "name": {
+      "en": "Sweden Democrats",
+      "sv": "Sverigedemokraterna"
+     },
+     "seats": 62,
+     "bloc": "far-right",
+     "color": "#FEDF09"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "sv": "Centerpartiet"
+     },
+     "seats": 31,
+     "bloc": "centre",
+     "color": "#114838"
+    },
+    {
+     "id": "left-party",
+     "name": {
+      "en": "Left Party",
+      "sv": "Vänsterpartiet"
+     },
+     "seats": 28,
+     "bloc": "left",
+     "color": "#B00000"
+    },
+    {
+     "id": "christian-democrats",
+     "name": {
+      "en": "Christian Democrats",
+      "sv": "Kristdemokraterna"
+     },
+     "seats": 22,
+     "bloc": "centre-right",
+     "color": "#231977"
+    },
+    {
+     "id": "liberals",
+     "name": {
+      "en": "Liberals",
+      "sv": "Liberalerna"
+     },
+     "seats": 20,
+     "bloc": "centre-right",
+     "color": "#006AB3"
+    },
+    {
+     "id": "green-party",
+     "name": {
+      "en": "Green Party",
+      "sv": "Miljöpartiet"
+     },
+     "seats": 16,
+     "bloc": "centre-left",
+     "color": "#2B912C"
+    }
+   ]
+  },
+  {
+   "term": "2022–2026",
+   "year": 2022,
+   "pm": "ulf-kristersson",
+   "seats": 349,
+   "results": [
+    {
+     "id": "swedish-social-democratic-party",
+     "name": {
+      "en": "Swedish Social Democratic Party",
+      "sv": "Socialdemokraterna"
+     },
+     "seats": 107,
+     "bloc": "centre-left",
+     "color": "#ED1B34"
+    },
+    {
+     "id": "sweden-democrats",
+     "name": {
+      "en": "Sweden Democrats",
+      "sv": "Sverigedemokraterna"
+     },
+     "seats": 73,
+     "bloc": "far-right",
+     "color": "#FEDF09"
+    },
+    {
+     "id": "moderate-party",
+     "name": {
+      "en": "Moderate Party",
+      "sv": "Moderaterna"
+     },
+     "seats": 68,
+     "bloc": "centre-right",
+     "color": "#019CDB"
+    },
+    {
+     "id": "left-party",
+     "name": {
+      "en": "Left Party",
+      "sv": "Vänsterpartiet"
+     },
+     "seats": 24,
+     "bloc": "left",
+     "color": "#B00000"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "sv": "Centerpartiet"
+     },
+     "seats": 24,
+     "bloc": "centre",
+     "color": "#114838"
+    },
+    {
+     "id": "christian-democrats",
+     "name": {
+      "en": "Christian Democrats",
+      "sv": "Kristdemokraterna"
+     },
+     "seats": 19,
+     "bloc": "centre-right",
+     "color": "#231977"
+    },
+    {
+     "id": "green-party",
+     "name": {
+      "en": "Green Party",
+      "sv": "Miljöpartiet"
+     },
+     "seats": 18,
+     "bloc": "centre-left",
+     "color": "#2B912C"
+    },
+    {
+     "id": "liberals",
+     "name": {
+      "en": "Liberals",
+      "sv": "Liberalerna"
+     },
+     "seats": 16,
+     "bloc": "centre-right",
+     "color": "#006AB3"
+    }
+   ]
+  },
+  {
+   "term": "2026–",
+   "year": 2026,
+   "pm": "ulf-kristersson",
+   "seats": 349,
+   "results": [
+    {
+     "id": "swedish-social-democratic-party",
+     "name": {
+      "en": "Swedish Social Democratic Party",
+      "sv": "Socialdemokraterna"
+     },
+     "seats": 99,
+     "bloc": "centre-left",
+     "color": "#ED1B34"
+    },
+    {
+     "id": "moderate-party",
+     "name": {
+      "en": "Moderate Party",
+      "sv": "Moderaterna"
+     },
+     "seats": 70,
+     "bloc": "centre-right",
+     "color": "#019CDB"
+    },
+    {
+     "id": "sweden-democrats",
+     "name": {
+      "en": "Sweden Democrats",
+      "sv": "Sverigedemokraterna"
+     },
+     "seats": 62,
+     "bloc": "far-right",
+     "color": "#FEDF09"
+    },
+    {
+     "id": "left-party",
+     "name": {
+      "en": "Left Party",
+      "sv": "Vänsterpartiet"
+     },
+     "seats": 30,
+     "bloc": "left",
+     "color": "#B00000"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "sv": "Centerpartiet"
+     },
+     "seats": 25,
+     "bloc": "centre",
+     "color": "#114838"
+    },
+    {
+     "id": "christian-democrats",
+     "name": {
+      "en": "Christian Democrats",
+      "sv": "Kristdemokraterna"
+     },
+     "seats": 22,
+     "bloc": "centre-right",
+     "color": "#231977"
+    },
+    {
+     "id": "green-party",
+     "name": {
+      "en": "Green Party",
+      "sv": "Miljöpartiet"
+     },
+     "seats": 22,
+     "bloc": "centre-left",
+     "color": "#2B912C"
+    },
+    {
+     "id": "liberals",
+     "name": {
+      "en": "Liberals",
+      "sv": "Liberalerna"
+     },
+     "seats": 19,
+     "bloc": "centre-right",
+     "color": "#006AB3"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/2026_Swedish_general_election"
+  }
+ ],
+ "credits": [
+  "Tage Erlander: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
+  "Thorbjörn Fälldin: Key L Nison, Public domain, via Wikimedia Commons",
+  "Ola Ullsten: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
+  "Olof Palme: Bert Verhoeff for Anefo, CC BY-SA 3.0 nl, via Wikimedia Commons",
+  "Ingvar Carlsson: Henrik Hansen (User:Hansen), CC BY 2.5, via Wikimedia Commons",
+  "Göran Persson: Magnus Fröderberg, CC BY 2.5 dk, via Wikimedia Commons",
+  "Carl Bildt: Joakim Berndes, CC BY-SA 4.0, via Wikimedia Commons",
+  "Fredrik Reinfeldt: Magnus Fröderberg, CC BY 2.5 dk, via Wikimedia Commons",
+  "Magdalena Andersson: U.S. Department of State from the United States., Public domain, via Wikimedia Commons",
+  "Ulf Kristersson: European Commission (Christophe Licoppe), CC BY 4.0, via Wikimedia Commons",
+  "Stefan Löfven: Frankie Fouganthin, CC BY-SA 4.0, via Wikimedia Commons"
+ ]
+}

@@ -1,0 +1,849 @@
+{
+  "code": "no",
+  "slug": "norway",
+  "name": {
+    "en": "Norway",
+    "nb": "Norge",
+    "nn": "Noreg"
+  },
+  "languages": [
+    "en",
+    "nb",
+    "nn"
+  ],
+  "from": 1945,
+  "wikidata": "Q20",
+  "office": "Q2334076",
+  "chamber": {
+    "en": "Storting"
+  },
+  "termLabel": {
+    "en": "Term"
+  },
+  "leaderTitle": {
+    "en": "Prime Minister",
+    "nb": "Norges statsminister",
+    "nn": "Norsk statsminister"
+  },
+  "blocs": [
+    {
+      "key": "far-left",
+      "name": {
+        "en": "Far-left",
+        "nb": "venstreekstremisme",
+        "nn": "venstreekstremisme"
+      },
+      "hue": 340,
+      "color": "#9f1239"
+    },
+    {
+      "key": "left",
+      "name": {
+        "en": "Left",
+        "nb": "venstresiden",
+        "nn": "venstresida"
+      },
+      "hue": 0,
+      "color": "#dc2626"
+    },
+    {
+      "key": "centre-left",
+      "name": {
+        "en": "Centre-left",
+        "nb": "sentrum-venstre",
+        "nn": "sentrum-venstre"
+      },
+      "hue": 12,
+      "color": "#f87171"
+    },
+    {
+      "key": "centre",
+      "name": {
+        "en": "Centre",
+        "nb": "sentrum",
+        "nn": "sentrisme"
+      },
+      "hue": 48,
+      "color": "#eab308"
+    },
+    {
+      "key": "centre-right",
+      "name": {
+        "en": "Centre-right",
+        "nb": "sentrum-høyre",
+        "nn": "sentrum-høgre"
+      },
+      "hue": 200,
+      "color": "#38bdf8"
+    },
+    {
+      "key": "right",
+      "name": {
+        "en": "Right",
+        "nb": "høyresiden",
+        "nn": "høgresida"
+      },
+      "hue": 222,
+      "color": "#2563eb"
+    },
+    {
+      "key": "other",
+      "name": {
+        "en": "Other"
+      },
+      "color": "#94a3b8"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2025_Norwegian_parliamentary_election"
+    }
+  ],
+  "elections": [
+    {
+      "year": 1945,
+      "wiki": "1945 Norwegian parliamentary election",
+      "date": "1945-10-08",
+      "key": "1945"
+    },
+    {
+      "year": 1949,
+      "wiki": "1949 Norwegian parliamentary election",
+      "date": "1949-10-10",
+      "key": "1949"
+    },
+    {
+      "year": 1953,
+      "wiki": "1953 Norwegian parliamentary election",
+      "date": "1953-10-12",
+      "key": "1953"
+    },
+    {
+      "year": 1957,
+      "wiki": "1957 Norwegian parliamentary election",
+      "date": "1957-10-07",
+      "key": "1957"
+    },
+    {
+      "year": 1961,
+      "wiki": "1961 Norwegian parliamentary election",
+      "date": "1961-09-11",
+      "key": "1961"
+    },
+    {
+      "year": 1965,
+      "wiki": "1965 Norwegian parliamentary election",
+      "date": "1965-09-13",
+      "key": "1965"
+    },
+    {
+      "year": 1969,
+      "wiki": "1969 Norwegian parliamentary election",
+      "date": "1969-09-08",
+      "key": "1969"
+    },
+    {
+      "year": 1973,
+      "wiki": "1973 Norwegian parliamentary election",
+      "date": "1973-09-09",
+      "key": "1973"
+    },
+    {
+      "year": 1977,
+      "wiki": "1977 Norwegian parliamentary election",
+      "date": "1977-09-12",
+      "key": "1977"
+    },
+    {
+      "year": 1981,
+      "wiki": "1981 Norwegian parliamentary election",
+      "date": "1981-09-14",
+      "key": "1981"
+    },
+    {
+      "year": 1985,
+      "wiki": "1985 Norwegian parliamentary election",
+      "date": "1985-09-08",
+      "key": "1985"
+    },
+    {
+      "year": 1989,
+      "wiki": "1989 Norwegian parliamentary election",
+      "date": "1989-09-11",
+      "key": "1989"
+    },
+    {
+      "year": 1993,
+      "wiki": "1993 Norwegian parliamentary election",
+      "date": "1993-09-12",
+      "key": "1993"
+    },
+    {
+      "year": 1997,
+      "wiki": "1997 Norwegian parliamentary election",
+      "date": "1997-09-15",
+      "key": "1997"
+    },
+    {
+      "year": 2001,
+      "wiki": "2001 Norwegian parliamentary election",
+      "date": "2001-09-09",
+      "key": "2001"
+    },
+    {
+      "year": 2005,
+      "wiki": "2005 Norwegian parliamentary election",
+      "date": "2005-09-11",
+      "key": "2005"
+    },
+    {
+      "year": 2009,
+      "wiki": "2009 Norwegian parliamentary election",
+      "date": "2009-09-14",
+      "key": "2009"
+    },
+    {
+      "year": 2013,
+      "wiki": "2013 Norwegian parliamentary election",
+      "date": "2013-09-09",
+      "key": "2013"
+    },
+    {
+      "year": 2017,
+      "wiki": "2017 Norwegian parliamentary election",
+      "date": "2017-09-11",
+      "key": "2017"
+    },
+    {
+      "year": 2021,
+      "wiki": "2021 Norwegian parliamentary election",
+      "date": "2021-09-13",
+      "key": "2021"
+    },
+    {
+      "year": 2025,
+      "wiki": "2025 Norwegian parliamentary election",
+      "date": "2025-09-08",
+      "key": "2025"
+    }
+  ],
+  "governments": [
+    {
+      "year": 1945,
+      "date": "1945-10-08",
+      "election": "1945",
+      "pm": "einar-gerhardsen"
+    },
+    {
+      "year": 1949,
+      "date": "1949-10-10",
+      "election": "1949",
+      "pm": "einar-gerhardsen"
+    },
+    {
+      "year": 1951,
+      "date": "1951-11-19",
+      "election": "1949",
+      "pm": "oscar-torp"
+    },
+    {
+      "year": 1953,
+      "date": "1953-10-12",
+      "election": "1953",
+      "pm": "oscar-torp"
+    },
+    {
+      "year": 1955,
+      "date": "1955-01-22",
+      "election": "1953",
+      "pm": "einar-gerhardsen"
+    },
+    {
+      "year": 1957,
+      "date": "1957-10-07",
+      "election": "1957",
+      "pm": "einar-gerhardsen"
+    },
+    {
+      "year": 1961,
+      "date": "1961-09-11",
+      "election": "1961",
+      "pm": "einar-gerhardsen"
+    },
+    {
+      "year": 1965,
+      "date": "1965-10-12",
+      "election": "1965",
+      "pm": "per-borten"
+    },
+    {
+      "year": 1969,
+      "date": "1969-09-08",
+      "election": "1969",
+      "pm": "per-borten"
+    },
+    {
+      "year": 1971,
+      "date": "1971-03-17",
+      "election": "1969",
+      "pm": "trygve-bratteli"
+    },
+    {
+      "year": 1972,
+      "date": "1972-10-18",
+      "election": "1969",
+      "pm": "lars-korvald"
+    },
+    {
+      "year": 1973,
+      "date": "1973-10-16",
+      "election": "1973",
+      "pm": "trygve-bratteli"
+    },
+    {
+      "year": 1976,
+      "date": "1976-01-15",
+      "election": "1973",
+      "pm": "odvar-nordli"
+    },
+    {
+      "year": 1977,
+      "date": "1977-09-12",
+      "election": "1977",
+      "pm": "odvar-nordli"
+    },
+    {
+      "year": 1981,
+      "date": "1981-01-04",
+      "election": "1977",
+      "pm": "gro-harlem-brundtland"
+    },
+    {
+      "year": 1981,
+      "date": "1981-10-14",
+      "election": "1981",
+      "pm": "kare-willoch"
+    },
+    {
+      "year": 1985,
+      "date": "1985-09-08",
+      "election": "1985",
+      "pm": "kare-willoch"
+    },
+    {
+      "year": 1986,
+      "date": "1986-05-09",
+      "election": "1985",
+      "pm": "gro-harlem-brundtland"
+    },
+    {
+      "year": 1989,
+      "date": "1989-10-16",
+      "election": "1989",
+      "pm": "jan-p-syse"
+    },
+    {
+      "year": 1990,
+      "date": "1990-11-03",
+      "election": "1989",
+      "pm": "gro-harlem-brundtland"
+    },
+    {
+      "year": 1993,
+      "date": "1993-09-12",
+      "election": "1993",
+      "pm": "gro-harlem-brundtland"
+    },
+    {
+      "year": 1996,
+      "date": "1996-10-25",
+      "election": "1993",
+      "pm": "thorbj-rn-jagland"
+    },
+    {
+      "year": 1997,
+      "date": "1997-10-17",
+      "election": "1997",
+      "pm": "kjell-magne-bondevik"
+    },
+    {
+      "year": 2000,
+      "date": "2000-03-17",
+      "election": "1997",
+      "pm": "jens-stoltenberg"
+    },
+    {
+      "year": 2001,
+      "date": "2001-10-19",
+      "election": "2001",
+      "pm": "kjell-magne-bondevik"
+    },
+    {
+      "year": 2005,
+      "date": "2005-10-17",
+      "election": "2005",
+      "pm": "jens-stoltenberg"
+    },
+    {
+      "year": 2009,
+      "date": "2009-09-14",
+      "election": "2009",
+      "pm": "jens-stoltenberg"
+    },
+    {
+      "year": 2013,
+      "date": "2013-10-16",
+      "election": "2013",
+      "pm": "erna-solberg"
+    },
+    {
+      "year": 2017,
+      "date": "2017-09-11",
+      "election": "2017",
+      "pm": "erna-solberg"
+    },
+    {
+      "year": 2021,
+      "date": "2021-10-14",
+      "election": "2021",
+      "pm": "jonas-gahr-st-re"
+    },
+    {
+      "year": 2025,
+      "date": "2025-09-08",
+      "election": "2025",
+      "pm": "jonas-gahr-st-re"
+    }
+  ],
+  "pms": {
+    "einar-gerhardsen": {
+      "wiki": "Einar Gerhardsen",
+      "wikidata": "Q164346",
+      "image": "Einar Gerhardsen 1945.jpeg",
+      "name": {
+        "en": "Einar Gerhardsen",
+        "nb": "Einar Gerhardsen",
+        "nn": "Einar Gerhardsen"
+      }
+    },
+    "oscar-torp": {
+      "wiki": "Oscar Torp",
+      "wikidata": "Q355258",
+      "image": "26771 Oscar Torp.jpg",
+      "name": {
+        "en": "Oscar Torp",
+        "nb": "Oscar Torp",
+        "nn": "Oscar Torp"
+      }
+    },
+    "per-borten": {
+      "wiki": "Per Borten",
+      "wikidata": "Q380659",
+      "image": "Per Borten (1964, Knudsens fotosenter).jpg",
+      "name": {
+        "en": "Per Borten",
+        "nb": "Per Borten",
+        "nn": "Per Borten"
+      }
+    },
+    "trygve-bratteli": {
+      "wiki": "Trygve Bratteli",
+      "wikidata": "Q326587",
+      "image": "Trygve Bratteli (5Fo30141709010076).jpg",
+      "name": {
+        "en": "Trygve Bratteli",
+        "nb": "Trygve Bratteli",
+        "nn": "Trygve Bratteli"
+      }
+    },
+    "lars-korvald": {
+      "wiki": "Lars Korvald",
+      "wikidata": "Q317412",
+      "image": "Lars Korvald (4Fo30141709010050).jpg",
+      "name": {
+        "en": "Lars Korvald",
+        "nb": "Lars Korvald",
+        "nn": "Lars Korvald"
+      }
+    },
+    "odvar-nordli": {
+      "wiki": "Odvar Nordli",
+      "wikidata": "Q337295",
+      "image": "Odvar Nordli 2007 04 21.jpg",
+      "name": {
+        "en": "Odvar Nordli",
+        "nb": "Odvar Nordli",
+        "nn": "Odvar Nordli"
+      }
+    },
+    "gro-harlem-brundtland": {
+      "wiki": "Gro Harlem Brundtland",
+      "wikidata": "Q133009",
+      "image": "Gro Harlem Brundtland in 2025 (cropped).jpg",
+      "name": {
+        "en": "Gro Harlem Brundtland",
+        "nb": "Gro Harlem Brundtland",
+        "nn": "Gro Harlem Brundtland"
+      }
+    },
+    "kare-willoch": {
+      "wiki": "Kåre Willoch",
+      "wikidata": "Q317405",
+      "image": "Willoch 1983 (high resolution, cropped).jpg",
+      "name": {
+        "en": "Kåre Willoch",
+        "nb": "Kåre Willoch",
+        "nn": "Kåre Willoch"
+      }
+    },
+    "jan-p-syse": {
+      "wiki": "Jan P. Syse",
+      "wikidata": "Q311421",
+      "image": "Jan P. Syse.JPG",
+      "name": {
+        "en": "Jan P. Syse",
+        "nb": "Jan P. Syse",
+        "nn": "Jan P. Syse"
+      }
+    },
+    "thorbj-rn-jagland": {
+      "wiki": "Thorbjørn Jagland",
+      "wikidata": "Q209611",
+      "image": "Thorbjørn Jagland (30366602783) (cropped).jpg",
+      "name": {
+        "en": "Thorbjørn Jagland",
+        "nb": "Thorbjørn Jagland",
+        "nn": "Thorbjørn Jagland"
+      }
+    },
+    "kjell-magne-bondevik": {
+      "wiki": "Kjell Magne Bondevik",
+      "wikidata": "Q207655",
+      "image": "Kjell Magne Bondevik, Norges statsminister, under presskonferens vid Nordiska radets session i Stockholm.jpg",
+      "name": {
+        "en": "Kjell Magne Bondevik",
+        "nb": "Kjell Magne Bondevik",
+        "nn": "Kjell Magne Bondevik"
+      }
+    },
+    "jens-stoltenberg": {
+      "wiki": "Jens Stoltenberg",
+      "wikidata": "Q57665",
+      "image": "JensStoltenberg (cropped).jpg",
+      "name": {
+        "en": "Jens Stoltenberg"
+      }
+    },
+    "erna-solberg": {
+      "wiki": "Erna Solberg",
+      "wikidata": "Q291644",
+      "image": "Erna Solberg, EPP Congress 2025 Valencia Day 1 (54484743746, cropped).jpg",
+      "name": {
+        "en": "Erna Solberg",
+        "nb": "Erna Solberg",
+        "nn": "Erna Solberg"
+      }
+    },
+    "jonas-gahr-st-re": {
+      "wiki": "Jonas Gahr Støre",
+      "wikidata": "Q467948",
+      "image": "Jonas Gahr Støre under åpningen av det nye regjeringskvartalet 130426 (cropped).jpg",
+      "name": {
+        "en": "Jonas Gahr Støre",
+        "nb": "Jonas Gahr Støre",
+        "nn": "Jonas Gahr Støre"
+      }
+    }
+  },
+  "parties": {
+    "Labour Party (Norway)": {
+      "key": "labour-party",
+      "wikidata": "Q190219",
+      "name": {
+        "en": "Labour Party",
+        "nb": "Arbeiderpartiet",
+        "nn": "Arbeidarpartiet"
+      },
+      "bloc": "centre-left",
+      "color": "#E11926"
+    },
+    "Conservative Party (Norway)": {
+      "key": "conservative-party",
+      "wikidata": "Q586364",
+      "name": {
+        "en": "Conservative Party",
+        "nb": "Høyre",
+        "nn": "Høgre"
+      },
+      "bloc": "centre-right",
+      "color": "#87add7"
+    },
+    "Liberal Party (Norway)": {
+      "key": "liberal-party",
+      "wikidata": "Q500190",
+      "name": {
+        "en": "Liberal Party",
+        "nb": "Venstre",
+        "nn": "Venstre"
+      },
+      "bloc": "centre",
+      "color": "#006666"
+    },
+    "Communist Party of Norway": {
+      "key": "communist-party-of-norway",
+      "wikidata": "Q587803",
+      "name": {
+        "en": "Communist Party of Norway",
+        "nb": "Norges Kommunistiske Parti",
+        "nn": "Norges Kommunistiske Parti"
+      },
+      "bloc": "far-left",
+      "color": "#990000"
+    },
+    "Centre Party (Norway)": {
+      "key": "centre-party",
+      "wikidata": "Q493685",
+      "name": {
+        "en": "Centre Party",
+        "nb": "Senterpartiet",
+        "nn": "Senterpartiet"
+      },
+      "bloc": "centre",
+      "color": "#00843D"
+    },
+    "Christian Democratic Party (Norway)": {
+      "key": "christian-democratic-party",
+      "wikidata": "Q1166025",
+      "name": {
+        "en": "Christian Democratic Party",
+        "nb": "Kristelig Folkeparti",
+        "nn": "Kristeleg Folkeparti"
+      },
+      "bloc": "centre-right",
+      "color": "#FDED34"
+    },
+    "Farmers–Conservatives–Liberals": {
+      "key": "farmers-conservatives-liberals",
+      "name": {
+        "en": "Farmers–Conservatives–Liberals"
+      },
+      "bloc": "centre"
+    },
+    "Farmers–Conservatives": {
+      "key": "farmers-conservatives",
+      "name": {
+        "en": "Farmers–Conservatives"
+      },
+      "bloc": "centre-right"
+    },
+    "Farmers–Liberals": {
+      "key": "farmers-liberals",
+      "name": {
+        "en": "Farmers–Liberals"
+      },
+      "bloc": "centre"
+    },
+    "Farmers'–Conservatives": {
+      "key": "farmers-conservatives",
+      "name": {
+        "en": "Farmers'–Conservatives"
+      },
+      "bloc": "centre-right"
+    },
+    "Liberals–Conservatives": {
+      "key": "liberals-conservatives",
+      "name": {
+        "en": "Liberals–Conservatives"
+      },
+      "bloc": "centre-right"
+    },
+    "Centrists–Liberals": {
+      "key": "centrists-liberals",
+      "name": {
+        "en": "Centrists–Liberals"
+      },
+      "bloc": "centre"
+    },
+    "Socialist People's Party (Norway)": {
+      "key": "socialist-people-s-party",
+      "wikidata": "Q1771531",
+      "name": {
+        "en": "Socialist People's Party",
+        "nb": "Sosialistisk Folkeparti",
+        "nn": "Sosialistisk Folkeparti"
+      },
+      "bloc": "left",
+      "color": "#dc0028"
+    },
+    "Christians–Conservatives": {
+      "key": "christians-conservatives",
+      "name": {
+        "en": "Christians–Conservatives"
+      },
+      "bloc": "centre-right"
+    },
+    "Centrists–Christians": {
+      "key": "centrists-christians",
+      "name": {
+        "en": "Centrists–Christians"
+      },
+      "bloc": "centre-right"
+    },
+    "Socialist Left Party (Norway)": {
+      "key": "socialist-left-party",
+      "wikidata": "Q488418",
+      "name": {
+        "en": "Socialist Left Party",
+        "nb": "Sosialistisk Venstreparti",
+        "nn": "Sosialistisk Venstreparti"
+      },
+      "bloc": "left",
+      "color": "#B5317C"
+    },
+    "Progress Party (Norway)": {
+      "key": "progress-party",
+      "wikidata": "Q485665",
+      "name": {
+        "en": "Progress Party",
+        "nb": "Fremskrittspartiet",
+        "nn": "Framstegspartiet"
+      },
+      "bloc": "right",
+      "color": "#004F80"
+    },
+    "Liberal People's Party (Norway, 1972)": {
+      "key": "liberal-people-s-party",
+      "wikidata": "Q3773198",
+      "name": {
+        "en": "Liberal People's Party",
+        "nb": "Det Liberale Folkepartiet",
+        "nn": "Det Liberale Folkepartiet"
+      },
+      "bloc": "centre-left"
+    },
+    "Centrists–Liberals–Christians": {
+      "key": "centrists-liberals-christians",
+      "name": {
+        "en": "Centrists–Liberals–Christians"
+      },
+      "bloc": "centre"
+    },
+    "Non-socialist joint lists": {
+      "key": "non-socialist-joint-lists",
+      "name": {
+        "en": "Non-socialist joint lists"
+      },
+      "bloc": "centre-right"
+    },
+    "Norwegian Labour Party": {
+      "key": "labour-party",
+      "wikidata": "Q190219",
+      "name": {
+        "en": "Norwegian Labour Party",
+        "nb": "Arbeiderpartiet",
+        "nn": "Arbeidarpartiet"
+      },
+      "bloc": "centre-left",
+      "color": "#E11926"
+    },
+    "Liberal Party of Norway": {
+      "key": "liberal-party",
+      "wikidata": "Q500190",
+      "name": {
+        "en": "Liberal Party of Norway",
+        "nb": "Venstre",
+        "nn": "Venstre"
+      },
+      "bloc": "centre",
+      "color": "#006666"
+    },
+    "Future for Finnmark": {
+      "key": "future-for-finnmark",
+      "wikidata": "Q1812177",
+      "name": {
+        "en": "Future for Finnmark",
+        "nb": "Framtid for Finnmark",
+        "nn": "Framtid for Finnmark"
+      },
+      "bloc": "centre-left",
+      "color": "#FFB4CD"
+    },
+    "Red Electoral Alliance": {
+      "key": "red-electoral-alliance",
+      "wikidata": "Q2601661",
+      "name": {
+        "en": "Red Electoral Alliance",
+        "nb": "Rød Valgallianse",
+        "nn": "Raud Valallianse"
+      },
+      "bloc": "far-left",
+      "color": "#d4001a"
+    },
+    "Non-Partisan Deputies": {
+      "key": "non-partisan-deputies",
+      "wikidata": "Q1781060",
+      "name": {
+        "en": "Non-Partisan Deputies",
+        "nb": "Tverrpolitisk Folkevalgte"
+      },
+      "bloc": "other",
+      "color": "#AAAAAA"
+    },
+    "Coastal Party": {
+      "key": "coastal-party",
+      "wikidata": "Q1580985",
+      "name": {
+        "en": "Coastal Party",
+        "nb": "Kystpartiet",
+        "nn": "Kystpartiet"
+      },
+      "bloc": "centre",
+      "color": "#00ad8e"
+    },
+    "Green Party (Norway)": {
+      "key": "green-party",
+      "wikidata": "Q1518568",
+      "name": {
+        "en": "Green Party",
+        "nb": "Miljøpartiet De Grønne",
+        "nn": "Miljøpartiet Dei Grøne"
+      },
+      "bloc": "centre-left",
+      "color": "#6A9325"
+    },
+    "Red Party (Norway)": {
+      "key": "red-party",
+      "wikidata": "Q1512994",
+      "name": {
+        "en": "Red Party",
+        "nb": "Rødt",
+        "nn": "Raudt"
+      },
+      "bloc": "far-left",
+      "color": "#871212"
+    },
+    "Patient Focus (Norway)": {
+      "key": "patient-focus",
+      "wikidata": "Q108538329",
+      "name": {
+        "en": "Patient Focus",
+        "nb": "Pasientfokus",
+        "nn": "Pasientfokus"
+      },
+      "bloc": "centre",
+      "color": "#F69465"
+    },
+    "Socialist Left Party": {
+      "key": "socialist-left-party",
+      "wikidata": "Q488418",
+      "name": {
+        "en": "Socialist Left Party",
+        "nb": "Sosialistisk Venstreparti",
+        "nn": "Sosialistisk Venstreparti"
+      },
+      "bloc": "left",
+      "color": "#B5317C"
+    }
+  }
+}

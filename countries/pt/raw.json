@@ -1,0 +1,879 @@
+{
+ "results": {
+  "1975": {
+   "wiki": "1975 Portuguese Constituent Assembly election",
+   "date": "1975-04-25",
+   "seats": 250,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Socialist Party",
+     "link": "Socialist Party (Portugal)",
+     "seats": 116
+    },
+    {
+     "name": "Democratic People's Party",
+     "link": "Social Democratic Party (Portugal)",
+     "seats": 81
+    },
+    {
+     "name": "Portuguese Communist Party",
+     "link": "Portuguese Communist Party",
+     "seats": 30
+    },
+    {
+     "name": "Democratic and Social Centre",
+     "link": "Democratic and Social Centre – People's Party",
+     "seats": 16
+    },
+    {
+     "name": "Portuguese Democratic Movement",
+     "link": "Portuguese Democratic Movement",
+     "seats": 5
+    },
+    {
+     "name": "Popular Democratic Union",
+     "link": "Popular Democratic Union (Portugal)",
+     "seats": 1
+    },
+    {
+     "name": "Association for the Defense of Macau Interests",
+     "link": "Association for the Defense of Macau Interests",
+     "seats": 1
+    }
+   ],
+   "chamber": {
+    "link": "Constituent Assembly of Portugal",
+    "text": "Constituent Assembly of Portugal"
+   }
+  },
+  "1976": {
+   "wiki": "1976 Portuguese legislative election",
+   "date": "1976-04-25",
+   "seats": 263,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Socialist Party",
+     "link": "Socialist Party (Portugal)",
+     "seats": 107
+    },
+    {
+     "name": "Democratic People's Party",
+     "link": "Social Democratic Party (Portugal)",
+     "seats": 73
+    },
+    {
+     "name": "Democratic and Social Centre",
+     "link": "Democratic and Social Centre – People's Party",
+     "seats": 42
+    },
+    {
+     "name": "Portuguese Communist Party",
+     "link": "Portuguese Communist Party",
+     "seats": 40
+    },
+    {
+     "name": "Popular Democratic Union",
+     "link": "Popular Democratic Union (Portugal)",
+     "seats": 1
+    }
+   ],
+   "chamber": {
+    "link": "Assembly of the Republic (Portugal)",
+    "text": "Assembly of the Republic"
+   }
+  },
+  "1979": {
+   "wiki": "1979 Portuguese legislative election",
+   "date": "1979-12-02",
+   "seats": 250,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Democratic Alliance",
+     "link": "Democratic Alliance (Portugal, 1979)",
+     "seats": 121
+    },
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party (Portugal)",
+     "seats": 7
+    },
+    {
+     "name": "Socialist Party",
+     "link": "Socialist Party (Portugal)",
+     "seats": 74
+    },
+    {
+     "name": "United People Alliance",
+     "link": "United People Alliance",
+     "seats": 47
+    },
+    {
+     "name": "Popular Democratic Union",
+     "link": "Popular Democratic Union (Portugal)",
+     "seats": 1
+    }
+   ],
+   "chamber": {
+    "link": "Assembly of the Republic (Portugal)",
+    "text": "Assembly of the Republic"
+   }
+  },
+  "1980": {
+   "wiki": "1980 Portuguese legislative election",
+   "date": "1980-10-05",
+   "seats": 250,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Democratic Alliance",
+     "link": "Democratic Alliance (Portugal, 1979)",
+     "seats": 126
+    },
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party (Portugal)",
+     "seats": 8
+    },
+    {
+     "name": "Republican and Socialist Front",
+     "link": "Republican and Socialist Front",
+     "seats": 71
+    },
+    {
+     "name": "Socialist Party",
+     "link": "Socialist Party (Portugal)",
+     "seats": 3
+    },
+    {
+     "name": "United People Alliance",
+     "link": "United People Alliance",
+     "seats": 41
+    },
+    {
+     "name": "Popular Democratic Union",
+     "link": "Popular Democratic Union (Portugal)",
+     "seats": 1
+    }
+   ],
+   "chamber": {
+    "link": "Assembly of the Republic (Portugal)",
+    "text": "Assembly of the Republic"
+   }
+  },
+  "1983": {
+   "wiki": "1983 Portuguese legislative election",
+   "date": "1983-04-25",
+   "seats": 250,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Socialist Party",
+     "link": "Socialist Party (Portugal)",
+     "seats": 101
+    },
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party (Portugal)",
+     "seats": 75
+    },
+    {
+     "name": "United People Alliance",
+     "link": "United People Alliance",
+     "seats": 44
+    },
+    {
+     "name": "Democratic and Social Centre",
+     "link": "CDS – People's Party",
+     "seats": 30
+    }
+   ],
+   "chamber": {
+    "link": "Assembly of the Republic (Portugal)",
+    "text": "Assembly of the Republic"
+   }
+  },
+  "1985": {
+   "wiki": "1985 Portuguese legislative election",
+   "date": "1985-10-06",
+   "seats": 250,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party (Portugal)",
+     "seats": 88
+    },
+    {
+     "name": "Socialist Party",
+     "link": "Socialist Party (Portugal)",
+     "seats": 57
+    },
+    {
+     "name": "Democratic Renewal Party",
+     "link": "Democratic Renewal Party (Portugal)",
+     "seats": 45
+    },
+    {
+     "name": "United People Alliance",
+     "link": "United People Alliance",
+     "seats": 38
+    },
+    {
+     "name": "Democratic and Social Centre",
+     "link": "CDS – People's Party",
+     "seats": 22
+    }
+   ],
+   "chamber": {
+    "link": "Assembly of the Republic (Portugal)",
+    "text": "Assembly of the Republic"
+   }
+  },
+  "1987": {
+   "wiki": "1987 Portuguese legislative election",
+   "date": "1987-07-19",
+   "seats": 250,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party (Portugal)",
+     "seats": 148
+    },
+    {
+     "name": "Socialist Party",
+     "link": "Socialist Party (Portugal)",
+     "seats": 60
+    },
+    {
+     "name": "Unitary Democratic Coalition",
+     "link": "Unitary Democratic Coalition",
+     "seats": 31
+    },
+    {
+     "name": "Democratic Renewal Party",
+     "link": "Democratic Renewal Party (Portugal)",
+     "seats": 7
+    },
+    {
+     "name": "Democratic and Social Centre",
+     "link": "CDS – People's Party",
+     "seats": 4
+    }
+   ],
+   "chamber": {
+    "link": "Assembly of the Republic (Portugal)",
+    "text": "Assembly of the Republic"
+   }
+  },
+  "1991": {
+   "wiki": "1991 Portuguese legislative election",
+   "date": "1991-10-06",
+   "seats": 230,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party (Portugal)",
+     "seats": 135
+    },
+    {
+     "name": "Socialist Party",
+     "link": "Socialist Party (Portugal)",
+     "seats": 72
+    },
+    {
+     "name": "Unitary Democratic Coalition",
+     "link": "Unitary Democratic Coalition",
+     "seats": 17
+    },
+    {
+     "name": "Democratic and Social Centre",
+     "link": "CDS – People's Party",
+     "seats": 5
+    },
+    {
+     "name": "National Solidarity Party",
+     "link": "National Solidarity Party (Portugal)",
+     "seats": 1
+    }
+   ],
+   "chamber": {
+    "link": "Assembly of the Republic (Portugal)",
+    "text": "Assembly of the Republic"
+   }
+  },
+  "1995": {
+   "wiki": "1995 Portuguese legislative election",
+   "date": "1995-10-01",
+   "seats": 230,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Socialist Party",
+     "link": "Socialist Party (Portugal)",
+     "seats": 112
+    },
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party (Portugal)",
+     "seats": 88
+    },
+    {
+     "name": "CDS – People's Party",
+     "link": "CDS – People's Party",
+     "seats": 15
+    },
+    {
+     "name": "Unitary Democratic Coalition",
+     "link": "Unitary Democratic Coalition",
+     "seats": 15
+    }
+   ],
+   "chamber": {
+    "link": "Assembly of the Republic (Portugal)",
+    "text": "Assembly of the Republic"
+   }
+  },
+  "1999": {
+   "wiki": "1999 Portuguese legislative election",
+   "date": "1999-10-10",
+   "seats": 230,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Socialist Party",
+     "link": "Socialist Party (Portugal)",
+     "seats": 115
+    },
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party (Portugal)",
+     "seats": 81
+    },
+    {
+     "name": "Unitary Democratic Coalition",
+     "link": "Unitary Democratic Coalition",
+     "seats": 17
+    },
+    {
+     "name": "CDS – People's Party",
+     "link": "CDS – People's Party",
+     "seats": 15
+    },
+    {
+     "name": "Left Bloc",
+     "link": "Left Bloc",
+     "seats": 2
+    }
+   ],
+   "chamber": {
+    "link": "Assembly of the Republic (Portugal)",
+    "text": "Assembly of the Republic"
+   }
+  },
+  "2002": {
+   "wiki": "2002 Portuguese legislative election",
+   "date": "2002-03-17",
+   "seats": 230,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party (Portugal)",
+     "seats": 105
+    },
+    {
+     "name": "Socialist Party",
+     "link": "Socialist Party (Portugal)",
+     "seats": 96
+    },
+    {
+     "name": "CDS – People's Party",
+     "link": "CDS – People's Party",
+     "seats": 14
+    },
+    {
+     "name": "Unitary Democratic Coalition",
+     "link": "Unitary Democratic Coalition",
+     "seats": 12
+    },
+    {
+     "name": "Left Bloc",
+     "link": "Left Bloc",
+     "seats": 3
+    }
+   ],
+   "chamber": {
+    "link": "Assembly of the Republic (Portugal)",
+    "text": "Assembly of the Republic"
+   }
+  },
+  "2005": {
+   "wiki": "2005 Portuguese legislative election",
+   "date": "2005-02-20",
+   "seats": 230,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Socialist Party",
+     "link": "Socialist Party (Portugal)",
+     "seats": 121
+    },
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party (Portugal)",
+     "seats": 75
+    },
+    {
+     "name": "Unitary Democratic Coalition",
+     "link": "Unitary Democratic Coalition",
+     "seats": 14
+    },
+    {
+     "name": "CDS – People's Party",
+     "link": "CDS – People's Party",
+     "seats": 12
+    },
+    {
+     "name": "Left Bloc",
+     "link": "Left Bloc",
+     "seats": 8
+    }
+   ],
+   "chamber": {
+    "link": "Assembly of the Republic (Portugal)",
+    "text": "Assembly of the Republic"
+   }
+  },
+  "2009": {
+   "wiki": "2009 Portuguese legislative election",
+   "date": "2009-09-27",
+   "seats": 230,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Socialist Party",
+     "link": "Socialist Party (Portugal)",
+     "seats": 97
+    },
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party (Portugal)",
+     "seats": 81
+    },
+    {
+     "name": "CDS – People's Party",
+     "link": "CDS – People's Party",
+     "seats": 21
+    },
+    {
+     "name": "Left Bloc",
+     "link": "Left Bloc",
+     "seats": 16
+    },
+    {
+     "name": "Unitary Democratic Coalition",
+     "link": "Unitary Democratic Coalition",
+     "seats": 15
+    }
+   ],
+   "chamber": {
+    "link": "Assembly of the Republic (Portugal)",
+    "text": "Assembly of the Republic"
+   }
+  },
+  "2011": {
+   "wiki": "2011 Portuguese legislative election",
+   "date": "2011-06-05",
+   "seats": 230,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party (Portugal)",
+     "seats": 108
+    },
+    {
+     "name": "Socialist Party",
+     "link": "Socialist Party (Portugal)",
+     "seats": 74
+    },
+    {
+     "name": "CDS – People's Party",
+     "link": "CDS – People's Party",
+     "seats": 24
+    },
+    {
+     "name": "Unitary Democratic Coalition",
+     "link": "Unitary Democratic Coalition",
+     "seats": 16
+    },
+    {
+     "name": "Left Bloc",
+     "link": "Left Bloc",
+     "seats": 8
+    }
+   ],
+   "chamber": {
+    "link": "Assembly of the Republic (Portugal)",
+    "text": "Assembly of the Republic"
+   }
+  },
+  "2015": {
+   "wiki": "2015 Portuguese legislative election",
+   "date": "2015-10-04",
+   "seats": 230,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Portugal Ahead",
+     "link": "Coalition PSD/CDS",
+     "seats": 102
+    },
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party (Portugal)",
+     "seats": 5
+    },
+    {
+     "name": "Socialist Party",
+     "link": "Socialist Party (Portugal)",
+     "seats": 86
+    },
+    {
+     "name": "Left Bloc",
+     "link": "Left Bloc",
+     "seats": 19
+    },
+    {
+     "name": "Unitary Democratic Coalition",
+     "link": "Unitary Democratic Coalition",
+     "seats": 17
+    },
+    {
+     "name": "People Animals Nature",
+     "link": "People Animals Nature",
+     "seats": 1
+    }
+   ],
+   "chamber": {
+    "link": "Assembly of the Republic (Portugal)",
+    "text": "Assembly of the Republic"
+   }
+  },
+  "2019": {
+   "wiki": "2019 Portuguese legislative election",
+   "date": "2019-10-06",
+   "seats": 230,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Socialist Party",
+     "link": "Socialist Party (Portugal)",
+     "seats": 108
+    },
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party (Portugal)",
+     "seats": 79
+    },
+    {
+     "name": "Left Bloc",
+     "link": "Left Bloc",
+     "seats": 19
+    },
+    {
+     "name": "Unitary Democratic Coalition",
+     "link": "Unitary Democratic Coalition",
+     "seats": 12
+    },
+    {
+     "name": "CDS – People's Party",
+     "link": "CDS – People's Party",
+     "seats": 5
+    },
+    {
+     "name": "People Animals Nature",
+     "link": "People Animals Nature",
+     "seats": 4
+    },
+    {
+     "name": "Chega",
+     "link": "Chega",
+     "seats": 1
+    },
+    {
+     "name": "Liberal Initiative",
+     "link": "Liberal Initiative",
+     "seats": 1
+    },
+    {
+     "name": "LIVRE",
+     "link": "LIVRE",
+     "seats": 1
+    }
+   ],
+   "chamber": {
+    "link": "Assembly of the Republic (Portugal)",
+    "text": "Assembly of the Republic"
+   }
+  },
+  "2022": {
+   "wiki": "2022 Portuguese legislative election",
+   "date": "2022-01-30",
+   "seats": 230,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Socialist Party",
+     "link": "Socialist Party (Portugal)",
+     "seats": 120
+    },
+    {
+     "name": "Social Democratic Party",
+     "link": "Social Democratic Party (Portugal)",
+     "seats": 72
+    },
+    {
+     "name": "Madeira First",
+     "link": "Madeira First",
+     "seats": 3
+    },
+    {
+     "name": "Democratic Alliance",
+     "link": "Democratic Alliance",
+     "seats": 2
+    },
+    {
+     "name": "Chega",
+     "link": "Chega",
+     "seats": 12
+    },
+    {
+     "name": "Liberal Initiative",
+     "link": "Liberal Initiative",
+     "seats": 8
+    },
+    {
+     "name": "Left Bloc",
+     "link": "Left Bloc",
+     "seats": 5
+    },
+    {
+     "name": "Unitary Democratic Coalition",
+     "link": "Unitary Democratic Coalition",
+     "seats": 6
+    },
+    {
+     "name": "People Animals Nature",
+     "link": "People Animals Nature",
+     "seats": 1
+    },
+    {
+     "name": "LIVRE",
+     "link": "LIVRE",
+     "seats": 1
+    }
+   ],
+   "chamber": {
+    "link": "Assembly of the Republic (Portugal)",
+    "text": "Assembly of the Republic"
+   }
+  },
+  "2024": {
+   "wiki": "2024 Portuguese legislative election",
+   "date": "2024-03-10",
+   "seats": 230,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "Democratic Alliance",
+     "link": "Democratic Alliance (Portugal, 2024)",
+     "seats": 77
+    },
+    {
+     "name": "Madeira First",
+     "link": "Coalition PSD/CDS",
+     "seats": 3
+    },
+    {
+     "name": "Socialist Party",
+     "link": "Socialist Party (Portugal)",
+     "seats": 78
+    },
+    {
+     "name": "Chega",
+     "link": "Chega",
+     "seats": 50
+    },
+    {
+     "name": "Liberal Initiative",
+     "link": "Liberal Initiative",
+     "seats": 8
+    },
+    {
+     "name": "Left Bloc",
+     "link": "Left Bloc",
+     "seats": 5
+    },
+    {
+     "name": "Unitary Democratic Coalition",
+     "link": "Unitary Democratic Coalition",
+     "seats": 4
+    },
+    {
+     "name": "LIVRE",
+     "link": "LIVRE",
+     "seats": 4
+    },
+    {
+     "name": "People Animals Nature",
+     "link": "People Animals Nature",
+     "seats": 1
+    }
+   ],
+   "chamber": {
+    "link": "Assembly of the Republic (Portugal)",
+    "text": "Assembly of the Republic"
+   }
+  },
+  "2025": {
+   "wiki": "2025 Portuguese legislative election",
+   "date": "2025-05-18",
+   "seats": 230,
+   "table": "Election results",
+   "rows": [
+    {
+     "name": "AD – PSD/CDS Coalition",
+     "link": "Coalition PSD/CDS",
+     "seats": 88
+    },
+    {
+     "name": "Coalition PSD/CDS/PPM",
+     "link": "Democratic Alliance (Portugal, 2024)",
+     "seats": 3
+    },
+    {
+     "name": "Socialist Party",
+     "link": "Socialist Party (Portugal)",
+     "seats": 58
+    },
+    {
+     "name": "Chega",
+     "link": "Chega",
+     "seats": 60
+    },
+    {
+     "name": "Liberal Initiative",
+     "link": "Liberal Initiative",
+     "seats": 9
+    },
+    {
+     "name": "LIVRE",
+     "link": "LIVRE",
+     "seats": 6
+    },
+    {
+     "name": "Unitary Democratic Coalition",
+     "link": "Unitary Democratic Coalition",
+     "seats": 3
+    },
+    {
+     "name": "Left Bloc",
+     "link": "Left Bloc",
+     "seats": 1
+    },
+    {
+     "name": "People Animals Nature",
+     "link": "People Animals Nature",
+     "seats": 1
+    },
+    {
+     "name": "Together for the People",
+     "link": "Together for the People",
+     "seats": 1
+    }
+   ],
+   "chamber": {
+    "link": "Assembly of the Republic (Portugal)",
+    "text": "Assembly of the Republic"
+   }
+  }
+ },
+ "credits": {
+  "vasco-goncalves": {
+   "file": "Vasco Goncalves 1982 Henrique Matos 01.jpg",
+   "author": "Henrique José Teixeira Matos",
+   "license": "GFDL 1.2"
+  },
+  "mario-soares": {
+   "file": "Mário Soares - Claude Truong-Ngoc 1978 (cropped).jpg",
+   "author": "Photo Claude TRUONG-NGOC",
+   "license": "CC BY-SA 3.0"
+  },
+  "maria-de-lourdes-pintasilgo": {
+   "file": "1657533607333 NPC0001 Maria de Lourdes PINTASILGO 001 MOBILE.jpg",
+   "author": "European Union - Source : EP",
+   "license": "European Parliament"
+  },
+  "francisco-de-sa-carneiro": {
+   "file": "Francisco Sá Carneiro.jpg",
+   "author": "Desconhecido",
+   "license": "CC BY-SA 4.0"
+  },
+  "diogo-de-freitas-do-amaral": {
+   "file": "Professor Doutor Diogo Freitas do Amaral.png",
+   "author": "Unknown authorUnknown author",
+   "license": "CC BY-SA 4.0"
+  },
+  "francisco-pinto-balsemao": {
+   "file": "Pinto Balsemao.jpg",
+   "author": "Cruks",
+   "license": "CC BY-SA 3.0"
+  },
+  "anibal-cavaco-silva": {
+   "file": "Aníbal Cavaco Silva (cropped).jpg",
+   "author": "Foreign and Commonwealth Office",
+   "license": "OGL v1.0"
+  },
+  "antonio-guterres": {
+   "file": "António Guterres United Nations Secretary-General in 2024 (cropped).jpg",
+   "author": "U.S. Department of State from United States",
+   "license": "Public domain"
+  },
+  "pedro-santana-lopes": {
+   "file": "Pedro Santana Lopes.jpg",
+   "author": "Roberto Santorini (Removed watermark read: RS)",
+   "license": "CC BY-SA 2.0"
+  },
+  "jose-socrates": {
+   "file": "Josesocrates09082006.jpg",
+   "author": "José Cruz/ABr",
+   "license": "CC BY 3.0 br"
+  },
+  "pedro-passos-coelho": {
+   "file": "Pedro Passos Coelho 1.jpg",
+   "author": "Cruks",
+   "license": "CC BY-SA 3.0"
+  },
+  "luis-montenegro": {
+   "file": "Luís Montenegro, 2025.06.26 (05) (cropped).jpg",
+   "author": "European Union",
+   "license": "Attribution"
+  },
+  "jose-manuel-durao-barroso": {
+   "file": "José Manuel Barroso (cropped).jpg",
+   "author": "State Chancellery of Latvia",
+   "license": "CC BY-SA 2.0"
+  },
+  "antonio-costa": {
+   "file": "Antonio Costa Portrait 2024 (cropped).jpg",
+   "author": "Frédéric Sierakowski - European Council",
+   "license": "Attribution"
+  }
+ }
+}

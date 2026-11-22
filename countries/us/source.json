@@ -1,0 +1,707 @@
+{
+  "code": "us",
+  "slug": "united-states",
+  "name": {
+    "en": "United States"
+  },
+  "languages": [
+    "en"
+  ],
+  "from": 1946,
+  "wikidata": "Q30",
+  "office": "Q11696",
+  "chamber": {
+    "en": "House of Representatives"
+  },
+  "termLabel": {
+    "en": "Congress"
+  },
+  "leaderTitle": {
+    "en": "President"
+  },
+  "blocs": [
+    {
+      "key": "centre-left",
+      "name": {
+        "en": "Centre-left"
+      },
+      "hue": 220,
+      "color": "#3b82f6"
+    },
+    {
+      "key": "right",
+      "name": {
+        "en": "Right"
+      },
+      "hue": 0,
+      "color": "#ef4444"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections"
+    }
+  ],
+  "elections": [
+    {
+      "year": 1946,
+      "wiki": "1946 United States House of Representatives elections",
+      "date": "1946-11-05",
+      "key": "1946"
+    },
+    {
+      "year": 1948,
+      "wiki": "1948 United States House of Representatives elections",
+      "date": "1948-11-02",
+      "key": "1948"
+    },
+    {
+      "year": 1950,
+      "wiki": "1950 United States House of Representatives elections",
+      "date": "1950-11-07",
+      "key": "1950"
+    },
+    {
+      "year": 1952,
+      "wiki": "1952 United States House of Representatives elections",
+      "date": "1952-11-04",
+      "key": "1952"
+    },
+    {
+      "year": 1954,
+      "wiki": "1954 United States House of Representatives elections",
+      "date": "1954-11-02",
+      "key": "1954"
+    },
+    {
+      "year": 1956,
+      "wiki": "1956 United States House of Representatives elections",
+      "date": "1956-11-06",
+      "key": "1956"
+    },
+    {
+      "year": 1958,
+      "wiki": "1958 United States House of Representatives elections",
+      "date": "1958-11-04",
+      "key": "1958"
+    },
+    {
+      "year": 1960,
+      "wiki": "1960 United States House of Representatives elections",
+      "date": "1960-11-08",
+      "key": "1960"
+    },
+    {
+      "year": 1962,
+      "wiki": "1962 United States House of Representatives elections",
+      "date": "1962-11-06",
+      "key": "1962"
+    },
+    {
+      "year": 1964,
+      "wiki": "1964 United States House of Representatives elections",
+      "date": "1964-11-03",
+      "key": "1964"
+    },
+    {
+      "year": 1966,
+      "wiki": "1966 United States House of Representatives elections",
+      "date": "1966-11-08",
+      "key": "1966"
+    },
+    {
+      "year": 1968,
+      "wiki": "1968 United States House of Representatives elections",
+      "date": "1968-11-05",
+      "key": "1968"
+    },
+    {
+      "year": 1970,
+      "wiki": "1970 United States House of Representatives elections",
+      "date": "1970-11-03",
+      "key": "1970"
+    },
+    {
+      "year": 1972,
+      "wiki": "1972 United States House of Representatives elections",
+      "date": "1972-11-07",
+      "key": "1972"
+    },
+    {
+      "year": 1974,
+      "wiki": "1974 United States House of Representatives elections",
+      "date": "1974-11-05",
+      "key": "1974"
+    },
+    {
+      "year": 1976,
+      "wiki": "1976 United States House of Representatives elections",
+      "date": "1976-11-02",
+      "key": "1976"
+    },
+    {
+      "year": 1978,
+      "wiki": "1978 United States House of Representatives elections",
+      "date": "1978-11-07",
+      "key": "1978"
+    },
+    {
+      "year": 1980,
+      "wiki": "1980 United States House of Representatives elections",
+      "date": "1980-11-04",
+      "key": "1980"
+    },
+    {
+      "year": 1982,
+      "wiki": "1982 United States House of Representatives elections",
+      "date": "1982-11-02",
+      "key": "1982"
+    },
+    {
+      "year": 1984,
+      "wiki": "1984 United States House of Representatives elections",
+      "date": "1984-11-06",
+      "key": "1984"
+    },
+    {
+      "year": 1986,
+      "wiki": "1986 United States House of Representatives elections",
+      "date": "1986-11-04",
+      "key": "1986"
+    },
+    {
+      "year": 1988,
+      "wiki": "1988 United States House of Representatives elections",
+      "date": "1988-11-08",
+      "key": "1988"
+    },
+    {
+      "year": 1990,
+      "wiki": "1990 United States House of Representatives elections",
+      "date": "1990-11-06",
+      "key": "1990"
+    },
+    {
+      "year": 1992,
+      "wiki": "1992 United States House of Representatives elections",
+      "date": "1992-11-03",
+      "key": "1992"
+    },
+    {
+      "year": 1994,
+      "wiki": "1994 United States House of Representatives elections",
+      "date": "1994-11-08",
+      "key": "1994"
+    },
+    {
+      "year": 1996,
+      "wiki": "1996 United States House of Representatives elections",
+      "date": "1996-11-05",
+      "key": "1996"
+    },
+    {
+      "year": 1998,
+      "wiki": "1998 United States House of Representatives elections",
+      "date": "1998-11-03",
+      "key": "1998"
+    },
+    {
+      "year": 2000,
+      "wiki": "2000 United States House of Representatives elections",
+      "date": "2000-11-07",
+      "key": "2000"
+    },
+    {
+      "year": 2002,
+      "wiki": "2002 United States House of Representatives elections",
+      "date": "2002-11-05",
+      "key": "2002"
+    },
+    {
+      "year": 2004,
+      "wiki": "2004 United States House of Representatives elections",
+      "date": "2004-11-02",
+      "key": "2004"
+    },
+    {
+      "year": 2006,
+      "wiki": "2006 United States House of Representatives elections",
+      "date": "2006-11-07",
+      "key": "2006"
+    },
+    {
+      "year": 2008,
+      "wiki": "2008 United States House of Representatives elections",
+      "date": "2008-11-04",
+      "key": "2008"
+    },
+    {
+      "year": 2010,
+      "wiki": "2010 United States House of Representatives elections",
+      "date": "2010-11-02",
+      "key": "2010"
+    },
+    {
+      "year": 2012,
+      "wiki": "2012 United States House of Representatives elections",
+      "date": "2012-11-06",
+      "key": "2012"
+    },
+    {
+      "year": 2014,
+      "wiki": "2014 United States House of Representatives elections",
+      "date": "2014-11-04",
+      "key": "2014"
+    },
+    {
+      "year": 2016,
+      "wiki": "2016 United States House of Representatives elections",
+      "date": "2016-11-08",
+      "key": "2016"
+    },
+    {
+      "year": 2018,
+      "wiki": "2018 United States House of Representatives elections",
+      "date": "2018-11-06",
+      "key": "2018"
+    },
+    {
+      "year": 2020,
+      "wiki": "2020 United States House of Representatives elections",
+      "date": "2020-11-03",
+      "key": "2020"
+    },
+    {
+      "year": 2022,
+      "wiki": "2022 United States House of Representatives elections",
+      "date": "2022-11-08",
+      "key": "2022"
+    },
+    {
+      "year": 2024,
+      "wiki": "2024 United States House of Representatives elections",
+      "date": "2024-11-05",
+      "key": "2024"
+    },
+    {
+      "year": 2026,
+      "wiki": "2026 United States House of Representatives elections",
+      "date": "2026-11-03",
+      "key": "2026"
+    }
+  ],
+  "governments": [
+    {
+      "year": 1946,
+      "date": "1946-11-05",
+      "election": "1946",
+      "pm": "harry-s-truman"
+    },
+    {
+      "year": 1948,
+      "date": "1948-11-02",
+      "election": "1948",
+      "pm": "harry-s-truman"
+    },
+    {
+      "year": 1950,
+      "date": "1950-11-07",
+      "election": "1950",
+      "pm": "harry-s-truman"
+    },
+    {
+      "year": 1953,
+      "date": "1953-01-20",
+      "election": "1952",
+      "pm": "dwight-d-eisenhower"
+    },
+    {
+      "year": 1954,
+      "date": "1954-11-02",
+      "election": "1954",
+      "pm": "dwight-d-eisenhower"
+    },
+    {
+      "year": 1956,
+      "date": "1956-11-06",
+      "election": "1956",
+      "pm": "dwight-d-eisenhower"
+    },
+    {
+      "year": 1958,
+      "date": "1958-11-04",
+      "election": "1958",
+      "pm": "dwight-d-eisenhower"
+    },
+    {
+      "year": 1961,
+      "date": "1961-01-20",
+      "election": "1960",
+      "pm": "john-f-kennedy"
+    },
+    {
+      "year": 1962,
+      "date": "1962-11-06",
+      "election": "1962",
+      "pm": "john-f-kennedy"
+    },
+    {
+      "year": 1963,
+      "date": "1963-11-22",
+      "election": "1962",
+      "pm": "lyndon-b-johnson"
+    },
+    {
+      "year": 1964,
+      "date": "1964-11-03",
+      "election": "1964",
+      "pm": "lyndon-b-johnson"
+    },
+    {
+      "year": 1966,
+      "date": "1966-11-08",
+      "election": "1966",
+      "pm": "lyndon-b-johnson"
+    },
+    {
+      "year": 1969,
+      "date": "1969-01-20",
+      "election": "1968",
+      "pm": "richard-nixon"
+    },
+    {
+      "year": 1970,
+      "date": "1970-11-03",
+      "election": "1970",
+      "pm": "richard-nixon"
+    },
+    {
+      "year": 1972,
+      "date": "1972-11-07",
+      "election": "1972",
+      "pm": "richard-nixon"
+    },
+    {
+      "year": 1974,
+      "date": "1974-08-09",
+      "election": "1972",
+      "pm": "gerald-ford"
+    },
+    {
+      "year": 1974,
+      "date": "1974-11-05",
+      "election": "1974",
+      "pm": "gerald-ford"
+    },
+    {
+      "year": 1977,
+      "date": "1977-01-20",
+      "election": "1976",
+      "pm": "jimmy-carter"
+    },
+    {
+      "year": 1978,
+      "date": "1978-11-07",
+      "election": "1978",
+      "pm": "jimmy-carter"
+    },
+    {
+      "year": 1981,
+      "date": "1981-01-20",
+      "election": "1980",
+      "pm": "ronald-reagan"
+    },
+    {
+      "year": 1982,
+      "date": "1982-11-02",
+      "election": "1982",
+      "pm": "ronald-reagan"
+    },
+    {
+      "year": 1984,
+      "date": "1984-11-06",
+      "election": "1984",
+      "pm": "ronald-reagan"
+    },
+    {
+      "year": 1986,
+      "date": "1986-11-04",
+      "election": "1986",
+      "pm": "ronald-reagan"
+    },
+    {
+      "year": 1989,
+      "date": "1989-01-20",
+      "election": "1988",
+      "pm": "george-h-w-bush"
+    },
+    {
+      "year": 1990,
+      "date": "1990-11-06",
+      "election": "1990",
+      "pm": "george-h-w-bush"
+    },
+    {
+      "year": 1993,
+      "date": "1993-01-20",
+      "election": "1992",
+      "pm": "bill-clinton"
+    },
+    {
+      "year": 1994,
+      "date": "1994-11-08",
+      "election": "1994",
+      "pm": "bill-clinton"
+    },
+    {
+      "year": 1996,
+      "date": "1996-11-05",
+      "election": "1996",
+      "pm": "bill-clinton"
+    },
+    {
+      "year": 1998,
+      "date": "1998-11-03",
+      "election": "1998",
+      "pm": "bill-clinton"
+    },
+    {
+      "year": 2001,
+      "date": "2001-01-20",
+      "election": "2000",
+      "pm": "george-w-bush"
+    },
+    {
+      "year": 2002,
+      "date": "2002-11-05",
+      "election": "2002",
+      "pm": "george-w-bush"
+    },
+    {
+      "year": 2004,
+      "date": "2004-11-02",
+      "election": "2004",
+      "pm": "george-w-bush"
+    },
+    {
+      "year": 2006,
+      "date": "2006-11-07",
+      "election": "2006",
+      "pm": "george-w-bush"
+    },
+    {
+      "year": 2009,
+      "date": "2009-01-20",
+      "election": "2008",
+      "pm": "barack-obama"
+    },
+    {
+      "year": 2010,
+      "date": "2010-11-02",
+      "election": "2010",
+      "pm": "barack-obama"
+    },
+    {
+      "year": 2012,
+      "date": "2012-11-06",
+      "election": "2012",
+      "pm": "barack-obama"
+    },
+    {
+      "year": 2014,
+      "date": "2014-11-04",
+      "election": "2014",
+      "pm": "barack-obama"
+    },
+    {
+      "year": 2017,
+      "date": "2017-01-20",
+      "election": "2016",
+      "pm": "donald-trump"
+    },
+    {
+      "year": 2018,
+      "date": "2018-11-06",
+      "election": "2018",
+      "pm": "donald-trump"
+    },
+    {
+      "year": 2021,
+      "date": "2021-01-20",
+      "election": "2020",
+      "pm": "joe-biden"
+    },
+    {
+      "year": 2022,
+      "date": "2022-11-08",
+      "election": "2022",
+      "pm": "joe-biden"
+    },
+    {
+      "year": 2025,
+      "date": "2025-01-20",
+      "election": "2024",
+      "pm": "donald-trump"
+    },
+    {
+      "year": 2026,
+      "date": "2026-11-03",
+      "election": "2026",
+      "pm": "donald-trump"
+    }
+  ],
+  "pms": {
+    "harry-s-truman": {
+      "wiki": "Harry S. Truman",
+      "wikidata": "Q11613",
+      "image": "TRUMAN 58-766-06 (cropped).jpg",
+      "name": {
+        "en": "Harry S. Truman"
+      }
+    },
+    "dwight-d-eisenhower": {
+      "wiki": "Dwight D. Eisenhower",
+      "wikidata": "Q9916",
+      "image": "Dwight D. Eisenhower, official photo portrait, May 29, 1959.jpg",
+      "name": {
+        "en": "Dwight D. Eisenhower"
+      }
+    },
+    "john-f-kennedy": {
+      "wiki": "John F. Kennedy",
+      "wikidata": "Q9696",
+      "image": "John F. Kennedy, White House color photo portrait.jpg",
+      "name": {
+        "en": "John F. Kennedy"
+      }
+    },
+    "lyndon-b-johnson": {
+      "wiki": "Lyndon B. Johnson",
+      "wikidata": "Q9640",
+      "image": "Lyndon B. Johnson, photo portrait, leaning on chair, color cropped.jpg",
+      "name": {
+        "en": "Lyndon B. Johnson"
+      }
+    },
+    "richard-nixon": {
+      "wiki": "Richard Nixon",
+      "wikidata": "Q9588",
+      "image": "Richard Nixon presidential portrait.jpg",
+      "name": {
+        "en": "Richard Nixon"
+      }
+    },
+    "gerald-ford": {
+      "wiki": "Gerald Ford",
+      "wikidata": "Q9582",
+      "image": "Gerald Ford presidential portrait (cropped).jpg",
+      "name": {
+        "en": "Gerald Ford"
+      }
+    },
+    "jimmy-carter": {
+      "wiki": "Jimmy Carter",
+      "wikidata": "Q23685",
+      "image": "JimmyCarterPortrait2.jpg",
+      "name": {
+        "en": "Jimmy Carter"
+      }
+    },
+    "ronald-reagan": {
+      "wiki": "Ronald Reagan",
+      "wikidata": "Q9960",
+      "image": "Ronald Reagan 1981 presidential portrait.jpg",
+      "name": {
+        "en": "Ronald Reagan"
+      }
+    },
+    "george-h-w-bush": {
+      "wiki": "George H. W. Bush",
+      "wikidata": "Q23505",
+      "image": "George H. W. Bush presidential portrait (cropped).jpg",
+      "name": {
+        "en": "George H. W. Bush"
+      }
+    },
+    "bill-clinton": {
+      "wiki": "Bill Clinton",
+      "wikidata": "Q1124",
+      "image": "Bill Clinton.jpg",
+      "name": {
+        "en": "Bill Clinton"
+      }
+    },
+    "george-w-bush": {
+      "wiki": "George W. Bush",
+      "wikidata": "Q207",
+      "image": "George-W-Bush.jpeg",
+      "name": {
+        "en": "George W. Bush"
+      }
+    },
+    "barack-obama": {
+      "wiki": "Barack Obama",
+      "wikidata": "Q76",
+      "image": "President Barack Obama.jpg",
+      "name": {
+        "en": "Barack Obama"
+      }
+    },
+    "donald-trump": {
+      "wiki": "Donald Trump",
+      "wikidata": "Q22686",
+      "image": "Official Presidential Portrait of President Donald J. Trump (2025) (3x4).jpg",
+      "name": {
+        "en": "Donald Trump"
+      }
+    },
+    "joe-biden": {
+      "wiki": "Joe Biden",
+      "wikidata": "Q6279",
+      "image": "Joe Biden presidential portrait.jpg",
+      "name": {
+        "en": "Joe Biden"
+      }
+    }
+  },
+  "parties": {
+    "Republican Party (US)": {
+      "key": "republican-party",
+      "wikidata": "Q29468",
+      "name": {
+        "en": "Republican Party"
+      },
+      "bloc": "right",
+      "color": "#E81B23"
+    },
+    "Democratic Party (US)": {
+      "key": "democratic-party",
+      "wikidata": "Q29552",
+      "name": {
+        "en": "Democratic Party"
+      },
+      "bloc": "centre-left",
+      "color": "#0044C9"
+    },
+    "Democratic Party (United States)": {
+      "key": "democratic-party",
+      "wikidata": "Q29552",
+      "name": {
+        "en": "Democratic Party"
+      },
+      "bloc": "centre-left",
+      "color": "#0044C9"
+    },
+    "Republican Party (United States)": {
+      "key": "republican-party",
+      "wikidata": "Q29468",
+      "name": {
+        "en": "Republican Party"
+      },
+      "bloc": "right",
+      "color": "#E81B23"
+    }
+  },
+  "termStart": 80
+}

@@ -1,0 +1,1144 @@
+{
+  "code": "fi",
+  "slug": "finland",
+  "name": {
+    "en": "Finland",
+    "fi": "Suomi",
+    "sv": "Finland"
+  },
+  "languages": [
+    "en",
+    "fi",
+    "sv"
+  ],
+  "from": 1945,
+  "wikidata": "Q33",
+  "office": "Q738695",
+  "chamber": {
+    "en": "Parliament of Finland",
+    "fi": "Eduskunta",
+    "sv": "Riksdagen"
+  },
+  "termLabel": {
+    "en": "Term"
+  },
+  "leaderTitle": {
+    "en": "Prime Minister",
+    "fi": "Suomen pääministeri",
+    "sv": "Finlands statsminister"
+  },
+  "blocs": [
+    {
+      "key": "far-left",
+      "name": {
+        "en": "Far-left",
+        "fi": "äärivasemmisto",
+        "sv": "vänsterextremism"
+      },
+      "hue": 340,
+      "color": "#9f1239"
+    },
+    {
+      "key": "left",
+      "name": {
+        "en": "Left",
+        "fi": "vasemmisto",
+        "sv": "politisk vänster"
+      },
+      "hue": 0,
+      "color": "#dc2626"
+    },
+    {
+      "key": "centre-left",
+      "name": {
+        "en": "Centre-left",
+        "fi": "keskusta-vasemmisto",
+        "sv": "Center–vänster-politik"
+      },
+      "hue": 12,
+      "color": "#f87171"
+    },
+    {
+      "key": "centre",
+      "name": {
+        "en": "Centre",
+        "fi": "poliittinen keskusta",
+        "sv": "politisk mitt"
+      },
+      "hue": 48,
+      "color": "#eab308"
+    },
+    {
+      "key": "centre-right",
+      "name": {
+        "en": "Centre-right",
+        "fi": "Keskusta-oikeisto",
+        "sv": "Borgerliga partier"
+      },
+      "hue": 200,
+      "color": "#38bdf8"
+    },
+    {
+      "key": "right",
+      "name": {
+        "en": "Right",
+        "fi": "oikeisto",
+        "sv": "politisk höger"
+      },
+      "hue": 222,
+      "color": "#2563eb"
+    },
+    {
+      "key": "other",
+      "name": {
+        "en": "Other"
+      },
+      "color": "#94a3b8"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2023_Finnish_parliamentary_election"
+    }
+  ],
+  "elections": [
+    {
+      "year": 1945,
+      "wiki": "1945 Finnish parliamentary election",
+      "date": "1945-03-17",
+      "key": "1945"
+    },
+    {
+      "year": 1948,
+      "wiki": "1948 Finnish parliamentary election",
+      "date": "1948-07-01",
+      "key": "1948"
+    },
+    {
+      "year": 1951,
+      "wiki": "1951 Finnish parliamentary election",
+      "date": "1951-07-01",
+      "key": "1951"
+    },
+    {
+      "year": 1954,
+      "wiki": "1954 Finnish parliamentary election",
+      "date": "1954-03-07",
+      "key": "1954"
+    },
+    {
+      "year": 1958,
+      "wiki": "1958 Finnish parliamentary election",
+      "date": "1958-07-06",
+      "key": "1958"
+    },
+    {
+      "year": 1962,
+      "wiki": "1962 Finnish parliamentary election",
+      "date": "1962-02-04",
+      "key": "1962"
+    },
+    {
+      "year": 1966,
+      "wiki": "1966 Finnish parliamentary election",
+      "date": "1966-03-20",
+      "key": "1966"
+    },
+    {
+      "year": 1970,
+      "wiki": "1970 Finnish parliamentary election",
+      "date": "1970-03-15",
+      "key": "1970"
+    },
+    {
+      "year": 1972,
+      "wiki": "1972 Finnish parliamentary election",
+      "date": "1972-01-02",
+      "key": "1972"
+    },
+    {
+      "year": 1975,
+      "wiki": "1975 Finnish parliamentary election",
+      "date": "1975-09-21",
+      "key": "1975"
+    },
+    {
+      "year": 1979,
+      "wiki": "1979 Finnish parliamentary election",
+      "date": "1979-03-18",
+      "key": "1979"
+    },
+    {
+      "year": 1983,
+      "wiki": "1983 Finnish parliamentary election",
+      "date": "1983-03-20",
+      "key": "1983"
+    },
+    {
+      "year": 1987,
+      "wiki": "1987 Finnish parliamentary election",
+      "date": "1987-03-15",
+      "key": "1987"
+    },
+    {
+      "year": 1991,
+      "wiki": "1991 Finnish parliamentary election",
+      "date": "1991-03-17",
+      "key": "1991"
+    },
+    {
+      "year": 1995,
+      "wiki": "1995 Finnish parliamentary election",
+      "date": "1995-03-19",
+      "key": "1995"
+    },
+    {
+      "year": 1999,
+      "wiki": "1999 Finnish parliamentary election",
+      "date": "1999-03-21",
+      "key": "1999"
+    },
+    {
+      "year": 2003,
+      "wiki": "2003 Finnish parliamentary election",
+      "date": "2003-03-16",
+      "key": "2003"
+    },
+    {
+      "year": 2007,
+      "wiki": "2007 Finnish parliamentary election",
+      "date": "2007-03-18",
+      "key": "2007"
+    },
+    {
+      "year": 2011,
+      "wiki": "2011 Finnish parliamentary election",
+      "date": "2011-04-17",
+      "key": "2011"
+    },
+    {
+      "year": 2015,
+      "wiki": "2015 Finnish parliamentary election",
+      "date": "2015-04-19",
+      "key": "2015"
+    },
+    {
+      "year": 2019,
+      "wiki": "2019 Finnish parliamentary election",
+      "date": "2019-04-14",
+      "key": "2019"
+    },
+    {
+      "year": 2023,
+      "wiki": "2023 Finnish parliamentary election",
+      "date": "2023-04-02",
+      "key": "2023"
+    }
+  ],
+  "governments": [
+    {
+      "year": 1945,
+      "date": "1945-03-17",
+      "election": "1945",
+      "pm": "juho-kusti-paasikivi"
+    },
+    {
+      "year": 1946,
+      "date": "1946-03-26",
+      "election": "1945",
+      "pm": "mauno-pekkala"
+    },
+    {
+      "year": 1948,
+      "date": "1948-07-29",
+      "election": "1948",
+      "pm": "karl-august-fagerholm"
+    },
+    {
+      "year": 1950,
+      "date": "1950-03-17",
+      "election": "1948",
+      "pm": "urho-kekkonen"
+    },
+    {
+      "year": 1951,
+      "date": "1951-07-01",
+      "election": "1951",
+      "pm": "urho-kekkonen"
+    },
+    {
+      "year": 1954,
+      "date": "1954-05-05",
+      "election": "1954",
+      "pm": "ralf-torngren"
+    },
+    {
+      "year": 1954,
+      "date": "1954-10-20",
+      "election": "1954",
+      "pm": "urho-kekkonen"
+    },
+    {
+      "year": 1956,
+      "date": "1956-03-03",
+      "election": "1954",
+      "pm": "karl-august-fagerholm"
+    },
+    {
+      "year": 1957,
+      "date": "1957-05-27",
+      "election": "1954",
+      "pm": "v-j-sukselainen"
+    },
+    {
+      "year": 1957,
+      "date": "1957-11-29",
+      "election": "1954",
+      "pm": "rainer-von-fieandt"
+    },
+    {
+      "year": 1958,
+      "date": "1958-04-26",
+      "election": "1954",
+      "pm": "reino-kuuskoski"
+    },
+    {
+      "year": 1958,
+      "date": "1958-08-29",
+      "election": "1958",
+      "pm": "karl-august-fagerholm"
+    },
+    {
+      "year": 1959,
+      "date": "1959-01-13",
+      "election": "1958",
+      "pm": "v-j-sukselainen"
+    },
+    {
+      "year": 1961,
+      "date": "1961-07-14",
+      "election": "1958",
+      "pm": "martti-miettunen"
+    },
+    {
+      "year": 1962,
+      "date": "1962-04-13",
+      "election": "1962",
+      "pm": "ahti-karjalainen"
+    },
+    {
+      "year": 1963,
+      "date": "1963-12-18",
+      "election": "1962",
+      "pm": "reino-ragnar-lehto"
+    },
+    {
+      "year": 1964,
+      "date": "1964-09-12",
+      "election": "1962",
+      "pm": "johannes-virolainen"
+    },
+    {
+      "year": 1966,
+      "date": "1966-05-27",
+      "election": "1966",
+      "pm": "rafael-paasio"
+    },
+    {
+      "year": 1968,
+      "date": "1968-03-22",
+      "election": "1966",
+      "pm": "mauno-koivisto"
+    },
+    {
+      "year": 1970,
+      "date": "1970-05-14",
+      "election": "1970",
+      "pm": "teuvo-aura"
+    },
+    {
+      "year": 1970,
+      "date": "1970-07-15",
+      "election": "1970",
+      "pm": "ahti-karjalainen"
+    },
+    {
+      "year": 1971,
+      "date": "1971-10-29",
+      "election": "1970",
+      "pm": "teuvo-aura"
+    },
+    {
+      "year": 1972,
+      "date": "1972-02-23",
+      "election": "1972",
+      "pm": "rafael-paasio"
+    },
+    {
+      "year": 1972,
+      "date": "1972-09-04",
+      "election": "1972",
+      "pm": "kalevi-sorsa"
+    },
+    {
+      "year": 1975,
+      "date": "1975-06-13",
+      "election": "1972",
+      "pm": "keijo-liinamaa"
+    },
+    {
+      "year": 1975,
+      "date": "1975-11-30",
+      "election": "1975",
+      "pm": "martti-miettunen"
+    },
+    {
+      "year": 1977,
+      "date": "1977-05-15",
+      "election": "1975",
+      "pm": "kalevi-sorsa"
+    },
+    {
+      "year": 1979,
+      "date": "1979-05-26",
+      "election": "1979",
+      "pm": "mauno-koivisto"
+    },
+    {
+      "year": 1982,
+      "date": "1982-02-19",
+      "election": "1979",
+      "pm": "kalevi-sorsa"
+    },
+    {
+      "year": 1983,
+      "date": "1983-03-20",
+      "election": "1983",
+      "pm": "kalevi-sorsa"
+    },
+    {
+      "year": 1987,
+      "date": "1987-04-30",
+      "election": "1987",
+      "pm": "harri-holkeri"
+    },
+    {
+      "year": 1991,
+      "date": "1991-04-26",
+      "election": "1991",
+      "pm": "esko-aho"
+    },
+    {
+      "year": 1995,
+      "date": "1995-04-13",
+      "election": "1995",
+      "pm": "paavo-lipponen"
+    },
+    {
+      "year": 1999,
+      "date": "1999-03-21",
+      "election": "1999",
+      "pm": "paavo-lipponen"
+    },
+    {
+      "year": 2003,
+      "date": "2003-04-17",
+      "election": "2003",
+      "pm": "anneli-jaatteenmaki"
+    },
+    {
+      "year": 2003,
+      "date": "2003-06-24",
+      "election": "2003",
+      "pm": "matti-vanhanen"
+    },
+    {
+      "year": 2007,
+      "date": "2007-03-18",
+      "election": "2007",
+      "pm": "matti-vanhanen"
+    },
+    {
+      "year": 2010,
+      "date": "2010-06-22",
+      "election": "2007",
+      "pm": "mari-kiviniemi"
+    },
+    {
+      "year": 2011,
+      "date": "2011-06-22",
+      "election": "2011",
+      "pm": "jyrki-katainen"
+    },
+    {
+      "year": 2014,
+      "date": "2014-06-24",
+      "election": "2011",
+      "pm": "alexander-stubb"
+    },
+    {
+      "year": 2015,
+      "date": "2015-05-29",
+      "election": "2015",
+      "pm": "juha-sipila"
+    },
+    {
+      "year": 2019,
+      "date": "2019-06-06",
+      "election": "2019",
+      "pm": "antti-rinne"
+    },
+    {
+      "year": 2019,
+      "date": "2019-12-10",
+      "election": "2019",
+      "pm": "sanna-marin"
+    },
+    {
+      "year": 2023,
+      "date": "2023-06-20",
+      "election": "2023",
+      "pm": "petteri-orpo"
+    }
+  ],
+  "pms": {
+    "juho-kusti-paasikivi": {
+      "wiki": "Juho Kusti Paasikivi",
+      "wikidata": "Q202171",
+      "image": "Juho Kusti Paasikivi, 1940s.jpg",
+      "name": {
+        "en": "Juho Kusti Paasikivi",
+        "fi": "Juho Kusti Paasikivi",
+        "sv": "Juho Kusti Paasikivi"
+      }
+    },
+    "mauno-pekkala": {
+      "wiki": "Mauno Pekkala",
+      "wikidata": "Q471245",
+      "image": "Mauno Pekkala 1938.jpg",
+      "name": {
+        "en": "Mauno Pekkala",
+        "fi": "Mauno Pekkala",
+        "sv": "Mauno Pekkala"
+      }
+    },
+    "karl-august-fagerholm": {
+      "wiki": "Karl-August Fagerholm",
+      "wikidata": "Q471307",
+      "image": "Carl August Fagerholm 1955.jpg",
+      "name": {
+        "en": "Karl-August Fagerholm",
+        "fi": "K.-A. Fagerholm",
+        "sv": "Karl-August Fagerholm"
+      }
+    },
+    "urho-kekkonen": {
+      "wiki": "Urho Kekkonen",
+      "wikidata": "Q179858",
+      "image": "Urho-Kekkonen-1977-c.jpg",
+      "name": {
+        "en": "Urho Kekkonen",
+        "fi": "Urho Kekkonen",
+        "sv": "Urho Kekkonen"
+      }
+    },
+    "ralf-torngren": {
+      "wiki": "Ralf Törngren",
+      "wikidata": "Q728830",
+      "image": "Ralf Törngren1.jpg",
+      "name": {
+        "en": "Ralf Törngren",
+        "fi": "Ralf Törngren",
+        "sv": "Ralf Törngren"
+      }
+    },
+    "v-j-sukselainen": {
+      "wiki": "V. J. Sukselainen",
+      "wikidata": "Q708371",
+      "image": "Vieno Johannes Sukselainen.jpg",
+      "name": {
+        "en": "V. J. Sukselainen",
+        "fi": "V. J. Sukselainen",
+        "sv": "V.J. Sukselainen"
+      }
+    },
+    "rainer-von-fieandt": {
+      "wiki": "Rainer von Fieandt",
+      "wikidata": "Q824517",
+      "image": "Rainer von Fieandt.jpg",
+      "name": {
+        "en": "Rainer von Fieandt",
+        "fi": "Rainer von Fieandt",
+        "sv": "Rainer von Fieandt"
+      }
+    },
+    "reino-kuuskoski": {
+      "wiki": "Reino Kuuskoski",
+      "wikidata": "Q708302",
+      "image": "Reino-Kuuskoski.jpg",
+      "name": {
+        "en": "Reino Kuuskoski",
+        "fi": "Reino Kuuskoski",
+        "sv": "Reino Kuuskoski"
+      }
+    },
+    "martti-miettunen": {
+      "wiki": "Martti Miettunen",
+      "wikidata": "Q471269",
+      "image": "Martti-Miettunen.jpg",
+      "name": {
+        "en": "Martti Miettunen",
+        "fi": "Martti Miettunen",
+        "sv": "Martti Miettunen"
+      }
+    },
+    "ahti-karjalainen": {
+      "wiki": "Ahti Karjalainen",
+      "wikidata": "Q402977",
+      "image": "Ahti-Karjalainen-1980 (cropped).jpg",
+      "name": {
+        "en": "Ahti Karjalainen",
+        "fi": "Ahti Karjalainen",
+        "sv": "Ahti Karjalainen"
+      }
+    },
+    "reino-ragnar-lehto": {
+      "wiki": "Reino Ragnar Lehto",
+      "wikidata": "Q1370901",
+      "image": "Reino-R-Lehto.jpg",
+      "name": {
+        "en": "Reino Ragnar Lehto",
+        "fi": "Reino R. Lehto",
+        "sv": "Reino Ragnar Lehto"
+      }
+    },
+    "johannes-virolainen": {
+      "wiki": "Johannes Virolainen",
+      "wikidata": "Q471278",
+      "image": "Johannes Virolainen 1970 (cropped).jpg",
+      "name": {
+        "en": "Johannes Virolainen",
+        "fi": "Johannes Virolainen",
+        "sv": "Johannes Virolainen"
+      }
+    },
+    "rafael-paasio": {
+      "wiki": "Rafael Paasio",
+      "wikidata": "Q449414",
+      "image": "Rafael-Paasio-1963.jpg",
+      "name": {
+        "en": "Rafael Paasio",
+        "fi": "Rafael Paasio",
+        "sv": "Rafael Paasio"
+      }
+    },
+    "mauno-koivisto": {
+      "wiki": "Mauno Koivisto",
+      "wikidata": "Q29021",
+      "image": "Mauno-Koivisto-1967.jpg",
+      "name": {
+        "en": "Mauno Koivisto",
+        "fi": "Mauno Koivisto",
+        "sv": "Mauno Koivisto"
+      }
+    },
+    "teuvo-aura": {
+      "wiki": "Teuvo Aura",
+      "wikidata": "Q699071",
+      "image": "Teuvo-Aura-1972.jpg",
+      "name": {
+        "en": "Teuvo Aura",
+        "fi": "Teuvo Aura",
+        "sv": "Teuvo Aura"
+      }
+    },
+    "kalevi-sorsa": {
+      "wiki": "Kalevi Sorsa",
+      "wikidata": "Q351710",
+      "image": "Kalevi-Sorsa-1975 (cropped).jpg",
+      "name": {
+        "en": "Kalevi Sorsa",
+        "fi": "Kalevi Sorsa",
+        "sv": "Kalevi Sorsa"
+      }
+    },
+    "keijo-liinamaa": {
+      "wiki": "Keijo Liinamaa",
+      "wikidata": "Q1397964",
+      "image": "Keijo-Liinamaa-1975.jpg",
+      "name": {
+        "en": "Keijo Liinamaa",
+        "fi": "Keijo Liinamaa",
+        "sv": "Keijo Liinamaa"
+      }
+    },
+    "harri-holkeri": {
+      "wiki": "Harri Holkeri",
+      "wikidata": "Q273324",
+      "image": "Holkeri.jpg",
+      "name": {
+        "en": "Harri Holkeri",
+        "fi": "Harri Holkeri",
+        "sv": "Harri Holkeri"
+      }
+    },
+    "esko-aho": {
+      "wiki": "Esko Aho",
+      "wikidata": "Q29024",
+      "image": "Esko Aho in 2022.jpg",
+      "name": {
+        "en": "Esko Aho",
+        "fi": "Esko Aho",
+        "sv": "Esko Aho"
+      }
+    },
+    "paavo-lipponen": {
+      "wiki": "Paavo Lipponen",
+      "wikidata": "Q29110",
+      "image": "Paavo Lipponen 2004.jpg",
+      "name": {
+        "en": "Paavo Lipponen",
+        "fi": "Paavo Lipponen",
+        "sv": "Paavo Lipponen"
+      }
+    },
+    "anneli-jaatteenmaki": {
+      "wiki": "Anneli Jäätteenmäki",
+      "wikidata": "Q229517",
+      "image": "Jäätteenmäki Anneli 2014-02-06 1.jpg",
+      "name": {
+        "en": "Anneli Jäätteenmäki",
+        "fi": "Anneli Jäätteenmäki",
+        "sv": "Anneli Jäätteenmäki"
+      }
+    },
+    "matti-vanhanen": {
+      "wiki": "Matti Vanhanen",
+      "wikidata": "Q182043",
+      "image": "2020-03-02 Matti Vanhanen (cropped).jpg",
+      "name": {
+        "en": "Matti Vanhanen",
+        "fi": "Matti Vanhanen",
+        "sv": "Matti Vanhanen"
+      }
+    },
+    "mari-kiviniemi": {
+      "wiki": "Mari Kiviniemi",
+      "wikidata": "Q105068",
+      "image": "Mari Kiviniemi on November 2, 2010.jpg",
+      "name": {
+        "en": "Mari Kiviniemi",
+        "fi": "Mari Kiviniemi",
+        "sv": "Mari Kiviniemi"
+      }
+    },
+    "jyrki-katainen": {
+      "wiki": "Jyrki Katainen",
+      "wikidata": "Q57638",
+      "image": "EPP Political Assembly, 09-10 March, Helsinki (52736730189) (cropped).jpg",
+      "name": {
+        "en": "Jyrki Katainen",
+        "fi": "Jyrki Katainen",
+        "sv": "Jyrki Katainen"
+      }
+    },
+    "alexander-stubb": {
+      "wiki": "Alexander Stubb",
+      "wikidata": "Q503143",
+      "image": "Alexander Stubb in 2024 (cropped).jpg",
+      "name": {
+        "en": "Alexander Stubb",
+        "fi": "Alexander Stubb",
+        "sv": "Alexander Stubb"
+      }
+    },
+    "juha-sipila": {
+      "wiki": "Juha Sipilä",
+      "wikidata": "Q1711532",
+      "image": "Juha Sipila in Stockholm, Sweden on April 17, 2018 (cropped).JPG",
+      "name": {
+        "en": "Juha Sipilä",
+        "fi": "Juha Sipilä",
+        "sv": "Juha Sipilä"
+      }
+    },
+    "antti-rinne": {
+      "wiki": "Antti Rinne",
+      "wikidata": "Q11852228",
+      "image": "Antti Rinne.jpg",
+      "name": {
+        "en": "Antti Rinne",
+        "fi": "Antti Rinne",
+        "sv": "Antti Rinne"
+      }
+    },
+    "sanna-marin": {
+      "wiki": "Sanna Marin",
+      "wikidata": "Q16986436",
+      "image": "Eurooppa-neuvosto 23.–24.3.2023 (52766857233) (cropped).jpg",
+      "name": {
+        "en": "Sanna Marin",
+        "fi": "Sanna Marin",
+        "sv": "Sanna Marin"
+      }
+    },
+    "petteri-orpo": {
+      "wiki": "Petteri Orpo",
+      "wikidata": "Q6029546",
+      "image": "Petteri-Orpo-01 (cropped).jpg",
+      "name": {
+        "en": "Petteri Orpo",
+        "fi": "Petteri Orpo",
+        "sv": "Petteri Orpo"
+      }
+    }
+  },
+  "parties": {
+    "Social Democratic Party of Finland": {
+      "key": "social-democratic-party-of-finland",
+      "wikidata": "Q499029",
+      "name": {
+        "en": "Social Democratic Party of Finland",
+        "fi": "Suomen Sosialidemokraattinen Puolue",
+        "sv": "Finlands Socialdemokratiska parti"
+      },
+      "bloc": "centre-left",
+      "color": "#F54B4B"
+    },
+    "Finnish People's Democratic League": {
+      "key": "finnish-people-s-democratic-league",
+      "wikidata": "Q585735",
+      "name": {
+        "en": "Finnish People's Democratic League",
+        "fi": "Suomen Kansan Demokraattinen Liitto",
+        "sv": "Demokratiska förbundet för Finlands folk"
+      },
+      "bloc": "left",
+      "color": "#C30B02"
+    },
+    "Centre Party (Finland)": {
+      "key": "centre-party",
+      "wikidata": "Q506591",
+      "name": {
+        "en": "Centre Party",
+        "fi": "Suomen Keskusta",
+        "sv": "Centern i Finland"
+      },
+      "bloc": "centre",
+      "color": "#3AAD2E"
+    },
+    "National Coalition Party": {
+      "key": "national-coalition-party",
+      "wikidata": "Q304191",
+      "name": {
+        "en": "National Coalition Party",
+        "fi": "Kansallinen Kokoomus",
+        "sv": "Samlingspartiet"
+      },
+      "bloc": "centre-right",
+      "color": "#006288"
+    },
+    "Swedish People's Party of Finland": {
+      "key": "swedish-people-s-party-of-finland",
+      "wikidata": "Q845537",
+      "name": {
+        "en": "Swedish People's Party of Finland",
+        "fi": "Suomen ruotsalainen kansanpuolue",
+        "sv": "Svenska folkpartiet i Finland"
+      },
+      "bloc": "centre",
+      "color": "#ffdd93"
+    },
+    "National Progressive Party (Finland)": {
+      "key": "national-progressive-party",
+      "wikidata": "Q1191102",
+      "name": {
+        "en": "National Progressive Party",
+        "fi": "Kansallinen Edistyspuolue",
+        "sv": "Framstegspartiet"
+      },
+      "bloc": "right",
+      "color": "#FFD700"
+    },
+    "Liberal Swedish Party": {
+      "key": "liberal-swedish-party",
+      "wikidata": "Q1616222",
+      "name": {
+        "en": "Liberal Swedish Party",
+        "fi": "Ruotsalainen vapaamielinen puolue",
+        "sv": "Svensk vänster"
+      },
+      "bloc": "centre"
+    },
+    "Åland Coalition": {
+      "key": "aland-coalition",
+      "wikidata": "Q11903314",
+      "name": {
+        "en": "Åland Coalition",
+        "fi": "Åländsk Samling",
+        "sv": "Åländsk Samling"
+      },
+      "bloc": "centre",
+      "color": "#D7DB50"
+    },
+    "People's Party of Finland (1951)": {
+      "key": "people-s-party-of-finland",
+      "wikidata": "Q1628434",
+      "name": {
+        "en": "People's Party of Finland",
+        "fi": "Suomen Kansanpuolue",
+        "sv": "Finska folkpartiet"
+      },
+      "bloc": "centre-right"
+    },
+    "Social Democratic Union of Workers and Smallholders": {
+      "key": "social-democratic-union-of-workers-and-smallholders",
+      "wikidata": "Q1813319",
+      "name": {
+        "en": "Social Democratic Union of Workers and Smallholders",
+        "fi": "Työväen ja Pienviljelijäin Sosialidemokraattinen Liitto",
+        "sv": "Arbetarnas och småbrukarnas socialdemokratiska förbund"
+      },
+      "bloc": "centre-left",
+      "color": "#A41C37"
+    },
+    "Liberal League (Finland)": {
+      "key": "liberal-league",
+      "wikidata": "Q914375",
+      "name": {
+        "en": "Liberal League",
+        "fi": "Vapaamielisten Liitto",
+        "sv": "De Frisinnades Förbund"
+      },
+      "bloc": "centre"
+    },
+    "Liberals (Finland)": {
+      "key": "liberals",
+      "wikidata": "Q613849",
+      "name": {
+        "en": "Liberals",
+        "fi": "Liberaalinen Kansanpuolue",
+        "sv": "Liberala folkpartiet"
+      },
+      "bloc": "centre",
+      "color": "#ECB04E"
+    },
+    "Finnish Rural Party": {
+      "key": "finnish-rural-party",
+      "wikidata": "Q1854411",
+      "name": {
+        "en": "Finnish Rural Party",
+        "fi": "Suomen Maaseudun Puolue",
+        "sv": "Finlands landsbygdsparti"
+      },
+      "bloc": "centre",
+      "color": "#0032CA"
+    },
+    "Christian Democrats (Finland)": {
+      "key": "christian-democrats",
+      "wikidata": "Q1138982",
+      "name": {
+        "en": "Christian Democrats",
+        "fi": "Suomen Kristillisdemokraatit",
+        "sv": "Kristdemokraterna i Finland (KD)"
+      },
+      "bloc": "centre-right",
+      "color": "#2B67C9"
+    },
+    "Finnish People's Unity Party": {
+      "key": "finnish-people-s-unity-party",
+      "wikidata": "Q5450807",
+      "name": {
+        "en": "Finnish People's Unity Party",
+        "fi": "Suomen Kansan Yhtenäisyyden Puolue",
+        "sv": "Finlands folks enhetsparti"
+      },
+      "bloc": "centre"
+    },
+    "Constitutional Right Party": {
+      "key": "constitutional-right-party",
+      "wikidata": "Q5164311",
+      "name": {
+        "en": "Constitutional Right Party",
+        "fi": "Perustuslaillinen oikeistopuolue",
+        "sv": "Konstitutionella högerpartiet"
+      },
+      "bloc": "right"
+    },
+    "Centre Party–Liberal People's Party": {
+      "key": "centre-party-liberal-people-s-party",
+      "name": {
+        "en": "Centre Party–Liberal People's Party"
+      },
+      "bloc": "centre"
+    },
+    "Green League": {
+      "key": "green-league",
+      "wikidata": "Q196695",
+      "name": {
+        "en": "Green League",
+        "fi": "Vihreä liitto",
+        "sv": "De Gröna"
+      },
+      "bloc": "centre-left",
+      "color": "#006845"
+    },
+    "Others": {
+      "key": "others",
+      "wikidata": "Q3988615",
+      "name": {
+        "en": "Others"
+      },
+      "bloc": "other",
+      "color": "#DDDDBB"
+    },
+    "Democratic Alternative (Finland)": {
+      "key": "democratic-alternative",
+      "wikidata": "Q540982",
+      "name": {
+        "en": "Democratic Alternative",
+        "fi": "Demokraattinen Vaihtoehto",
+        "sv": "Demokratiskt Alternativ"
+      },
+      "bloc": "far-left",
+      "color": "#FF4D00"
+    },
+    "Liberals for Åland–Social Democrats": {
+      "key": "liberals-for-aland-social-democrats",
+      "name": {
+        "en": "Liberals for Åland–Social Democrats"
+      },
+      "bloc": "centre"
+    },
+    "Left Alliance (Finland)": {
+      "key": "left-alliance",
+      "wikidata": "Q385927",
+      "name": {
+        "en": "Left Alliance",
+        "fi": "Vasemmistoliitto",
+        "sv": "Vänsterförbundet"
+      },
+      "bloc": "left",
+      "color": "#F00A64"
+    },
+    "Liberals for Åland–Freeminded–Greens": {
+      "key": "liberals-for-aland-freeminded-greens",
+      "name": {
+        "en": "Liberals for Åland–Freeminded–Greens"
+      },
+      "bloc": "centre"
+    },
+    "Young Finns": {
+      "key": "young-finns",
+      "wikidata": "Q8058120",
+      "name": {
+        "en": "Young Finns",
+        "fi": "Nuorsuomalaiset",
+        "sv": "Ungfinnarna"
+      },
+      "bloc": "centre-right",
+      "color": "#109473"
+    },
+    "Kirjava ”Puolue” – Elonkehän Puolesta": {
+      "key": "kirjava-puolue-elonkehan-puolesta",
+      "wikidata": "Q10480674",
+      "name": {
+        "en": "Kirjava ”Puolue” – Elonkehän Puolesta",
+        "fi": "Kirjava ”Puolue” – Elonkehän Puolesta",
+        "sv": "Ekologiska partiet (Finland)"
+      },
+      "bloc": "left"
+    },
+    "Liberals for Åland": {
+      "key": "liberals-for-aland",
+      "wikidata": "Q923843",
+      "name": {
+        "en": "Liberals for Åland",
+        "fi": "Ahvenanmaan liberaalit",
+        "sv": "Liberalerna på Åland"
+      },
+      "bloc": "centre",
+      "color": "#1F66CA"
+    },
+    "Reform Group (Finland)": {
+      "key": "reform-group",
+      "wikidata": "Q15117358",
+      "name": {
+        "en": "Reform Group",
+        "fi": "Remonttiryhmä",
+        "sv": "Remonttiryhmä"
+      },
+      "bloc": "right",
+      "color": "#E6E600"
+    },
+    "Finns Party": {
+      "key": "finns-party",
+      "wikidata": "Q634277",
+      "name": {
+        "en": "Finns Party",
+        "fi": "Perussuomalaiset",
+        "sv": "Sannfinländarna"
+      },
+      "bloc": "right",
+      "color": "#FFDE55"
+    },
+    "Freeminded Cooperation–Non-aligned Coalition": {
+      "key": "freeminded-cooperation-non-aligned-coalition",
+      "name": {
+        "en": "Freeminded Cooperation–Non-aligned Coalition"
+      },
+      "bloc": "centre-right"
+    },
+    "Civic Alliance (C–FS–LIB–ObS)": {
+      "key": "civic-alliance",
+      "name": {
+        "en": "Civic Alliance"
+      },
+      "bloc": "centre-right"
+    },
+    "True Finns": {
+      "key": "finns-party",
+      "wikidata": "Q634277",
+      "name": {
+        "en": "True Finns",
+        "fi": "Perussuomalaiset",
+        "sv": "Sannfinländarna"
+      },
+      "bloc": "right",
+      "color": "#FFDE55"
+    },
+    "Åland Coalition 2011 (C–Ob–S–ÅF)": {
+      "key": "aland-coalition-2011",
+      "name": {
+        "en": "Åland Coalition 2011"
+      },
+      "bloc": "centre"
+    },
+    "Åland Coalition 2015 (C–M–S)": {
+      "key": "aland-coalition-2015",
+      "name": {
+        "en": "Åland Coalition 2015"
+      },
+      "bloc": "centre"
+    },
+    "Movement Now": {
+      "key": "movement-now",
+      "wikidata": "Q52157683",
+      "name": {
+        "en": "Movement Now",
+        "fi": "Liike Nyt",
+        "sv": "Rörelse Nu"
+      },
+      "bloc": "centre-right",
+      "color": "#ae2375"
+    },
+    "For Åland (C–L–M–S–ÅF)": {
+      "key": "for-aland",
+      "name": {
+        "en": "For Åland"
+      },
+      "bloc": "centre"
+    }
+  }
+}

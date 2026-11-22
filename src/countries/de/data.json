@@ -1,0 +1,1761 @@
+{
+ "meta": {
+  "code": "de",
+  "slug": "germany",
+  "name": {
+   "en": "Germany",
+   "de": "Deutschland"
+  },
+  "languages": [
+   "en",
+   "de"
+  ],
+  "emblem": "/countries/de/emblem.png"
+ },
+ "chamber": {
+  "en": "Bundestag",
+  "de": "Deutscher Bundestag"
+ },
+ "termLabel": {
+  "en": "Bundestag",
+  "de": "Bundestag"
+ },
+ "leaderTitle": {
+  "en": "Federal Chancellor",
+  "de": "Bundeskanzler"
+ },
+ "blocs": [
+  {
+   "key": "far-left",
+   "name": {
+    "en": "Far-left",
+    "de": "Linksextremismus"
+   },
+   "hue": 340,
+   "color": "#9f1239"
+  },
+  {
+   "key": "left",
+   "name": {
+    "en": "Left",
+    "de": "politische Linke"
+   },
+   "hue": 0,
+   "color": "#dc2626"
+  },
+  {
+   "key": "centre-left",
+   "name": {
+    "en": "Centre-left",
+    "de": "Mitte-links"
+   },
+   "hue": 12,
+   "color": "#f87171"
+  },
+  {
+   "key": "centre-right",
+   "name": {
+    "en": "Centre-right",
+    "de": "Mitte-rechts"
+   },
+   "hue": 200,
+   "color": "#38bdf8"
+  },
+  {
+   "key": "right",
+   "name": {
+    "en": "Right",
+    "de": "politische Rechte"
+   },
+   "hue": 222,
+   "color": "#2563eb"
+  },
+  {
+   "key": "far-right",
+   "name": {
+    "en": "Far-right",
+    "de": "Rechtsextremismus"
+   },
+   "hue": 262,
+   "color": "#7c3aed"
+  },
+  {
+   "key": "other",
+   "name": {
+    "en": "Other"
+   },
+   "color": "#94a3b8"
+  }
+ ],
+ "pms": {
+  "konrad-adenauer": {
+   "name": {
+    "en": "Konrad Adenauer",
+    "de": "Konrad Adenauer"
+   },
+   "photo": "/countries/de/pm/konrad-adenauer.jpg"
+  },
+  "ludwig-erhard": {
+   "name": {
+    "en": "Ludwig Erhard",
+    "de": "Ludwig Erhard"
+   },
+   "photo": "/countries/de/pm/ludwig-erhard.jpg"
+  },
+  "kurt-georg-kiesinger": {
+   "name": {
+    "en": "Kurt Georg Kiesinger",
+    "de": "Kurt Georg Kiesinger"
+   },
+   "photo": "/countries/de/pm/kurt-georg-kiesinger.jpg"
+  },
+  "willy-brandt": {
+   "name": {
+    "en": "Willy Brandt",
+    "de": "Willy Brandt"
+   },
+   "photo": "/countries/de/pm/willy-brandt.jpg"
+  },
+  "helmut-schmidt": {
+   "name": {
+    "en": "Helmut Schmidt",
+    "de": "Helmut Schmidt"
+   },
+   "photo": "/countries/de/pm/helmut-schmidt.jpg"
+  },
+  "helmut-kohl": {
+   "name": {
+    "en": "Helmut Kohl",
+    "de": "Helmut Kohl"
+   },
+   "photo": "/countries/de/pm/helmut-kohl.jpg"
+  },
+  "gerhard-schroder": {
+   "name": {
+    "en": "Gerhard Schröder",
+    "de": "Gerhard Schröder"
+   },
+   "photo": "/countries/de/pm/gerhard-schroder.jpg"
+  },
+  "angela-merkel": {
+   "name": {
+    "en": "Angela Merkel",
+    "de": "Angela Merkel"
+   },
+   "photo": "/countries/de/pm/angela-merkel.jpg"
+  },
+  "olaf-scholz": {
+   "name": {
+    "en": "Olaf Scholz",
+    "de": "Olaf Scholz"
+   },
+   "photo": "/countries/de/pm/olaf-scholz.jpg"
+  },
+  "friedrich-merz": {
+   "name": {
+    "en": "Friedrich Merz",
+    "de": "Friedrich Merz"
+   },
+   "photo": "/countries/de/pm/friedrich-merz.jpg"
+  }
+ },
+ "terms": [
+  {
+   "term": 1,
+   "year": 1949,
+   "pm": "konrad-adenauer",
+   "seats": 402,
+   "results": [
+    {
+     "id": "social-democratic-party-of-germany",
+     "name": {
+      "en": "Social Democratic Party of Germany",
+      "de": "Sozialdemokratische Partei Deutschlands"
+     },
+     "seats": 131,
+     "bloc": "centre-left",
+     "color": "#E3000F"
+    },
+    {
+     "id": "christian-democratic-union-of-germany",
+     "name": {
+      "en": "Christian Democratic Union of Germany",
+      "de": "Christlich Demokratische Union Deutschlands"
+     },
+     "seats": 115,
+     "bloc": "centre-right",
+     "color": "#151518"
+    },
+    {
+     "id": "free-democratic-party",
+     "name": {
+      "en": "Free Democratic Party",
+      "de": "Freie Demokratische Partei"
+     },
+     "seats": 52,
+     "bloc": "centre-right",
+     "color": "#FFED00"
+    },
+    {
+     "id": "christian-social-union-in-bavaria",
+     "name": {
+      "en": "Christian Social Union in Bavaria",
+      "de": "Christlich-Soziale Union in Bayern"
+     },
+     "seats": 24,
+     "bloc": "centre-right",
+     "color": "#008AC5"
+    },
+    {
+     "id": "bavaria-party",
+     "name": {
+      "en": "Bavaria Party",
+      "de": "Bayernpartei"
+     },
+     "seats": 17,
+     "bloc": "right",
+     "color": "#386ABC"
+    },
+    {
+     "id": "german-party",
+     "name": {
+      "en": "German Party",
+      "de": "Deutsche Partei"
+     },
+     "seats": 17,
+     "bloc": "right",
+     "color": "#66B67F"
+    },
+    {
+     "id": "communist-party-of-germany",
+     "name": {
+      "en": "Communist Party of Germany",
+      "de": "Kommunistische Partei Deutschlands"
+     },
+     "seats": 15,
+     "bloc": "far-left",
+     "color": "#8B0000"
+    },
+    {
+     "id": "economic-reconstruction-union",
+     "name": {
+      "en": "Economic Reconstruction Union",
+      "de": "Wirtschaftliche Aufbau-Vereinigung"
+     },
+     "seats": 12,
+     "bloc": "right",
+     "color": "#D5AC2F"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "de": "Deutsche Zentrumspartei"
+     },
+     "seats": 10,
+     "bloc": "centre-right",
+     "color": "#004C90"
+    },
+    {
+     "id": "deutsche-rechtspartei",
+     "name": {
+      "en": "Deutsche Rechtspartei",
+      "de": "Deutsche Konservative Partei – Deutsche Rechtspartei"
+     },
+     "seats": 5,
+     "bloc": "far-right",
+     "color": "#85553D"
+    },
+    {
+     "id": "independents",
+     "name": {
+      "en": "Independents",
+      "de": "Independent"
+     },
+     "seats": 3,
+     "bloc": "other",
+     "color": "#DCDCDC"
+    },
+    {
+     "id": "south-schleswig-voters-association",
+     "name": {
+      "en": "South Schleswig Voters' Association",
+      "de": "Südschleswigscher Wählerverband"
+     },
+     "seats": 1,
+     "bloc": "centre-left",
+     "color": "#003C8F"
+    }
+   ]
+  },
+  {
+   "term": 2,
+   "year": 1953,
+   "pm": "konrad-adenauer",
+   "seats": 509,
+   "results": [
+    {
+     "id": "christian-democratic-union-of-germany",
+     "name": {
+      "en": "Christian Democratic Union of Germany",
+      "de": "Christlich Demokratische Union Deutschlands"
+     },
+     "seats": 197,
+     "bloc": "centre-right",
+     "color": "#151518"
+    },
+    {
+     "id": "social-democratic-party-of-germany",
+     "name": {
+      "en": "Social Democratic Party of Germany",
+      "de": "Sozialdemokratische Partei Deutschlands"
+     },
+     "seats": 162,
+     "bloc": "centre-left",
+     "color": "#E3000F"
+    },
+    {
+     "id": "free-democratic-party",
+     "name": {
+      "en": "Free Democratic Party",
+      "de": "Freie Demokratische Partei"
+     },
+     "seats": 53,
+     "bloc": "centre-right",
+     "color": "#FFED00"
+    },
+    {
+     "id": "christian-social-union-in-bavaria",
+     "name": {
+      "en": "Christian Social Union in Bavaria",
+      "de": "Christlich-Soziale Union in Bayern"
+     },
+     "seats": 52,
+     "bloc": "centre-right",
+     "color": "#008AC5"
+    },
+    {
+     "id": "all-german-bloc-league-of-expellees-and-deprived-of-rights",
+     "name": {
+      "en": "All-German Bloc/League of Expellees and Deprived of Rights",
+      "de": "Gesamtdeutscher Block/Bund der Heimatvertriebenen und Entrechteten"
+     },
+     "seats": 27,
+     "bloc": "right",
+     "color": "#C3C318"
+    },
+    {
+     "id": "german-party",
+     "name": {
+      "en": "German Party",
+      "de": "Deutsche Partei"
+     },
+     "seats": 15,
+     "bloc": "right",
+     "color": "#66B67F"
+    },
+    {
+     "id": "centre-party",
+     "name": {
+      "en": "Centre Party",
+      "de": "Deutsche Zentrumspartei"
+     },
+     "seats": 3,
+     "bloc": "centre-right",
+     "color": "#004C90"
+    }
+   ]
+  },
+  {
+   "term": 3,
+   "year": 1957,
+   "pm": "konrad-adenauer",
+   "seats": 519,
+   "results": [
+    {
+     "id": "christian-democratic-union-of-germany",
+     "name": {
+      "en": "Christian Democratic Union of Germany",
+      "de": "Christlich Demokratische Union Deutschlands"
+     },
+     "seats": 222,
+     "bloc": "centre-right",
+     "color": "#151518"
+    },
+    {
+     "id": "social-democratic-party-of-germany",
+     "name": {
+      "en": "Social Democratic Party of Germany",
+      "de": "Sozialdemokratische Partei Deutschlands"
+     },
+     "seats": 181,
+     "bloc": "centre-left",
+     "color": "#E3000F"
+    },
+    {
+     "id": "christian-social-union-in-bavaria",
+     "name": {
+      "en": "Christian Social Union in Bavaria",
+      "de": "Christlich-Soziale Union in Bayern"
+     },
+     "seats": 55,
+     "bloc": "centre-right",
+     "color": "#008AC5"
+    },
+    {
+     "id": "free-democratic-party",
+     "name": {
+      "en": "Free Democratic Party",
+      "de": "Freie Demokratische Partei"
+     },
+     "seats": 43,
+     "bloc": "centre-right",
+     "color": "#FFED00"
+    },
+    {
+     "id": "german-party",
+     "name": {
+      "en": "German Party",
+      "de": "Deutsche Partei"
+     },
+     "seats": 17,
+     "bloc": "right",
+     "color": "#66B67F"
+    },
+    {
+     "id": "free-people-s-party",
+     "name": {
+      "en": "Free People's Party",
+      "de": "Freie Volkspartei"
+     },
+     "seats": 1,
+     "bloc": "centre-right",
+     "color": "#FFED00"
+    }
+   ]
+  },
+  {
+   "term": 4,
+   "year": 1961,
+   "pm": "konrad-adenauer",
+   "seats": 521,
+   "results": [
+    {
+     "id": "social-democratic-party-of-germany",
+     "name": {
+      "en": "Social Democratic Party of Germany",
+      "de": "Sozialdemokratische Partei Deutschlands"
+     },
+     "seats": 203,
+     "bloc": "centre-left",
+     "color": "#E3000F"
+    },
+    {
+     "id": "christian-democratic-union-of-germany",
+     "name": {
+      "en": "Christian Democratic Union of Germany",
+      "de": "Christlich Demokratische Union Deutschlands"
+     },
+     "seats": 201,
+     "bloc": "centre-right",
+     "color": "#151518"
+    },
+    {
+     "id": "free-democratic-party",
+     "name": {
+      "en": "Free Democratic Party",
+      "de": "Freie Demokratische Partei"
+     },
+     "seats": 67,
+     "bloc": "centre-right",
+     "color": "#FFED00"
+    },
+    {
+     "id": "christian-social-union-in-bavaria",
+     "name": {
+      "en": "Christian Social Union in Bavaria",
+      "de": "Christlich-Soziale Union in Bayern"
+     },
+     "seats": 50,
+     "bloc": "centre-right",
+     "color": "#008AC5"
+    }
+   ]
+  },
+  {
+   "term": 4,
+   "year": 1963,
+   "pm": "ludwig-erhard",
+   "seats": 521,
+   "results": [
+    {
+     "id": "social-democratic-party-of-germany",
+     "name": {
+      "en": "Social Democratic Party of Germany",
+      "de": "Sozialdemokratische Partei Deutschlands"
+     },
+     "seats": 203,
+     "bloc": "centre-left",
+     "color": "#E3000F"
+    },
+    {
+     "id": "christian-democratic-union-of-germany",
+     "name": {
+      "en": "Christian Democratic Union of Germany",
+      "de": "Christlich Demokratische Union Deutschlands"
+     },
+     "seats": 201,
+     "bloc": "centre-right",
+     "color": "#151518"
+    },
+    {
+     "id": "free-democratic-party",
+     "name": {
+      "en": "Free Democratic Party",
+      "de": "Freie Demokratische Partei"
+     },
+     "seats": 67,
+     "bloc": "centre-right",
+     "color": "#FFED00"
+    },
+    {
+     "id": "christian-social-union-in-bavaria",
+     "name": {
+      "en": "Christian Social Union in Bavaria",
+      "de": "Christlich-Soziale Union in Bayern"
+     },
+     "seats": 50,
+     "bloc": "centre-right",
+     "color": "#008AC5"
+    }
+   ]
+  },
+  {
+   "term": 5,
+   "year": 1965,
+   "pm": "ludwig-erhard",
+   "seats": 518,
+   "results": [
+    {
+     "id": "social-democratic-party-of-germany",
+     "name": {
+      "en": "Social Democratic Party of Germany",
+      "de": "Sozialdemokratische Partei Deutschlands"
+     },
+     "seats": 217,
+     "bloc": "centre-left",
+     "color": "#E3000F"
+    },
+    {
+     "id": "christian-democratic-union-of-germany",
+     "name": {
+      "en": "Christian Democratic Union of Germany",
+      "de": "Christlich Demokratische Union Deutschlands"
+     },
+     "seats": 202,
+     "bloc": "centre-right",
+     "color": "#151518"
+    },
+    {
+     "id": "free-democratic-party",
+     "name": {
+      "en": "Free Democratic Party",
+      "de": "Freie Demokratische Partei"
+     },
+     "seats": 50,
+     "bloc": "centre-right",
+     "color": "#FFED00"
+    },
+    {
+     "id": "christian-social-union-in-bavaria",
+     "name": {
+      "en": "Christian Social Union in Bavaria",
+      "de": "Christlich-Soziale Union in Bayern"
+     },
+     "seats": 49,
+     "bloc": "centre-right",
+     "color": "#008AC5"
+    }
+   ]
+  },
+  {
+   "term": 5,
+   "year": 1966,
+   "pm": "kurt-georg-kiesinger",
+   "seats": 518,
+   "results": [
+    {
+     "id": "social-democratic-party-of-germany",
+     "name": {
+      "en": "Social Democratic Party of Germany",
+      "de": "Sozialdemokratische Partei Deutschlands"
+     },
+     "seats": 217,
+     "bloc": "centre-left",
+     "color": "#E3000F"
+    },
+    {
+     "id": "christian-democratic-union-of-germany",
+     "name": {
+      "en": "Christian Democratic Union of Germany",
+      "de": "Christlich Demokratische Union Deutschlands"
+     },
+     "seats": 202,
+     "bloc": "centre-right",
+     "color": "#151518"
+    },
+    {
+     "id": "free-democratic-party",
+     "name": {
+      "en": "Free Democratic Party",
+      "de": "Freie Demokratische Partei"
+     },
+     "seats": 50,
+     "bloc": "centre-right",
+     "color": "#FFED00"
+    },
+    {
+     "id": "christian-social-union-in-bavaria",
+     "name": {
+      "en": "Christian Social Union in Bavaria",
+      "de": "Christlich-Soziale Union in Bayern"
+     },
+     "seats": 49,
+     "bloc": "centre-right",
+     "color": "#008AC5"
+    }
+   ]
+  },
+  {
+   "term": 6,
+   "year": 1969,
+   "pm": "willy-brandt",
+   "seats": 518,
+   "results": [
+    {
+     "id": "social-democratic-party-of-germany",
+     "name": {
+      "en": "Social Democratic Party of Germany",
+      "de": "Sozialdemokratische Partei Deutschlands"
+     },
+     "seats": 237,
+     "bloc": "centre-left",
+     "color": "#E3000F"
+    },
+    {
+     "id": "christian-democratic-union-of-germany",
+     "name": {
+      "en": "Christian Democratic Union of Germany",
+      "de": "Christlich Demokratische Union Deutschlands"
+     },
+     "seats": 201,
+     "bloc": "centre-right",
+     "color": "#151518"
+    },
+    {
+     "id": "christian-social-union-in-bavaria",
+     "name": {
+      "en": "Christian Social Union in Bavaria",
+      "de": "Christlich-Soziale Union in Bayern"
+     },
+     "seats": 49,
+     "bloc": "centre-right",
+     "color": "#008AC5"
+    },
+    {
+     "id": "free-democratic-party",
+     "name": {
+      "en": "Free Democratic Party",
+      "de": "Freie Demokratische Partei"
+     },
+     "seats": 31,
+     "bloc": "centre-right",
+     "color": "#FFED00"
+    }
+   ]
+  },
+  {
+   "term": 7,
+   "year": 1972,
+   "pm": "willy-brandt",
+   "seats": 518,
+   "results": [
+    {
+     "id": "social-democratic-party-of-germany",
+     "name": {
+      "en": "Social Democratic Party of Germany",
+      "de": "Sozialdemokratische Partei Deutschlands"
+     },
+     "seats": 242,
+     "bloc": "centre-left",
+     "color": "#E3000F"
+    },
+    {
+     "id": "christian-democratic-union-of-germany",
+     "name": {
+      "en": "Christian Democratic Union of Germany",
+      "de": "Christlich Demokratische Union Deutschlands"
+     },
+     "seats": 186,
+     "bloc": "centre-right",
+     "color": "#151518"
+    },
+    {
+     "id": "christian-social-union-in-bavaria",
+     "name": {
+      "en": "Christian Social Union in Bavaria",
+      "de": "Christlich-Soziale Union in Bayern"
+     },
+     "seats": 48,
+     "bloc": "centre-right",
+     "color": "#008AC5"
+    },
+    {
+     "id": "free-democratic-party",
+     "name": {
+      "en": "Free Democratic Party",
+      "de": "Freie Demokratische Partei"
+     },
+     "seats": 42,
+     "bloc": "centre-right",
+     "color": "#FFED00"
+    }
+   ]
+  },
+  {
+   "term": 7,
+   "year": 1974,
+   "pm": "helmut-schmidt",
+   "seats": 518,
+   "results": [
+    {
+     "id": "social-democratic-party-of-germany",
+     "name": {
+      "en": "Social Democratic Party of Germany",
+      "de": "Sozialdemokratische Partei Deutschlands"
+     },
+     "seats": 242,
+     "bloc": "centre-left",
+     "color": "#E3000F"
+    },
+    {
+     "id": "christian-democratic-union-of-germany",
+     "name": {
+      "en": "Christian Democratic Union of Germany",
+      "de": "Christlich Demokratische Union Deutschlands"
+     },
+     "seats": 186,
+     "bloc": "centre-right",
+     "color": "#151518"
+    },
+    {
+     "id": "christian-social-union-in-bavaria",
+     "name": {
+      "en": "Christian Social Union in Bavaria",
+      "de": "Christlich-Soziale Union in Bayern"
+     },
+     "seats": 48,
+     "bloc": "centre-right",
+     "color": "#008AC5"
+    },
+    {
+     "id": "free-democratic-party",
+     "name": {
+      "en": "Free Democratic Party",
+      "de": "Freie Demokratische Partei"
+     },
+     "seats": 42,
+     "bloc": "centre-right",
+     "color": "#FFED00"
+    }
+   ]
+  },
+  {
+   "term": 8,
+   "year": 1976,
+   "pm": "helmut-schmidt",
+   "seats": 518,
+   "results": [
+    {
+     "id": "social-democratic-party-of-germany",
+     "name": {
+      "en": "Social Democratic Party of Germany",
+      "de": "Sozialdemokratische Partei Deutschlands"
+     },
+     "seats": 224,
+     "bloc": "centre-left",
+     "color": "#E3000F"
+    },
+    {
+     "id": "christian-democratic-union-of-germany",
+     "name": {
+      "en": "Christian Democratic Union of Germany",
+      "de": "Christlich Demokratische Union Deutschlands"
+     },
+     "seats": 201,
+     "bloc": "centre-right",
+     "color": "#151518"
+    },
+    {
+     "id": "christian-social-union-in-bavaria",
+     "name": {
+      "en": "Christian Social Union in Bavaria",
+      "de": "Christlich-Soziale Union in Bayern"
+     },
+     "seats": 53,
+     "bloc": "centre-right",
+     "color": "#008AC5"
+    },
+    {
+     "id": "free-democratic-party",
+     "name": {
+      "en": "Free Democratic Party",
+      "de": "Freie Demokratische Partei"
+     },
+     "seats": 40,
+     "bloc": "centre-right",
+     "color": "#FFED00"
+    }
+   ]
+  },
+  {
+   "term": 9,
+   "year": 1980,
+   "pm": "helmut-schmidt",
+   "seats": 519,
+   "results": [
+    {
+     "id": "social-democratic-party-of-germany",
+     "name": {
+      "en": "Social Democratic Party of Germany",
+      "de": "Sozialdemokratische Partei Deutschlands"
+     },
+     "seats": 228,
+     "bloc": "centre-left",
+     "color": "#E3000F"
+    },
+    {
+     "id": "christian-democratic-union-of-germany",
+     "name": {
+      "en": "Christian Democratic Union of Germany",
+      "de": "Christlich Demokratische Union Deutschlands"
+     },
+     "seats": 185,
+     "bloc": "centre-right",
+     "color": "#151518"
+    },
+    {
+     "id": "free-democratic-party",
+     "name": {
+      "en": "Free Democratic Party",
+      "de": "Freie Demokratische Partei"
+     },
+     "seats": 54,
+     "bloc": "centre-right",
+     "color": "#FFED00"
+    },
+    {
+     "id": "christian-social-union-in-bavaria",
+     "name": {
+      "en": "Christian Social Union in Bavaria",
+      "de": "Christlich-Soziale Union in Bayern"
+     },
+     "seats": 52,
+     "bloc": "centre-right",
+     "color": "#008AC5"
+    }
+   ]
+  },
+  {
+   "term": 9,
+   "year": 1982,
+   "pm": "helmut-kohl",
+   "seats": 519,
+   "results": [
+    {
+     "id": "social-democratic-party-of-germany",
+     "name": {
+      "en": "Social Democratic Party of Germany",
+      "de": "Sozialdemokratische Partei Deutschlands"
+     },
+     "seats": 228,
+     "bloc": "centre-left",
+     "color": "#E3000F"
+    },
+    {
+     "id": "christian-democratic-union-of-germany",
+     "name": {
+      "en": "Christian Democratic Union of Germany",
+      "de": "Christlich Demokratische Union Deutschlands"
+     },
+     "seats": 185,
+     "bloc": "centre-right",
+     "color": "#151518"
+    },
+    {
+     "id": "free-democratic-party",
+     "name": {
+      "en": "Free Democratic Party",
+      "de": "Freie Demokratische Partei"
+     },
+     "seats": 54,
+     "bloc": "centre-right",
+     "color": "#FFED00"
+    },
+    {
+     "id": "christian-social-union-in-bavaria",
+     "name": {
+      "en": "Christian Social Union in Bavaria",
+      "de": "Christlich-Soziale Union in Bayern"
+     },
+     "seats": 52,
+     "bloc": "centre-right",
+     "color": "#008AC5"
+    }
+   ]
+  },
+  {
+   "term": 10,
+   "year": 1983,
+   "pm": "helmut-kohl",
+   "seats": 520,
+   "results": [
+    {
+     "id": "social-democratic-party-of-germany",
+     "name": {
+      "en": "Social Democratic Party of Germany",
+      "de": "Sozialdemokratische Partei Deutschlands"
+     },
+     "seats": 202,
+     "bloc": "centre-left",
+     "color": "#E3000F"
+    },
+    {
+     "id": "christian-democratic-union-of-germany",
+     "name": {
+      "en": "Christian Democratic Union of Germany",
+      "de": "Christlich Demokratische Union Deutschlands"
+     },
+     "seats": 202,
+     "bloc": "centre-right",
+     "color": "#151518"
+    },
+    {
+     "id": "christian-social-union-in-bavaria",
+     "name": {
+      "en": "Christian Social Union in Bavaria",
+      "de": "Christlich-Soziale Union in Bayern"
+     },
+     "seats": 53,
+     "bloc": "centre-right",
+     "color": "#008AC5"
+    },
+    {
+     "id": "free-democratic-party",
+     "name": {
+      "en": "Free Democratic Party",
+      "de": "Freie Demokratische Partei"
+     },
+     "seats": 35,
+     "bloc": "centre-right",
+     "color": "#FFED00"
+    },
+    {
+     "id": "alliance-90-the-greens",
+     "name": {
+      "en": "Alliance 90/The Greens",
+      "de": "Bündnis 90/Die Grünen"
+     },
+     "seats": 28,
+     "bloc": "centre-left",
+     "color": "#409A3C"
+    }
+   ]
+  },
+  {
+   "term": 11,
+   "year": 1987,
+   "pm": "helmut-kohl",
+   "seats": 519,
+   "results": [
+    {
+     "id": "social-democratic-party-of-germany",
+     "name": {
+      "en": "Social Democratic Party of Germany",
+      "de": "Sozialdemokratische Partei Deutschlands"
+     },
+     "seats": 193,
+     "bloc": "centre-left",
+     "color": "#E3000F"
+    },
+    {
+     "id": "christian-democratic-union-of-germany",
+     "name": {
+      "en": "Christian Democratic Union of Germany",
+      "de": "Christlich Demokratische Union Deutschlands"
+     },
+     "seats": 185,
+     "bloc": "centre-right",
+     "color": "#151518"
+    },
+    {
+     "id": "christian-social-union-in-bavaria",
+     "name": {
+      "en": "Christian Social Union in Bavaria",
+      "de": "Christlich-Soziale Union in Bayern"
+     },
+     "seats": 49,
+     "bloc": "centre-right",
+     "color": "#008AC5"
+    },
+    {
+     "id": "free-democratic-party",
+     "name": {
+      "en": "Free Democratic Party",
+      "de": "Freie Demokratische Partei"
+     },
+     "seats": 48,
+     "bloc": "centre-right",
+     "color": "#FFED00"
+    },
+    {
+     "id": "alliance-90-the-greens",
+     "name": {
+      "en": "Alliance 90/The Greens",
+      "de": "Bündnis 90/Die Grünen"
+     },
+     "seats": 44,
+     "bloc": "centre-left",
+     "color": "#409A3C"
+    }
+   ]
+  },
+  {
+   "term": 12,
+   "year": 1990,
+   "pm": "helmut-kohl",
+   "seats": 662,
+   "results": [
+    {
+     "id": "christian-democratic-union-of-germany",
+     "name": {
+      "en": "Christian Democratic Union of Germany",
+      "de": "Christlich Demokratische Union Deutschlands"
+     },
+     "seats": 268,
+     "bloc": "centre-right",
+     "color": "#151518"
+    },
+    {
+     "id": "social-democratic-party-of-germany",
+     "name": {
+      "en": "Social Democratic Party of Germany",
+      "de": "Sozialdemokratische Partei Deutschlands"
+     },
+     "seats": 239,
+     "bloc": "centre-left",
+     "color": "#E3000F"
+    },
+    {
+     "id": "free-democratic-party",
+     "name": {
+      "en": "Free Democratic Party",
+      "de": "Freie Demokratische Partei"
+     },
+     "seats": 79,
+     "bloc": "centre-right",
+     "color": "#FFED00"
+    },
+    {
+     "id": "christian-social-union-in-bavaria",
+     "name": {
+      "en": "Christian Social Union in Bavaria",
+      "de": "Christlich-Soziale Union in Bayern"
+     },
+     "seats": 51,
+     "bloc": "centre-right",
+     "color": "#008AC5"
+    },
+    {
+     "id": "party-of-democratic-socialism",
+     "name": {
+      "en": "Party of Democratic Socialism",
+      "de": "Partei des Demokratischen Sozialismus"
+     },
+     "seats": 17,
+     "bloc": "left",
+     "color": "#FF0000"
+    },
+    {
+     "id": "alliance-90",
+     "name": {
+      "en": "Alliance 90",
+      "de": "Bündnis 90"
+     },
+     "seats": 8,
+     "bloc": "centre-left"
+    }
+   ]
+  },
+  {
+   "term": 13,
+   "year": 1994,
+   "pm": "helmut-kohl",
+   "seats": 672,
+   "results": [
+    {
+     "id": "social-democratic-party-of-germany",
+     "name": {
+      "en": "Social Democratic Party of Germany",
+      "de": "Sozialdemokratische Partei Deutschlands"
+     },
+     "seats": 252,
+     "bloc": "centre-left",
+     "color": "#E3000F"
+    },
+    {
+     "id": "christian-democratic-union-of-germany",
+     "name": {
+      "en": "Christian Democratic Union of Germany",
+      "de": "Christlich Demokratische Union Deutschlands"
+     },
+     "seats": 244,
+     "bloc": "centre-right",
+     "color": "#151518"
+    },
+    {
+     "id": "christian-social-union-in-bavaria",
+     "name": {
+      "en": "Christian Social Union in Bavaria",
+      "de": "Christlich-Soziale Union in Bayern"
+     },
+     "seats": 50,
+     "bloc": "centre-right",
+     "color": "#008AC5"
+    },
+    {
+     "id": "alliance-90-the-greens",
+     "name": {
+      "en": "Alliance 90/The Greens",
+      "de": "Bündnis 90/Die Grünen"
+     },
+     "seats": 49,
+     "bloc": "centre-left",
+     "color": "#409A3C"
+    },
+    {
+     "id": "free-democratic-party",
+     "name": {
+      "en": "Free Democratic Party",
+      "de": "Freie Demokratische Partei"
+     },
+     "seats": 47,
+     "bloc": "centre-right",
+     "color": "#FFED00"
+    },
+    {
+     "id": "party-of-democratic-socialism",
+     "name": {
+      "en": "Party of Democratic Socialism",
+      "de": "Partei des Demokratischen Sozialismus"
+     },
+     "seats": 30,
+     "bloc": "left",
+     "color": "#FF0000"
+    }
+   ]
+  },
+  {
+   "term": 14,
+   "year": 1998,
+   "pm": "gerhard-schroder",
+   "seats": 669,
+   "results": [
+    {
+     "id": "social-democratic-party-of-germany",
+     "name": {
+      "en": "Social Democratic Party of Germany",
+      "de": "Sozialdemokratische Partei Deutschlands"
+     },
+     "seats": 298,
+     "bloc": "centre-left",
+     "color": "#E3000F"
+    },
+    {
+     "id": "christian-democratic-union-of-germany",
+     "name": {
+      "en": "Christian Democratic Union of Germany",
+      "de": "Christlich Demokratische Union Deutschlands"
+     },
+     "seats": 198,
+     "bloc": "centre-right",
+     "color": "#151518"
+    },
+    {
+     "id": "christian-social-union-in-bavaria",
+     "name": {
+      "en": "Christian Social Union in Bavaria",
+      "de": "Christlich-Soziale Union in Bayern"
+     },
+     "seats": 47,
+     "bloc": "centre-right",
+     "color": "#008AC5"
+    },
+    {
+     "id": "alliance-90-the-greens",
+     "name": {
+      "en": "Alliance 90/The Greens",
+      "de": "Bündnis 90/Die Grünen"
+     },
+     "seats": 47,
+     "bloc": "centre-left",
+     "color": "#409A3C"
+    },
+    {
+     "id": "free-democratic-party",
+     "name": {
+      "en": "Free Democratic Party",
+      "de": "Freie Demokratische Partei"
+     },
+     "seats": 43,
+     "bloc": "centre-right",
+     "color": "#FFED00"
+    },
+    {
+     "id": "party-of-democratic-socialism",
+     "name": {
+      "en": "Party of Democratic Socialism",
+      "de": "Partei des Demokratischen Sozialismus"
+     },
+     "seats": 36,
+     "bloc": "left",
+     "color": "#FF0000"
+    }
+   ]
+  },
+  {
+   "term": 15,
+   "year": 2002,
+   "pm": "gerhard-schroder",
+   "seats": 603,
+   "results": [
+    {
+     "id": "social-democratic-party-of-germany",
+     "name": {
+      "en": "Social Democratic Party of Germany",
+      "de": "Sozialdemokratische Partei Deutschlands"
+     },
+     "seats": 251,
+     "bloc": "centre-left",
+     "color": "#E3000F"
+    },
+    {
+     "id": "christian-democratic-union-of-germany",
+     "name": {
+      "en": "Christian Democratic Union of Germany",
+      "de": "Christlich Demokratische Union Deutschlands"
+     },
+     "seats": 190,
+     "bloc": "centre-right",
+     "color": "#151518"
+    },
+    {
+     "id": "christian-social-union-in-bavaria",
+     "name": {
+      "en": "Christian Social Union in Bavaria",
+      "de": "Christlich-Soziale Union in Bayern"
+     },
+     "seats": 58,
+     "bloc": "centre-right",
+     "color": "#008AC5"
+    },
+    {
+     "id": "alliance-90-the-greens",
+     "name": {
+      "en": "Alliance 90/The Greens",
+      "de": "Bündnis 90/Die Grünen"
+     },
+     "seats": 55,
+     "bloc": "centre-left",
+     "color": "#409A3C"
+    },
+    {
+     "id": "free-democratic-party",
+     "name": {
+      "en": "Free Democratic Party",
+      "de": "Freie Demokratische Partei"
+     },
+     "seats": 47,
+     "bloc": "centre-right",
+     "color": "#FFED00"
+    },
+    {
+     "id": "party-of-democratic-socialism",
+     "name": {
+      "en": "Party of Democratic Socialism",
+      "de": "Partei des Demokratischen Sozialismus"
+     },
+     "seats": 2,
+     "bloc": "left",
+     "color": "#FF0000"
+    }
+   ]
+  },
+  {
+   "term": 16,
+   "year": 2005,
+   "pm": "angela-merkel",
+   "seats": 614,
+   "results": [
+    {
+     "id": "social-democratic-party-of-germany",
+     "name": {
+      "en": "Social Democratic Party of Germany",
+      "de": "Sozialdemokratische Partei Deutschlands"
+     },
+     "seats": 222,
+     "bloc": "centre-left",
+     "color": "#E3000F"
+    },
+    {
+     "id": "christian-democratic-union-of-germany",
+     "name": {
+      "en": "Christian Democratic Union of Germany",
+      "de": "Christlich Demokratische Union Deutschlands"
+     },
+     "seats": 180,
+     "bloc": "centre-right",
+     "color": "#151518"
+    },
+    {
+     "id": "free-democratic-party",
+     "name": {
+      "en": "Free Democratic Party",
+      "de": "Freie Demokratische Partei"
+     },
+     "seats": 61,
+     "bloc": "centre-right",
+     "color": "#FFED00"
+    },
+    {
+     "id": "die-linke",
+     "name": {
+      "en": "Die Linke",
+      "de": "Die Linke"
+     },
+     "seats": 54,
+     "bloc": "left",
+     "color": "#BE3075"
+    },
+    {
+     "id": "alliance-90-the-greens",
+     "name": {
+      "en": "Alliance 90/The Greens",
+      "de": "Bündnis 90/Die Grünen"
+     },
+     "seats": 51,
+     "bloc": "centre-left",
+     "color": "#409A3C"
+    },
+    {
+     "id": "christian-social-union-in-bavaria",
+     "name": {
+      "en": "Christian Social Union in Bavaria",
+      "de": "Christlich-Soziale Union in Bayern"
+     },
+     "seats": 46,
+     "bloc": "centre-right",
+     "color": "#008AC5"
+    }
+   ]
+  },
+  {
+   "term": 17,
+   "year": 2009,
+   "pm": "angela-merkel",
+   "seats": 622,
+   "results": [
+    {
+     "id": "christian-democratic-union-of-germany",
+     "name": {
+      "en": "Christian Democratic Union of Germany",
+      "de": "Christlich Demokratische Union Deutschlands"
+     },
+     "seats": 194,
+     "bloc": "centre-right",
+     "color": "#151518"
+    },
+    {
+     "id": "social-democratic-party-of-germany",
+     "name": {
+      "en": "Social Democratic Party of Germany",
+      "de": "Sozialdemokratische Partei Deutschlands"
+     },
+     "seats": 146,
+     "bloc": "centre-left",
+     "color": "#E3000F"
+    },
+    {
+     "id": "free-democratic-party",
+     "name": {
+      "en": "Free Democratic Party",
+      "de": "Freie Demokratische Partei"
+     },
+     "seats": 93,
+     "bloc": "centre-right",
+     "color": "#FFED00"
+    },
+    {
+     "id": "die-linke",
+     "name": {
+      "en": "The Left",
+      "de": "Die Linke"
+     },
+     "seats": 76,
+     "bloc": "left",
+     "color": "#BE3075"
+    },
+    {
+     "id": "alliance-90-the-greens",
+     "name": {
+      "en": "Alliance 90/The Greens",
+      "de": "Bündnis 90/Die Grünen"
+     },
+     "seats": 68,
+     "bloc": "centre-left",
+     "color": "#409A3C"
+    },
+    {
+     "id": "christian-social-union-in-bavaria",
+     "name": {
+      "en": "Christian Social Union in Bavaria",
+      "de": "Christlich-Soziale Union in Bayern"
+     },
+     "seats": 45,
+     "bloc": "centre-right",
+     "color": "#008AC5"
+    }
+   ]
+  },
+  {
+   "term": 18,
+   "year": 2013,
+   "pm": "angela-merkel",
+   "seats": 631,
+   "results": [
+    {
+     "id": "christian-democratic-union-of-germany",
+     "name": {
+      "en": "Christian Democratic Union of Germany",
+      "de": "Christlich Demokratische Union Deutschlands"
+     },
+     "seats": 255,
+     "bloc": "centre-right",
+     "color": "#151518"
+    },
+    {
+     "id": "social-democratic-party-of-germany",
+     "name": {
+      "en": "Social Democratic Party of Germany",
+      "de": "Sozialdemokratische Partei Deutschlands"
+     },
+     "seats": 193,
+     "bloc": "centre-left",
+     "color": "#E3000F"
+    },
+    {
+     "id": "die-linke",
+     "name": {
+      "en": "The Left",
+      "de": "Die Linke"
+     },
+     "seats": 64,
+     "bloc": "left",
+     "color": "#BE3075"
+    },
+    {
+     "id": "alliance-90-the-greens",
+     "name": {
+      "en": "Alliance 90/The Greens",
+      "de": "Bündnis 90/Die Grünen"
+     },
+     "seats": 63,
+     "bloc": "centre-left",
+     "color": "#409A3C"
+    },
+    {
+     "id": "christian-social-union-in-bavaria",
+     "name": {
+      "en": "Christian Social Union in Bavaria",
+      "de": "Christlich-Soziale Union in Bayern"
+     },
+     "seats": 56,
+     "bloc": "centre-right",
+     "color": "#008AC5"
+    }
+   ]
+  },
+  {
+   "term": 19,
+   "year": 2017,
+   "pm": "angela-merkel",
+   "seats": 709,
+   "results": [
+    {
+     "id": "christian-democratic-union-of-germany",
+     "name": {
+      "en": "Christian Democratic Union of Germany",
+      "de": "Christlich Demokratische Union Deutschlands"
+     },
+     "seats": 200,
+     "bloc": "centre-right",
+     "color": "#151518"
+    },
+    {
+     "id": "social-democratic-party-of-germany",
+     "name": {
+      "en": "Social Democratic Party of Germany",
+      "de": "Sozialdemokratische Partei Deutschlands"
+     },
+     "seats": 153,
+     "bloc": "centre-left",
+     "color": "#E3000F"
+    },
+    {
+     "id": "alternative-for-germany",
+     "name": {
+      "en": "Alternative for Germany",
+      "de": "Alternative für Deutschland"
+     },
+     "seats": 94,
+     "bloc": "far-right",
+     "color": "#00A2DE"
+    },
+    {
+     "id": "free-democratic-party",
+     "name": {
+      "en": "Free Democratic Party",
+      "de": "Freie Demokratische Partei"
+     },
+     "seats": 80,
+     "bloc": "centre-right",
+     "color": "#FFED00"
+    },
+    {
+     "id": "die-linke",
+     "name": {
+      "en": "The Left",
+      "de": "Die Linke"
+     },
+     "seats": 69,
+     "bloc": "left",
+     "color": "#BE3075"
+    },
+    {
+     "id": "alliance-90-the-greens",
+     "name": {
+      "en": "Alliance 90/The Greens",
+      "de": "Bündnis 90/Die Grünen"
+     },
+     "seats": 67,
+     "bloc": "centre-left",
+     "color": "#409A3C"
+    },
+    {
+     "id": "christian-social-union-in-bavaria",
+     "name": {
+      "en": "Christian Social Union in Bavaria",
+      "de": "Christlich-Soziale Union in Bayern"
+     },
+     "seats": 46,
+     "bloc": "centre-right",
+     "color": "#008AC5"
+    }
+   ]
+  },
+  {
+   "term": 20,
+   "year": 2021,
+   "pm": "olaf-scholz",
+   "seats": 735,
+   "results": [
+    {
+     "id": "social-democratic-party-of-germany",
+     "name": {
+      "en": "Social Democratic Party of Germany",
+      "de": "Sozialdemokratische Partei Deutschlands"
+     },
+     "seats": 206,
+     "bloc": "centre-left",
+     "color": "#E3000F"
+    },
+    {
+     "id": "christian-democratic-union-of-germany",
+     "name": {
+      "en": "Christian Democratic Union of Germany",
+      "de": "Christlich Demokratische Union Deutschlands"
+     },
+     "seats": 152,
+     "bloc": "centre-right",
+     "color": "#151518"
+    },
+    {
+     "id": "alliance-90-the-greens",
+     "name": {
+      "en": "Alliance 90/The Greens",
+      "de": "Bündnis 90/Die Grünen"
+     },
+     "seats": 118,
+     "bloc": "centre-left",
+     "color": "#409A3C"
+    },
+    {
+     "id": "free-democratic-party",
+     "name": {
+      "en": "Free Democratic Party",
+      "de": "Freie Demokratische Partei"
+     },
+     "seats": 91,
+     "bloc": "centre-right",
+     "color": "#FFED00"
+    },
+    {
+     "id": "alternative-for-germany",
+     "name": {
+      "en": "Alternative for Germany",
+      "de": "Alternative für Deutschland"
+     },
+     "seats": 83,
+     "bloc": "far-right",
+     "color": "#00A2DE"
+    },
+    {
+     "id": "christian-social-union-in-bavaria",
+     "name": {
+      "en": "Christian Social Union in Bavaria",
+      "de": "Christlich-Soziale Union in Bayern"
+     },
+     "seats": 45,
+     "bloc": "centre-right",
+     "color": "#008AC5"
+    },
+    {
+     "id": "die-linke",
+     "name": {
+      "en": "The Left",
+      "de": "Die Linke"
+     },
+     "seats": 39,
+     "bloc": "left",
+     "color": "#BE3075"
+    },
+    {
+     "id": "south-schleswig-voters-association",
+     "name": {
+      "en": "South Schleswig Voters' Association",
+      "de": "Südschleswigscher Wählerverband"
+     },
+     "seats": 1,
+     "bloc": "centre-left",
+     "color": "#003C8F"
+    }
+   ]
+  },
+  {
+   "term": 21,
+   "year": 2025,
+   "pm": "friedrich-merz",
+   "seats": 630,
+   "results": [
+    {
+     "id": "christian-democratic-union-of-germany",
+     "name": {
+      "en": "Christian Democratic Union of Germany",
+      "de": "Christlich Demokratische Union Deutschlands"
+     },
+     "seats": 164,
+     "bloc": "centre-right",
+     "color": "#151518"
+    },
+    {
+     "id": "alternative-for-germany",
+     "name": {
+      "en": "Alternative for Germany",
+      "de": "Alternative für Deutschland"
+     },
+     "seats": 152,
+     "bloc": "far-right",
+     "color": "#00A2DE"
+    },
+    {
+     "id": "social-democratic-party-of-germany",
+     "name": {
+      "en": "Social Democratic Party of Germany",
+      "de": "Sozialdemokratische Partei Deutschlands"
+     },
+     "seats": 120,
+     "bloc": "centre-left",
+     "color": "#E3000F"
+    },
+    {
+     "id": "alliance-90-the-greens",
+     "name": {
+      "en": "Alliance 90/The Greens",
+      "de": "Bündnis 90/Die Grünen"
+     },
+     "seats": 85,
+     "bloc": "centre-left",
+     "color": "#409A3C"
+    },
+    {
+     "id": "die-linke",
+     "name": {
+      "en": "The Left",
+      "de": "Die Linke"
+     },
+     "seats": 64,
+     "bloc": "left",
+     "color": "#BE3075"
+    },
+    {
+     "id": "christian-social-union-in-bavaria",
+     "name": {
+      "en": "Christian Social Union in Bavaria",
+      "de": "Christlich-Soziale Union in Bayern"
+     },
+     "seats": 44,
+     "bloc": "centre-right",
+     "color": "#008AC5"
+    },
+    {
+     "id": "south-schleswig-voters-association",
+     "name": {
+      "en": "South Schleswig Voters' Association",
+      "de": "Südschleswigscher Wählerverband"
+     },
+     "seats": 1,
+     "bloc": "centre-left",
+     "color": "#003C8F"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/2025_German_federal_election"
+  }
+ ],
+ "credits": [
+  "Konrad Adenauer: CDU, Fotograf: Peter Bouserath, CC BY-SA 3.0 de, via Wikimedia Commons",
+  "Ludwig Erhard: Adrian, Doris, CC BY-SA 3.0 de, via Wikimedia Commons",
+  "Kurt Georg Kiesinger: Lothar Schaack, CC BY-SA 3.0 de, via Wikimedia Commons",
+  "Willy Brandt: Engelbert Reineke, CC BY-SA 3.0 de, via Wikimedia Commons",
+  "Helmut Schmidt: Hans Schafgans, CC BY-SA 2.0, via Wikimedia Commons",
+  "Helmut Kohl: Christian Lambiotte, CC BY 4.0, via Wikimedia Commons",
+  "Gerhard Schröder: Пресс-служба Президента Республики Казахстан, CC BY 4.0, via Wikimedia Commons",
+  "Angela Merkel: EU2017EE Estonian Presidency, CC BY 2.0, via Wikimedia Commons",
+  "Olaf Scholz: Steffen Prößdorf, CC BY-SA 4.0, via Wikimedia Commons",
+  "Friedrich Merz: Sandro Halank, Wikimedia Commons, CC BY-SA 4.0, via Wikimedia Commons"
+ ]
+}
