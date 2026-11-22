@@ -34,6 +34,9 @@ export default function CountryView({ country }: { country: Country }) {
   const [speed, setSpeed] = useState(1)
   const [lang, setLang] = useState(() => meta.languages.find((l) => navigator.language.startsWith(l)) ?? 'en')
   const [music, setMusic] = useState(false)
+  // Brief ▶ / ❚❚ shown after a tap toggles playback on a touch screen; `n` restarts its animation.
+  const [flash, setFlash] = useState<{ playing: boolean; n: number } | null>(null)
+  const touch = useMemo(() => matchMedia('(pointer: coarse)').matches, [])
   const s = ui(lang)
   const term = terms[index]
   const pm = pms[term.pm]
@@ -81,6 +84,20 @@ export default function CountryView({ country }: { country: Country }) {
     return () => removeEventListener('keydown', onKey)
   }, [started, lang, step, last])
 
+  useEffect(() => {
+    if (!flash) return
+    const id = setTimeout(() => setFlash(null), 800)
+    return () => clearTimeout(id)
+  }, [flash])
+
+  // A tap anywhere but a control pauses or resumes. Scrolling cancels the pointer, so it never counts.
+  const onTap = (e: React.PointerEvent) => {
+    if (!started || e.pointerType !== 'touch') return
+    if ((e.target as Element).closest('button, a, input, select, label, summary, iframe, .player, .ticks')) return
+    setPlaying(!playing)
+    setFlash({ playing: !playing, n: (flash?.n ?? 0) + 1 })
+  }
+
   const start = (withMusic: boolean) => {
     setStarted(true)
     setPlaying(true)
@@ -89,7 +106,7 @@ export default function CountryView({ country }: { country: Country }) {
   const nextLang = meta.languages[(meta.languages.indexOf(lang) + 1) % meta.languages.length]
 
   return (
-    <div className="app">
+    <div className="app" onPointerUp={onTap}>
       <header className="top">
         <div className="brand">
           {meta.emblem && <img src={meta.emblem} alt="" height="44" />}
@@ -185,7 +202,7 @@ export default function CountryView({ country }: { country: Country }) {
             </button>
           ))}
         </div>
-        <p className="hint">{s.keys}</p>
+        <p className="hint">{touch ? s.tapHint : s.keys}</p>
       </section>
 
       <footer>
@@ -207,6 +224,12 @@ export default function CountryView({ country }: { country: Country }) {
           </details>
         )}
       </footer>
+
+      {flash && (
+        <div key={flash.n} className="tap-flash" aria-hidden>
+          {flash.playing ? '▶' : '❚❚'}
+        </div>
+      )}
 
       {music && (
         <aside className="player">

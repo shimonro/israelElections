@@ -56,6 +56,20 @@ export default function Landing() {
         ))}
       </ul>
       <footer>
+        v{__APP_VERSION__}
+        {__APP_COMMIT__ && (
+          <>
+            {' · '}
+            <a
+              href={`https://github.com/shimonro/israelelections/commit/${__APP_COMMIT__}`}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              {__APP_COMMIT__}
+            </a>
+          </>
+        )}
+        {' · '}
         <a href="https://github.com/shimonro/israelelections" target="_blank" rel="noopener noreferrer">
           GitHub
         </a>

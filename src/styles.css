@@ -236,6 +236,26 @@ footer { margin: 24px 0 90px; font-size: 0.8rem; color: var(--muted); text-align
 button.big { padding: 12px 22px; font-size: 1.05rem; margin-top: 8px; }
 button.link { background: none; border: 0; color: var(--muted); text-decoration: underline; }
 
+/* Tap to pause, on touch screens */
+.tap-flash {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  translate: -50% -50%;
+  display: grid;
+  place-items: center;
+  width: 88px;
+  height: 88px;
+  border-radius: 50%;
+  background: rgb(11 21 48 / 0.8);
+  border: 1px solid var(--border);
+  font-size: 2rem;
+  pointer-events: none;
+  z-index: 5;
+  animation: flash 0.8s ease forwards;
+}
+@keyframes flash { 0% { opacity: 0; scale: 0.8; } 20% { opacity: 1; scale: 1; } 100% { opacity: 0; scale: 1.1; } }
+
 /* Landing page */
 .country-grid {
   list-style: none;
@@ -273,6 +293,8 @@ button.link { background: none; border: 0; color: var(--muted); text-decoration:
   .player iframe { width: 120px; height: 68px; }
 }
 
+/* Reduced motion drops decorative effects only; the chart animations are the content. */
 @media (prefers-reduced-motion: reduce) {
-  *, *::before, *::after { transition: none !important; animation: none !important; }
+  .pm img, .race li { animation: none; }
+  .card.country, .card.country:hover { transform: none; transition: none; }
 }
