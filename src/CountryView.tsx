@@ -159,7 +159,7 @@ export default function CountryView({ country }: { country: Country }) {
 
         <section className="card wide">
           <h2>{s.seats}</h2>
-          <BarRace results={term.results} blocs={blocs} lang={lang} />
+          <BarRace results={term.results} blocs={blocs} lang={lang} phaseMs={Math.min(700, (STEP_MS / speed) * 0.3)} />
         </section>
       </main>
 

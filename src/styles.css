@@ -148,7 +148,7 @@ a.button { color: var(--text); text-decoration: none; }
 .legend i { display: inline-block; width: 10px; height: 10px; border-radius: 3px; margin-inline-end: 6px; }
 .legend b { color: var(--text); }
 
-.race { position: relative; list-style: none; margin: 0; padding: 0; transition: height 0.6s ease; }
+.race { position: relative; list-style: none; margin: 0; padding: 0; transition: height var(--phase) ease; }
 .race li {
   position: absolute;
   inset-inline: 0;
@@ -158,12 +158,13 @@ a.button { color: var(--text); text-decoration: none; }
   grid-template-columns: minmax(120px, 260px) 1fr;
   gap: 12px;
   align-items: center;
-  transition: transform 0.6s ease;
-  animation: fade 0.6s ease;
+  transition: transform var(--phase) ease-in-out, opacity var(--phase) ease;
+  animation: fade var(--phase) ease;
 }
+.race li.leaving { opacity: 0; }
 .race-name { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; text-align: end; font-size: 0.92rem; }
 .race-track { display: flex; align-items: center; gap: 8px; }
-.race-bar { height: 22px; border-radius: 6px; transition: width 0.6s ease, background 0.6s ease; min-width: 4px; }
+.race-bar { height: 22px; border-radius: 6px; transition: width var(--phase) ease, background var(--phase) ease; min-width: 4px; animation: grow var(--phase) ease; }
 .race-seats { font-variant-numeric: tabular-nums; min-width: 2ch; }
 
 .timeline { margin-top: 20px; padding-bottom: 12px; }
@@ -261,6 +262,7 @@ button.link { background: none; border: 0; color: var(--muted); text-decoration:
 .country-cta { margin-top: auto; color: #8fb0ff; font-weight: 600; }
 
 @keyframes fade { from { opacity: 0; } }
+@keyframes grow { from { width: 0; } }
 
 @media (max-width: 760px) {
   .app { padding: 14px; }

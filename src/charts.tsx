@@ -1,3 +1,4 @@
+import { useEffect, useState } from 'react'
 import { blocColor, bySpectrum, majorityOf, partyColor, tr } from './data'
 import type { Bloc, Party } from './data'
 
@@ -91,25 +92,52 @@ export function BlocBar({ results, blocs, lang, seats }: ChartProps & { seats: n
 }
 
 const ROW = 30
+const rankIds = (results: Party[]) => [...results].sort((a, b) => b.seats - a.seats).map((p) => p.id)
 
-export function BarRace({ results, blocs, lang }: ChartProps) {
+/**
+ * Animates each change in two phases: bars first resize in their previous order (parties that left
+ * shrink away, new ones grow in at the bottom), then slide into their new rank.
+ */
+export function BarRace({ results, blocs, lang, phaseMs = 600 }: ChartProps & { phaseMs?: number }) {
+  // `settled` is the last result set that finished sorting; while it differs, bars keep its order.
+  const [settled, setSettled] = useState(results)
+  useEffect(() => {
+    if (settled === results) return
+    const id = setTimeout(() => setSettled(results), phaseMs)
+    return () => clearTimeout(id)
+  }, [results, settled, phaseMs])
+
+  const ids = new Set(results.map((p) => p.id))
+  const sorting = settled !== results
+  const previous = rankIds(settled)
+  const order = sorting ? [...previous, ...rankIds(results).filter((id) => !previous.includes(id))] : rankIds(results)
+  const leaving = sorting ? settled.filter((p) => !ids.has(p.id)) : []
+  const rank = new Map(order.map((id, i) => [id, i]))
   const max = Math.max(...results.map((p) => p.seats))
   // Render in a stable order so React keeps each party's element and CSS animates its move.
-  const stable = [...results].sort((a, b) => String(a.id).localeCompare(String(b.id)))
-  const rank = new Map([...results].sort((a, b) => b.seats - a.seats).map((p, i) => [p.id, i]))
+  const items = [...results, ...leaving].sort((a, b) => String(a.id).localeCompare(String(b.id)))
   return (
-    <ol className="race" style={{ height: results.length * ROW }}>
-      {stable.map((p) => (
-        <li key={p.id} style={{ transform: `translateY(${rank.get(p.id)! * ROW}px)` }}>
-          <span className="race-name" title={`${tr(p.name, lang)} · ${tr(blocs.find((b) => b.key === p.bloc)?.name, lang)}`}>
-            {tr(p.name, lang)}
-          </span>
-          <span className="race-track">
-            <span className="race-bar" style={{ width: `${(p.seats / max) * 100}%`, background: partyColor(blocs, p) }} />
-            <b className="race-seats">{p.seats}</b>
-          </span>
-        </li>
-      ))}
+    <ol
+      className="race"
+      style={{ height: order.length * ROW, '--phase': `${phaseMs}ms` } as React.CSSProperties}
+    >
+      {items.map((p) => {
+        const gone = !ids.has(p.id)
+        return (
+          <li key={p.id} className={gone ? 'leaving' : undefined} style={{ transform: `translateY(${rank.get(p.id)! * ROW}px)` }}>
+            <span className="race-name" title={`${tr(p.name, lang)} · ${tr(blocs.find((b) => b.key === p.bloc)?.name, lang)}`}>
+              {tr(p.name, lang)}
+            </span>
+            <span className="race-track">
+              <span
+                className="race-bar"
+                style={{ width: gone ? 0 : `${(p.seats / max) * 100}%`, background: partyColor(blocs, p) }}
+              />
+              <b className="race-seats">{gone ? 0 : p.seats}</b>
+            </span>
+          </li>
+        )
+      })}
     </ol>
   )
 }
